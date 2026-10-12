@@ -1,0 +1,203 @@
+{
+  "pdf_pages": "58-67",
+  "points": [
+    {
+      "no": 64,
+      "pattern": "～など／なんか／なんて（「なんか」「なんて」は話し言葉）",
+      "stars": 2,
+      "senses": ["①たとえば（例示）", "②軽視、軽蔑（自分に使うと謙遜）"],
+      "connection": "①名詞／動詞の辞書形（ただし「なんか」は名詞だけ）　②名詞／動詞の【辞書形・テ形＋など】",
+      "vi": "① như là, ví dụ như (nêu ví dụ, minh họa)　② coi thường, xem nhẹ (khi dùng cho bản thân thì mang ý khiêm tốn)",
+      "explanation": "「など」là dạng văn viết, 「なんか」「なんて」là dạng khẩu ngữ. Nghĩa ① dùng để nêu ví dụ một cách phiến diện, đại diện. Nghĩa ② thể hiện thái độ coi thường, xem nhẹ sự vật; khi dùng cho chính mình thì thành sự khiêm tốn.",
+      "examples": [
+        {"ja": "「会計の仕事、だれに頼もうか」「小林さんなんかどう？」", "vi": "\"Việc kế toán, nên nhờ ai nhỉ?\" \"Cô Kobayashi chẳng hạn thì sao?\""},
+        {"ja": "（店員が客に）「こちらの赤いのなど、いかがでしょうか」", "vi": "(Nhân viên nói với khách) \"Cái màu đỏ ở đây, anh/chị thấy thế nào ạ?\""},
+        {"ja": "「来年の同窓会だけど、ちょうど開校30周年にあたるから、まず学校に集まって、教室なんかを見てみるなんて、どう？」", "vi": "\"Về cuộc họp mặt cựu học sinh năm sau, trùng đúng dịp kỷ niệm 30 năm thành trường, nên trước tiên tụ tập ở trường và thử ngắm nhìn lớp học chẳng hạn thì sao?\""},
+        {"ja": "あの人の言うことなんか信じられない。", "vi": "Không thể tin được những điều người đó nói."},
+        {"ja": "「スケートなんて簡単だよ。ぼくなんか、30分ぐらいで滑れるようになったよ」", "vi": "\"Trượt băng thì dễ lắm. Loại tớ ấy, chỉ 30 phút là trượt được rồi\""},
+        {"ja": "「そのように難しいお仕事、私になどとてもできそうにありません」", "vi": "\"Công việc khó khăn như vậy, tôi chắc chắn không thể nào làm được\""},
+        {"ja": "試合の直前にけがをするなんて、運が悪い。", "vi": "Ngay trước trận đấu lại bị chấn thương, thật là xui rủi."},
+        {"ja": "母「また遊んでたのね」子「遊んでなんかいないよ。勉強してたよ」", "vi": "Mẹ: \"Con lại đi chơi đấy chứ\" – Con: \"Con có chơi gì đâu, con đang học đấy\""}
+      ]
+    },
+    {
+      "no": 65,
+      "pattern": "～などと（なんて）言う／思う",
+      "stars": 2,
+      "senses": ["～と言う／思うなど（驚き、軽視などの気持ちを含む）"],
+      "connection": "【名詞・動詞・イ形容詞・ナ形容詞】の普通体（ただし、ナ形容詞現在形に「だ」はつかない）",
+      "vi": "nói rằng / nghĩ rằng... (chứa cảm xúc ngạc nhiên, coi thường...; trích dẫn nội dung mà người nói cảm thấy bất ngờ hoặc khinh thường)",
+      "explanation": "Dùng để trích dẫn lời nói hoặc suy nghĩ của ai đó (hoặc của chính mình) với tâm lý ngạc nhiên, không thể tin nổi, hoặc coi nhẹ. Cách nói 「～なんて」thường dùng trong khẩu ngữ.",
+      "examples": [
+        {"ja": "彼が犯人だなんて信じられない。", "vi": "Không thể tin nổi rằng anh ấy là hung thủ."},
+        {"ja": "子どもが親に暴力をふるうなど、昔は考えられなかった。", "vi": "Con cái dùng bạo lực với cha mẹ, loại chuyện như thế xưa nay không thể tưởng tượng nổi."},
+        {"ja": "「試験まであと１週間あるから大丈夫なんて思っていると、また失敗するよ」", "vi": "\"Cứ nghĩ rằng 'còn hơn một tuần nữa mới thi nên yên tâm' thì lại sẽ thất bại đấy\""},
+        {"ja": "あの政治家はいつも「国民のために働く」などと言っていたが、実は自分の利益のことしか考えていなかったのだ。", "vi": "Vị chính trị gia đó luôn nói là \"làm việc vì dân\", nhưng thực ra chỉ nghĩ đến lợi ích của bản thân mình thôi."}
+      ]
+    },
+    {
+      "no": 66,
+      "pattern": "～からには",
+      "stars": 2,
+      "senses": ["だから当然→義務、意志、希望、依頼、命令、断定、推量など"],
+      "connection": "動詞の普通体",
+      "vi": "vì đã... thì (khi đã... thì đương nhiên phải/khẳng định sẽ...); thể hiện ý chí, bổn phận, hy vọng, yêu cầu, mệnh lệnh, khẳng định, suy đoán đương nhiên",
+      "explanation": "Vì điều kiện ở vế trước đã là thực tế / quyết định đã định, nên ở vế sau tất yếu phải có bổn phận, ý chí, hy vọng, mệnh lệnh... tương ứng. Thường đi với các biểu hiện như なければならない、つもりだ、たい、違いない、だろう.",
+      "examples": [
+        {"ja": "「やると決めたからには、最後までがんばるつもりです」／「最後までがんばりなさい」", "vi": "\"Vì đã quyết định làm thì tôi định cố gắng đến cùng\" / \"Vì đã quyết định làm thì phải cố gắng đến cùng\""},
+        {"ja": "約束したからには、その約束は守らなければならない。／彼はその約束を守るに違いない。", "vi": "Vì đã hứa rồi thì phải giữ lời hứa đó. / Vì đã hứa rồi nên chắc chắn anh ấy sẽ giữ lời hứa."},
+        {"ja": "留学するからにはできるだけ多くのことを学んで来たい。", "vi": "Vì đã đi du học thì muốn học được càng nhiều điều càng tốt rồi về."},
+        {"ja": "社長はやると言ったからには、絶対にやる。そういう人だ。", "vi": "Vì giám đốc đã nói là làm thì chắc chắn sẽ làm. Ông ấy là người như thế."},
+        {"ja": "日本で生活するからには、日本語ができないと困るだろう。", "vi": "Vì sống ở Nhật thì sẽ khổ nếu không biết tiếng Nhật."}
+      ]
+    },
+    {
+      "no": 67,
+      "pattern": "～きる",
+      "stars": 2,
+      "senses": ["①全部、すっかり、完全に～する", "②強く、自信を持って～する"],
+      "connection": "動詞のマス形（マス形に「きる」をつける）",
+      "vi": "① làm hoàn toàn, làm hết, làm đến cùng (một cách triệt để)　② làm một cách dứt khoát, mạnh mẽ, tự tin",
+      "explanation": "Gắn sau thể マス形 của động từ. Nghĩa ①: làm gì đó một cách trọn vẹn, hoàn toàn (hết, sạch, đến cùng). Nghĩa ②: làm gì đó với quyết tâm và sự tự tin mạnh mẽ, không do dự. Lưu ý cụm 『思いきる』(xem các ví dụ * bên dưới).",
+      "examples": [
+        {"ja": "夫は疲れきった顔で帰ってきた。", "vi": "Chồng trở về với gương mặt mệt mỏi hết sức."},
+        {"ja": "全員力を出し切って戦ったが、試合には負けてしまった。", "vi": "Cả đội đã dốc hết sức ra mà chiến đấu, nhưng vẫn thua trong trận đấu."},
+        {"ja": "信じ切っていた人にだまされた。", "vi": "Đã bị lừa gạt bởi người mà mình tin tưởng tuyệt đối."},
+        {"ja": "テーブルの上には食べきれないほどのごちそうが並んでいた。", "vi": "Trên bàn bày đầy những món ăn ngon đến mức không thể ăn hết."},
+        {"ja": "「すみません、その品物はもう売り切れてしまいました」", "vi": "\"Xin lỗi, mặt hàng đó đã bán hết rồi ạ\""},
+        {"ja": "「あなたならできる」と母は言い切った。", "vi": "Mẹ khẳng định dứt khoát: \"Con làm được mà\"."},
+        {"ja": "多くの証拠があったので、警察はＡの逮捕に踏み切った。", "vi": "Vì có nhiều bằng chứng nên cảnh sát đã quyết định tiến hành bắt giữ A."},
+        {"ja": "二人は親の反対を押し切って結婚した。", "vi": "Hai người đã cưới nhau bất chấp sự phản đối của cha mẹ."},
+        {"ja": "＊思いきる：思い切って彼女にプロポーズした。（ためらわないで、強く決心して）", "vi": "* Omoikiru: Đã mạnh dạn quyết tâm cầu hôn cô ấy. (Không do dự, quyết tâm mạnh mẽ)"},
+        {"ja": "＊試験が終わったら、思い切り遊びたい。（思う存分、満足するまで）", "vi": "* Thi xong rồi thì muốn chơi thả ga. (Đã sức, đến khi thỏa mãn)"},
+        {"ja": "＊別れた恋人のことが思い切れない。（あきらめられない）", "vi": "* Không thể dứt khoát quên được người yêu cũ. (Không thể từ bỏ được)"},
+        {"ja": "＊思い切りが良い／悪い。（あきらめ、決断力）", "vi": "* Sự dứt khoát tốt / kém. (Sự buông bỏ, khả năng quyết đoán)"}
+      ]
+    },
+    {
+      "no": 68,
+      "pattern": "～ぎみ",
+      "stars": 2,
+      "senses": ["少し（ー）の傾向がある"],
+      "connection": "名詞／動詞のマス形",
+      "vi": "có xu hướng hơi..., có vẻ hơi... (biểu hiện ở mức độ nhẹ một khuynh hướng nào đó)",
+      "explanation": "Biểu thị trạng thái có xu hướng nhẹ nhàng hướng về phía nào đó, hoặc có dấu hiệu của một trạng thái như bệnh. Ghép sau danh từ hoặc thể マス形 của động từ.",
+      "examples": [
+        {"ja": "この２、３日、かぜぎみで調子が悪い。", "vi": "Hai ba hôm nay vì hơi có dấu hiệu cảm nên sức khỏe không tốt."},
+        {"ja": "この時計はちょっと遅れぎみだ。", "vi": "Cái đồng hồ này hơi có xu hướng chậm."},
+        {"ja": "このところ忙しくて寝不足ぎみだ。", "vi": "Dạo này bận rộn nên hơi có dấu hiệu thiếu ngủ."},
+        {"ja": "入学試験が近づいているので、学生たちはあせりぎみだ。", "vi": "Vì kỳ thi tuyển sinh sắp đến nên các học sinh có vẻ hơi sốt ruột."},
+        {"ja": "＊Ａチームは押しぎみに試合を進めた。", "vi": "* Đội A đã tiến hành trận đấu theo thế lợi thế hơn (dồn áp đảo)."}
+      ]
+    },
+    {
+      "no": 69,
+      "pattern": "～がち",
+      "stars": 2,
+      "senses": ["しばしば（ー）の傾向がある"],
+      "connection": "名詞／動詞のマス形",
+      "vi": "thường xuyên có xu hướng..., hay bị... (xu hướng đó lặp lại thường xuyên, thường là điều không mong muốn)",
+      "explanation": "Biểu thị có xu hướng hay xảy ra trạng thái nào đó. Khác 「～ぎみ」(mức độ nhẹ, có lúc không), 「～がち」diễn tả xu hướng xuất hiện thường xuyên. Thường dùng cho điều không tích cực.",
+      "examples": [
+        {"ja": "年のせいか、母は最近病気がちだ。", "vi": "Có lẽ do tuổi tác, gần đây mẹ hay bị bệnh."},
+        {"ja": "朝７時台、８時台の電車は遅れがちだ。", "vi": "Tàu giờ 7 giờ, 8 giờ sáng hay bị trễ."},
+        {"ja": "くもりがちの天気が続いて洗濯物が乾かない。", "vi": "Trời tiếp tục hay âm u nên quần áo phơi không khô."},
+        {"ja": "一人暮らしは栄養のバランスがかたよりがちだ。", "vi": "Sống một mình thì chế độ dinh dưỡng dễ bị mất cân đối."},
+        {"ja": "＊「ここ、空いてますか」と少女は遠慮がちに尋ねた。", "vi": "* Cô bé hỏi một cách rụt rè: \"Ở đây còn trống không ạ?\""}
+      ]
+    },
+    {
+      "no": 70,
+      "pattern": "～向き",
+      "stars": 2,
+      "senses": ["～に適している"],
+      "connection": "名詞",
+      "vi": "hợp với..., phù hợp với... (phù hợp về tính chất, tiêu chuẩn được coi là tối ưu đối với đối tượng đó)",
+      "explanation": "Diễn tả điều gì đó phù hợp với đối tượng/dịp/tính chất nhất định. Lưu ý khác với 「～向け」(được làm/thiết kế nhắm vào đối tượng), 「～向き」là đánh giá tự nhiên về sự phù hợp. Kèm luôn động từ 『向く』: に向いている／に向いた (phù hợp với).",
+      "examples": [
+        {"ja": "・子ども向きのデザイン　・初心者向きのコース", "vi": "- Thiết kế hợp với trẻ em  - Khóa học hợp với người mới bắt đầu"},
+        {"ja": "最近、職業に関しては、男性向きとか女性向きとか言えなくなってきた。", "vi": "Gần đây, về nghề nghiệp đã không còn nói được là hợp với nam hay hợp với nữ nữa."},
+        {"ja": "日本の伝統的な家屋は夏向きにできている。", "vi": "Nhà cửa truyền thống của Nhật Bản được thiết kế phù hợp với mùa hè."},
+        {"ja": "このあたりは雨が少ないので、米作りには不向きだ。", "vi": "Vùng này ít mưa nên không phù hợp với việc trồng lúa."},
+        {"ja": "向く：彼女は子ども好きだから、保育士に向いていると思う。", "vi": "Mukuku: Vì cô ấy thích trẻ em nên tôi nghĩ cô ấy phù hợp làm nghề giáo viên mẫu giáo."},
+        {"ja": "向く：当分はアルバイトをしながら、自分に向いた仕事を探すつもりだ。", "vi": "Mukuku: Dạo này dự định vừa làm thêm vừa tìm công việc phù hợp với mình."}
+      ]
+    },
+    {
+      "no": 71,
+      "pattern": "～向け",
+      "stars": 2,
+      "senses": ["①～を対象として（作る、売るなど）", "②く～に向けて＞～を目指して、～を目標にして"],
+      "connection": "名詞",
+      "vi": "① dành cho... (nhắm vào... làm đối tượng để sản xuất, bán...)　② hướng đến..., nhằm vào... (đặt làm mục tiêu)",
+      "explanation": "Nghĩa ①: được tạo ra, bán ra nhắm vào đối tượng cụ thể. Nghĩa ② (hình thức に向けて): hướng tới mục tiêu/thời điểm nào đó mà nỗ lực. 「～に向けて」cũng là một mẫu liên quan (hướng về~).",
+      "examples": [
+        {"ja": "この工場では主にアメリカ向けの車を造っている。", "vi": "Nhà máy này chủ yếu sản xuất xe dành cho thị trường Mỹ."},
+        {"ja": "この本は幼児向けに書かれている。", "vi": "Cuốn sách này được viết dành cho trẻ nhỏ."},
+        {"ja": "○○区では、数か国語で書かれた外国人向けパンフレットを作っている。", "vi": "Phường ○○ đang làm các tờ brochure dành cho người nước ngoài viết bằng nhiều thứ tiếng."},
+        {"ja": "我が社でもやっと男性向けの化粧品を売り出すことになった。", "vi": "Công ty chúng tôi cũng cuối cùng đã quyết định tung ra mỹ phẩm dành cho nam giới."},
+        {"ja": "日本初の大型ロケットが月に向けて発射された。", "vi": "Tên lửa lớn đầu tiên của Nhật Bản được phóng hướng về Mặt Trăng."},
+        {"ja": "来週のスピーチコンテストに向けて、毎日１時間以上練習している。", "vi": "Hướng đến cuộc thi thuyết trình tuần sau, tôi luyện tập mỗi ngày hơn một tiếng."}
+      ]
+    },
+    {
+      "no": 72,
+      "pattern": "～を通じ（て）／通し（て）",
+      "stars": 2,
+      "senses": ["①～を媒介として、～を手段として、～を経由して", "②～の期間全部にわたって"],
+      "connection": "名詞",
+      "vi": "① thông qua..., qua (môi trường)..., bằng (phương tiện)..., thông qua (kênh, con người, phương tiện)　② xuyên suốt (toàn bộ thời gian)...",
+      "explanation": "Nghĩa ①: dùng sự vật ở vế trước làm phương tiện, trung gian hay con đường để thực hiện vế sau. Nghĩa ②: điều ở vế sau tiếp diễn kéo dài trong suốt toàn bộ khoảng thời gian ở vế trước. Kèm luôn động từ 『通す』: ①面会の方は受付を通してください (qua lễ tân); ②彼は生涯、独身を通した／源氏物語全巻を通して読んだ (xuyên suốt).",
+      "examples": [
+        {"ja": "彼女とはサークルの先輩を通して知り合った。", "vi": "Tôi quen cô ấy thông qua một tiền bối trong câu lạc bộ."},
+        {"ja": "子どもは学校の勉強だけではなく、いろいろな経験を通して成長していく。", "vi": "Trẻ em không chỉ qua việc học ở trường mà còn lớn lên qua nhiều trải nghiệm khác nhau."},
+        {"ja": "昔読書を通して得た知識が、今役に立っている。", "vi": "Kiến thức có được xưa kia qua việc đọc sách giờ đây có ích."},
+        {"ja": "紅白歌合戦は衛星放送を通じて海外でも見られる。", "vi": "Đại ca nhạc Hồng Bạch có thể xem cả ở nước ngoài qua phát sóng vệ tinh."},
+        {"ja": "佐藤教授はあらゆる機会を通じて環境保護を訴えている。", "vi": "Giáo sư Sato thông qua mọi cơ hội để kêu gọi bảo vệ môi trường."},
+        {"ja": "京都には年間（／四季）を通じて観光客が訪れる。", "vi": "Du khách đến thăm Kyoto quanh năm (xuyên suốt bốn mùa)."},
+        {"ja": "私は高校3年間を通して無遅刻無欠席だった。", "vi": "Xuyên suốt 3 năm cấp ba, tôi không đi trễ, không nghỉ học ngày nào."},
+        {"ja": "彼女は一生を通して恵まれない子どもたちのために働いた。", "vi": "Cô ấy làm việc vì những đứa trẻ kém may mắn suốt cả cuộc đời."},
+        {"ja": "通す：面会の方は受付を通してください。", "vi": "Tōsu: Người đến gặp xin liên hệ qua lễ tân."},
+        {"ja": "通す：彼は生涯、独身を通した。／源氏物語全巻を通して読んだ。", "vi": "Tōsu: Anh ấy độc thân suốt đời. / Đọc trọn bộ truyện Genji từ đầu đến cuối."}
+      ]
+    },
+    {
+      "no": 73,
+      "pattern": "～っぽい",
+      "stars": 2,
+      "senses": ["～の感じがする、よく～する"],
+      "connection": "名詞／動詞のマス形／イ形容詞の語幹",
+      "vi": "có cảm giác như..., trông giống..., hay... (mang sắc thái: có cảm giác/cá tính đặc trưng của..., hoặc dễ mắc tính hư nào đó)",
+      "explanation": "Gắn sau danh từ, thể マス形 của động từ hoặc gốc tính từ い. Khi gắn vào danh từ thường mang nghĩa tiêu cực (nghĩa hư: hay làm việc gì đó một cách thường xuyên).",
+      "examples": [
+        {"ja": "・ほこりっぽい部屋　・白っぽい服　・子どもっぽい態度　・安っぽい指輪", "vi": "- Căn phòng lấm bụi  - Căn áo hơi trắng trắng  - Thái độ trẻ con  - Chiếc nhẫn trông rẻ tiền"},
+        {"ja": "・なんだか熱っぽい。風邪だろうか。　・熱っぽく理想を語る。", "vi": "- Cảm giác sao đó hơi nóng nóng (sốt sốt). Chắc bị cảm chăng?  - Nhiệt huyết nói về lý tưởng."},
+        {"ja": "このごろ年のせいか、忘れっぽくて困る。", "vi": "Dạo này có lẽ do tuổi tác nên hay quên, thật khổ."},
+        {"ja": "私は子どものころから飽きっぽい性格だった。", "vi": "Từ nhỏ tôi đã là tính tình hay chán nhanh."}
+      ]
+    },
+    {
+      "no": 74,
+      "pattern": "～とともに",
+      "stars": 2,
+      "senses": ["①～といっしょに", "②～と同時に", "③Ａが変化するとＢも変化する"],
+      "connection": "①名詞　②名詞／【動詞・イ形容詞】の辞書形／【名詞・ナ形容詞】＋である　③変化を表す名詞／動詞の辞書形",
+      "vi": "① cùng với...　② đồng thời với..., vừa... vừa...　③ khi A biến đổi thì B cũng biến đổi theo",
+      "explanation": "Nghĩa ①: cùng làm gì đó với ai. Nghĩa ②: hai sự việc cùng diễn ra, hoặc một sự việc kèm theo sự kiện ở vế trước. Nghĩa ③: khi vế trước biến đổi thì vế sau cũng biến đổi cùng chiều (thường dùng với danh từ/động từ chỉ biến đổi như 上がる, 増える, 年をとる...).",
+      "examples": [
+        {"ja": "3年間仲間とともにがんばった思い出は、一生忘れないだろう。", "vi": "Kỷ niệm đã cùng các bạn cố gắng trong 3 năm, chắc cả đời không quên."},
+        {"ja": "日曜日ぐらいは家族とともに過ごしたい。", "vi": "Nghĩa là ít ra chủ nhật tôi muốn được ở cùng gia đình."},
+        {"ja": "ピストルの音とともに選手たちは一斉にスタートした。", "vi": "Cùng tiếng súng phát lệnh, các vận động viên đồng loạt xuất phát."},
+        {"ja": "国を発展させるためには、産業の育成とともに子どもたちの教育が大切だ。", "vi": "Để phát triển đất nước, cùng với việc nuôi dưỡng công nghiệp, giáo dục trẻ em cũng rất quan trọng."},
+        {"ja": "大学教師は自分の研究をするとともに、学生たちを育てなければならない。", "vi": "Giảng viên đại học phải vừa nghiên cứu của mình vừa đào tạo sinh viên."},
+        {"ja": "娘が結婚した。うれしいとともに、少し寂しくもある。", "vi": "Con gái đã lấy chồng. Vui vẻ nhưng cũng có phần hơi trống trải."},
+        {"ja": "「彼女は私にとって妻であるとともに秘書でもあるんです」", "vi": "\"Với tôi, cô ấy vừa là vợ vừa là thư ký\""},
+        {"ja": "この素材は丈夫であるとともに色がきれいなことが特長です。", "vi": "Đặc trưng của chất liệu này là vừa bền vừa có màu đẹp."},
+        {"ja": "生物は年をとるとともに体が少しずつ衰えていく。", "vi": "Sinh vật khi càng lớn tuổi thì cơ thể càng suy yếu dần."},
+        {"ja": "日本語のレベルが上がるとともに、勉強が楽しくなってきた。", "vi": "Cùng với việc trình độ tiếng Nhật tăng lên, việc học cũng trở nên vui hơn."},
+        {"ja": "車の増加とともに、交通事故も増えている。", "vi": "Cùng với sự gia tăng ô tô, tai nạn giao thông cũng đang tăng lên."},
+        {"ja": "進学率の上昇とともに、低学力の生徒たちが問題になってきている。", "vi": "Cùng với tỷ lệ lên đại học tăng cao, các học sinh có học lực thấp đang trở thành vấn đề."}
+      ]
+    }
+  ]
+}

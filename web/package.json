@@ -1,0 +1,26 @@
+{
+  "name": "mimi-n3-goi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "predev": "node -e \"require('fs').cpSync('node_modules/kuromoji/dict','public/dict',{recursive:true})\"",
+    "build": "next build",
+    "prebuild": "node -e \"require('fs').cpSync('node_modules/kuromoji/dict','public/dict',{recursive:true})\"",
+    "postinstall": "node -e \"require('fs').cpSync('node_modules/kuromoji/dict','public/dict',{recursive:true})\"",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "^11.6.0",
+    "kuromoji": "^0.1.2",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.0"
+  }
+}

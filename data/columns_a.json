@@ -1,0 +1,1959 @@
+{
+ "columns": [
+  {
+   "no": 1,
+   "title": "あいさつ",
+   "book_page": 15,
+   "kind": "pairs",
+   "groups": [
+    {
+     "group": "あいさつ（掛け言葉と返事）",
+     "rows": [
+      {
+       "word": "行ってきます",
+       "kana": "いってきます",
+       "vi": "(Tôi) đi đây / Con đi đây",
+       "en": "",
+       "note": "家を出るとき。返語: 行ってらっしゃい"
+      },
+      {
+       "word": "行ってらっしゃい",
+       "kana": "いってらっしゃい",
+       "vi": "Đi cẩn thận nhé / Chúc đi thuận lợi",
+       "en": "",
+       "note": "行ってきます の返語"
+      },
+      {
+       "word": "ただいま",
+       "kana": "ただいま",
+       "vi": "(Tôi) về đây / Con về đây",
+       "en": "",
+       "note": "家に帰ったとき。返語: お帰り（なさい）"
+      },
+      {
+       "word": "お帰り（なさい）",
+       "kana": "おかえり（なさい）",
+       "vi": "Chào mừng (anh/chị) đã về / Con về rồi à",
+       "en": "",
+       "note": "ただいま の返語"
+      },
+      {
+       "word": "失礼します",
+       "kana": "しつれいします",
+       "vi": "Cho phép tôi (vào/ra)",
+       "en": "",
+       "note": "ほかの人がいる部屋に入るとき"
+      },
+      {
+       "word": "失礼します／しました",
+       "kana": "しつれいします／しました",
+       "vi": "Cho phép tôi / Xin phép đã (thoát)",
+       "en": "",
+       "note": "ほかの人がいる部屋を出るとき"
+      },
+      {
+       "word": "おじゃまします",
+       "kana": "おじゃまします",
+       "vi": "Xin phép vào (nhà anh/chị) / Tôi đến làm phiền",
+       "en": "",
+       "note": "ほかの人の家に入るとき"
+      },
+      {
+       "word": "ごめんください",
+       "kana": "ごめんください",
+       "vi": "Xin chào, có ai ở nhà không ạ?",
+       "en": "",
+       "note": "ほかの人の家に入って、玄関だとだれもいないとき"
+      },
+      {
+       "word": "お休みなさい",
+       "kana": "おやすみなさい",
+       "vi": "Chúc ngủ ngon",
+       "en": "",
+       "note": "寝るとき"
+      },
+      {
+       "word": "失礼しました",
+       "kana": "しつれいしました",
+       "vi": "Xin lỗi (đã thất lễ)",
+       "en": "",
+       "note": "あやまるとき"
+      },
+      {
+       "word": "すみません",
+       "kana": "すみません",
+       "vi": "Xin lỗi",
+       "en": "",
+       "note": "あやまるとき"
+      },
+      {
+       "word": "ごめんなさい",
+       "kana": "ごめんなさい",
+       "vi": "Xin lỗi / Tôi xin lỗi",
+       "en": "",
+       "note": "あやまるとき"
+      },
+      {
+       "word": "お待たせしました",
+       "kana": "おまたせしました",
+       "vi": "Đã để anh/chị chờ lâu",
+       "en": "",
+       "note": "〔その他〕人を待たせたとき"
+      },
+      {
+       "word": "お元気ですか",
+       "kana": "おげんきですか",
+       "vi": "Anh/chị có khỏe không?",
+       "en": "",
+       "note": "返語: おかげさまで（元気です）"
+      },
+      {
+       "word": "おかげさまで（元気です）",
+       "kana": "おかげさまで（げんきです）",
+       "vi": "Nhờ anh/chị (tôi vẫn) khỏe",
+       "en": "",
+       "note": "お元気ですか の返語"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "title": "家族の呼び方",
+   "book_page": 17,
+   "kind": "quiz",
+   "groups": [
+    {
+     "group": "A 私の家族（解答・(　)にあてはまる言葉）",
+     "rows": [
+      {
+       "word": "祖父",
+       "kana": "そふ",
+       "vi": "ông (ông nội/ông ngoại của tôi)",
+       "en": "",
+       "note": "(1)"
+      },
+      {
+       "word": "祖母",
+       "kana": "そぼ",
+       "vi": "bà (bà nội/bà ngoại của tôi)",
+       "en": "",
+       "note": "(2)"
+      },
+      {
+       "word": "おじ",
+       "kana": "おじ",
+       "vi": "chú/bác (trai, là anh em cha mẹ của tôi)",
+       "en": "",
+       "note": "(3)"
+      },
+      {
+       "word": "おば",
+       "kana": "おば",
+       "vi": "cô/gì/dì/bác (gái, là anh chị em cha mẹ của tôi)",
+       "en": "",
+       "note": "(4)"
+      },
+      {
+       "word": "兄",
+       "kana": "あに",
+       "vi": "anh (trai) của tôi",
+       "en": "",
+       "note": "(5)"
+      },
+      {
+       "word": "姉",
+       "kana": "あね",
+       "vi": "chị (gái) của tôi",
+       "en": "",
+       "note": "(6)"
+      },
+      {
+       "word": "弟",
+       "kana": "おとうと",
+       "vi": "em trai của tôi",
+       "en": "",
+       "note": "(7)"
+      },
+      {
+       "word": "妹",
+       "kana": "いもうと",
+       "vi": "em gái của tôi",
+       "en": "",
+       "note": "(8)"
+      },
+      {
+       "word": "夫・妻・家内",
+       "kana": "おっと・つま・かない",
+       "vi": "chồng tôi ・ vợ tôi ・ vợ tôi (khi nói với người ngoài)",
+       "en": "",
+       "note": "(9)"
+      },
+      {
+       "word": "息子",
+       "kana": "むすこ",
+       "vi": "con trai của tôi",
+       "en": "",
+       "note": "(10)"
+      },
+      {
+       "word": "娘",
+       "kana": "むすめ",
+       "vi": "con gái của tôi",
+       "en": "",
+       "note": "(11)"
+      },
+      {
+       "word": "孫",
+       "kana": "まご",
+       "vi": "cháu (của tôi)",
+       "en": "",
+       "note": "(12)"
+      },
+      {
+       "word": "いとこ",
+       "kana": "いとこ",
+       "vi": "anh/chị/em họ (của tôi)",
+       "en": "",
+       "note": "(13)"
+      },
+      {
+       "word": "おい",
+       "kana": "おい",
+       "vi": "cháu trai (con của anh chị em với tôi)",
+       "en": "",
+       "note": "(14)"
+      },
+      {
+       "word": "めい",
+       "kana": "めい",
+       "vi": "cháu gái (con của anh chị em với tôi)",
+       "en": "",
+       "note": "(15)"
+      }
+     ]
+    },
+    {
+     "group": "B ほかの人の家族（解答・(　)にあてはまる言葉）",
+     "rows": [
+      {
+       "word": "おじいさん",
+       "kana": "おじいさん",
+       "vi": "ông (của người khác)",
+       "en": "",
+       "note": "(1)"
+      },
+      {
+       "word": "おばあさん",
+       "kana": "おばあさん",
+       "vi": "bà (của người khác)",
+       "en": "",
+       "note": "(2)"
+      },
+      {
+       "word": "おじさん",
+       "kana": "おじさん",
+       "vi": "chú/bác (của người khác)",
+       "en": "",
+       "note": "(3)"
+      },
+      {
+       "word": "おばさん",
+       "kana": "おばさん",
+       "vi": "cô/dì/bác (của người khác)",
+       "en": "",
+       "note": "(4)"
+      },
+      {
+       "word": "おにいさん",
+       "kana": "おにいさん",
+       "vi": "anh trai (của người khác)",
+       "en": "",
+       "note": "(5)"
+      },
+      {
+       "word": "おねえさん",
+       "kana": "おねえさん",
+       "vi": "chị gái (của người khác)",
+       "en": "",
+       "note": "(6)"
+      },
+      {
+       "word": "おとうとさん",
+       "kana": "おとうとさん",
+       "vi": "em trai (của người khác)",
+       "en": "",
+       "note": "(7)"
+      },
+      {
+       "word": "いもうとさん",
+       "kana": "いもうとさん",
+       "vi": "em gái (của người khác)",
+       "en": "",
+       "note": "(8)"
+      },
+      {
+       "word": "ご主人・おっとさん",
+       "kana": "ごしゅじん・おっとさん",
+       "vi": "chồng (của người khác)",
+       "en": "",
+       "note": "(9)"
+      },
+      {
+       "word": "むすこさん",
+       "kana": "むすこさん",
+       "vi": "con trai (của người khác)",
+       "en": "",
+       "note": "(10)"
+      },
+      {
+       "word": "おじょうさん",
+       "kana": "おじょうさん",
+       "vi": "con gái (của người khác)",
+       "en": "",
+       "note": "(11)"
+      },
+      {
+       "word": "おまごさん",
+       "kana": "おまごさん",
+       "vi": "cháu (của người khác)",
+       "en": "",
+       "note": "(12)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "title": "人を表す言葉（年齢別）",
+   "book_page": 21,
+   "kind": "pairs",
+   "groups": [
+    {
+     "group": "かたい表現 ⇔ やわらかい表現",
+     "rows": [
+      {
+       "word": "高齢者",
+       "kana": "こうれいしゃ",
+       "vi": "người cao tuổi",
+       "en": "elderly person",
+       "note": "⇔ 老人／（お）年寄り"
+      },
+      {
+       "word": "中高年",
+       "kana": "ちゅうこうねん",
+       "vi": "người trung niên và cao tuổi",
+       "en": "middle-aged and older",
+       "note": ""
+      },
+      {
+       "word": "中年",
+       "kana": "ちゅうねん",
+       "vi": "tuổi trung niên",
+       "en": "middle age",
+       "note": ""
+      },
+      {
+       "word": "青年",
+       "kana": "せいねん",
+       "vi": "thanh niên",
+       "en": "youth",
+       "note": "⇔ 若者"
+      },
+      {
+       "word": "少年／少女",
+       "kana": "しょうねん／しょうじょ",
+       "vi": "thiếu niên / thiếu nữ (cậu bé / cô gái)",
+       "en": "child/boy/girl",
+       "note": "⇔ 子ども／男の子／女の子。※少年は男子だけを指す場合と男女両方を指す場合がある。"
+      },
+      {
+       "word": "幼児",
+       "kana": "ようじ",
+       "vi": "trẻ nhỏ (thời thơ ấu)",
+       "en": "",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "title": "学校",
+   "book_page": 37,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "学校名（学生の呼び方・入学年齢・在学年数）",
+     "rows": [
+      {
+       "word": "大学院",
+       "kana": "だいがくいん",
+       "vi": "trường cao học",
+       "en": "graduate school",
+       "note": "（大学）院生／入学年齢 22歳～／在学年数 2～5年"
+      },
+      {
+       "word": "大学",
+       "kana": "だいがく",
+       "vi": "trường đại học",
+       "en": "",
+       "note": "①（大学生）／18歳～／4年"
+      },
+      {
+       "word": "短期大学＞短大",
+       "kana": "たんきだいがく＞たんだい",
+       "vi": "cao đẳng (ngắn hạn)",
+       "en": "junior college",
+       "note": "②（短大生）／18歳～／2年"
+      },
+      {
+       "word": "専門学校",
+       "kana": "せんもんがっこう",
+       "vi": "trường chuyên môn (dạy nghề)",
+       "en": "vocational school",
+       "note": "専門学校生／18歳～／2～4年"
+      },
+      {
+       "word": "高等学校＞高校",
+       "kana": "こうとうがっこう＞こうこう",
+       "vi": "trường trung học phổ thông",
+       "en": "high school",
+       "note": "③（高校生）／15歳～／3年"
+      },
+      {
+       "word": "中学校＞中学",
+       "kana": "ちゅうがっこう＞ちゅうがく",
+       "vi": "trường trung học cơ sở",
+       "en": "junior high school",
+       "note": "④（中学生）／12歳～／3年"
+      },
+      {
+       "word": "小学校",
+       "kana": "しょうがっこう",
+       "vi": "trường tiểu học",
+       "en": "elementary school",
+       "note": "⑤（小学生）／6歳～／6年"
+      },
+      {
+       "word": "幼稚園",
+       "kana": "ようちえん",
+       "vi": "trường mẫu giáo",
+       "en": "kindergarten, preschool",
+       "note": "幼稚園児／3歳～／1～3年"
+      },
+      {
+       "word": "保育園",
+       "kana": "ほいくえん",
+       "vi": "nhà trẻ (trường bảo mẫu)",
+       "en": "nursery school",
+       "note": "保育園児／0歳～／～6年"
+      }
+     ]
+    },
+    {
+     "group": "解答（※学年の言い方: 1年生、2年生……）",
+     "rows": [
+      {
+       "word": "①大学生",
+       "kana": "だいがくせい",
+       "vi": "sinh viên đại học",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "②短大生",
+       "kana": "たんだいせい",
+       "vi": "sinh viên cao đẳng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "③高校生",
+       "kana": "こうこうせい",
+       "vi": "học sinh trung học phổ thông",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "④中学生",
+       "kana": "ちゅうがくせい",
+       "vi": "học sinh trung học cơ sở",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "⑤小学生",
+       "kana": "しょうがくせい",
+       "vi": "học sinh tiểu học",
+       "en": "",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "title": "職業を表す言葉",
+   "book_page": 39,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "_員",
+     "rows": [
+      {
+       "word": "公務員",
+       "kana": "こうむいん",
+       "vi": "công chức, viên chức",
+       "en": "civil servant",
+       "note": ""
+      },
+      {
+       "word": "会社員",
+       "kana": "かいしゃいん",
+       "vi": "nhân viên công ty",
+       "en": "office worker",
+       "note": ""
+      },
+      {
+       "word": "教員",
+       "kana": "きょういん",
+       "vi": "giáo viên, giáo chức",
+       "en": "teacher",
+       "note": ""
+      },
+      {
+       "word": "店員",
+       "kana": "てんいん",
+       "vi": "nhân viên bán hàng",
+       "en": "store clerk",
+       "note": ""
+      },
+      {
+       "word": "駅員",
+       "kana": "えきいん",
+       "vi": "nhân viên nhà ga",
+       "en": "train station employee",
+       "note": ""
+      },
+      {
+       "word": "銀行員",
+       "kana": "ぎんこういん",
+       "vi": "nhân viên ngân hàng",
+       "en": "bank employee",
+       "note": ""
+      },
+      {
+       "word": "郵便局員",
+       "kana": "ゆうびんきょくいん",
+       "vi": "nhân viên bưu điện",
+       "en": "post office employee",
+       "note": ""
+      },
+      {
+       "word": "客室乗務員",
+       "kana": "きゃくしつじょうむいん",
+       "vi": "tiếp viên hàng không",
+       "en": "flight attendant",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_師",
+     "rows": [
+      {
+       "word": "教師",
+       "kana": "きょうし",
+       "vi": "giáo viên (người dạy)",
+       "en": "teacher, educator",
+       "note": ""
+      },
+      {
+       "word": "医師",
+       "kana": "いし",
+       "vi": "bác sĩ",
+       "en": "doctor",
+       "note": ""
+      },
+      {
+       "word": "美容師",
+       "kana": "びようし",
+       "vi": "thợ làm đẹp, thợ cắt tóc",
+       "en": "beautician, hairdresser",
+       "note": ""
+      },
+      {
+       "word": "調理師",
+       "kana": "ちょうりし",
+       "vi": "đầu bếp",
+       "en": "cook",
+       "note": ""
+      },
+      {
+       "word": "漁師",
+       "kana": "りょうし",
+       "vi": "ngư dân (dân đánh cá)",
+       "en": "fisherman",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_士",
+     "rows": [
+      {
+       "word": "看護師",
+       "kana": "かんごし",
+       "vi": "y tá, điều dưỡng",
+       "en": "nurse",
+       "note": ""
+      },
+      {
+       "word": "弁護士",
+       "kana": "べんごし",
+       "vi": "luật sư",
+       "en": "lawyer",
+       "note": ""
+      },
+      {
+       "word": "介護士",
+       "kana": "かいごし",
+       "vi": "người chăm sóc (người già/bệnh nhân)",
+       "en": "caregiver, carer",
+       "note": ""
+      },
+      {
+       "word": "保育士",
+       "kana": "ほいくし",
+       "vi": "cô giáo nhà trẻ",
+       "en": "nursery teacher",
+       "note": ""
+      },
+      {
+       "word": "運転士",
+       "kana": "うんてんし",
+       "vi": "tài xế (tàu, xe)",
+       "en": "driver",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_家",
+     "rows": [
+      {
+       "word": "政治家",
+       "kana": "せいじか",
+       "vi": "chính trị gia",
+       "en": "politician",
+       "note": ""
+      },
+      {
+       "word": "作家",
+       "kana": "さっか",
+       "vi": "nhà văn",
+       "en": "writer, author",
+       "note": ""
+      },
+      {
+       "word": "画家",
+       "kana": "がか",
+       "vi": "họa sĩ",
+       "en": "artist, painter",
+       "note": ""
+      },
+      {
+       "word": "音楽家",
+       "kana": "おんがくか",
+       "vi": "nhạc gia",
+       "en": "musician",
+       "note": ""
+      },
+      {
+       "word": "作曲家",
+       "kana": "さっきょくか",
+       "vi": "nhà soạn nhạc",
+       "en": "composer",
+       "note": ""
+      },
+      {
+       "word": "建築家",
+       "kana": "けんちくか",
+       "vi": "kiến trúc sư",
+       "en": "architect",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_官",
+     "rows": [
+      {
+       "word": "警察官",
+       "kana": "けいさつかん",
+       "vi": "cảnh sát",
+       "en": "police officer",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_者",
+     "rows": [
+      {
+       "word": "医者",
+       "kana": "いしゃ",
+       "vi": "bác sĩ",
+       "en": "doctor",
+       "note": ""
+      },
+      {
+       "word": "記者",
+       "kana": "きしゃ",
+       "vi": "phóng viên",
+       "en": "reporter, journalist",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "_手",
+     "rows": [
+      {
+       "word": "スポーツ選手",
+       "kana": "スポーツせんしゅ",
+       "vi": "vận động viên thể thao",
+       "en": "athlete",
+       "note": ""
+      },
+      {
+       "word": "歌手",
+       "kana": "かしゅ",
+       "vi": "ca sĩ",
+       "en": "singer",
+       "note": ""
+      },
+      {
+       "word": "運転手",
+       "kana": "うんてんしゅ",
+       "vi": "tài xế",
+       "en": "driver",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "その他",
+     "rows": [
+      {
+       "word": "俳優（女優）",
+       "kana": "はいゆう（じょゆう）",
+       "vi": "diễn viên (nữ diễn viên)",
+       "en": "actor/actress",
+       "note": ""
+      },
+      {
+       "word": "乗務員",
+       "kana": "じょうむいん",
+       "vi": "nhân viên phục vụ trên tàu/xe",
+       "en": "conductor",
+       "note": ""
+      },
+      {
+       "word": "職人",
+       "kana": "しょくにん",
+       "vi": "thợ (lành nghề)",
+       "en": "artisan, craftsman",
+       "note": ""
+      },
+      {
+       "word": "大工",
+       "kana": "だいく",
+       "vi": "thợ mộc",
+       "en": "carpenter",
+       "note": ""
+      },
+      {
+       "word": "詩人",
+       "kana": "しじん",
+       "vi": "nhà thơ",
+       "en": "poet",
+       "note": ""
+      },
+      {
+       "word": "自営業",
+       "kana": "じえいぎょう",
+       "vi": "kinh doanh tư (tự lập nghiệp)",
+       "en": "self-employment",
+       "note": ""
+      },
+      {
+       "word": "ジャーナリスト",
+       "kana": "ジャーナリスト",
+       "vi": "nhà báo",
+       "en": "journalist",
+       "note": ""
+      },
+      {
+       "word": "カメラマン",
+       "kana": "カメラマン",
+       "vi": "nhiếp ảnh gia (thợ chụp ảnh)",
+       "en": "photographer",
+       "note": ""
+      },
+      {
+       "word": "アナウンサー",
+       "kana": "アナウンサー",
+       "vi": "người dẫn chương trình (phát thanh/truyền hình)",
+       "en": "announcer",
+       "note": ""
+      },
+      {
+       "word": "エンジニア",
+       "kana": "エンジニア",
+       "vi": "kỹ sư",
+       "en": "engineer",
+       "note": ""
+      },
+      {
+       "word": "パイロット",
+       "kana": "パイロット",
+       "vi": "phi công",
+       "en": "pilot",
+       "note": ""
+      },
+      {
+       "word": "ミュージシャン",
+       "kana": "ミュージシャン",
+       "vi": "nhạc sĩ (người làm nhạc)",
+       "en": "musician",
+       "note": ""
+      },
+      {
+       "word": "ピアニスト",
+       "kana": "ピアニスト",
+       "vi": "nghệ sĩ piano",
+       "en": "pianist",
+       "note": ""
+      },
+      {
+       "word": "ダンサー",
+       "kana": "ダンサー",
+       "vi": "vũ công",
+       "en": "dancer",
+       "note": ""
+      },
+      {
+       "word": "デザイナー",
+       "kana": "デザイナー",
+       "vi": "nhà thiết kế",
+       "en": "designer",
+       "note": ""
+      },
+      {
+       "word": "ウェイター／ウェイトレス",
+       "kana": "ウェイター／ウェイトレス",
+       "vi": "nam/nữ phục vụ bàn (nhà hàng)",
+       "en": "waiter/waitress",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "title": "助数詞・順番",
+   "book_page": 47,
+   "kind": "quiz",
+   "groups": [
+    {
+     "group": "助数詞（数えるとき、なんと言いますか？　解答）",
+     "rows": [
+      {
+       "word": "パソコン",
+       "kana": "パソコン",
+       "vi": "máy vi tính",
+       "en": "",
+       "note": "① 台"
+      },
+      {
+       "word": "CD、MD",
+       "kana": "CD、MD",
+       "vi": "đĩa CD, MD",
+       "en": "",
+       "note": "② 枚"
+      },
+      {
+       "word": "小さい動物",
+       "kana": "ちいさいどうぶつ",
+       "vi": "động vật nhỏ",
+       "en": "",
+       "note": "③ ひき"
+      },
+      {
+       "word": "大きい動物",
+       "kana": "おおきいどうぶつ",
+       "vi": "động vật lớn",
+       "en": "",
+       "note": "④ とう"
+      },
+      {
+       "word": "くつ／くつした",
+       "kana": "くつ／くつした",
+       "vi": "giày / tất",
+       "en": "",
+       "note": "⑤ そく"
+      },
+      {
+       "word": "コップに入った水",
+       "kana": "コップにはいったみず",
+       "vi": "nước (đựng) trong cốc",
+       "en": "",
+       "note": "⑥ はい"
+      },
+      {
+       "word": "チョコレート、映画",
+       "kana": "チョコレート、えいが",
+       "vi": "sô-cô-la, phim",
+       "en": "",
+       "note": "⑦ 本"
+      },
+      {
+       "word": "泊まる日数（旅行、出張など）",
+       "kana": "とまるにっすう",
+       "vi": "số đêm lưu trú (đi du lịch, công tác…)",
+       "en": "",
+       "note": "はく（泊） 例: 3泊4日の旅"
+      }
+     ]
+    },
+    {
+     "group": "その他の助数詞（固定）",
+     "rows": [
+      {
+       "word": "家、建物",
+       "kana": "いえ、たてもの",
+       "vi": "nhà, tòa nhà",
+       "en": "",
+       "note": "けん（軒）"
+      },
+      {
+       "word": "手紙、書類",
+       "kana": "てがみ、しょるい",
+       "vi": "thư, tài liệu",
+       "en": "",
+       "note": "つう（通）"
+      },
+      {
+       "word": "鳥",
+       "kana": "とり",
+       "vi": "chim",
+       "en": "",
+       "note": "わ（羽）"
+      },
+      {
+       "word": "スーツ",
+       "kana": "スーツ",
+       "vi": "bộ com-lê",
+       "en": "",
+       "note": "ちょう（着）"
+      },
+      {
+       "word": "回数",
+       "kana": "かいすう",
+       "vi": "số lần",
+       "en": "",
+       "note": "ど（度）／かい（回）"
+      }
+     ]
+    },
+    {
+     "group": "順番",
+     "rows": [
+      {
+       "word": "並んでいるもの、ランキング",
+       "kana": "ならんでいるもの、ランキング",
+       "vi": "thứ tự xếp hàng, bảng xếp hạng",
+       "en": "",
+       "note": "1番（第）1位"
+      },
+      {
+       "word": "ゴールした順番",
+       "kana": "ゴールしたじゅんばん",
+       "vi": "thứ tự về đích",
+       "en": "",
+       "note": "1着"
+      },
+      {
+       "word": "本",
+       "kana": "ほん",
+       "vi": "sách, tập (của bộ sách)",
+       "en": "",
+       "note": "第1巻 ※2冊の場合は上の巻のことを言うこともある。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "title": "体の部分の言葉",
+   "book_page": 49,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "顔",
+     "rows": [
+      {
+       "word": "まゆげ",
+       "kana": "まゆげ",
+       "vi": "lông mày",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "まぶた",
+       "kana": "まぶた",
+       "vi": "mí mắt",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "まつげ",
+       "kana": "まつげ",
+       "vi": "lông mi, mi mắt",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "くちびる",
+       "kana": "くちびる",
+       "vi": "môi",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "舌",
+       "kana": "した",
+       "vi": "lưỡi",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "ひたい（おでこ）",
+       "kana": "ひたい（おでこ）",
+       "vi": "trán",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "鼻",
+       "kana": "はな",
+       "vi": "mũi",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "耳",
+       "kana": "みみ",
+       "vi": "tai",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "ほお",
+       "kana": "ほお",
+       "vi": "má",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "あご",
+       "kana": "あご",
+       "vi": "cằm, hàm",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "手",
+     "rows": [
+      {
+       "word": "つめ",
+       "kana": "つめ",
+       "vi": "móng (tay)",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "手のひら",
+       "kana": "てのひら",
+       "vi": "lòng bàn tay",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "手のこう",
+       "kana": "てのこう",
+       "vi": "mu bàn tay",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "親指",
+       "kana": "おやゆび",
+       "vi": "ngón tay cái",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "人指し指",
+       "kana": "ひとさしゆび",
+       "vi": "ngón trỏ",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "中指",
+       "kana": "なかゆび",
+       "vi": "ngón giữa",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "薬指",
+       "kana": "くすりゆび",
+       "vi": "ngón áp út",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "小指",
+       "kana": "こゆび",
+       "vi": "ngón út",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "手首",
+       "kana": "てくび",
+       "vi": "cổ tay",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "体",
+     "rows": [
+      {
+       "word": "首",
+       "kana": "くび",
+       "vi": "cổ",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "肩",
+       "kana": "かた",
+       "vi": "vai",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "胸",
+       "kana": "むね",
+       "vi": "ngực, ngạch ngực",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "ひじ",
+       "kana": "ひじ",
+       "vi": "khuỷu tay",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "腹（おなか）",
+       "kana": "はら（おなか）",
+       "vi": "bụng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "へそ",
+       "kana": "へそ",
+       "vi": "rốn",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "ひざ",
+       "kana": "ひざ",
+       "vi": "gối, đầu gối",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "もも",
+       "kana": "もも",
+       "vi": "đùi",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "背中",
+       "kana": "せなか",
+       "vi": "lưng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "脇",
+       "kana": "わき",
+       "vi": "nách",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "（お）しり",
+       "kana": "（お）しり",
+       "vi": "mông",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "足",
+     "rows": [
+      {
+       "word": "足首",
+       "kana": "あしくび",
+       "vi": "cổ chân",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "かかと",
+       "kana": "かかと",
+       "vi": "gót chân",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "つま先",
+       "kana": "つまさき",
+       "vi": "mũi chân, ngón chân",
+       "en": "",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "title": "数字・計算",
+   "book_page": 65,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "計算の言い方",
+     "rows": [
+      {
+       "word": "足し算",
+       "kana": "たしざん",
+       "vi": "phép cộng",
+       "en": "",
+       "note": "1+1=2 → 1 たす 1 は 2"
+      },
+      {
+       "word": "引き算",
+       "kana": "ひきざん",
+       "vi": "phép trừ",
+       "en": "",
+       "note": "5−3=2 → 5 ひく 3 は 2"
+      },
+      {
+       "word": "かけ算",
+       "kana": "かけざん",
+       "vi": "phép nhân",
+       "en": "",
+       "note": "4×5=20 → 4 かける 5 は 20"
+      },
+      {
+       "word": "割り算",
+       "kana": "わりざん",
+       "vi": "phép chia",
+       "en": "",
+       "note": "10÷3=3……1 → 10 わる 3 は 3 あまり 1"
+      }
+     ]
+    },
+    {
+     "group": "数の読み方",
+     "rows": [
+      {
+       "word": "3.14",
+       "kana": "さんてんいちよん",
+       "vi": "ba chấm mười bốn",
+       "en": "",
+       "note": "3 てん いちよん"
+      },
+      {
+       "word": "2/3",
+       "kana": "さんぶんのに",
+       "vi": "hai phần ba",
+       "en": "",
+       "note": "3 ぶんの 2"
+      },
+      {
+       "word": "1:1",
+       "kana": "いちたいいち",
+       "vi": "một với một (tỉ lệ 1:1)",
+       "en": "",
+       "note": "1 たい 1"
+      }
+     ]
+    },
+    {
+     "group": "記号",
+     "rows": [
+      {
+       "word": "「＋」",
+       "kana": "プラス",
+       "vi": "dấu cộng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "「＝」",
+       "kana": "イコール",
+       "vi": "dấu bằng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "「．」",
+       "kana": "しょうてん",
+       "vi": "dấu thập phân (chấm thập phân)",
+       "en": "",
+       "note": "漢字: 小数点"
+      }
+     ]
+    },
+    {
+     "group": "数の種類",
+     "rows": [
+      {
+       "word": "偶数",
+       "kana": "ぐうすう",
+       "vi": "số chẵn",
+       "en": "",
+       "note": "2, 4, 6……"
+      },
+      {
+       "word": "奇数",
+       "kana": "きすう",
+       "vi": "số lẻ",
+       "en": "",
+       "note": "1, 3, 5……"
+      },
+      {
+       "word": "整数",
+       "kana": "せいすう",
+       "vi": "số nguyên",
+       "en": "",
+       "note": "−1, 1, 2, 10, 100……"
+      },
+      {
+       "word": "小数",
+       "kana": "しょうすう",
+       "vi": "số thập phân",
+       "en": "",
+       "note": "0.05, 0.1, 0.2……"
+      },
+      {
+       "word": "分数",
+       "kana": "ぶんすう",
+       "vi": "phân số",
+       "en": "",
+       "note": "1/2, 2/3, 3/4……"
+      },
+      {
+       "word": "ひとけたの数字",
+       "kana": "ひとけたのすうじ",
+       "vi": "chữ số có một chữ số",
+       "en": "",
+       "note": "1, 2, 3……"
+      },
+      {
+       "word": "ふたけたの数字",
+       "kana": "ふたけたのすうじ",
+       "vi": "chữ số có hai chữ số",
+       "en": "",
+       "note": "10, 11, 12……"
+      }
+     ]
+    },
+    {
+     "group": "その他",
+     "rows": [
+      {
+       "word": "四捨五入",
+       "kana": "ししゃごにゅう",
+       "vi": "làm tròn (bốn bỏ năm lên)",
+       "en": "",
+       "note": "8:05→8:10, 8:04→8:00"
+      },
+      {
+       "word": "わり（割）",
+       "kana": "わり",
+       "vi": "10% (một phần mười)",
+       "en": "",
+       "note": "1/10 = 1 わり = 10 パーセント（%）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "title": "教科・科目",
+   "book_page": 69,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "教科・科目",
+     "rows": [
+      {
+       "word": "社会",
+       "kana": "しゃかい",
+       "vi": "môn xã hội",
+       "en": "social studies",
+       "note": ""
+      },
+      {
+       "word": "地理",
+       "kana": "ちり",
+       "vi": "môn địa lý",
+       "en": "geography",
+       "note": ""
+      },
+      {
+       "word": "歴史",
+       "kana": "れきし",
+       "vi": "môn lịch sử",
+       "en": "history",
+       "note": ""
+      },
+      {
+       "word": "公民",
+       "kana": "こうみん",
+       "vi": "môn công dân",
+       "en": "civics",
+       "note": ""
+      },
+      {
+       "word": "理科",
+       "kana": "りか",
+       "vi": "môn khoa học (tự nhiên)",
+       "en": "science",
+       "note": ""
+      },
+      {
+       "word": "生物",
+       "kana": "せいぶつ",
+       "vi": "môn sinh vật học",
+       "en": "biology",
+       "note": ""
+      },
+      {
+       "word": "物理",
+       "kana": "ぶつり",
+       "vi": "môn vật lý",
+       "en": "physics",
+       "note": ""
+      },
+      {
+       "word": "化学",
+       "kana": "かがく",
+       "vi": "môn hóa học",
+       "en": "chemistry",
+       "note": ""
+      },
+      {
+       "word": "国語",
+       "kana": "こくご",
+       "vi": "môn ngữ (tiếng Nhật)",
+       "en": "national language, Japanese language",
+       "note": ""
+      },
+      {
+       "word": "算数",
+       "kana": "さんすう",
+       "vi": "môn toán (tiểu học)",
+       "en": "arithmetic",
+       "note": ""
+      },
+      {
+       "word": "数学",
+       "kana": "すうがく",
+       "vi": "môn toán học",
+       "en": "mathematics",
+       "note": ""
+      },
+      {
+       "word": "音楽",
+       "kana": "おんがく",
+       "vi": "môn âm nhạc",
+       "en": "music",
+       "note": ""
+      },
+      {
+       "word": "美術",
+       "kana": "びじゅつ",
+       "vi": "môn mỹ thuật",
+       "en": "art",
+       "note": ""
+      },
+      {
+       "word": "保健体育",
+       "kana": "ほけんたいいく",
+       "vi": "môn thể dục sức khỏe (thể dục thể thao)",
+       "en": "health and physical education",
+       "note": ""
+      },
+      {
+       "word": "家庭科",
+       "kana": "かていか",
+       "vi": "môn gia chánh",
+       "en": "home economics, domestic science",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "title": "単位",
+   "book_page": 95,
+   "kind": "quiz",
+   "groups": [
+    {
+     "group": "読み方を書きましょう（解答）",
+     "rows": [
+      {
+       "word": "km",
+       "kana": "キロメートル",
+       "vi": "kilômét",
+       "en": "",
+       "note": "① キロ（メートル）〔長さ〕"
+      },
+      {
+       "word": "m",
+       "kana": "メートル",
+       "vi": "mét",
+       "en": "",
+       "note": "② メートル〔長さ〕"
+      },
+      {
+       "word": "cm",
+       "kana": "センチメートル",
+       "vi": "xăng-ti-mét",
+       "en": "",
+       "note": "③ センチ（メートル）〔長さ〕"
+      },
+      {
+       "word": "mm",
+       "kana": "ミリメートル",
+       "vi": "mi-li-mét",
+       "en": "",
+       "note": "④ ミリ（メートル）〔長さ〕"
+      },
+      {
+       "word": "t",
+       "kana": "トン",
+       "vi": "tấn",
+       "en": "",
+       "note": "⑤ トン〔重さ〕"
+      },
+      {
+       "word": "kg",
+       "kana": "キログラム",
+       "vi": "ki-lô-gam",
+       "en": "",
+       "note": "⑥ キロ（グラム）〔重さ〕"
+      },
+      {
+       "word": "g",
+       "kana": "グラム",
+       "vi": "gam",
+       "en": "",
+       "note": "⑦ グラム〔重さ〕"
+      },
+      {
+       "word": "ℓ",
+       "kana": "リットル",
+       "vi": "lít",
+       "en": "",
+       "note": "⑧ リットル〔量〕"
+      },
+      {
+       "word": "ml",
+       "kana": "ミリリットル",
+       "vi": "mi-li-lít",
+       "en": "",
+       "note": "⑨ ミリリットル〔量〕"
+      },
+      {
+       "word": "㎡",
+       "kana": "へいほうメートル",
+       "vi": "mét vuông",
+       "en": "",
+       "note": "⑩ 平方メートル〔面積〕"
+      },
+      {
+       "word": "m³",
+       "kana": "りっぽうメートル",
+       "vi": "mét khối",
+       "en": "",
+       "note": "⑪ 立方メートル〔体積〕"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "title": "〜中「ちゅう」と「じゅう」",
+   "book_page": 97,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "1 「じゅう」 意味: ～の間ずっと（時を表す言葉に付く）",
+     "rows": [
+      {
+       "word": "1年中",
+       "kana": "いちねんじゅう",
+       "vi": "suốt cả năm",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "夏休み中",
+       "kana": "なつやすみじゅう",
+       "vi": "suốt kỳ nghỉ hè",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "1日中",
+       "kana": "いちにちじゅう",
+       "vi": "cả ngày",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "一晩中",
+       "kana": "ひとばんじゅう",
+       "vi": "cả đêm (suốt đêm)",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "午後中",
+       "kana": "ごごじゅう",
+       "vi": "suốt buổi chiều",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "2 「ちゅう」（／じゅう）に 意味: ～の終わりまでに",
+     "rows": [
+      {
+       "word": "今年年中に",
+       "kana": "ことしねんじゅうに",
+       "vi": "trong năm nay",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "今月中に",
+       "kana": "こんげつちゅうに",
+       "vi": "trong tháng này",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "来週中に",
+       "kana": "らいしゅうちゅうに",
+       "vi": "trong tuần tới",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "明日中に",
+       "kana": "あしたちゅうに",
+       "vi": "trong ngày mai",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "今日中に",
+       "kana": "きょうちゅうに",
+       "vi": "trong hôm nay",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "夏休み中に",
+       "kana": "なつやすみちゅうに",
+       "vi": "trong kỳ nghỉ hè",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "3 「ちゅう」 意味: 今、〜しているところである",
+     "rows": [
+      {
+       "word": "食事中",
+       "kana": "しょくじちゅう",
+       "vi": "đang ăn",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "電話中",
+       "kana": "でんわちゅう",
+       "vi": "đang (nói) điện thoại",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "使用中",
+       "kana": "しようちゅう",
+       "vi": "đang được sử dụng",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "仕事中",
+       "kana": "しごとちゅう",
+       "vi": "đang làm việc",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "出張中",
+       "kana": "しゅっちょうちゅう",
+       "vi": "đang đi công tác",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "営業中",
+       "kana": "えいぎょうちゅう",
+       "vi": "đang mở cửa (kinh doanh)",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "準備中",
+       "kana": "じゅんびちゅう",
+       "vi": "đang chuẩn bị",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "授業中",
+       "kana": "じゅぎょうちゅう",
+       "vi": "đang học (giờ học)",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "工事中",
+       "kana": "こうじちゅう",
+       "vi": "đang thi công (công trường)",
+       "en": "",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "group": "4 「じゅう」 意味: ～全部",
+     "rows": [
+      {
+       "word": "世界中",
+       "kana": "せかいじゅう",
+       "vi": "khắp thế giới",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "国中",
+       "kana": "くにじゅう",
+       "vi": "khắp cả nước",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "町中",
+       "kana": "まちじゅう",
+       "vi": "khắp thị trấn (cả phố)",
+       "en": "",
+       "note": ""
+      },
+      {
+       "word": "学校中",
+       "kana": "がっこうじゅう",
+       "vi": "khắp trường học",
+       "en": "",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "title": "駅・列車",
+   "book_page": 105,
+   "kind": "table",
+   "groups": [
+    {
+     "group": "駅・列車",
+     "rows": [
+      {
+       "word": "改札（口）",
+       "kana": "かいさつ（ぐち）",
+       "vi": "cửa kiểm tra vé",
+       "en": "ticket gate",
+       "note": "中央口、東口 など"
+      },
+      {
+       "word": "プラットホーム＞ホーム",
+       "kana": "プラットホーム＞ホーム",
+       "vi": "sân ga (ke nhà ga)",
+       "en": "platform",
+       "note": "※番線 など"
+      },
+      {
+       "word": "（自動）券売機",
+       "kana": "（じどう）けんばいき",
+       "vi": "máy bán vé (tự động)",
+       "en": "vending machine",
+       "note": ""
+      },
+      {
+       "word": "精算（機）",
+       "kana": "せいさん（き）",
+       "vi": "máy điều chỉnh (bổ sung) tiền vé",
+       "en": "fare adjustment (machine)",
+       "note": ""
+      },
+      {
+       "word": "チケット／切符",
+       "kana": "チケット／きっぷ",
+       "vi": "vé (tàu)",
+       "en": "ticket",
+       "note": ""
+      },
+      {
+       "word": "プリペイドカード",
+       "kana": "プリペイドカード",
+       "vi": "thẻ trả trước",
+       "en": "prepaid card",
+       "note": ""
+      },
+      {
+       "word": "定期券",
+       "kana": "ていきけん",
+       "vi": "vé định kỳ (vé tháng)",
+       "en": "commuter pass",
+       "note": ""
+      },
+      {
+       "word": "回数券",
+       "kana": "かいすうけん",
+       "vi": "vé đi nhiều lần (vé lô)",
+       "en": "coupon ticket",
+       "note": ""
+      },
+      {
+       "word": "乗りかえ",
+       "kana": "のりかえ",
+       "vi": "đổi tàu (chuyển tuyến)",
+       "en": "transfer",
+       "note": ""
+      },
+      {
+       "word": "乗りこし",
+       "kana": "のりこし",
+       "vi": "đi quá điểm đến",
+       "en": "going beyond one's destination",
+       "note": ""
+      },
+      {
+       "word": "上り（列車）・下り（列車）",
+       "kana": "のぼり（れっしゃ）・くだり（れっしゃ）",
+       "vi": "tàu đi (lên) ・ tàu về (xuống)",
+       "en": "inbound/upbound (train), outbound/downbound (train)",
+       "note": ""
+      },
+      {
+       "word": "列車の種類",
+       "kana": "れっしゃのしゅるい",
+       "vi": "các loại tàu",
+       "en": "types of trains",
+       "note": ""
+      },
+      {
+       "word": "特別急行＞特急",
+       "kana": "とくべつきゅうこう＞とっきゅう",
+       "vi": "tàu cao tốc đặc biệt (tokkyū)",
+       "en": "limited express",
+       "note": ""
+      },
+      {
+       "word": "急行",
+       "kana": "きゅうこう",
+       "vi": "tàu tốc hành",
+       "en": "express",
+       "note": ""
+      },
+      {
+       "word": "快速",
+       "kana": "かいそく",
+       "vi": "tàu nhanh (kaisoku)",
+       "en": "rapid",
+       "note": ""
+      },
+      {
+       "word": "各駅停車＞各停",
+       "kana": "かくえきていしゃ＞かくてい",
+       "vi": "tàu dừng mọi ga (kakutei)",
+       "en": "local",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

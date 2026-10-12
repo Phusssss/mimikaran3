@@ -1,0 +1,1051 @@
+{
+  "pdf_pages": "199-206",
+  "words": [
+    {
+      "no": 868,
+      "kanji": "どうしても",
+      "kana": "どうしても",
+      "pos": "〈副〉",
+      "en": "by all means, no matter what; just (can't)",
+      "kr": "/어떻게 해도, 아무리 해도",
+      "vi": "bằng mọi giá, dù thế nào cũng; quyết (không), hoàn toàn (không)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "by all means, no matter what",
+          "vi": "bằng mọi giá, dù thế nào cũng (muốn/làm)"
+        },
+        {
+          "no": 2,
+          "en": "just (can't); (not) at all",
+          "vi": "dùng với biểu hiện phủ định: quyết không, sao cũng không"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "このレポートはどうしてもあしたまでに完成させなければならない。",
+          "vi": "Báo cáo này bằng mọi giá phải hoàn thành xong trước ngày mai."
+        },
+        {
+          "ja": "あしたのパーティーにはどうしても行きたい。",
+          "vi": "Bữa tiệc ngày mai tôi bằng mọi giá cũng muốn đi."
+        },
+        {
+          "ja": "この問題がどうしてもわからない。",
+          "vi": "Bài này dù thế nào tôi cũng không hiểu được."
+        }
+      ],
+      "related": [],
+      "notes": [
+        "②は否定的な表現といっしょに使う。"
+      ]
+    },
+    {
+      "no": 869,
+      "kanji": "まるで",
+      "kana": "まるで",
+      "pos": "〈副〉",
+      "en": "just like; (not) at all",
+      "kr": "/마치, 전혀",
+      "vi": "như thể, hệt như; hoàn toàn không (với câu phủ định)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "just like; as if",
+          "vi": "như thể, hệt như"
+        },
+        {
+          "no": 2,
+          "en": "(not) at all",
+          "vi": "hoàn toàn không (dùng với câu phủ định)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "まだ5月なのに、まるで真夏のようだ。",
+          "vi": "Mới tháng 5 mà như thể giữa mùa hè vậy."
+        },
+        {
+          "ja": "宝くじが当たった。まるで夢を見ているみたいな気分だ。",
+          "vi": "Trúng số rồi. Cảm giác như đang nằm mơ vậy."
+        },
+        {
+          "ja": "きょうの試験は難しくて、まるでできなかった。",
+          "vi": "Bài thi hôm nay khó quá, hoàn toàn không làm được."
+        }
+      ],
+      "related": [],
+      "notes": [
+        "②は否定的な表現といっしょに使う。"
+      ]
+    },
+    {
+      "no": 870,
+      "kanji": "いったい（一体）",
+      "kana": "いったい",
+      "pos": "〈副〉",
+      "en": "what in the world",
+      "kr": "/도대체",
+      "vi": "tận là, rốt cuộc là (dùng với từ nghi vấn)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "what in the world (used with question words)",
+          "vi": "tận là, rốt cuộc là (đi cùng từ nghi vấn)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "あの人はいったい何をしているのだろう。",
+          "vi": "Rốt cuộc người đó đang làm gì nhỉ?"
+        },
+        {
+          "ja": "「あなたはいったい何が言いたいのですか」",
+          "vi": "\"Rốt cuộc anh muốn nói cái gì?\""
+        },
+        {
+          "ja": "困った。いったいどうしたらいいのだろう。",
+          "vi": "Khổ thật. Rốt cuộc phải làm gì bây giờ?"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "疑問詞といっしょに使う。"
+      ]
+    },
+    {
+      "no": 871,
+      "kanji": "べつに（別に）",
+      "kana": "べつに",
+      "pos": "〈副〉",
+      "en": "nothing in particular",
+      "kr": "/특별히, 별로",
+      "vi": "không đặc biệt gì, chẳng có gì (với câu phủ định)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "nothing in particular; especially (with negative)",
+          "vi": "không đặc biệt gì, chẳng có gì (dùng với câu phủ định)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "別に用はなかったが、声が聞きたくなって母に電話した。",
+          "vi": "Cũng không có việc gì riêng, nhưng muốn nghe giọng mẹ nên đã gọi điện."
+        },
+        {
+          "ja": "「何か意見がありますか」「いいえ、別に……」",
+          "vi": "\"Có ý kiến gì không?\" \"Không, chẳng có gì...\""
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "特に（⇒859）",
+          "vi": "đặc biệt là"
+        }
+      ],
+      "notes": [
+        "否定的な表現といっしょに使う。"
+      ]
+    },
+    {
+      "no": 872,
+      "kanji": "たった",
+      "kana": "たった",
+      "pos": "〈連体〉",
+      "en": "just",
+      "kr": "/단지, 겨우",
+      "vi": "chỉ, chỉ có, đúng là (đi cùng số từ)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "just; only (used with numbers)",
+          "vi": "chỉ, chỉ có (dùng cùng số từ)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "5,000人の会場に、たった（の）100人しかお客さんが来なかった。",
+          "vi": "Hội trường 5.000 người mà chỉ có 100 khách đến (còn lại chẳng ai đến)."
+        },
+        {
+          "ja": "インスタントラーメンは、湯を注いでたった（の）3分でできる。",
+          "vi": "Mì ăn liền chỉ cần đổ nước sôi vào là chỉ 3 phút là xong."
+        },
+        {
+          "ja": "あの人にはたった一度会っただけなのに、なぜか忘れられない。",
+          "vi": "Người đó tôi chỉ gặp đúng một lần mà không hiểu sao vẫn không thể quên."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "ほんの、わずか",
+          "vi": "chỉ, chút ít"
+        }
+      ],
+      "notes": [
+        "数字といっしょに使う。「ただ」の音が変わったもの。⇒860"
+      ]
+    },
+    {
+      "no": 873,
+      "kanji": "ほんの",
+      "kana": "ほんの",
+      "pos": "〈連体〉",
+      "en": "just, merely",
+      "kr": "/불과, 아주 조금, 보잘것없는",
+      "vi": "chỉ, chút xíu, ít ỏi (đứng trước danh từ)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "just, mere (used before nouns)",
+          "vi": "chỉ, chút xíu (đứng trước danh từ)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ここから隣町まで、バスでほんの5分しかかからない。",
+          "vi": "Từ đây đến thị trấn bên cạnh, đi xe buýt chỉ mất 5 phút."
+        },
+        {
+          "ja": "あの子はまだほんの子どもで、何が悪いかよくわかっていない。",
+          "vi": "Con bé ấy vẫn chỉ là đứa trẻ, chưa hiểu rõ điều gì là sai."
+        },
+        {
+          "ja": "「お世話になり、ありがとうございました。これはほんの気持ちですが、どうぞお受け取りください」",
+          "vi": "\"Cảm ơn vì đã chăm sóc tôi. Đây chỉ là tấm lòng nhỏ bé, xin ngài hãy nhận cho.\""
+        },
+        {
+          "ja": "ずっと日照りが続いていたが、きょうほんの少し雨が降った。",
+          "vi": "Trời hanh khô kéo dài mãi, hôm nay trời chỉ mưa một chút xíu."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "たった（後に数字が続く場合）、わずか",
+          "vi": "chỉ (khi theo sau là số từ), chút ít"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 874,
+      "kanji": "それで",
+      "kana": "それで",
+      "pos": "〈接〉",
+      "en": "so, then",
+      "kr": "/그러므로, 그래서",
+      "vi": "vì thế, cho nên; thế thì (sao)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "so; therefore",
+          "vi": "vì thế, cho nên"
+        },
+        {
+          "no": 2,
+          "en": "then?; and? (conversational)",
+          "vi": "rồi sao?, thế thì sao? (dùng trong hội thoại)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "けさ駅で事故があった。それで、2〜3時間電車が遅れた。",
+          "vi": "Sáng nay có tai nạn ở nhà ga. Vì thế, tàu điện bị trễ 2-3 tiếng."
+        },
+        {
+          "ja": "「彼、インフルエンザなんだって」「それで、この1週間お休みだったのか」",
+          "vi": "\"Nghe nói nó bị cúm.\" \"Thì ra tuần này nó nghỉ vì thế à.\""
+        },
+        {
+          "ja": "「きのう、夜遅く帰ったんです。暗い道を一人で歩いてると、後ろから、変な男が」「えっ、それで?」",
+          "vi": "\"Hôm qua tôi về khuya. Đang đi một mình trên đường tối thì từ phía sau có một gã đàn ông kỳ lạ...\" \"Hả, rồi sao nữa?\""
+        },
+        {
+          "ja": "「今の仕事、辞めようかと思っているんだ」「それで、その後どうするつもり?」",
+          "vi": "\"Tôi đang định nghỉ việc hiện tại.\" \"Thế sau đó anh định làm gì?\""
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "だから、そのため／そして",
+          "vi": "vì vậy, do đó / và, rồi"
+        }
+      ],
+      "notes": [
+        "②は会話的なことば。"
+      ]
+    },
+    {
+      "no": 875,
+      "kanji": "そこで",
+      "kana": "そこで",
+      "pos": "〈接〉",
+      "en": "and so",
+      "kr": "/그래서, 그때 까닭으로",
+      "vi": "vì thế, nên (đã hành động ứng phó với tình huống đó)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "and so; thereupon (so one acts on the situation)",
+          "vi": "vì thế, nên (dựa vào hoàn cảnh để hành động)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "新しいパソコンが必要になった。そこで、銀行から貯金を少しおろすことにした。",
+          "vi": "Đã cần đến một máy vi tính mới. Vì thế, tôi quyết định rút một ít tiền tiết kiệm từ ngân hàng."
+        },
+        {
+          "ja": "今までの薬は治らなかった。そこで、新しい薬をためしてみることにした。",
+          "vi": "Thuốc trước nay mãi không khỏi. Vì thế, tôi quyết định thử dùng thuốc mới."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 876,
+      "kanji": "そのうえ",
+      "kana": "そのうえ",
+      "pos": "〈接〉",
+      "en": "what's more",
+      "kr": "/또한, 게다가",
+      "vi": "hơn nữa, lại thêm vào đó",
+      "senses": [
+        {
+          "no": 1,
+          "en": "what's more; in addition",
+          "vi": "hơn nữa, lại còn"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼女は優秀な研究者だ。そのうえ、性格もいいので、みんなから尊敬されている。",
+          "vi": "Cô ấy là một nhà nghiên cứu giỏi. Hơn nữa tính tình cũng tốt nên được mọi người kính trọng."
+        },
+        {
+          "ja": "かぜをひき、そのうえ、おなかもこわして、結局試験を受けられなかった。",
+          "vi": "Bị cảm, lại thêm đau bụng nữa, rốt cuộc không thể dự thi được."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "さらに、しかも",
+          "vi": "thêm nữa, huống chi"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 877,
+      "kanji": "また",
+      "kana": "また",
+      "pos": "〈接〉",
+      "en": "and; or; also",
+      "kr": "/또, 게다가",
+      "vi": "và, đồng thời cũng; hơn nữa, lại còn",
+      "senses": [
+        {
+          "no": 1,
+          "en": "and; also; as well as",
+          "vi": "và, đồng thời cũng"
+        },
+        {
+          "no": 2,
+          "en": "in addition; furthermore",
+          "vi": "hơn nữa, ngoài ra"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼は銀行員で、また、有名な作家でもある。",
+          "vi": "Anh ấy là nhân viên ngân hàng, đồng thời cũng là một nhà văn nổi tiếng."
+        },
+        {
+          "ja": "お酒は、飲み方によって、健康のためにもなり、また害にもなる。",
+          "vi": "Rượu tùy theo cách uống, có khi tốt cho sức khỏe, cũng có lúc lại gây hại."
+        },
+        {
+          "ja": "正月は、多くの人がうちでお祝いをする。また、最近では旅行先や海外で過ごす人も増えている。",
+          "vi": "Vào dịp Tết, nhiều người tổ chức ăn mừng ở nhà. Gần đây, số người ăn Tết ở nơi du lịch hay ở nước ngoài cũng ngày càng tăng."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 878,
+      "kanji": "または",
+      "kana": "または",
+      "pos": "〈接〉",
+      "en": "or",
+      "kr": "/또는",
+      "vi": "hoặc, hoặc là",
+      "senses": [
+        {
+          "no": 1,
+          "en": "or (expressing a choice)",
+          "vi": "hoặc, hoặc là (diễn tả sự lựa chọn)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "「この書類は、黒または青のペンで書くこと」",
+          "vi": "\"Giấy tờ này phải viết bằng bút đen hoặc bút xanh.\""
+        },
+        {
+          "ja": "「試験に欠席した人は、追試験を受けるか、またはレポートを出してください」",
+          "vi": "\"Người vắng mặt trong kỳ thi, hãy dự kỳ thi lại hoặc nộp báo cáo.\""
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "あるいは",
+          "vi": "hoặc là"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 879,
+      "kanji": "それとも",
+      "kana": "それとも",
+      "pos": "〈接〉",
+      "en": "or",
+      "kr": "/아니면, 그렇지 않으면",
+      "vi": "hay là (dùng trong câu hỏi)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "or (used in questions)",
+          "vi": "hay là (dùng trong câu hỏi)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "「コーヒーにしますか、それとも紅茶にしますか?」",
+          "vi": "\"Anh dùng cà phê hay là trà?\""
+        },
+        {
+          "ja": "卒業後は国に帰るか、それとも日本で就職するか、迷っている。",
+          "vi": "Sau khi tốt nghiệp, về nước hay là xin việc ở Nhật, tôi vẫn đang phân vân."
+        }
+      ],
+      "related": [],
+      "notes": [
+        "疑問文に使う。"
+      ]
+    },
+    {
+      "no": 880,
+      "kanji": "つまり",
+      "kana": "つまり",
+      "pos": "〈接〉",
+      "en": "that is, in other words",
+      "kr": "/즉, 요컨대",
+      "vi": "tức là, nói cách khác, tóm lại",
+      "senses": [
+        {
+          "no": 1,
+          "en": "that is; in other words; in short",
+          "vi": "tức là, nói cách khác, tóm lại"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼は、父の姉の子、つまり私のいとこにあたる。",
+          "vi": "Anh ấy là con của chị ruột bố tôi, tức là anh họ của tôi."
+        },
+        {
+          "ja": "「この仕事は、知識と経験が必要だと思いますが、私にはありません」「つまり、あなたには無理だということですか」",
+          "vi": "\"Tôi nghĩ công việc này cần đến kiến thức và kinh nghiệm, nhưng tôi thì không có.\" \"Tức là anh nói tôi không làm nổi ạ?\""
+        }
+      ],
+      "related": [],
+      "notes": []
+    }
+  ],
+  "columns": [
+    {
+      "no": 22,
+      "title": "衣食住「住」",
+      "en": "Housing",
+      "kr": "/住/주거",
+      "pdf_page": 202,
+      "book_page": 201,
+      "items": [
+        {
+          "cat": "家の間取り",
+          "list": [
+            "① 玄関",
+            "② 居間／リビング",
+            "③ 食堂／ダイニング",
+            "④ 台所／キッチン",
+            "⑤ 洗面所",
+            "⑥ 風呂（場）／バス",
+            "⑦ トイレ／お手洗い",
+            "⑧ 寝室",
+            "⑨ 廊下",
+            "⑩ 階段"
+          ]
+        },
+        {
+          "cat": "※",
+          "list": [
+            "天井",
+            "床",
+            "たたみ",
+            "フローリング"
+          ]
+        },
+        {
+          "cat": "家具",
+          "list": [
+            "① 本棚",
+            "② たんす",
+            "③ カーテン",
+            "④ ブラインド",
+            "⑤ ベッド",
+            "⑥ 鏡",
+            "⑦ 机",
+            "⑧ ソファー",
+            "⑨ いす",
+            "⑩ テーブル",
+            "⑪ じゅうたん／カーペット",
+            "⑫ 食器棚"
+          ]
+        },
+        {
+          "cat": "家電製品",
+          "list": [
+            "① エアコン",
+            "② 電気／電灯",
+            "③ 蛍光灯",
+            "④ 電気スタンド",
+            "⑤ パソコン",
+            "⑥ ファックス",
+            "⑦ 扇風機",
+            "⑧ テレビ",
+            "⑨ ビデオ／DVDデッキ",
+            "⑩ 洗濯機",
+            "⑪ 掃除機",
+            "⑫ ヒーター",
+            "⑬ アイロン",
+            "⑭ ドライヤー",
+            "⑮ ラジオ",
+            "⑯ デジカメ（デジタルカメラ）",
+            "⑰ 懐中電灯",
+            "⑱ 電球",
+            "⑲ 電池"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "pdf_page": 203,
+      "book_page": 202,
+      "unit": "Unit 12",
+      "title": "副詞B・連体詞・接続詞 練習問題I",
+      "step": 3,
+      "word_range": "846〜880",
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）にひらがなを1字ずつ書きなさい。",
+          "instruction_vi": "Điền mỗi ô ( ) một chữ hiragana.",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "給料は、少なくとも月に20万円（　）ほしい。"
+            },
+            {
+              "no": 2,
+              "ja": "どんなに高く（　）（　）買うつもりだ。"
+            },
+            {
+              "no": 3,
+              "ja": "私がどんなにうれしかった（　）、ことばでは言えない。"
+            },
+            {
+              "no": 4,
+              "ja": "「私はただ、冗談を言った（　）（　）なんです。そんなに怒らないでください」"
+            }
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "「する」がつくことばに○をつけなさい。",
+          "instruction_vi": "Khoanh tròn ○ vào từ có thể đi với 「する」.",
+          "questions": [
+            {
+              "no": 1,
+              "word": "いったい／きちんと／しっかり／じっと／けっして／ちっとも／はっきり"
+            }
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "右の□の中から同じ意味のことばをえらび、例にならって（　）に書きなさい。〔かたいことば：ただ／ちょっと（例ですでに使用）／まぁ／そのため／それで／まったく／たった／ちっとも〕",
+          "instruction_vi": "Chọn từ cùng nghĩa trong khung bên phải, điền vào ( ) theo mẫu ví dụ. (từ mang văn phong trang trọng)",
+          "questions": [
+            {
+              "no": 1,
+              "word": "例：（ちょっと）—（少し）",
+              "note": "4 cặp （　）—（　） trống để người học điền."
+            }
+          ]
+        },
+        {
+          "label": "IV",
+          "instruction": "正しいことばに○をつけなさい。答えは一つとはかぎりません。",
+          "instruction_vi": "Khoanh tròn vào từ đúng. Đáp án không nhất thiết chỉ có một.",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "うちの子は〔じっと／そっとして〕いることが苦手だ。"
+            },
+            {
+              "no": 2,
+              "ja": "「風が入らないように、ドアは〔きちんと／そっと〕閉めてください」"
+            },
+            {
+              "no": 3,
+              "ja": "「いやならいやと、〔しっかり／はっきり〕言ってください」"
+            },
+            {
+              "no": 4,
+              "ja": "大阪府はまだ5歳だが、とても〔しっかり／はっきり〕している。（「大阪府」は原文のまま・人物名の可能性あり）"
+            },
+            {
+              "no": 5,
+              "ja": "小野さんは〔きちんと／はっきり〕した人だから、何でも安心して頼める。"
+            },
+            {
+              "no": 6,
+              "ja": "こんな難しい仕事、私はとても〔けっして／必ず〕できそうもない。"
+            },
+            {
+              "no": 7,
+              "ja": "この本は〔どうしても／とても／ほんとうに〕難しくて、〔少しも／ちっとも／まったく／まるで〕わからなかった。"
+            },
+            {
+              "no": 8,
+              "ja": "〔けっして／とくに／べつに〕人の悪口を言ってはいけない。"
+            },
+            {
+              "no": 9,
+              "ja": "「食べたいもの、ある?」「〔特別に／別に〕……」"
+            },
+            {
+              "no": 10,
+              "ja": "「私は〔ぜったい／必ず／特に〕カンニングなんかしていません」"
+            },
+            {
+              "no": 11,
+              "ja": "二人は〔それぞれ／たがいに〕助け合って暮らした。"
+            },
+            {
+              "no": 12,
+              "ja": "今年は〔いったい／ぜったい／どうしても〕優勝したい。"
+            },
+            {
+              "no": 13,
+              "ja": "事故で電車が30分止まった。〔そこで／それで／そのため〕遅刻してしまった。"
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 204,
+      "book_page": 203,
+      "unit": "Unit 12",
+      "title": "副詞B・連体詞・接続詞 練習問題I（つづき）",
+      "step": 3,
+      "word_range": "846〜880",
+      "sections": [
+        {
+          "label": "IV（つづき）",
+          "instruction": "正しいことばに○をつけなさい。答えは一つとはかぎりません。",
+          "instruction_vi": "Khoanh tròn vào từ đúng. Đáp án không nhất thiết chỉ có một. (tiếp)",
+          "questions": [
+            {
+              "no": 14,
+              "ja": "「アメリカへ行ったとき、パスポートをなくしてしまってね」「〔そこで／それで／そのため〕どうしたの」"
+            },
+            {
+              "no": 15,
+              "ja": "景気が悪くなり、学費が払えない学生が増えた。〔それで／そのうえ／そこで〕、大学は新しい奨学金制度を作ることにした。"
+            },
+            {
+              "no": 16,
+              "ja": "きょうは仕事でミスをする、雨に降られる、〔そのうえ／そのため／それとも〕電車の中にかばんを忘れると、悪いことばかりの1日だった。"
+            },
+            {
+              "no": 17,
+              "ja": "黒田さんは友人であり、〔また／または〕ライバルでもある。"
+            },
+            {
+              "no": 18,
+              "ja": "「メール〔また／または〕ファックスで申し込んでください」"
+            }
+          ]
+        },
+        {
+          "label": "V",
+          "instruction": "よくいっしょに使うことばを下からえらびなさい。〔言う／同じだ／がまんする／される／やせる／働く〕",
+          "instruction_vi": "Chọn từ thường đi kèm (trong khung dưới) để ghép với các từ bên trái.",
+          "questions": [
+            {
+              "no": 1,
+              "word": "げっそり（　）"
+            },
+            {
+              "no": 2,
+              "word": "はっきり（　）"
+            },
+            {
+              "no": 3,
+              "word": "じっと（　）"
+            },
+            {
+              "no": 4,
+              "word": "まったく（　）"
+            },
+            {
+              "no": 5,
+              "word": "そっと（　）"
+            },
+            {
+              "no": 6,
+              "word": "しっかり（　）"
+            }
+          ]
+        },
+        {
+          "label": "VI",
+          "instruction": "（　）に入ることばを下からえらびなさい。〔いったい／そっと／それぞれ／たった／ちょくせつ（直接）／つまり／べつべつ／ほんの／まったく／まるで〕",
+          "instruction_vi": "Chọn từ thích hợp (trong khung dưới) điền vào ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "「そんな大事なことは、人に頼らないで、相手に（　）言ったほうがいいですよ」"
+            },
+            {
+              "no": 2,
+              "ja": "どの子にも（　）よいところがある。"
+            },
+            {
+              "no": 3,
+              "ja": "「毎日、けいかいであきないねえ」「（　）ですねえ」（文字が不明瞭）"
+            },
+            {
+              "no": 4,
+              "ja": "その女の子のはなは（　）りんごのようだった。"
+            },
+            {
+              "no": 5,
+              "ja": "「（　）どうして、そんなことをしたんですか」"
+            },
+            {
+              "no": 6,
+              "ja": "「えっ、この仕事を（　）3日でやったんですか。すごい！」"
+            },
+            {
+              "no": 7,
+              "ja": "私はお酒に弱くて、（　）少しの飲んだだけで酔ってしまう。"
+            },
+            {
+              "no": 8,
+              "ja": "行きは（　）だったが、帰りはいっしょだった。"
+            },
+            {
+              "no": 9,
+              "ja": "友だちが泣いている。しばらく（　）しておいてあげよう。"
+            },
+            {
+              "no": 10,
+              "ja": "「その日はちょっとこうさが悪くて……」「（　）、火曜だということでね」"
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 205,
+      "book_page": 204,
+      "unit": "Unit 08/12",
+      "title": "副詞A・B・連体詞・接続詞 練習問題II",
+      "step": 3,
+      "word_range": "591〜635/846〜880",
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に入れるのに最もよいものを、a・b・c・dの中から一つえらびなさい。",
+          "instruction_vi": "Chọn một đáp án a・b・c・d thích hợp nhất điền vào ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "今度の地震では（　）の被害が出たようだ。",
+              "options": [
+                "けっこう",
+                "だいぶん",
+                "ずいぶん",
+                "かなり"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "9時の新幹線に（　）間に合った。",
+              "options": [
+                "ぎりぎり",
+                "とうとう",
+                "同時に",
+                "いっぱい"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "彼がなかなか結論を言わないので（　）した。（前半の語は不明瞭）",
+              "options": [
+                "ほんと",
+                "のんびり",
+                "しっかり",
+                "いらいら"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "上田さんは（　）テニスが上手になるのに、私はいつまでたっても下手だ。",
+              "options": [
+                "もっと",
+                "ずっと",
+                "どんどん",
+                "どれほど"
+              ]
+            },
+            {
+              "no": 5,
+              "ja": "「あの二人、兄弟なのに（　）似ていませんね」",
+              "options": [
+                "とても",
+                "少しも",
+                "少なくとも",
+                "どうしても"
+              ]
+            },
+            {
+              "no": 6,
+              "ja": "医者に注意され、父は（　）酒をやめた。",
+              "options": [
+                "相変わらず",
+                "もうすぐ",
+                "ずっと",
+                "びたりと"
+              ]
+            },
+            {
+              "no": 7,
+              "ja": "（　）こんなところで部長に会うとは思っていなかったので、あわててしまった。",
+              "options": [
+                "もしかして",
+                "まさか",
+                "きっと",
+                "やはり"
+              ]
+            },
+            {
+              "no": 8,
+              "ja": "時間がかかるだろうと思っていたが、（　）早くできた。",
+              "options": [
+                "思わず",
+                "案外",
+                "もちらん",
+                "つい"
+              ]
+            },
+            {
+              "no": 9,
+              "ja": "スポーツは何でも好きだが、（　）水泳が好きだ。",
+              "options": [
+                "特に",
+                "絶対",
+                "きっと",
+                "大変"
+              ]
+            },
+            {
+              "no": 10,
+              "ja": "胸（　）に新鮮な空気を吸い込んだ。",
+              "options": [
+                "たくさん",
+                "ぎりぎり",
+                "いっぱい",
+                "びったり"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với phần gạch chân ＿＿, từ 4 phương án a・b・c・d.",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "学費は1年でだいたい80万円ぐらいかかる。",
+              "options": [
+                "たいてい",
+                "およそ",
+                "ほとんど",
+                "かなり"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "先輩が何に怒っているのか、私はまったくわからなかった。",
+              "options": [
+                "すこし",
+                "すっかり",
+                "ぜんぜん",
+                "ぜったい"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "とつぜん近くで大きな音がして、びっくりした。",
+              "options": [
+                "すぐに",
+                "もうすぐ",
+                "まもなく",
+                "急に"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "寒気がある。もしかして、かぜをひいたのだろうか。",
+              "options": [
+                "うっかりして",
+                "はっきりして",
+                "ほっとして",
+                "ひょっとして"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 206,
+      "book_page": 205,
+      "unit": "Unit 08/12",
+      "title": "副詞A・B・連体詞・接続詞 練習問題II（つづき）",
+      "step": 3,
+      "word_range": "591〜635/846〜880",
+      "sections": [
+        {
+          "label": "II（つづき）",
+          "instruction": "＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với phần gạch chân ＿＿, từ 4 phương án a・b・c・d. (tiếp)",
+          "questions": [
+            {
+              "no": 5,
+              "ja": "出張に行く予定だった林さんが入院した。それで、私が代わりに行くことになった。",
+              "options": [
+                "そのため",
+                "また",
+                "つまり",
+                "そして"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "次のことばの言い方として最もよいものを、一つ選びなさい。",
+          "instruction_vi": "Chọn một câu sử dụng từ dưới đây đúng nhất.",
+          "questions": [
+            {
+              "no": 1,
+              "word": "ずっと",
+              "options": [
+                "うちのずっと近くにコンビニがあるので便利だ。",
+                "私は色の中で赤がずっと好きだ。",
+                "最後に田中さんと会ったのは、もうずっと前だ。",
+                "去年からずっと結婚した。"
+              ]
+            },
+            {
+              "no": 2,
+              "word": "はっきり",
+              "options": [
+                "「そんな10年も前のこと、はっきり覚えていませんよ」",
+                "「はっきり見てください。ここに小さな傷があります」",
+                "「彼女はとてもはっきりした頭をしていますね」",
+                "「最近年のせいか、はっきり忘れてしまって困るんです」"
+              ]
+            },
+            {
+              "no": 3,
+              "word": "けっこう",
+              "options": [
+                "チンさんはとてもけっこうなレポートを書いた。",
+                "「お茶はもうけっこうですか」",
+                "緊張するかと思ったが、けっこうにリラックスできた。",
+                "難しい試験だったが、けっこうできたと思う。"
+              ]
+            },
+            {
+              "no": 4,
+              "word": "つい",
+              "options": [
+                "テレビを見ながら料理をしていたら、つい塩を入れすぎてしまった。",
+                "いい電車の中にかさを忘れてしまった。",
+                "がんばって練習して、つい優勝することができた。",
+                "1カ月働いて、つい5万円しかもらえなかった。"
+              ]
+            },
+            {
+              "no": 5,
+              "word": "まさか",
+              "options": [
+                "いろいろ悩んだが、まさかA社に就職することにした。",
+                "彼は厳しそうに見えたが、話してみると、まさか優しかった。",
+                "まさか私が合格できるとは思わなかった。",
+                "国へ帰っても、まさか日本のことは忘れません。"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    }
+  ],
+  "unit_pages": [
+    {
+      "pdf_page": 199,
+      "book_page": 198,
+      "unit": "Unit 12",
+      "title": "副詞B・連体詞・接続詞",
+      "word_range": "868〜880",
+      "step": 3,
+      "lessons": [
+        61,
+        62
+      ],
+      "notes": "Phần cuối của Unit 12: bài 61 (trang sách 198, từ 868-872, kết thúc 副詞B + mục IV 連体詞) và bài 62 (trang sách 200, từ 877-880, mục V 接続詞). Trang PDF 202 (trang sách 201) là コラム 22. Sau trang này, 語彙索引 (chỉ mục từ vựng) bắt đầu từ trang PDF 207 (trang sách 206) - không thuộc phạm vi trích xuất."
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "pdf_pages": "38-47",
+  "points": [
+    {
+      "no": 39,
+      "pattern": "～に違いない",
+      "stars": 2,
+      "senses": ["chắc chắn là ~ (sự phán đoán mang tính tin tưởng rất cao)"],
+      "connection": "Danh từ / thể thường (普通体) của [động từ · tính từ-i · tính từ-na] (lưu ý: tính từ-na ở thể hiện tại không thêm 「だ」)",
+      "vi": "chắc chắn là ~, nhất định là ~",
+      "explanation": "Dùng khi người nói đưa ra phán đoán mà bản thân rất tin tưởng, tương đương với 「きっと～だ」. Đi kèm các từ như きっと, 必ず để nhấn mạnh sự chắc chắn.",
+      "examples": [
+        {
+          "ja": "夜になっても電気がつかない。きっと出かけているに違いない。",
+          "vi": "Đến tận đêm mà đèn vẫn không bật. Chắc chắn là họ đã đi ra ngoài rồi."
+        },
+        {
+          "ja": "犯人はAに違いない。強い動機があって、しかもアリバイがないのだから。",
+          "vi": "Kẻ phạm tình nhất định là A. Vì y có động cơ mạnh, hơn nữa lại không có chứng cứ ngoại phạm."
+        },
+        {
+          "ja": "成績のいい山田さんでも半分しかできなかったということは、その試験は相当難しかったに違いない。",
+          "vi": "Việc ngay cả Yamada - người có thành tích tốt - cũng chỉ làm được một nửa nghĩa là kỳ thi đó chắc hẳn rất khó."
+        },
+        {
+          "ja": "「鈴木さんがまだ来ませんね。遅れるような人ではないから、きっと何かあったに違いありません」",
+          "vi": "\"Anh Suzuki vẫn chưa đến nhỉ. Vì anh ấy không phải người hay đến muộn, chắc chắn là đã xảy ra chuyện gì đó.\""
+        }
+      ]
+    },
+    {
+      "no": 40,
+      "pattern": "～とは／というのは",
+      "stars": 2,
+      "senses": ["định nghĩa, giải thích ý nghĩa của một từ/việc"],
+      "connection": "Danh từ",
+      "vi": "~ là (dùng để định nghĩa, giải thích)",
+      "explanation": "Dùng để định nghĩa hoặc giải thích ý nghĩa của một từ hay một sự việc. Thường đi kèm với các cách nói như 「～のことだ」「～という意味だ」. 「とは」 là dạng rút gọn của 「というのは」.",
+      "examples": [
+        {
+          "ja": "著者というのはその本を書いた人のことです。",
+          "vi": "\"Tác giả\" là chỉ người đã viết ra cuốn sách đó."
+        },
+        {
+          "ja": "あなたにとって仕事とは何でしょうか。",
+          "vi": "Đối với bạn, \"công việc\" là gì?"
+        },
+        {
+          "ja": "「バリアフリーというのは何のことですか」",
+          "vi": "\"'Barrier-free' (không rào cản) là nghĩa là gì ạ?\""
+        },
+        {
+          "ja": "省エネとは「省エネルギー」の略で、電気やガスなどのエネルギーをあまり使わないようにすることである。",
+          "vi": "\"Shōene\" là viết tắt của \"shōenerugī\" (tiết kiệm năng lượng), nghĩa là việc hạn chế sử dụng các loại năng lượng như điện, khí đốt..."
+        }
+      ]
+    },
+    {
+      "no": 41,
+      "pattern": "～たとたん（に）",
+      "stars": 2,
+      "senses": ["gần như đồng thời với việc ~ thì ~ xảy ra (phần lớn là điều bất ngờ)"],
+      "connection": "Thể ta (タ形) của động từ",
+      "vi": "vừa ~ xong thì ngay lập tức~, ngay khi ~ thì ~",
+      "explanation": "Diễn tả việc sự việc B xảy ra gần như ngay lập tức sau khi sự việc A vừa xảy ra. Đa số trường hợp B là điều ngoài dự đoán của người nói, nên câu thường kết thúc bằng thể quá khứ.",
+      "examples": [
+        {
+          "ja": "一口食べたとたん、まずくて吐き出した。",
+          "vi": "Vừa ăn một miếng xong là thấy khó ăn quá nên phun ra ngay."
+        },
+        {
+          "ja": "ボタンを押したとたんに、画面の文字が消えてしまった。",
+          "vi": "Vừa bấm nút xong thì chữ trên màn hình biến mất mất."
+        },
+        {
+          "ja": "おもちゃを取り上げたとたん、子どもは激しく泣き出した。",
+          "vi": "Vừa cất lấy món đồ chơi thì đứa trẻ khóc òa lên dữ dội."
+        },
+        {
+          "ja": "名前を聞いたときは思い出せなかったが、顔を見たとたんに思い出した。",
+          "vi": "Lúc nghe tên thì không nhớ ra được, nhưng vừa nhìn thấy mặt là nhớ ra ngay."
+        }
+      ]
+    },
+    {
+      "no": 42,
+      "pattern": "～につれ（て）",
+      "stars": 2,
+      "senses": ["khi A thay đổi thì B cũng thay đổi theo"],
+      "connection": "Danh từ chỉ sự thay đổi / thể từ điển của động từ",
+      "vi": "theo ~, càng ~ thì càng ~, theo đà ~",
+      "explanation": "Diễn tả việc khi A biến đổi theo một chiều hướng thì B cũng biến đổi theo tương ứng. Cả A và B phải là những sự thay đổi mang tính tiến trình dần dần. Ngoài ra còn có nghĩa \"theo sự chỉ dẫn của ~\" khi gắn sau danh từ người (ví dụ: 先生の言うことにつれて) nhưng trong ngữ pháp này chủ yếu là nghĩa thay đổi kèm theo.",
+      "examples": [
+        {
+          "ja": "試験が近づくにつれて、だんだん心配になってきた。",
+          "vi": "Khi kỳ thi đến gần, dần dần bắt đầu thấy lo lắng."
+        },
+        {
+          "ja": "日本での生活が長くなるにつれ、友だちもできて楽しくなった。",
+          "vi": "Khi cuộc sống ở Nhật kéo dài, cũng có được bạn bè nên cuộc sống trở nên vui vẻ hơn."
+        },
+        {
+          "ja": "再開発が進むにつれて、駅前の様子がすっかり変わってしまった。",
+          "vi": "Theo đà việc tái phát triển được đẩy mạnh, khung cảnh trước nhà ga hoàn toàn thay đổi."
+        },
+        {
+          "ja": "時間の経過につれ、その事件のことは忘れられてしまった。",
+          "vi": "Theo sự trôi qua của thời gian, vụ việc đó dần bị lãng quên."
+        }
+      ]
+    },
+    {
+      "no": 43,
+      "pattern": "～にしたがって／したがい",
+      "stars": 2,
+      "senses": ["khi A thay đổi thì B cũng thay đổi theo"],
+      "connection": "Danh từ chỉ sự thay đổi / thể từ điển của động từ",
+      "vi": "theo ~, theo đà ~, càng ~ thì càng ~",
+      "explanation": "Giống 「～につれて」, diễn tả hai sự thay đổi xảy ra gắn bó với nhau: khi A tiến triển thì B cũng thay đổi theo. Ngoài ra, động từ 「従う」 còn có nghĩa \"làm theo sự chỉ dẫn của ~\".",
+      "examples": [
+        {
+          "ja": "北半球では北へ行くにしたがって気温が下がる。",
+          "vi": "Ở Bắc bán cầu, cứ đi về phía bắc thì nhiệt độ giảm xuống."
+        },
+        {
+          "ja": "台風が近づくにしたがい、風雨はますます強まるでしょう。",
+          "vi": "Khi cơn bão lại gần, mưa gió chắc chắn ngày càng mạnh hơn."
+        },
+        {
+          "ja": "携帯電話が普及するにしたがって、通話料も安くなった。",
+          "vi": "Theo đà điện thoại di động trở nên phổ biến, cước gọi cũng trở nên rẻ hơn."
+        },
+        {
+          "ja": "18歳人口の減少にしたがい、留学生の入学に熱心な大学が増えた。",
+          "vi": "Theo sự giảm sút của số người ở độ tuổi 18, số trường đại học nỗ lực tuyển sinh du học sinh đã tăng lên."
+        },
+        {
+          "ja": "デパートが火事になったが、客は店員の指示に従って避難し、全員無事だった。",
+          "vi": "Cửa hàng bách hóa bị cháy, nhưng khách hàng tuân theo chỉ dẫn của nhân viên để sơ tán, tất cả đều bình an vô sự."
+        },
+        {
+          "ja": "親の勧めに従い、地元で就職することにした。",
+          "vi": "Đã quyết định làm theo lời khuyên của cha mẹ, xin việc ở quê hương."
+        }
+      ]
+    },
+    {
+      "no": 44,
+      "pattern": "～最中（に）",
+      "stars": 2,
+      "senses": ["đúng vào lúc đang ~"],
+      "connection": "Danh từ + の / Động từ + ている",
+      "vi": "đúng lúc đang ~, ngay giữa lúc ~",
+      "explanation": "Diễn tả một sự việc khác xảy ra đúng vào đúng khoảnh khắc đang diễn ra sự việc kia. Vì là khoảnh khắc đang diễn ra nên động từ thường ở dạng 「ている」 hoặc danh từ + の.",
+      "examples": [
+        {
+          "ja": "着替えをしている最中に玄関のチャイムが鳴った。",
+          "vi": "Đúng lúc đang thay đồ thì chuông cửa ở phòng trước reo lên."
+        },
+        {
+          "ja": "友だちが迎えに来たとき、私はまだごはんを食べている最中だった。",
+          "vi": "Lúc bạn đến đón, tôi vẫn đang đúng lúc đang ăn cơm."
+        },
+        {
+          "ja": "マナーモードにしておくのを忘れたので、授業の最中に携帯電話が鳴ってしまった。",
+          "vi": "Vì quên để chế độ im lặng, giữa giờ học điện thoại lại reo lên mất."
+        },
+        {
+          "ja": "その件については、今話し合っている最中だ。",
+          "vi": "Về chuyện đó, hiện giờ đang đúng lúc đang thảo luận."
+        }
+      ]
+    },
+    {
+      "no": 45,
+      "pattern": "～てからでないと／なければ…ない（否定的な表現）",
+      "stars": 2,
+      "senses": ["nếu không sau khi ~ thì không thể ~ / không được ~"],
+      "connection": "Thể te (テ形) của động từ",
+      "vi": "phải ~ trước đã (chứ chưa ~ thì không thể/không được ~)",
+      "explanation": "Diễn tả việc phải làm A trước, nếu chưa làm A thì không thể làm B hoặc không được làm B. Mệnh đề sau luôn ở dạng phủ định (できない, してはいけない, だめだ...).",
+      "examples": [
+        {
+          "ja": "実物を見てからでないと買うかどうかは決められない。",
+          "vi": "Nếu không xem hàng thật trước thì không thể quyết định được là mua hay không."
+        },
+        {
+          "ja": "日本では昔、姉が結婚してからでないと妹は結婚できなかった。",
+          "vi": "Ở Nhật ngày xưa, chị chưa kết hôn trước thì em gái không thể kết hôn được."
+        },
+        {
+          "ja": "契約書をよく読んでからでなければサインをしてはいけない。",
+          "vi": "Phải đọc kỹ hợp đồng trước rồi mới được ký; nếu chưa đọc kỹ thì không được ký."
+        },
+        {
+          "ja": "「おやつは手を洗ってからでないと、食べちゃだめよ」",
+          "vi": "\"Bánh ăn vặt thì phải rửa tay trước đã, chưa rửa tay thì không được ăn đâu nhé.\""
+        }
+      ]
+    },
+    {
+      "no": 46,
+      "pattern": "～て以来",
+      "stars": 2,
+      "senses": ["kể từ sau khi ~ (khác với trước đó) thì cứ thế ~"],
+      "connection": "Thể te (テ形) của động từ",
+      "vi": "kể từ khi ~, từ sau khi ~ (và tình trạng đó tiếp diễn)",
+      "explanation": "Diễn tả một tình trạng bắt đầu từ sau sự việc A và tiếp diễn liên tục cho đến hiện tại, thường khác hẳn với tình trạng trước đó. Vì diễn tả sự tiếp diễn nên câu thường kết thúc bằng trạng thái kéo dài, không dùng cho hành động một lần.",
+      "examples": [
+        {
+          "ja": "日本へ来て以来、忙しくてまだ一度も帰国していない。",
+          "vi": "Kể từ khi sang Nhật, vì bận rộn nên đến giờ chưa về nước lần nào."
+        },
+        {
+          "ja": "子どもが生まれて以来、家の中ではたばこを吸わないようにしている。",
+          "vi": "Kể từ khi con chào đời, trong nhà tôi cố gắng không hút thuốc."
+        },
+        {
+          "ja": "この薬を飲みはじめて以来、体の調子がどんどん良くなってきた。",
+          "vi": "Kể từ khi bắt đầu uống thuốc này, tình trạng cơ thể ngày càng tốt lên."
+        },
+        {
+          "ja": "車を買って以来、あまり自転車に乗らなくなった。",
+          "vi": "Kể từ khi mua ô tô, tôi ít đi xe đạp hẳn đi."
+        }
+      ]
+    },
+    {
+      "no": 47,
+      "pattern": "～一方だ",
+      "stars": 2,
+      "senses": ["sự thay đổi cứ tiếp diễn theo một chiều hướng (phần lớn là chiều hướng tiêu cực)"],
+      "connection": "Thể từ điển của động từ chỉ sự thay đổi",
+      "vi": "cứ ngày càng ~, cứ mãi ~ (thay đổi một chiều)",
+      "explanation": "Diễn tả một sự biến đổi cứ tiếp tục tiến triển theo một chiều hướng mà không đảo ngược được. Thường dùng cho các biến đổi tiến trình (増える, 減る, 高まる, 悪くなる...), và phần lớn mang nghĩa tiêu cực.",
+      "examples": [
+        {
+          "ja": "不況のせいで収入が減った。貯金も減る一方だ。",
+          "vi": "Vì suy thoái kinh tế nên thu nhập giảm. Tiền tiết kiệm cũng cứ giảm mãi."
+        },
+        {
+          "ja": "祖母の病気は入院後も悪くなる一方だ。",
+          "vi": "Bệnh của bà nội sau khi nhập viện vẫn cứ ngày một nặng thêm."
+        },
+        {
+          "ja": "どの都市も、増える一方のごみに悩まされているようだ。",
+          "vi": "Hình như thành phố nào cũng đang khổ sở vì rác thải cứ ngày càng tăng mãi."
+        },
+        {
+          "ja": "オリンピックが近づき、鈴木選手に対する期待は高まる一方だ。",
+          "vi": "Olympic đang đến gần, kỳ vọng vào vận động viên Suzuki cứ càng lúc càng cao."
+        }
+      ]
+    },
+    {
+      "no": 48,
+      "pattern": "～しかない／ほかない／よりない／よりほかない／ほかしかたがない",
+      "stars": 2,
+      "senses": ["không có cách nào khác ngoài việc ~"],
+      "connection": "Thể từ điển của động từ",
+      "vi": "chỉ còn cách ~, đành phải ~, không còn cách nào khác là ~",
+      "explanation": "Diễn tả việc không còn lựa chọn hay phương pháp nào khác, chỉ có thể làm A mà thôi. Các dạng 「しかない」「ほかない」「よりない」「よりほかない」「ほかしかたがない」 đều cùng nghĩa, mức độ trang trọng hơi khác nhau. Dạng liên quan: 「～しかいない」 (chỉ có ~ thôi, dành cho người/sự vật) và 「～よりほかに」 (ngoài ~ ra thì không có...).",
+      "examples": [
+        {
+          "ja": "かさを持っていなかったので、ぬれて帰るしかなかった。",
+          "vi": "Vì không mang ô nên đành phải về trong tình trạng ướt mưa."
+        },
+        {
+          "ja": "良い大学に入るためには、一生懸命勉強するほかない。",
+          "vi": "Để vào được trường đại học tốt thì đành phải học tập hết sức mình thôi."
+        },
+        {
+          "ja": "この苦しさから逃れるには、ただ時間が過ぎるのを待つよりないだろう。",
+          "vi": "Để thoát khỏi nỗi đau khổ này, chắc chỉ còn cách chờ thời gian trôi qua thôi."
+        },
+        {
+          "ja": "台風で船も飛行機も欠航したので、ホテルにもう一泊するよりほか（は）なかった。",
+          "vi": "Vì bão nên tàu thuyền và máy bay đều bị hủy chuyến, đành phải ở khách sạn thêm một đêm nữa."
+        },
+        {
+          "ja": "コピー機が故障しているのでは、手で書き写すよりほかしかたがないだろう。",
+          "vi": "Máy photocopy hỏng rồi thì chắc chỉ còn cách chép tay thôi."
+        },
+        {
+          "ja": "この仕事ができるのはAさんしかいないと思う。",
+          "vi": "Tôi nghĩ người làm được công việc này chỉ có mình anh A thôi."
+        },
+        {
+          "ja": "「あなたよりほかに、こんなことを頼める人はいません」",
+          "vi": "\"Ngoài anh ra, tôi không còn người nào khác để nhờ việc này nữa.\""
+        }
+      ]
+    }
+  ]
+}

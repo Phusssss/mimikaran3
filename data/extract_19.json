@@ -1,0 +1,842 @@
+{
+  "pdf_pages": "189-198",
+  "words": [
+    {
+      "no": 836,
+      "kanji": "炊ける",
+      "kana": "たける",
+      "pos": "自",
+      "en": "(rice) is cooked",
+      "kr": "/지어지다",
+      "vi": "(cơm) chín, được nấu",
+      "senses": [],
+      "examples": [
+        {"ja": "ごはんがたけた。", "vi": "Cơm chín rồi."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 837,
+      "kanji": "炊く",
+      "kana": "たく",
+      "pos": "他",
+      "en": "cook (rice)",
+      "kr": "/짓다",
+      "vi": "nấu (cơm)",
+      "senses": [],
+      "examples": [
+        {"ja": "ごはんをたく。", "vi": "Nấu cơm."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 838,
+      "kanji": "煮える",
+      "kana": "にえる",
+      "pos": "自",
+      "en": "boil, cook, simmer",
+      "kr": "/익다",
+      "vi": "chín, nhừ (khi được nấu/ninh)",
+      "senses": [],
+      "examples": [
+        {"ja": "この野菜をスープで煮て、煮えたら塩で味をつけてください。", "vi": "Hãy ninh rau này trong súp, khi rau chín thì nêm gia vị bằng muối."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 839,
+      "kanji": "煮る",
+      "kana": "にる",
+      "pos": "他",
+      "en": "boil, stew",
+      "kr": "/삶다, 조리다",
+      "vi": "ninh, hầm, kho",
+      "senses": [],
+      "examples": [],
+      "related": [
+        {"type": "合", "ja": "煮もの", "vi": "món ninh/món kho"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 840,
+      "kanji": "炒める",
+      "kana": "いためる",
+      "pos": "他",
+      "en": "fry, sauté",
+      "kr": "/볶다",
+      "vi": "xào",
+      "senses": [],
+      "examples": [
+        {"ja": "フライパンに油をひいて、肉と野菜をいためる。", "vi": "Phết dầu vào chảo rồi xào thịt và rau."}
+      ],
+      "related": [
+        {"type": "合", "ja": "いためもの、野菜いため", "vi": "món xào, rau xào"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 841,
+      "kanji": "焼ける",
+      "kana": "やける",
+      "pos": "自",
+      "en": "be cooked, be baked, be roasted",
+      "kr": "/구워지다",
+      "vi": "chín, được nướng (bánh, thịt...)",
+      "senses": [],
+      "examples": [
+        {"ja": "よく焼けていないぶた肉は食べないほうがいい。", "vi": "Thịt lợn chưa được nướng chín kỹ thì không nên ăn."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 842,
+      "kanji": "焼く",
+      "kana": "やく",
+      "pos": "他",
+      "en": "cook, bake, roast",
+      "kr": "/굽다",
+      "vi": "nướng, quay, áp chảo",
+      "senses": [],
+      "examples": [
+        {"ja": "フライパンでオムレツを焼く。", "vi": "Áp trứng om-lết trên chảo."},
+        {"ja": "トースターでパンを焼く。", "vi": "Nướng bánh mì bằng lò nướng bánh mì."},
+        {"ja": "炭火で「肉/魚」を焼く。", "vi": "Nướng thịt/cá trên than hồng."}
+      ],
+      "related": [
+        {"type": "合", "ja": "焼き「肉/魚」、卵焼き", "vi": "thịt/cá nướng, trứng cuộn nướng"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 843,
+      "kanji": "ゆでる",
+      "kana": "ゆでる",
+      "pos": "他",
+      "en": "boil",
+      "kr": "/삶다, 데치다",
+      "vi": "luộc",
+      "senses": [],
+      "examples": [
+        {"ja": "熱い湯で「卵/野菜」をゆでる。", "vi": "Luộc trứng/rau trong nước sôi."}
+      ],
+      "related": [
+        {"type": "合", "ja": "ゆで卵", "vi": "trứng luộc"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 844,
+      "kanji": "揚げる",
+      "kana": "あげる",
+      "pos": "他",
+      "en": "deep-fry",
+      "kr": "/튀기다",
+      "vi": "chiên (ngập dầu)",
+      "senses": [],
+      "examples": [
+        {"ja": "油で天ぷらをあげる。", "vi": "Chiên tempura trong dầu."}
+      ],
+      "related": [
+        {"type": "合", "ja": "あげもの", "vi": "món chiên"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 845,
+      "kanji": "蒸す",
+      "kana": "むす",
+      "pos": "他",
+      "en": "steam",
+      "kr": "/찌다",
+      "vi": "hấp, đồ",
+      "senses": [],
+      "examples": [
+        {"ja": "湯をわかして、その湯気でギョーザをむす。", "vi": "Đun sôi nước rồi dùng hơi nước đó để hấp háo xào."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 846,
+      "kanji": "ぐっすり",
+      "kana": "ぐっすり",
+      "pos": "",
+      "en": "soundly (sleep)",
+      "kr": "/푹",
+      "vi": "ngủ say, ngủ một giấc sâu",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもはぐっすり眠っていて、起こしてもなかなか起きなかった。", "vi": "Đứa trẻ đang ngủ say, gọi dậy mãi vẫn không chịu dậy."},
+        {"ja": "ぐっすり寝たので疲れが取れた。", "vi": "Vì đã ngủ một giấc say nên cơn mệt mỏi đã tan biến."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 847,
+      "kanji": "きちんと",
+      "kana": "きちんと",
+      "pos": "",
+      "en": "properly; exactly; neat",
+      "kr": "/제대로, 단정히",
+      "vi": "đúng đắn, đàng hoàng; ngăn nắp, chỉnh tề",
+      "senses": [],
+      "examples": [
+        {"ja": "背中をまっすぐにして、きちんと座りなさい。", "vi": "Hãy thẳng lưng lại và ngồi ngay ngắn vào."},
+        {"ja": "鈴木さんはいつも言われたことをきちんとやる人だ。", "vi": "Anh Suzuki là người luôn làm đàng hoàng những việc được giao."},
+        {"ja": "あしたはきちんとした服で来てください。", "vi": "Ngày mai hãy mặc quần áo chỉnh tề mà đến."}
+      ],
+      "related": [],
+      "notes": ["「ちゃんと」は「きちんと」の会話的表現 — 「ちゃんと」 là cách nói hội thoại của 「きちんと」."]
+    },
+    {
+      "no": 848,
+      "kanji": "しっかり",
+      "kana": "しっかり",
+      "pos": "",
+      "en": "firmly; hard; reliable",
+      "kr": "/단단히, 확실히, 튼튼하게; 믿음직한",
+      "vi": "chắc chắn, vững vàng; chững chạc, đáng tin cậy",
+      "senses": [
+        {"no": 1, "en": "firmly, steadily", "vi": "vững vàng, chắc chắn (nắm vững, làm việc...)"}
+      ],
+      "examples": [
+        {"ja": "まず基礎をしっかり（と）身につけることが大切だ。", "vi": "Quan trọng là trước hết phải nắm vững kiến thức cơ bản."},
+        {"ja": "二人はしっかり（と）握手した。", "vi": "Hai người bắt tay thật chặt."},
+        {"ja": "長女はしっかりしているとよく言われるが、本当だろうか。", "vi": "Con gái cả thường được khen là chững chạc, nhưng không biết có thật không."},
+        {"ja": "倒れている人に「だいじょうぶか。しっかりしろ！」", "vi": "Nói với người đang ngã nằm: \"Bạn có ổn không? Cố gắng lên!\""}
+      ],
+      "related": [],
+      "notes": ["「しっかりしている」＝ người vững vàng, chững chạc."]
+    },
+    {
+      "no": 849,
+      "kanji": "はっきり",
+      "kana": "はっきり",
+      "pos": "",
+      "en": "clearly, definitely",
+      "kr": "/분명히, 확실하게",
+      "vi": "rõ ràng, rõ rệt",
+      "senses": [],
+      "examples": [
+        {"ja": "富士山がはっきり見える。", "vi": "Nhìn thấy rõ núi Phú Sĩ."},
+        {"ja": "音がはっきり（と）聞こえる。", "vi": "Nghe rõ âm thanh."},
+        {"ja": "山田さんはイエスかノーかはっきり（と）言わないから困る。", "vi": "Anh Yamada không nói rõ là đồng ý hay không nên rất phiền."},
+        {"ja": "かぜ薬を飲んだせいか、頭がはっきりしない。", "vi": "Có lẽ do uống thuốc cảm nên đầu cứ mê man không tỉnh táo."},
+        {"ja": "態度ははっきりさせる。", "vi": "Làm cho thái độ rõ ràng."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 850,
+      "kanji": "じっと",
+      "kana": "じっと",
+      "pos": "",
+      "en": "intently, patiently; still",
+      "kr": "/가만히, 조용히",
+      "vi": "yên lặng, nằm im/đứng yên; chăm chú; nhẫn nại chịu đựng",
+      "senses": [],
+      "examples": [
+        {"ja": "じっと「見る/考える/がまんする」。", "vi": "Chăm chú nhìn / suy nghĩ / nhẫn nại chịu đựng."},
+        {"ja": "暑くて、じっと座っていても汗が出てくる。", "vi": "Trời nóng nên cứ ngồi yên một chỗ cũng toát mồ hôi."},
+        {"ja": "小さい子どもはなかなかじっとしていない。", "vi": "Trẻ nhỏ mãi không chịu ngồi yên một chỗ."}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 851,
+      "kanji": "そっと",
+      "kana": "そっと",
+      "pos": "",
+      "en": "quietly; gently; leaving alone",
+      "kr": "/가만히, 조심스럽게, 살짝",
+      "vi": "khẽ, lặng lẽ; nhẹ nhàng; để yên (không quấy nhiễu)",
+      "senses": [
+        {"no": 1, "en": "quietly, secretly", "vi": "lặng lẽ, không cho ai biết"},
+        {"no": 2, "en": "gently, carefully", "vi": "nhẹ nhàng, cẩn thận"},
+        {"no": 3, "en": "leave (a person) alone", "vi": "để yên, không nhắc đến (そっとしておく)"}
+      ],
+      "examples": [
+        {"ja": "寝ている人を起きないように、そっと部屋を出た。", "vi": "Để người đang ngủ không thức giấc, tôi lặng lẽ bước ra khỏi phòng."},
+        {"ja": "壊れないように、そっと持ってください。", "vi": "Xin hãy nhấc nhẹ tay để không bị vỡ."},
+        {"ja": "「今はだれとも話したくないので、そっとしておいてください」", "vi": "\"Bây giờ tôi không muốn nói chuyện với ai cả, xin hãy để tôi yên.\""}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 852,
+      "kanji": "別々に",
+      "kana": "べつべつに",
+      "pos": "",
+      "en": "separately",
+      "kr": "/따로따로",
+      "vi": "riêng từng người/từng cái, tách riêng",
+      "senses": [],
+      "examples": [
+        {"ja": "「チョコレートとクッキーは別々に包んでください」", "vi": "\"Sô-cô-la và bánh quy xin gói riêng ra.\""},
+        {"ja": "今までは二人でやってきたが、これからは別々の道を行くことにした。", "vi": "Đến nay hai người đã cùng nhau làm, nhưng từ giờ quyết định đi trên những con đường riêng."}
+      ],
+      "related": [
+        {"type": "名", "ja": "別々", "vi": "riêng biệt (danh từ)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 853,
+      "kanji": "それぞれ",
+      "kana": "それぞれ",
+      "pos": "",
+      "en": "each, respective",
+      "kr": "/각각",
+      "vi": "mỗi người/mỗi cái, từng cái một",
+      "senses": [],
+      "examples": [
+        {"ja": "みんなはそれぞれ意見を言った。", "vi": "Mọi người đều nêu ý kiến của riêng mình."},
+        {"ja": "これらの絵には、それぞれよいところがある。", "vi": "Những bức tranh này mỗi bức đều có điểm hay riêng."},
+        {"ja": "うちは家族のそれぞれがパソコンを持っている。", "vi": "Nhà tôi mỗi người trong gia đình đều có máy vi tính."}
+      ],
+      "related": [
+        {"type": "名", "ja": "それぞれ", "vi": "từng người (danh từ)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 854,
+      "kanji": "互いに",
+      "kana": "たがいに",
+      "pos": "",
+      "en": "each other",
+      "kr": "/서로",
+      "vi": "lẫn nhau, qua lại lẫn nhau",
+      "senses": [],
+      "examples": [
+        {"ja": "彼らは互いにボールをけりあって練習した。", "vi": "Họ tập luyện bằng cách đá bóng cho nhau."},
+        {"ja": "国際理解のためには、（お）互いの文化を尊敬しなければならない。", "vi": "Vì sự hiểu biết quốc tế, phải tôn trọng văn hóa của lẫn nhau."}
+      ],
+      "related": [
+        {"type": "関", "ja": "お互い様", "vi": "cùng cảnh, giúp đỡ qua lại thì ai cũng vậy thôi"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 855,
+      "kanji": "直接",
+      "kana": "ちょくせつ",
+      "pos": "",
+      "en": "directly, on one's own",
+      "kr": "/직접",
+      "vi": "trực tiếp",
+      "senses": [],
+      "examples": [
+        {"ja": "新聞記者は、関係者から直接話を聞く必要がある。", "vi": "Phóng viên báo chí cần nghe câu chuyện trực tiếp từ những người liên quan."},
+        {"ja": "集合時間に遅れたので、一人で直接目的地に行かなければならなかった。", "vi": "Vì đến muộn giờ tập hợp nên tôi phải tự mình đi thẳng đến nơi hẹn."}
+      ],
+      "related": [
+        {"type": "合", "ja": "「～的（な）」(⇔間接的)", "vi": "trực tiếp (⇔ gián tiếp)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 856,
+      "kanji": "本当に",
+      "kana": "ほんとうに",
+      "pos": "",
+      "en": "really; to tell the truth",
+      "kr": "/정말로, 진짜; 확실히",
+      "vi": "thật sự, đúng là; thật ra",
+      "senses": [
+        {"no": 1, "en": "really, truly", "vi": "thật sự, đúng là"},
+        {"no": 2, "en": "really? (in conversation)", "vi": "thật sao? (「本当に（に）？」trong hội thoại)"},
+        {"no": 3, "en": "actually (本当は)", "vi": "thật ra (dạng 「本当は」)"}
+      ],
+      "examples": [
+        {"ja": "優勝できて、本当にうれしい。", "vi": "Đoạt được giải nhất nên tôi thật sự rất vui."},
+        {"ja": "「私は本当に悪いことはしていないんです。信じてください」", "vi": "\"Tôi thật sự chưa làm điều gì xấu cả, xin hãy tin tôi.\""},
+        {"ja": "「今度テレビに出るんだよ」「えっ、本当に（に）？」", "vi": "\"Lần này tớ được lên ti vi đấy.\" \"Hả, thật à?\""},
+        {"ja": "「本当のことを話してください」", "vi": "\"Hãy nói sự thật đi.\""},
+        {"ja": "「本当は」行くと返事をしたが、本当は行きたくない。", "vi": "Đã trả lời là \"sẽ đi\", nhưng thật ra tôi không muốn đi."}
+      ],
+      "related": [
+        {"type": "類", "ja": "実は", "vi": "thật ra"}
+      ],
+      "notes": ["会話では「ほんとに」の形になることもある — trong hội thoại đôi khi dùng dạng 「ほんとに」."]
+    },
+    {
+      "no": 857,
+      "kanji": "必ず",
+      "kana": "かならず",
+      "pos": "",
+      "en": "surely, without fail; always",
+      "kr": "/반드시",
+      "vi": "nhất định, chắc chắn; luôn luôn",
+      "senses": [
+        {"no": 1, "en": "surely, without fail (promise, order)", "vi": "nhất định, chắc chắn (lời hứa, yêu cầu)"},
+        {"no": 2, "en": "always, without exception", "vi": "luôn luôn, không ngoại lệ (thói quen)"}
+      ],
+      "examples": [
+        {"ja": "この書類はあした必ず出してください。", "vi": "Xin hãy nhất định nộp những tài liệu này vào ngày mai."},
+        {"ja": "「あしたのパーティーにぜひ来てください」「わあ、うれしい。必ず行きますよ」", "vi": "\"Mai hãy nhất định đến buổi tiệc nhé.\" \"Ơi, vui quá. Tôi nhất định đi mà.\""},
+        {"ja": "私は毎朝必ず牛乳を飲むことにしています。", "vi": "Tôi quy định cho mình phải uống sữa mỗi sáng."}
+      ],
+      "related": [
+        {"type": "類", "ja": "きっと、絶対⇒858", "vi": "chắc chắn, nhất định (xem 858)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 858,
+      "kanji": "絶対（に）",
+      "kana": "ぜったい（に）",
+      "pos": "",
+      "en": "absolutely; never",
+      "kr": "/절대로",
+      "vi": "tuyệt đối (chắc chắn); tuyệt đối không",
+      "senses": [
+        {"no": 1, "en": "absolutely (strong assertion)", "vi": "tuyệt đối (khẳng định mạnh ý chí)"},
+        {"no": 2, "en": "never, absolutely not (strong negation)", "vi": "tuyệt đối không (phủ định mạnh)"}
+      ],
+      "examples": [
+        {"ja": "今年は絶対（に）合格するつもりだ。", "vi": "Năm nay tôi nhất định sẽ đậu."},
+        {"ja": "「約束は守ってください。絶対ですよ」", "vi": "\"Hãy giữ lời hứa nhé. Tuyệt đối đấy.\""},
+        {"ja": "あしたは大事な試験だから、絶対遅刻できない。", "vi": "Vì mai có bài thi quan trọng nên tuyệt đối không được đi trễ."},
+        {"ja": "「絶対に見るな」と言われていたのに、見てしまった。", "vi": "Dù bị dặn \"tuyệt đối không được nhìn\" nhưng tôi vẫn nhìn."}
+      ],
+      "related": [
+        {"type": "類", "ja": "必ず⇒857", "vi": "nhất định (xem 857)"},
+        {"type": "類", "ja": "決して⇒862", "vi": "quyết không (xem 862)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 859,
+      "kanji": "特に",
+      "kana": "とくに",
+      "pos": "",
+      "en": "especially, in particular",
+      "kr": "/특히, 특별히",
+      "vi": "đặc biệt, nhất là; (phủ định) chẳng có gì đặc biệt",
+      "senses": [
+        {"no": 1, "en": "especially, in particular", "vi": "đặc biệt, nhất là"},
+        {"no": 2, "en": "particularly (with negative: nothing special)", "vi": "có gì đặc biệt đâu (dùng với nghĩa phủ định)"}
+      ],
+      "examples": [
+        {"ja": "くだものは何でも好きですが、特にメロンが好きです。", "vi": "Trái cây gì tôi cũng thích, nhưng thích nhất là dưa lưới."},
+        {"ja": "かぜがはやっている。特に子どもとお年寄りは注意が必要だ。", "vi": "Cảm cúm đang lan ra. Đặc biệt trẻ nhỏ và người già cần phải chú ý."},
+        {"ja": "「何かいいもの、ある？」「特にないよ」", "vi": "\"Có gì hay không?\" \"Chẳng có gì đặc biệt.\""}
+      ],
+      "related": [
+        {"type": "類", "ja": "特別⇒581", "vi": "đặc biệt (xem 581)"},
+        {"type": "類", "ja": "別に⇒871", "vi": "chẳng có gì (xem 871)"}
+      ],
+      "notes": []
+    },
+    {
+      "no": 860,
+      "kanji": "ただ",
+      "kana": "ただ",
+      "pos": "",
+      "en": "just; only",
+      "kr": "/그저, 단지",
+      "vi": "chỉ, đơn giản chỉ; chỉ có duy nhất",
+      "senses": [
+        {"no": 1, "en": "just, merely", "vi": "chỉ, đơn giản chỉ"},
+        {"no": 2, "en": "only (ただ一人)", "vi": "chỉ có duy nhất (dạng 「ただ一人」)"}
+      ],
+      "examples": [
+        {"ja": "子どもは何を聞いてもただ笑っているだけだった。", "vi": "Hỏi gì đứa trẻ cũng chỉ biết cười."},
+        {"ja": "「私はただ、あなたを助けたいと思って手伝ったのです」", "vi": "\"Tôi giúp chỉ đơn giản là vì muốn giúp bạn.\""},
+        {"ja": "その学校で、私はただ一人の日本人だった。", "vi": "Ở ngôi trường ấy, tôi là người Nhật duy nhất."}
+      ],
+      "related": [],
+      "notes": ["「ただ」は「～だけ」の形でも使う（⇒872）— 「ただ」 còn được dùng với dạng 「～だけ」 (xem 872)."]
+    },
+    {
+      "no": 861,
+      "kanji": "少なくとも",
+      "kana": "すくなくとも",
+      "pos": "",
+      "en": "at least",
+      "kr": "/적어도",
+      "vi": "ít nhất",
+      "senses": [],
+      "examples": [
+        {"ja": "ここから駅まで歩いたら、少なくとも30分はかかるだろう。", "vi": "Nếu đi bộ từ đây đến ga thì chắc ít nhất cũng mất 30 phút."},
+        {"ja": "「毎日予習をしてください。少なくとも、言葉の意味は調べてきてください」", "vi": "\"Hãy chuẩn bị bài trước mỗi ngày. Ít nhất cũng hãy tra nghĩa của các từ mới.\""}
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 862,
+      "kanji": "決して",
+      "kana": "けっして",
+      "pos": "",
+      "en": "never (with negation)",
+      "kr": "/결코, 절대로 (아니다)",
+      "vi": "quyết không, tuyệt đối không",
+      "senses": [],
+      "examples": [
+        {"ja": "「このことは、決してほかの人には言わないつもりだ」", "vi": "\"Chuyện này tôi quyết không định nói với bất kỳ ai.\""},
+        {"ja": "「最後まで決してあきらめるな」", "vi": "\"Đừng bao giờ bỏ cuộc cho đến cùng.\""}
+      ],
+      "related": [
+        {"type": "類", "ja": "絶対⇒858", "vi": "tuyệt đối (xem 858)"}
+      ],
+      "notes": ["否定的な表現といっしょに使う — dùng cùng với biểu hiện phủ định."]
+    },
+    {
+      "no": 863,
+      "kanji": "少しも",
+      "kana": "すこしも",
+      "pos": "",
+      "en": "(not) at all",
+      "kr": "/조금도, 전혀",
+      "vi": "chút nào cũng không, hoàn toàn không",
+      "senses": [],
+      "examples": [
+        {"ja": "毎日運動しているのに、少しも体重が減らない。", "vi": "Tuy tập thể dục mỗi ngày nhưng cân nặng không giảm chút nào."},
+        {"ja": "あの人がうそをついているとは、少しも思わなかった。", "vi": "Tôi không hề nghĩ rằng người ấy đang nói dối."}
+      ],
+      "related": [
+        {"type": "類", "ja": "ちっとも（会話的表現）、ぜんぜん、まったく", "vi": "không chút nào (từ hội thoại), hoàn toàn không"}
+      ],
+      "notes": ["否定的な表現といっしょに使う — dùng cùng với biểu hiện phủ định."]
+    },
+    {
+      "no": 864,
+      "kanji": "ちっとも",
+      "kana": "ちっとも",
+      "pos": "",
+      "en": "(not) at all",
+      "kr": "/조금도, 전혀",
+      "vi": "không chút nào, chẳng chút nào",
+      "senses": [],
+      "examples": [
+        {"ja": "「あの二人、付き合っているらしいよ」「へえ、ちっとも知らなかった」", "vi": "\"Hai người đó hình như đang hẹn hò đấy.\" \"Ơ, tớ chẳng hề biết.\""},
+        {"ja": "まわりがうるさいので、ちっとも勉強が進まない。", "vi": "Xung quanh ồn ào nên việc học chẳng tiến triển được chút nào."}
+      ],
+      "related": [
+        {"type": "類", "ja": "ぜんぜん、まったく、少しも", "vi": "hoàn toàn không, chút nào cũng không"}
+      ],
+      "notes": ["会話的な言葉。否定的な表現といっしょに使う — từ mang tính hội thoại; dùng cùng với biểu hiện phủ định."]
+    },
+    {
+      "no": 865,
+      "kanji": "全く",
+      "kana": "まったく",
+      "pos": "",
+      "en": "(not) at all; completely, really",
+      "kr": "/완전히, 전혀, 정말로",
+      "vi": "hoàn toàn; hoàn toàn không; đúng là, thật là",
+      "senses": [
+        {"no": 1, "en": "(not) at all (with negation)", "vi": "hoàn toàn không (dùng với phủ định)"},
+        {"no": 2, "en": "completely, entirely", "vi": "hoàn toàn, y hệt"},
+        {"no": 3, "en": "really (exasperation, agreement)", "vi": "thật là, đúng là (than phiền hoặc tán thành)"}
+      ],
+      "examples": [
+        {"ja": "タンさんが帰国したことを、私は全く知らなかった。", "vi": "Tôi hoàn toàn không biết chuyện anh Tản đã về nước."},
+        {"ja": "この二つは全く同じように見えるが、実はこちらは偽物なのだ。", "vi": "Hai cái này trông như hệt nhau, nhưng thật ra cái này là hàng giả."},
+        {"ja": "上田君は勉強しないし欠席も多い。全く困った学生だ。", "vi": "Cậu Ueda thì không chịu học lại hay nghỉ học. Đúng là một học sinh rắc rối thật."},
+        {"ja": "「最近の若い人たちのマナーはひどいですね」「まったくですねえ」", "vi": "\"Gần đây cách cư xử của giới trẻ tệ thật đấy.\" \"Đúng là thế mà.\""}
+      ],
+      "related": [
+        {"type": "類", "ja": "ぜんぜん、少しも、ちっとも", "vi": "hoàn toàn không, chút nào cũng không"}
+      ],
+      "notes": ["否定的な表現といっしょに使う（①）— nghĩa ① dùng cùng với biểu hiện phủ định."]
+    },
+    {
+      "no": 866,
+      "kanji": "とても",
+      "kana": "とても",
+      "pos": "",
+      "en": "very; hardly",
+      "kr": "/매우, 도저히",
+      "vi": "rất; (với phủ định) dứt khoát không thể",
+      "senses": [
+        {"no": 1, "en": "very", "vi": "rất"},
+        {"no": 2, "en": "(not) possibly (with negation)", "vi": "dứt khoát không thể (dùng với phủ định)"}
+      ],
+      "examples": [
+        {"ja": "このレポートはとてもよく書けている。", "vi": "Bản báo cáo này viết rất tốt."},
+        {"ja": "「このケーキ、とてもおいしい」", "vi": "\"Bánh này rất ngon.\""},
+        {"ja": "こんな大変な仕事、私にはとても「できそうもない/無理だ」", "vi": "Công việc khó nhọc thế này thì tôi dứt khoát không thể làm nổi."}
+      ],
+      "related": [],
+      "notes": ["否定的な表現といっしょに使う（②）— nghĩa ② dùng cùng với biểu hiện phủ định.", "「とっても」は「とても」の会話的な言葉 — 「とっても」 là cách nói hội thoại của 「とても」."]
+    },
+    {
+      "no": 867,
+      "kanji": "どんなに",
+      "kana": "どんなに",
+      "pos": "",
+      "en": "how much; no matter how",
+      "kr": "/얼마나, 아무리",
+      "vi": "biết bao, chừng nào; dù... đến đâu",
+      "senses": [
+        {"no": 1, "en": "how much (どんなにか)", "vi": "biết bao (dùng dạng 「どんなにか」)"},
+        {"no": 2, "en": "no matter how (どんなに～ても)", "vi": "dù... đến đâu (dùng dạng 「どんなに～ても」)"}
+      ],
+      "examples": [
+        {"ja": "「どうして連絡してくれなかったの？」「どんなに心配したか、わかる？」", "vi": "\"Tại sao không liên lạc với tôi?\" \"Bạn có biết tôi đã lo lắng biết bao không?\""},
+        {"ja": "どんなにがんばってもあの人には勝てない。", "vi": "Dù cố gắng đến đâu cũng không thắng nổi người ấy."}
+      ],
+      "related": [],
+      "notes": ["①は「どんなにか」の形で使う — nghĩa ① dùng dạng 「どんなにか」.", "②は「どんなに～ても」の形で使う — nghĩa ② dùng dạng 「どんなに～ても」.", "①②とも「どれほど」より会話的 — cả hai nghĩa đều mang tính hội thoại hơn 「どれほど」."]
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム21 衣食住「食」 Food",
+      "book_page": 193,
+      "items": [
+        ["電子レンジ", "でんしレンジ", "microwave oven /전자레인지", "lò vi sóng"],
+        ["オーブン", "オーブン", "oven", "lò nướng"],
+        ["トースター", "トースター", "toaster", "lò nướng bánh mì"],
+        ["炊飯器", "すいはんき", "rice cooker", "nồi cơm điện"],
+        ["なべ（＋ふた）", "なべ（＋ふた）", "pot (+ lid)", "nồi (+ nắp)"],
+        ["中華なべ", "ちゅうかなべ", "Chinese wok", "chảo/nồi nấu kiểu Trung Hoa (wok)"],
+        ["フライパン", "フライパン", "frying pan", "chảo rán"],
+        ["やかん", "やかん", "kettle", "ấm đun nước"],
+        ["お玉じゃくし", "おたまじゃくし", "ladle", "vá (muối xúp)"],
+        ["フライ返し", "フライがえし", "spatula", "xẻng lật đồ chiên"],
+        ["しゃもじ", "しゃもじ", "rice paddle", "xẻng cơm"],
+        ["包丁", "ほうちょう", "kitchen knife", "dao bếp"],
+        ["ナイフ", "ナイフ", "knife", "dao"],
+        ["まな板", "まないた", "cutting board", "thớt"],
+        ["塩", "しお", "salt /소금", "muối"],
+        ["こしょう", "こしょう", "pepper /후추", "hạt tiêu"],
+        ["さとう", "さとう", "sugar /설탕", "đường"],
+        ["しょうゆ", "しょうゆ", "soy sauce /간장", "xì dầu (nước tương)"],
+        ["みそ", "みそ", "miso, soybean paste /된장", "miso (tương đậu nành)"],
+        ["酢", "す", "vinegar /식초", "giấm"],
+        ["油", "あぶら", "oil /기름", "dầu ăn"],
+        ["ソース", "ソース", "sauce /소스", "xốt"],
+        ["マヨネーズ", "マヨネーズ", "mayonnaise /마요네즈", "sốt mai-ô-nê"],
+        ["ケチャップ", "ケチャップ", "ketchup /케첩", "tương cà"],
+        ["ドレッシング", "ドレッシング", "dressing /드레싱", "nước xốt trộn sa-lét"],
+        ["皿", "さら", "plate", "đĩa"],
+        ["（お）ちゃわん", "（お）ちゃわん", "rice bowl", "bát (đựng cơm)"],
+        ["（お）わん", "（お）わん", "bowl", "bát nhỏ, bát súp"],
+        ["どんぶり", "どんぶり", "deep bowl", "bát to (đựng cơm trộn)"],
+        ["湯のみ", "ゆのみ", "tea cup", "cốc uống trà không quai"],
+        ["コップ", "コップ", "glass, cup", "cốc"],
+        ["カップ", "カップ", "cup", "tách (có quai)"],
+        ["グラス", "グラス", "glass", "ly thủy tinh"],
+        ["はし", "はし", "chopsticks", "đũa"],
+        ["スプーン", "スプーン", "spoon", "thìa"],
+        ["フォーク", "フォーク", "fork", "nĩa"],
+        ["ナイフ", "ナイフ", "knife", "dao ăn"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "pdf_page": 189,
+      "book_page": 188,
+      "unit": "Unit 11",
+      "title": "カタカナB 練習問題I（I〜V）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に助詞を書きなさい。",
+          "instruction_vi": "Viết trợ từ vào ( ).",
+          "questions": [
+            {"no": 1, "ja": "写真のコンテスト（　）2位になった。"},
+            {"no": 2, "ja": "音楽を聞いて、ヨーロッパの風景（　）イメージした。"},
+            {"no": 3, "ja": "彼はユーモア（　）あって、クラスの人気者だ。"},
+            {"no": 4, "ja": "かべ（　）ペンキをぬる。"},
+            {"no": 5, "ja": "ボランティア（　）日本語を教えている。"}
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "「する」がつくことばに○をつけなさい。",
+          "instruction_vi": "Đánh ○ vào những từ có thể gắn 「する」.",
+          "words": ["アップ", "ショック", "スケジュール", "スタイル", "ストーリー", "セット", "テーマ", "パートナー", "ヒット", "マイク", "マイナス", "レンタル"]
+        },
+        {
+          "label": "III",
+          "instruction": "（　）に下からえらんだ語を書いて、一つのことばにしなさい。",
+          "instruction_vi": "Viết từ chọn ở phần dưới vào ( ) để tạo thành một từ.",
+          "box": ["カメラ", "コンピューター", "シップ", "ジャージ", "ショップ", "ダウン", "ビル"],
+          "questions": [
+            {"no": 1, "ja": "レベル（　）"},
+            {"no": 2, "ja": "ミス（　）"},
+            {"no": 3, "ja": "オフィス（　）"},
+            {"no": 4, "ja": "デジタル（　）"},
+            {"no": 5, "ja": "リーダー（　）"},
+            {"no": 6, "ja": "リサイクル（　）"},
+            {"no": 7, "ja": "（　）ウイルス"}
+          ]
+        },
+        {
+          "label": "IV",
+          "instruction": "意味が近いことばを、下からえらんで書きなさい。",
+          "instruction_vi": "Chọn từ có nghĩa gần nhất ở phần dưới và viết vào.",
+          "box": ["かた", "きそく", "さいりよう", "よてい", "エチケット", "コンクール"],
+          "questions": [
+            {"no": 1, "ja": "コンテスト（　）"},
+            {"no": 2, "ja": "ルール（　）"},
+            {"no": 3, "ja": "リサイクル（　）"},
+            {"no": 4, "ja": "マナー（　）"},
+            {"no": 5, "ja": "タイプ（　）"},
+            {"no": 6, "ja": "スケジュール（　）"}
+          ]
+        },
+        {
+          "label": "V",
+          "instruction": "つぎのことばの対義語を書きなさい。",
+          "instruction_vi": "Viết từ trái nghĩa với các từ sau.",
+          "questions": [
+            {"no": 1, "ja": "デジタル⇔（　）"},
+            {"no": 2, "ja": "ダウン⇔（　）"},
+            {"no": 3, "ja": "マイナス⇔（　）"}
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 190,
+      "book_page": 189,
+      "unit": "Unit 11",
+      "title": "カタカナB 練習問題I（VI〜VIII）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "VI",
+          "instruction": "つぎのことばには「一」が一つ入ります。適当なところに入れなさい。",
+          "instruction_vi": "Các từ sau đều có một chữ 「一」. Hãy chèn vào vị trí thích hợp.",
+          "questions": [
+            {"no": 1, "ja": "エネルギー"},
+            {"no": 2, "ja": "プライバシー"},
+            {"no": 3, "ja": "コミュニケーション"},
+            {"no": 4, "ja": "ブレーキ"}
+          ]
+        },
+        {
+          "label": "VII",
+          "instruction": "正しいことばを〔　〕の中から一つえらびなさい。",
+          "instruction_vi": "Chọn một từ đúng trong 〔　〕.",
+          "questions": [
+            {"no": 1, "ja": "バランスが〔いい/高い/強い〕。", "options": ["いい", "高い", "強い"]},
+            {"no": 2, "ja": "レベルが〔いい/高い/大きい〕。", "options": ["いい", "高い", "大きい"]},
+            {"no": 3, "ja": "ショックが〔いい/高い/大きい〕。", "options": ["いい", "高い", "大きい"]},
+            {"no": 4, "ja": "マナーが〔いい/高い/強い〕。", "options": ["いい", "高い", "強い"]},
+            {"no": 5, "ja": "イメージが〔出る/浮かぶ/浮く〕。", "options": ["出る", "浮かぶ", "浮く"]},
+            {"no": 6, "ja": "ブレーキを〔おす/ふむ/切る〕。", "options": ["おす", "ふむ", "切る"]},
+            {"no": 7, "ja": "ルールを〔あう/したがう/まもる〕。", "options": ["あう", "したがう", "まもる"]},
+            {"no": 8, "ja": "スケジュールを〔かける/立てる/取る〕。", "options": ["かける", "立てる", "取る"]}
+          ]
+        },
+        {
+          "label": "VIII",
+          "instruction": "（　）に入ることばを下からえらんで書きなさい。",
+          "instruction_vi": "Chọn từ ở khung dưới điền vào ( ).",
+          "box": ["スタイル", "ストレス", "セット", "タイトル", "タイプ", "ダウン", "パートナー", "ブランド", "マイナス", "マスコミ", "ラベル", "ロボット"],
+          "questions": [
+            {"no": 1, "ja": "長く付き合える（　）に出会うのは難しい。"},
+            {"no": 2, "ja": "「どんな（　）の男性が好きですか」"},
+            {"no": 3, "ja": "たくさん残業したのに、給料は（　）になった。"},
+            {"no": 4, "ja": "映画の（　）を忘れてしまった。"},
+            {"no": 5, "ja": "がんばって働いたのに、給料が（　）してしまった。"},
+            {"no": 6, "ja": "（　）の報道がまちがっていることもある。"},
+            {"no": 7, "ja": "ワインの（　）には生産地が書いてある。"},
+            {"no": 8, "ja": "彼女は美人で（　）もいい。"},
+            {"no": 9, "ja": "海外で（　）品を買う日本人が多い。"},
+            {"no": 10, "ja": "（　）解消には、カラオケがいい。"},
+            {"no": 11, "ja": "危険な仕事は（　）にやらせる。"},
+            {"no": 12, "ja": "テーブルとソファーを（　）で買った。"}
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 191,
+      "book_page": 190,
+      "unit": "Unit 06+11",
+      "title": "カタカナA・B 練習問題II（I・II）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に入れるのに最もよいものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn đáp án a・b・c・d thích hợp nhất điền vào ( ).",
+          "questions": [
+            {"no": 1, "ja": "留守番電話に（　）を残した。", "options": ["インタビュー", "マッサージ", "アナウンス", "メッセージ"]},
+            {"no": 2, "ja": "「このすばらしい経験は、あなたの人生にとって（　）になるでしょう」", "options": ["プラス", "マイナス", "アップ", "ダウン"]},
+            {"no": 3, "ja": "映画の（　）ソングを歌う。", "options": ["タイトル", "マナー", "ストーリー", "ラベル"]},
+            {"no": 4, "ja": "結婚して、人生の大切な（　）を得た。", "options": ["リーダー", "チーム", "ベット", "パートナー"]},
+            {"no": 5, "ja": "もっと（　）が高いクラスで勉強したい。", "options": ["レベル", "ラベル", "アップ", "プラス"]},
+            {"no": 6, "ja": "飛行機事故のニュースを見て、（　）を受けた。", "options": ["ユーモア", "イメージ", "ショック", "ストレス"]},
+            {"no": 7, "ja": "正しい（　）で食事をするのは難しい。", "options": ["ルール", "マネー", "マナー", "セット"]},
+            {"no": 8, "ja": "遅刻しそうになったので、車の（　）を上げた。", "options": ["スピード", "ランシェ", "トップ", "プラス"]},
+            {"no": 9, "ja": "（　）が破れてしまった。", "options": ["ガラス", "ビニール", "プラスチック", "ヘルメット"]},
+            {"no": 10, "ja": "役所で日本語の通訳の（　）を募集している。", "options": ["レポート", "リサイクル", "ボランティア", "アマチュア"]}
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "＿＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn từ có nghĩa gần nhất với phần gạch chân từ a・b・c・d.",
+          "questions": [
+            {"no": 1, "ja": "入学式に着る服をレンタルした。", "options": ["借りた", "貸した", "買った", "使った"]},
+            {"no": 2, "ja": "兄が病気でダウンしてしまった。", "options": ["きがって", "おりて", "たおれて", "ひいて"]},
+            {"no": 3, "ja": "来週のスケジュールがまだ決まっていません。", "options": ["予定", "約束", "事件", "記録"]},
+            {"no": 4, "ja": "先生に相談して、論文のタイトルがやっと決まった。", "options": ["課題", "問題", "題名", "内容"]}
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 192,
+      "book_page": 191,
+      "unit": "Unit 06+11",
+      "title": "カタカナA・B 練習問題II（II-5・III）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "II",
+          "instruction": "＿＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。（つづき）",
+          "instruction_vi": "Chọn từ có nghĩa gần nhất với phần gạch chân từ a・b・c・d. (tiếp theo)",
+          "questions": [
+            {"no": 5, "ja": "旅行の話をユーモアたっぷりに話す。", "options": ["たいくつに", "おもしろく", "つまらなそうに", "うれしそうに"]}
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "つぎのことばの言い方として最もよいものを、一つえらびなさい。",
+          "instruction_vi": "Chọn câu dùng từ sao cho đúng nhất.",
+          "questions": [
+            {"no": 1, "ja": "コンテスト", "options": ["写真のコンテストに参加した。", "マラソンのコンテストで優勝した人にインタビューをした。", "「来週スピーチをコンテストします」", "学校ではコンテストを行事がある。"]},
+            {"no": 2, "ja": "デザイン", "options": ["この歌をデザインしたのは有名な作曲家だ。", "きのう宿題で詩をデザインした。", "あの手紙をデザインしたのは、その会社の社長だろう。", "このアクセサリーをデザインした人は、来月パリに店を開くそうだ。"]},
+            {"no": 3, "ja": "リサイクル", "options": ["父の会社では、退職した人のリサイクルを行っている。", "リサイクルのためにペットボトルを集める。", "近所の食卓では、フルーツのリサイクルが盛んだ。", "ペットのリサイクルの店がある。"]},
+            {"no": 4, "ja": "セット", "options": ["自転車のブレーキをセットした。", "セットでバイクが故障した。", "寝る前に炊飯器のタイマーをセットした。", "新しいスーツとくつを玄関にセットした。"]},
+            {"no": 5, "ja": "ラッシュ", "options": ["今は食堂がラッシュの時間だ。", "ラッシュのホテルを予約するのは難しい。", "ラッシュの飛行機に乗って、とても疲れた。", "ラッシュの時間にバスに乗るのは大変だ。"]}
+          ]
+        }
+      ],
+      "answers_printed": null
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 189, "book_page": 188, "unit": "Unit 11", "title": "カタカナB 練習問題I（I〜V）", "word_range": "796〜835", "step": 3, "notes": "Trang bài tập Unit 11 カタカナB (từ 796〜835), các phần I〜V."},
+    {"pdf_page": 190, "book_page": 189, "unit": "Unit 11", "title": "カタカナB 練習問題I（VI〜VIII）", "word_range": "796〜835", "step": 3, "notes": "Trang bài tập Unit 11 カタカナB, các phần VI〜VIII."},
+    {"pdf_page": 191, "book_page": 190, "unit": "Unit 06+11", "title": "カタカナA・B 練習問題II（I・II）", "word_range": "511〜550/796〜835", "step": 3, "notes": "Trang bài tập tổng hợp Unit 06+11 カタカナA・B (từ 511〜550/796〜835)."},
+    {"pdf_page": 192, "book_page": 191, "unit": "Unit 06+11", "title": "カタカナA・B 練習問題II（II-5・III）", "word_range": "511〜550/796〜835", "step": 3, "notes": "Trang bài tập tổng hợp Unit 06+11 カタカナA・B (tiếp theo)."},
+    {"pdf_page": 193, "book_page": 192, "unit": "まとめ", "title": "料理の動詞", "word_range": "836〜845", "step": null, "notes": "Trang tổng hợp các động từ nấu ăn 836〜845."},
+    {"pdf_page": 194, "book_page": 193, "unit": "コラム21", "title": "衣食住「食」", "word_range": "", "step": null, "notes": "Trang cột (column) về dụng cụ nấu ăn, gia vị, đồ ăn — không có từ vựng đánh số."},
+    {"pdf_page": 195, "book_page": 194, "unit": "Unit 12", "title": "副詞B・連体詞・接続詞", "word_range": "846〜880", "step": 3, "notes": "Trang tiêu đề Unit 12; các từ 846〜851 nằm ở trang này, các từ 846〜867 nằm ở trang ảnh 195〜198 (trang sách 194〜197); phần còn lại (868〜880) thuộc file sau."}
+  ]
+}

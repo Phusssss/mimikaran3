@@ -1,0 +1,246 @@
+{
+  "pdf_pages": "18-27",
+  "points": [
+    {
+      "no": 12,
+      "pattern": "自動詞を使った表現",
+      "stars": 1,
+      "senses": ["Biểu thị tính chất, trạng thái của sự vật bằng động từ tự động"],
+      "connection": "Động từ tự động (dạng thường, kể cả dạng 〜やすい／〜にくい) thay cho tính từ hoặc động từ tha động",
+      "vi": "cách diễn đạt dùng động từ tự động",
+      "explanation": "Thay vì dùng động từ tha động (làm cho...) hay tính từ, tiếng Nhật thường dùng động từ tự động để mô tả tính chất, trạng thái sẵn có của sự vật, ví dụ 入る (đựng được) thay vì 入れる, 切れる (sắc, cắt được) thay vì 切る. Dạng 〜やすい／〜にくい gắn vào động từ tự động cũng diễn tả tính chất dễ/khó xảy ra của sự vật.",
+      "examples": [
+        {"ja": "このかばんは軽くてたくさん入るので、旅行に便利だ。", "vi": "Chiếc cặp này nhẹ và đựng được nhiều thứ nên tiện khi đi du lịch."},
+        {"ja": "このマンガはよく売れていて、人気があるのだろう。", "vi": "Bộ truyện này bán chạy nên hẳn là được ưa chuộng."},
+        {"ja": "「壊れやすいものですから、気をつけて運んでください」", "vi": "\"Đây là đồ dễ hỏng nên xin hãy mang cẩn thận.\""},
+        {"ja": "私の髪はパーマがかかりにくい。", "vi": "Tóc tôi khó giữ nếp uốn."},
+        {"ja": "この包丁はよく切れる。", "vi": "Con dao này sắc, cắt rất lọt."}
+      ]
+    },
+    {
+      "no": 13,
+      "pattern": "〜み",
+      "stars": 1,
+      "senses": ["Biến tính từ i / tính từ na thành danh từ; biểu thị tính chất, trạng thái có thể cảm nhận được"],
+      "connection": "【Tính từ i / Tính từ na】gốc từ (bỏ い／な) + み (lưu ý: số tính từ dùng được với み không nhiều)",
+      "vi": "độ..., vẻ..., tính... (danh từ hoá tính từ)",
+      "explanation": "Gắn み vào gốc tính từ để tạo danh từ chỉ tính chất, trạng thái được cảm nhận như 楽しみ (niềm vui), 丸み (độ tròn), 厚み (độ dày). Không phải tính từ nào cũng gắn được み nên cần nhớ từng trường hợp cụ thể.",
+      "examples": [
+        {"ja": "・丸みを帯びた形 ・青みを帯びた白 ・厚みのある板", "vi": "・hình dáng tròn trịa ・màu trắng pha xanh ・tấm ván có độ dày"},
+        {"ja": "校長は入学式で毎年同じことを言っていて、ぜんぜん新鮮みがない。", "vi": "Hiệu trưởng năm nào ở lễ khai giảng cũng nói đúng một chuyện nên chẳng có gì mới mẻ."},
+        {"ja": "「お会いできる日を楽しみにしています」", "vi": "\"Tôi mong chờ đến ngày được gặp anh/chị.\""}
+      ]
+    },
+    {
+      "no": 14,
+      "pattern": "〜のではないだろうか／ないかと思う",
+      "stars": 1,
+      "senses": ["Diễn tả ý kiến, chủ trương/quan điểm (cách phán đoán gián tiếp: \"có phải là... chăng?\")"],
+      "connection": "Danh từ + なのではないだろうか ／【Động từ · Tính từ i · Tính từ na】dạng bổ nghĩa danh từ + のではないだろうか",
+      "vi": "chẳng phải là... chăng? / tôi nghĩ có khi nào... không?",
+      "explanation": "Cách đưa ra ý kiến, phán đoán một cách gián tiếp, nhẹ nhàng thay cho khẳng định thẳng. Biến thể hội thoại 〜んじゃない？／んじゃないかと思う có nghĩa tương tự, dùng trong giao tiếp hàng ngày.",
+      "examples": [
+        {"ja": "道が込んでいる。これは時間に間に合わないのではないだろうか。", "vi": "Đường đang kẹt xe. Vậy chắc là không kịp giờ rồi."},
+        {"ja": "この仕事を６時までに終わらせるのは無理なのではないだろうか。", "vi": "Việc phải hoàn thành công việc này trước 6 giờ thì chắc là bất khả thi."},
+        {"ja": "ＡチームよりＢチームのほうが強いのではないかと思う。", "vi": "Tôi nghĩ đội B có khi mạnh hơn đội A."},
+        {"ja": "彼は犯人ではないのではないかと思う。", "vi": "Tôi nghĩ anh ấy có khi nào phải hung thủ đâu."},
+        {"ja": "木村さんは知らないと言ったが、本当は知っていたのではないだろうか。", "vi": "Anh Kimura nói là không biết, nhưng thật ra chắc là đã biết."},
+        {"ja": "「山田さんへのプレゼント、何がいいと思う？」「山田さんは甘いものが好きだから、おいしいお菓子がいいんじゃない？」", "vi": "\"Quà cho anh Yamada, em nghĩ cái gì tốt?\" \"Anh Yamada thích đồ ngọt nên bánh ngon thì hay nhỉ?\""},
+        {"ja": "「木村さん、遅いな」「もしかしたら、約束を忘れているんじゃない？」", "vi": "\"Anh Kimura chậm quá\" \"Có khi nào anh ấy quên hẹn rồi không?\""},
+        {"ja": "「林さん、きょう会議があることを知らないんじゃないかと思うんですけど」", "vi": "\"Tôi nghĩ có khi anh Hayashi không biết hôm nay có họp.\""}
+      ]
+    },
+    {
+      "no": 15,
+      "pattern": "縮約形（てる・とく・なきゃ・なくちゃ）",
+      "stars": 1,
+      "senses": ["Dạng co ngắn trong hội thoại: ①〜ている→てる、〜でいる→でる ②〜ておく→とく、〜でおく→どく ③〜なければ→なきゃ ④〜なくては（いけない）→なくちゃ（いけない）、〜なければ（ならない）→なきゃ（ならない）"],
+      "connection": "Các dạng て形 + いる／おく、なければ、なくては bị co giọng lại khi nói",
+      "vi": "dạng rút gọn (ngôn ngữ nói)",
+      "explanation": "Trong hội thoại, ている・ておく・なければ・なくては thường bị co ngắn thành てる・とく・なきゃ・なくちゃ. Đây là cách nói tự nhiên nhưng không dùng trong văn viết trang trọng.",
+      "examples": [
+        {"ja": "「あそこに座ってる人、だれ？」", "vi": "\"Người đang ngồi đằng kia là ai nhỉ?\""},
+        {"ja": "「すぐ行くから、先に行ってて」", "vi": "\"Mình đi ngay đây, cậu đi trước nhé\""},
+        {"ja": "「どうしたの。泣いてちゃわからないよ。理由を言ってくれなくちゃ」", "vi": "\"Sao thế? Cậu cứ khóc thì tớ đâu hiểu được. Phải nói lý do chứ\""},
+        {"ja": "「来週までにこの本、読んどいてください」", "vi": "\"Đến tuần sau thì đọc xong cuốn sách này giùm nhé\""},
+        {"ja": "「これ、どこに片付けるんですか」「机の上に置いといていいよ」", "vi": "\"Cái này cất vào đâu đây?\" \"Cứ để trên bàn là được rồi\""},
+        {"ja": "「大事なことはメモしといてください」", "vi": "\"Việc quan trọng thì ghi chú lại giùm nhé\""},
+        {"ja": "「夏休みに海外旅行に行くんでしょ。早くパスポート取っとかないと、間に合わないよ」", "vi": "\"Kỳ nghỉ hè cậu đi du lịch nước ngoài chứ? Phải nhanh làm hộ chiếu không thì không kịp đâu\""},
+        {"ja": "もっと勉強しなきゃ、合格できないだろうな。", "vi": "Phải học nhiều hơn nữa không thì làm sao đậu được."}
+      ]
+    },
+    {
+      "no": 16,
+      "pattern": "〜から〜にかけて",
+      "stars": 1,
+      "senses": ["Phạm vi khoảng chừng (từ... đến...)"],
+      "connection": "Danh từ (から) 名詞 (にかけて)",
+      "vi": "từ... đến... (phạm vi không chính xác, kéo dài)",
+      "explanation": "Diễn tả khoảng thời gian hoặc địa điểm chừng mực, không chính xác hoàn toàn, trải dài từ điểm A đến điểm B. Khác から〜まで, khoảng cách này mang tính gần đúng và sự việc thường diễn ra suốt trong khoảng đó.",
+      "examples": [
+        {"ja": "このあたりでは、４月から５月にかけていろいろな花が咲く。", "vi": "Ở vùng này, từ tháng 4 đến tháng 5 các loại hoa lần lượt nở."},
+        {"ja": "台風の影響で、昨夜からけさにかけて、激しい雨が降り続いた。", "vi": "Do ảnh hưởng của bão, từ đêm qua đến sáng nay mưa to kéo dài không dứt."},
+        {"ja": "この植物は九州北部から中部にかけて見られる。", "vi": "Cây này có thể thấy ở vùng từ bắc Kyushu đến trung bộ."},
+        {"ja": "ガス爆発で、彼は肩から腰にかけて大やけどを負った。", "vi": "Vì vụ nổ gas, anh ấy bị bỏng nặng từ vai đến thắt lưng."}
+      ]
+    },
+    {
+      "no": 17,
+      "pattern": "〜だらけ",
+      "stars": 1,
+      "senses": ["Trạng thái có rất nhiều (thứ tiêu cực)"],
+      "connection": "Danh từ + だらけ",
+      "vi": "đầy..., l ngập..., tràn ngập... (cái không mong muốn)",
+      "explanation": "Gắn vào danh từ để diễn tả trạng thái có rất nhiều thứ không mong muốn như bụi, bùn, sai sót, vết xước. Mang sắc thái tiêu cực, khác với たくさん ở chỗ là thứ người nói không thiện cảm.",
+      "examples": [
+        {"ja": "ほこりだらけの部屋／泥だらけのくつ", "vi": "căn phòng đầy bụi / đôi giày đầy bùn"},
+        {"ja": "数学の答えは間違いだらけだった。", "vi": "Lời giải toán toàn là sai lầm."},
+        {"ja": "苦労した祖父の手は固くてしわだらけだ。", "vi": "Đôi tay từng trải qua nhiều vất vả của ông tôi cứng cáp và đầy vết nhăn."},
+        {"ja": "山頂までの道は石ころだらけだ。", "vi": "Con đường lên đỉnh núi đầy đá sỏi."},
+        {"ja": "父の部屋は本だらけで足の踏み場もない。", "vi": "Phòng của bố tôi đầy sách đến mức chẳng có chỗ nào để đặt chân."}
+      ]
+    },
+    {
+      "no": 18,
+      "pattern": "〜おかげ",
+      "stars": 1,
+      "senses": ["Nhờ có... → kết quả tích cực (đôi khi cũng dùng cho kết quả tiêu cực với sắc thái mỉa mai, trách móc)"],
+      "connection": "【Danh từ · Động từ · Tính từ i · Tính từ na】dạng bổ nghĩa danh từ + おかげ",
+      "vi": "nhờ có, nhờ vào (nguyên nhân dẫn đến kết quả tốt)",
+      "explanation": "Diễn tả nguyên nhân dẫn đến kết quả tốt. Tuy nhiên khi nói mỉa mai, trách móc cũng có thể dùng cho kết quả xấu (ví dụ 4). Lời đáp おかげさまで là cách trả lời lịch sự khi được hỏi thăm sức khỏe, công việc.",
+      "examples": [
+        {"ja": "仕事が早く済んだのは、友だちが手伝ってくれたおかげだ。", "vi": "Việc xong nhanh là nhờ bạn giúp đỡ."},
+        {"ja": "白髪が少ないおかげで若く見られることが多い。", "vi": "Nhờ ít tóc bạc nên thường bị nhìn là trẻ hơn tuổi."},
+        {"ja": "医療技術の進歩のおかげで平均寿命が伸びた。", "vi": "Nhờ sự tiến bộ của y học mà tuổi thọ trung bình được kéo dài."},
+        {"ja": "彼の言うことを信じたおかげでひどい目にあった。", "vi": "Nhờ tin lời anh ta mà tôi đã gặp chuyện tồi tệ."},
+        {"ja": "「お母様の具合はいかがですか」「おかげさまで、すっかり良くなりました」", "vi": "\"Sức khỏe của mẹ anh thế nào rồi?\" \"Nhơn phước của mọi người, giờ đã khỏe hẳn rồi.\""}
+      ]
+    },
+    {
+      "no": 19,
+      "pattern": "〜せい",
+      "stars": 1,
+      "senses": ["Do... → kết quả tiêu cực, trách móc (nguyên nhân xấu)"],
+      "connection": "【Danh từ · Động từ · Tính từ i · Tính từ na】dạng bổ nghĩa danh từ + せい",
+      "vi": "do lỗi..., tại... (nguyên nhân dẫn đến kết quả xấu)",
+      "explanation": "Diễn tả nguyên nhân dẫn đến kết quả xấu, kèm sắc thái đổ lỗi, trách móc. Đối lập với 〜おかげ (kết quả tích cực). Biến thể 〜せいか diễn tả nguyên nhân chưa chắc chắn: \"không dám chắc, nhưng có lẽ do...\".",
+      "examples": [
+        {"ja": "あの人のせいでみんなが迷惑している。", "vi": "Tại anh ta mà mọi người đang khốn khổ."},
+        {"ja": "景気が悪いせいでボーナスが減った。", "vi": "Do kinh tế kém nên tiền thưởng bị giảm."},
+        {"ja": "試合に負けたのはミスをした私のせいだ。", "vi": "Việc thua trận là lỗi của tôi, người đã phạm sai lầm."},
+        {"ja": "大気汚染が悪化したのは、政府が何の対策も立てなかったせいだ。", "vi": "Việc ô nhiễm không khí ngày càng xấu đi là do chính phủ đã không đưa ra bất cứ biện pháp nào."},
+        {"ja": "彼女は何でも人のせいにするから嫌われている。", "vi": "Cô ta việc gì cũng đổ lỗi cho người khác nên bị ghét."},
+        {"ja": "気のせいか、最近父は元気がないようだ。", "vi": "Chắc là cảm nhận chủ quan thôi nhưng dạo này bố dường như không được khỏe."},
+        {"ja": "年のせいか、このごろ物忘れがひどい。", "vi": "Có lẽ do tuổi tác nên dạo này hay quên lắm."},
+        {"ja": "このあたりは気候が温暖なせいか、のんびりしていて暮らしやすい。", "vi": "Có lẽ do khí hậu ấm áp nên vùng này sống thanh thản, dễ chịu."}
+      ]
+    },
+    {
+      "no": 20,
+      "pattern": "〜とおり（に）／どおり（に）",
+      "stars": 1,
+      "senses": ["Giống hệt như thế (làm đúng như...)"],
+      "connection": "Động từ dạng từ điển / dạngタ + とおり（に）／Danh từ + どおり（に）／のとおり",
+      "vi": "đúng như..., y như..., theo đúng như...",
+      "explanation": "Diễn tả việc làm đúng như một mẫu, một lời nói, một kế hoạch có sẵn. Với các danh từ như 想像／予想／計画／指示／命令／希望／望み thì nối trực tiếp + どおり; với ご覧／御存じ／御承知／お聞き thì dùng + のとおり.",
+      "examples": [
+        {"ja": "学生たちは、先生が黒板に書いたとおりにノートに写した。", "vi": "Các sinh viên chép vào vở đúng như thầy viết trên bảng."},
+        {"ja": "外国語だと、なかなか思ったとおりに話すことができない。", "vi": "Nếu là ngoại ngữ thì khó mà nói đúng như mình nghĩ."},
+        {"ja": "父は、私たち家族が父の言うとおりにしないと、きげんが悪い。", "vi": "Bố tôi nếu cả nhà không làm theo lời bố là mặt hầm hập ngay."},
+        {"ja": "勉強がなかなか予定どおりに進まない。", "vi": "Việc học mãi không tiến triển đúng kế hoạch."},
+        {"ja": "幼い弟は思いどおりにならないと大声で泣く。", "vi": "Em trai tôi còn nhỏ, cứ không được như ý là khóc toáng lên."},
+        {"ja": "例のとおりに書きなさい。", "vi": "Hãy viết đúng theo ví dụ."}
+      ]
+    },
+    {
+      "no": 21,
+      "pattern": "〜について／つき",
+      "stars": 1,
+      "senses": ["Nói / viết / tìm hiểu về vấn đề đó, v.v."],
+      "connection": "Danh từ + について／つき",
+      "vi": "về..., quanh vấn đề...",
+      "explanation": "Diễn tả chủ đề của việc nói, viết, tìm hiểu. 〜について dùng được cả trong hội thoại lẫn văn viết; 〜につき là dạng trang trọng hơn, thường dùng trong thông báo, văn bản chính thức.",
+      "examples": [
+        {"ja": "私は大学で日本の歴史について勉強したい。", "vi": "Ở đại học, tôi muốn học về lịch sử Nhật Bản."},
+        {"ja": "両親と卒業後の進路について話し合った。", "vi": "Tôi đã bàn bạc với bố mẹ về hướng đi sau khi tốt nghiệp."},
+        {"ja": "「この記事についてのご意見をお聞かせください」", "vi": "\"Xin quý vị cho biết ý kiến về bài báo này.\""},
+        {"ja": "「新しい事業計画につき、これからご説明いたします」", "vi": "\"Về kế hoạch kinh doanh mới, tôi xin giải thích ngay sau đây.\""}
+      ]
+    },
+    {
+      "no": 22,
+      "pattern": "〜に関して（は）",
+      "stars": 1,
+      "senses": ["Về... / có liên quan đến..."],
+      "connection": "Danh từ + に関して（は）",
+      "vi": "về việc..., liên quan đến...",
+      "explanation": "Nghĩa gần giống 〜について nhưng trang trọng, học thuật hơn, chủ yếu dùng trong văn viết. Nhấn mạnh nghĩa \"có liên quan đến\"; dạng lịch sự khi nói chuyện là に関しまして.",
+      "examples": [
+        {"ja": "「申し込み手続きに関して伺いたいのですが」", "vi": "\"Tôi muốn xin hỏi về thủ tục đăng ký.\""},
+        {"ja": "パソコンで環境問題に関する記事を検索した。", "vi": "Tôi đã tra trên máy tính các bài báo liên quan đến vấn đề môi trường."},
+        {"ja": "議長は時間に関して厳しいので、絶対遅刻はできない。", "vi": "Chủ tọa nghiêm khắc về giờ giấc nên tuyệt đối không được đến muộn."},
+        {"ja": "「その件に関しましては、後ほどご説明いたします」", "vi": "\"Về việc đó, tôi xin giải thích sau.\""}
+      ]
+    },
+    {
+      "no": 23,
+      "pattern": "〜に比べて（は）",
+      "stars": 1,
+      "senses": ["Đặt cạnh nhau để so sánh"],
+      "connection": "Danh từ + に比べて（は）",
+      "vi": "so với..., so sánh với...",
+      "explanation": "Diễn tả việc đặt hai sự vật, hiện tượng cạnh nhau để so sánh và nói lên sự khác biệt. Dạng に比べ (bỏ て) cũng rất phổ biến trong văn viết.",
+      "examples": [
+        {"ja": "昼間に比べて深夜は電気料金が安い。", "vi": "So với ban ngày, tiền điện ban đêm (vào khuya) rẻ hơn."},
+        {"ja": "今年は例年に比べ、寒さが厳しいそうだ。", "vi": "Nghe nói năm nay so với thường năm thì rét đậm hơn."},
+        {"ja": "女性のほうが男性に比べ平均寿命の長い国が多い。", "vi": "Nhiều nước có tuổi thọ trung bình của nữ giới cao hơn so với nam giới."},
+        {"ja": "「私は話すのに比べて書く力が弱いんです」", "vi": "\"So với kỹ năng nói, khả năng viết của tôi yếu hơn.\""}
+      ]
+    },
+    {
+      "no": 24,
+      "pattern": "〜に加えて",
+      "stars": 1,
+      "senses": ["Thêm vào đó, ngoài... ra còn..."],
+      "connection": "Danh từ + に加えて",
+      "vi": "thêm vào đó, ngoài... ra còn...",
+      "explanation": "Diễn tả việc một sự việc được xếp chồng thêm lên sự việc khác (thường khi cả hai cùng tạo nên một tình huống, đánh giá). Có thể dùng dạng に加え (bỏ て) trong văn viết.",
+      "examples": [
+        {"ja": "今週はいつものテストに加えてレポート提出もあり、とても忙しい。", "vi": "Tuần này ngoài bài kiểm tra thường xuyên còn phải nộp báo cáo nên rất bận."},
+        {"ja": "キムさんの作文は文法の間違いが少ないことに加え、主張がはっきりしていて読みやすい。", "vi": "Bài văn của anh Kimura ngoài ít sai sót ngữ pháp còn lập luận rõ ràng nên dễ đọc."},
+        {"ja": "日本経済は原油の値上がりに加え、急激な円高で低迷している。", "vi": "Kinh tế Nhật Bản ngoài giá dầu tăng còn bị đồng yên lên giá chóng mặt nên đang trì trệ."},
+        {"ja": "3月に電車賃が値上がりしたが、それに加え、4月からはバス代が値上がりするそうだ。", "vi": "Tháng 3 tiền tàu điện đã tăng giá, thêm nữa nghe nói từ tháng 4 tiền xe buýt cũng tăng."}
+      ]
+    },
+    {
+      "no": 25,
+      "pattern": "〜に対して",
+      "stars": 1,
+      "senses": ["A thì... nhưng B thì... (đặt hai sự việc đối lập nhau để so sánh)"],
+      "connection": "Danh từ + に対して",
+      "vi": "trong khi... thì..., đối lập với... thì...",
+      "explanation": "Đặt hai sự việc, hai mặt đối lập cạnh nhau để so sánh. Cách nói trang trọng, chủ yếu dùng trong văn viết. Có thể dùng に対し (bỏ て), hoặc đứng độc lập đầu câu それに対して (ngược lại thì...).",
+      "examples": [
+        {"ja": "あの二人はふたごなのに、兄はおとなしいのに対して、弟はよくしゃべる。", "vi": "Hai người đó là anh em sinh đôi, nhưng trong khi anh thì trầm tính thì em lại rất nhiều chuyện."},
+        {"ja": "近所のスーパーは夜１１時閉まるのに対し、コンビニは２４時間営業だ。", "vi": "Siêu thị gần nhà đóng cửa lúc 11 giờ đêm, trong khi cửa hàng tiện lợi mở 24 tiếng."},
+        {"ja": "この映画は海外では人気があるのに対して、日本国内ではそうでもない。", "vi": "Bộ phim này ở nước ngoài thì nổi tiếng, trong khi ở Nhật Bản thì cũng không đến nỗi."},
+        {"ja": "一般に、日本の若者は洋食を好む。それに対して、中高年は和食を好む。", "vi": "Nhìn chung, người trẻ Nhật thích món phương Tây. Ngược lại, người trung niên cao tuổi thích món Nhật."}
+      ]
+    },
+    {
+      "no": 26,
+      "pattern": "〜たびに",
+      "stars": 1,
+      "senses": ["Mỗi khi..., cứ mỗi lần... thì luôn luôn..."],
+      "connection": "Danh từ + の／Động từ dạng từ điển + たびに",
+      "vi": "mỗi khi..., cứ mỗi lần... thì...",
+      "explanation": "Diễn tả việc xảy ra hay một hành động luôn được lặp lại mỗi khi có dịp, có thời điểm đó (そのときはいつも).",
+      "examples": [
+        {"ja": "バーゲンセールのたびに、ついいらないものも買ってしまう。", "vi": "Mỗi lần có sale giảm giá là lại lỡ tay mua cả những thứ không cần."},
+        {"ja": "父は旅行のたびに、その土地の名産品をおみやげに買ってきてくれる。", "vi": "Mỗi lần đi du lịch, bố tôi đều mua đặc sản của vùng đó về làm quà."},
+        {"ja": "辞書を引くたびに新しい発見がある。", "vi": "Mỗi lần tra từ điển lại có phát hiện mới."},
+        {"ja": "友人たちの活躍を聞くたびに、うれしく思う。", "vi": "Mỗi lần nghe tin bạn bè gặt hái thành công là tôi lại cảm thấy vui mừng."}
+      ]
+    }
+  ]
+}

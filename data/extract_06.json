@@ -1,0 +1,1055 @@
+{
+  "pdf_pages": "59-68 (+69-70 for まとめ/コラム9 assigned in task)",
+  "words": [
+    {
+      "no": 259,
+      "kanji": "幸せな",
+      "kana": "しあわせな",
+      "en": "happy",
+      "kr": "행복하다",
+      "vi": "hạnh phúc",
+      "senses": [],
+      "examples": [
+        {"ja": "幸せな人生。", "vi": "Cuộc sống hạnh phúc."},
+        {"ja": "幸せに暮らす。", "vi": "Sống hạnh phúc."},
+        {"ja": "いい家族や友だちがいて、私は幸せだ。", "vi": "Có gia đình và bạn bè tốt, tôi thấy hạnh phúc."}
+      ],
+      "related": [
+        {"type": "対", "text": "不幸な"}
+      ],
+      "notes": "(名) 幸せ（例. 幸せを求める。）◇不幸せ"
+    },
+    {
+      "no": 260,
+      "kanji": "得意な",
+      "kana": "とくいな",
+      "en": "strong, proud, smug",
+      "kr": "잘하다, 자랑스럽다",
+      "vi": "giỏi, sở trường; đắc ý, tự mãn",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "彼女は｜ギター/作文/料理 …｜が得意だ。", "vi": "Cô ấy giỏi｜guitar/viết văn/nấu ăn …｜."},
+        {"ja": "私の得意な教科は数学です。", "vi": "Môn học tôi giỏi là toán học."},
+        {"ja": "父は編み物を得意にしている。", "vi": "Bố tôi lấy việc đan len làm sở trường."},
+        {"ja": "弟はテストで100点をとって得意になっている。", "vi": "Em trai được 100 điểm bài kiểm tra nên rất đắc ý."}
+      ],
+      "related": [
+        {"type": "合", "text": "_にする"},
+        {"type": "対", "text": "苦手な、不得意な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 261,
+      "kanji": "苦手な",
+      "kana": "にかてな",
+      "en": "weak; uncomfortable; unable to take",
+      "kr": "잘 못하다, 약하다, 어렵다",
+      "vi": "dở, không giỏi; ngại, khó ưa",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "彼女は｜ギター/作文/料理 …｜が苦手だ。", "vi": "Cô ấy dở｜guitar/viết văn/nấu ăn …｜."},
+        {"ja": "私の苦手な教科は数学です。", "vi": "Môn học tôi dở nhất là toán."},
+        {"ja": "私は山本さんが苦手だ。", "vi": "Tôi ngại (khó ưa) Yamamoto."},
+        {"ja": "チーズは、あのにおいがどうも苦手だ。", "vi": "Riêng phô mai, tôi không chịu nổi cái mùi đó."}
+      ],
+      "related": [
+        {"type": "対", "text": "得意な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 262,
+      "kanji": "熱心な",
+      "kana": "ねっしんな",
+      "en": "passionate",
+      "kr": "열심이다",
+      "vi": "nhiệt tình",
+      "senses": [],
+      "examples": [
+        {"ja": "熱心な仕事ぶりが認められて昇進した。", "vi": "Nhờ tinh thần làm việc nhiệt tình được ghi nhận mà được thăng chức."},
+        {"ja": "熱心にプロポーズされて結婚した。", "vi": "Được cầu hôn nồng nhiệt nên đã kết hôn."},
+        {"ja": "彼女は子どもの教育に熱心だ。", "vi": "Cô ấy rất nhiệt tình với việc giáo dục con cái."}
+      ],
+      "related": [
+        {"type": "合", "text": "熱心さ"},
+        {"type": "対", "text": "不熱心な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 263,
+      "kanji": "夢中な",
+      "kana": "むちゅうな",
+      "en": "crazy, enamored",
+      "kr": "열중하다, 광적인",
+      "vi": "say mê, mê mệt",
+      "senses": [],
+      "examples": [
+        {"ja": "子どものころ、SF 漫画に夢中になった。", "vi": "Hồi nhỏ, tôi mê mệt truyện tranh SF."},
+        {"ja": "彼は生まれたばかりの子どもに夢中だ。", "vi": "Anh ấy mê mẩn đứa con vừa mới chào đời."},
+        {"ja": "社会人になったばかりで、毎日 〇夢中で/×夢中に 過ごしている。", "vi": "Mới đi làm nên ngày ngày sống say mê với công việc (dùng 〇夢中で/×夢中に)."}
+      ],
+      "related": [],
+      "notes": "×夢中する"
+    },
+    {
+      "no": 264,
+      "kanji": "退屈な",
+      "kana": "たいくつな",
+      "en": "boring",
+      "kr": "지루하다, 따분하다",
+      "vi": "nhàm chán, buồn tẻ",
+      "senses": [],
+      "examples": [
+        {"ja": "ほかの観客は笑いながら見ていたが、私には退屈な映画だった。", "vi": "Khán giả khác vừa xem vừa cười, nhưng với tôi đó là một bộ phim nhàm chán."},
+        {"ja": "きょうは、何もすることがなくて退屈だ。", "vi": "Hôm nay chẳng có việc gì làm nên thấy chán."}
+      ],
+      "related": [
+        {"type": "合", "text": "退屈さ"}
+      ],
+      "notes": "(名) 退屈スル（例. 校長先生の話が長くて退屈した。）"
+    },
+    {
+      "no": 265,
+      "kanji": "健康な",
+      "kana": "けんこうな",
+      "en": "healthy",
+      "kr": "건강하다, 건전하다",
+      "vi": "khỏe mạnh, lành mạnh",
+      "senses": [],
+      "examples": [
+        {"ja": "心も体も健康な子どもを育てたい。", "vi": "Muốn nuôi dạy đứa trẻ khỏe mạnh cả về tinh thần lẫn thể chất."},
+        {"ja": "毎日運動をしていたら、とても健康になった。", "vi": "Tập thể dục mỗi ngày nên trở nên rất khỏe mạnh."}
+      ],
+      "related": [
+        {"type": "合", "text": "健康的（な）(例. 健康的な生活)"},
+        {"type": "対", "text": "不健康な"}
+      ],
+      "notes": "(名) 健康"
+    },
+    {
+      "no": 266,
+      "kanji": "苦しい",
+      "kana": "くるしい",
+      "en": "rough; agonizing",
+      "kr": "괴롭다, 힘들다",
+      "vi": "đau đớn, khốn khổ, ngột ngạt, gian khó",
+      "senses": [],
+      "examples": [
+        {"ja": "「息/胸/心/生活…」が苦しい。", "vi": "「Hơi thở/ngực/lòng/cuộc sống…」ngột ngạt, khó khăn."},
+        {"ja": "苦しい試合だったが、なんとか勝つことができた。", "vi": "Là một trận đấu gian nan nhưng cuối cùng cũng thắng được."},
+        {"ja": "その一家は、戦後の苦しい時代をがんばって生きてきた。", "vi": "Cả nhà ấy đã cố gắng sống qua thời kỳ gian khó sau chiến tranh."},
+        {"ja": "経営がうまくいかず、社長は苦しい立場に置かれた。", "vi": "Kinh doanh không thuận lợi, giám đốc rơi vào thế khó khăn."}
+      ],
+      "related": [
+        {"type": "合", "text": "苦しさ、苦しみ、寝_、聞_、見_、息_（〇〇ぐるしい）"},
+        {"type": "関", "text": "苦しむ・苦しめる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 267,
+      "kanji": "平気な",
+      "kana": "へいきな",
+      "en": "unfazed; brazen",
+      "kr": "태연하다, 개의치 않다",
+      "vi": "bình thản, trơ trẽn, không thèm để ý",
+      "senses": [],
+      "examples": [
+        {"ja": "彼女は、どんなに悪口を言われても平気な顔をしている。", "vi": "Dù bị nói xấu thế nào cô ấy vẫn làm bộ bình thản."},
+        {"ja": "体力があるので、10 キロくらい歩くのは平気だ。", "vi": "Vì thể lực tốt nên đi bộ chừng 10 km chẳng đáng ngại."},
+        {"ja": "あの人は 〇平気で/×平気に うそをつく。", "vi": "Người đó nói dối một cách trơ trẽn (dùng 〇平気で/×平気に)."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 268,
+      "kanji": "悔しい",
+      "kana": "くやしい",
+      "en": "frustrating",
+      "kr": "분하다, 괴롭다",
+      "vi": "uất tình, không cam lòng",
+      "senses": [],
+      "examples": [
+        {"ja": "何度練習してもうまくできなくて、悔しい。", "vi": "Luyện tập bao nhiêu lần vẫn không làm được, thật uất tức."},
+        {"ja": "たった 1 点差で試合に負けて悔しい思いをした。", "vi": "Thua trận chỉ vì cách đúng 1 điểm, thấy khó chịu khôn nguôi."}
+      ],
+      "related": [
+        {"type": "合", "text": "悔しさ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 269,
+      "kanji": "うらやましい",
+      "kana": "うらやましい",
+      "en": "envious",
+      "kr": "부럽다",
+      "vi": "ganh tị, ngưỡng mộ",
+      "senses": [],
+      "examples": [
+        {"ja": "才能の豊かな人がうらやましい。", "vi": "Ghen tị với người có tài năng phong phú."},
+        {"ja": "弟はゲームをたくさん持っている友だちをうらやましがっている。", "vi": "Em trai ganh tị với đứa bạn có nhiều trò chơi điện tử."}
+      ],
+      "related": [
+        {"type": "合", "text": "うらやましさ"},
+        {"type": "関", "text": "うらやむ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 270,
+      "kanji": "かゆい",
+      "kana": "かゆい",
+      "en": "itchy",
+      "kr": "가렵다",
+      "vi": "ngứa",
+      "senses": [],
+      "examples": [
+        {"ja": "蚊に刺されて首がかゆい。", "vi": "Bị muỗi đốt nên cổ ngứa."}
+      ],
+      "related": [
+        {"type": "合", "text": "かゆさ、かゆみ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 271,
+      "kanji": "おとなしい",
+      "kana": "おとなしい",
+      "en": "quiet, subdued",
+      "kr": "얌전하다, 수수하다",
+      "vi": "hiền lành, ngoan ngoãn; trầm nhạt, dịu (màu/thiết kế)",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "彼はおとなしい人だ。", "vi": "Anh ấy là người hiền lành."},
+        {"ja": "うちの犬はおとなしくて、決して人にほえない。", "vi": "Chó nhà tôi hiền lành, tuyệt đối không sủa người."},
+        {"ja": "私が買い物をしている間、子どもはおとなしく待っていた。", "vi": "Trong lúc tôi đi mua sắm, đứa bé ngoan ngoãn chờ đợi."},
+        {"ja": "この服はデザインがおとなしいので、仕事に着て行ってもだいじょうぶだ。", "vi": "Áo này thiết kế trầm nhạt nên mặc đi làm cũng được."}
+      ],
+      "related": [
+        {"type": "合", "text": "①②おとなしさ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 272,
+      "kanji": "我慢強い",
+      "kana": "がまんづよい",
+      "en": "perseverant",
+      "kr": "참을성이 있다",
+      "vi": "kiên nhẫn, chịu đựng giỏi",
+      "senses": [],
+      "examples": [
+        {"ja": "がまん強い性格", "vi": "Tính cách kiên nhẫn"},
+        {"ja": "チャンスがやって来るのがまん強く待つ。", "vi": "Kiên nhẫn chờ đợi cơ hội đến."}
+      ],
+      "related": [
+        {"type": "合", "text": "がまん強さ"},
+        {"type": "類", "text": "しんぼう強い"},
+        {"type": "関", "text": "我慢（する）(→64)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 273,
+      "kanji": "正直な",
+      "kana": "しょうじきな",
+      "en": "honest",
+      "kr": "정직하다",
+      "vi": "thẳng thắn, thật thà",
+      "senses": [],
+      "examples": [
+        {"ja": "彼は正直な人だから、うそをつくことができない。", "vi": "Vì là người thật thà nên cậu ấy không thể nói dối."},
+        {"ja": "「どうしていたずらしたの。正直に話しなさい」", "vi": "“Sao lại nghịch ngợm thế? Nói thật ra đi.”"},
+        {"ja": "ごちそうしてもらったが、正直（に）言って、あまりおいしくなかった。", "vi": "Được đãi bữa ăn nhưng nói thật là không ngon lắm."}
+      ],
+      "related": [
+        {"type": "合", "text": "正直さ"},
+        {"type": "対", "text": "不正直な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 274,
+      "kanji": "けちな",
+      "kana": "けちな",
+      "en": "stingy",
+      "kr": "인색하다",
+      "vi": "keo kiệt, bủn xỉn",
+      "senses": [],
+      "examples": [
+        {"ja": "あの人はとてもけちだ。", "vi": "Người đó keo kiệt lắm."},
+        {"ja": "けちな人は嫌われる。", "vi": "Người keo kiệt bị mọi người ghét."}
+      ],
+      "related": [
+        {"type": "関", "text": "けちけちする"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 275,
+      "kanji": "わがままな",
+      "kana": "わがままな",
+      "en": "selfish",
+      "kr": "제멋대로이다",
+      "vi": "ích kỷ, tùy tiện, chỉ biết bản thân",
+      "senses": [],
+      "examples": [
+        {"ja": "わがままな｜人/性格/行動 …｜", "vi": "Ích kỷ, tùy tiện｜người/tính cách/hành động …｜"},
+        {"ja": "彼女はわがままだ。", "vi": "Cô ấy rất tùy tiện."},
+        {"ja": "わがままにふるまう。", "vi": "Ứng xử tùy tiện."},
+        {"ja": "ペットに人間と同じような贅沢をさせるのは、人間のわがままだと思う。", "vi": "Tôi nghĩ việc cho thú cưng hưởng xa xỉ như con người là sự ích kỷ của con người."}
+      ],
+      "related": [],
+      "notes": "(名) わがまま（例. わがままを言う。/ 彼のわがままにはみんな困っている。）"
+    },
+    {
+      "no": 276,
+      "kanji": "積極的な",
+      "kana": "せっきょくてきな",
+      "en": "active, positive",
+      "kr": "적극적이다",
+      "vi": "tích cực, chủ động",
+      "senses": [],
+      "examples": [
+        {"ja": "積極的な｜人/性格/行動 …｜", "vi": "Tích cực｜người/tính cách/hành động …｜"},
+        {"ja": "日本語を身につけるため、積極的に日本人の友だちを作った。", "vi": "Để nắm được tiếng Nhật, đã chủ động kết bạn với người Nhật."},
+        {"ja": "今の首相は、教育問題にあまり積極的ではない。", "vi": "Thủ tướng hiện tại không mấy tích cực với vấn đề giáo dục."}
+      ],
+      "related": [
+        {"type": "対", "text": "消極的な"},
+        {"type": "関", "text": "積極性→ ＿がある・ない"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 277,
+      "kanji": "消極的な",
+      "kana": "しょうきょくてきな",
+      "en": "passive, negative",
+      "kr": "소극적이다",
+      "vi": "tiêu cực, thụ động",
+      "senses": [],
+      "examples": [
+        {"ja": "消極的な｜人/性格 …｜", "vi": "Tiêu cực｜người/tính cách …｜"},
+        {"ja": "今の首相は、教育問題に消極的だ。", "vi": "Thủ tướng hiện nay khá thụ động về vấn đề giáo dục."}
+      ],
+      "related": [
+        {"type": "対", "text": "積極的な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 278,
+      "kanji": "満足な",
+      "kana": "まんぞくな",
+      "en": "satisfying, contented",
+      "kr": "만족하다, 만족스럽다",
+      "vi": "thỏa mãn, vừa ý, tạm ổn",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "アルバイトだけでは満足な収入は得られない。", "vi": "Chỉ làm thêm thì không có được thu nhập đủ đầy."},
+        {"ja": "がんばったので２位でも満足だ。", "vi": "Đã cố gắng nên về nhì cũng thấy thỏa mãn."},
+        {"ja": "インターネットは苦手で、メールも満足に打てない。", "vi": "Không rành máy tính nên email cũng không gõ được thỏa thích."}
+      ],
+      "related": [
+        {"type": "対", "text": "不満な、不満足な"}
+      ],
+      "notes": "(名) 満足スル（例. 今の生活に十分満足している。/ 今の仕事からは満足が得られない。）"
+    },
+    {
+      "no": 279,
+      "kanji": "不満な",
+      "kana": "ふまんな",
+      "en": "dissatisfying, discontented",
+      "kr": "불만이다",
+      "vi": "bất mãn, không hài lòng",
+      "senses": [],
+      "examples": [
+        {"ja": "この仕事に不満な点はない。", "vi": "Công việc này không có điểm gì đáng phàn nàn."},
+        {"ja": "彼は、彼女が忙しくてなかなか会えないのを不満に思っている。", "vi": "Anh ấy bất mãn vì cô ấy bận rộn nên khó gặp được."},
+        {"ja": "この小説はおもしろかったが、終わり方がちょっと不満だ。", "vi": "Tiểu thuyết này hay nhưng cách kết thúc hơi thiếu thỏa đáng."}
+      ],
+      "related": [
+        {"type": "対", "text": "満足な"},
+        {"type": "類", "text": "不満足な"},
+        {"type": "連", "text": "＿がある・ない"}
+      ],
+      "notes": "(名) 不満（例. あのレストランの料理は、味に不満はないが量が少ない。/ 不満ばかり言っていても解決はできない。）"
+    },
+    {
+      "no": 280,
+      "kanji": "不安な",
+      "kana": "ふあんな",
+      "en": "worrisome, uneasy",
+      "kr": "불안하다",
+      "vi": "bất an, lo lắng",
+      "senses": [],
+      "examples": [
+        {"ja": "最近、体の調子がよくない。悪い病気ではないかと不安だ。", "vi": "Dạo này sức khỏe không tốt, lo lắng không biết có bệnh nặng không."},
+        {"ja": "新しい仕事がなかなか見つからず、不安な毎日を過ごしている。", "vi": "Không tìm được việc mới nên ngày nào cũng bất an."}
+      ],
+      "related": [
+        {"type": "対", "text": "安心な"},
+        {"type": "類", "text": "心配な"},
+        {"type": "連", "text": "＿がある・ない"}
+      ],
+      "notes": "(名) 不安（例. 長く続いた大雨がやんで、やっと洪水の不安がなくなった。）"
+    },
+    {
+      "no": 281,
+      "kanji": "大変な",
+      "kana": "たいへんな",
+      "en": "tough; awful",
+      "kr": "힘들다, 심하다",
+      "vi": "vất vả, khó khăn; nghiêm trọng, ghê gớm",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "子育て中のお母さんは大変だ。", "vi": "Các bà mẹ đang nuôi con nhỏ rất vất vả."},
+        {"ja": "きのうは宿題が五つもあって大変だった。", "vi": "Hôm qua có tới 5 bài tập về nhà nên vất vả lắm."},
+        {"ja": "きょうの新宿で大変な火事があったらしい。", "vi": "Hình như hôm nay ở Shinjuku xảy ra hỏa hoạn lớn."},
+        {"ja": "大変な面接に遅れたら大変だから、急いで行こう。", "vi": "Đi trễ buổi phỏng vấn quan trọng thì phiền lắm, đi nhanh thôi."}
+      ],
+      "related": [
+        {"type": "合", "text": "大変さ"},
+        {"type": "慣", "text": "＿目にあう"}
+      ],
+      "notes": "③〔(副) 大変（に）〕(→592)"
+    },
+    {
+      "no": 282,
+      "kanji": "無理な",
+      "kana": "むりな",
+      "en": "impossible, by force",
+      "kr": "무리하다, 억지로",
+      "vi": "gượng ép, bất khả thi, quá sức",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "たった100万円で家を建てるなんて無理な話だ。", "vi": "Xây nhà chỉ với 1 triệu yên quả là chuyện bất khả thi."},
+        {"ja": "「無理なお願いとは思いますが、なんとかきいていただけないでしょうか」", "vi": "“Tôi biết là lời đề nghị gượng ép, nhưng mong anh cứ nhận giúp.”"},
+        {"ja": "三日で100ページの論文を書くのはとても無理だ。", "vi": "Viết luận văn 100 trang trong 3 ngày thì quá sức."},
+        {"ja": "子どもに無理に勉強させるのは逆効果だ。", "vi": "Ép trẻ học là phản tác dụng."}
+      ],
+      "related": [
+        {"type": "合", "text": "無理やり"}
+      ],
+      "notes": "③〔(名) 無理〕「そんなに無理をしていると病気になりますよ」「いろいろとご無理を言ってすみません」"
+    },
+    {
+      "no": 283,
+      "kanji": "不注意な",
+      "kana": "ふちゅういな",
+      "en": "careless",
+      "kr": "부주의하다",
+      "vi": "bất cẩn, thiếu cẩn thận",
+      "senses": [],
+      "examples": [
+        {"ja": "不注意な人", "vi": "Người bất cẩn"},
+        {"ja": "疲れると不注意なミスが多くなる。", "vi": "Mệt mỏi thì sai sót do bất cẩn nhiều lên."},
+        {"ja": "相手を傷つけるような言葉を不注意に言ってしまった。", "vi": "Vô tình buông lời làm tổn thương đối phương."}
+      ],
+      "related": [
+        {"type": "合", "text": "不注意さ"}
+      ],
+      "notes": "(名) 不注意（例. 私の不注意「で/から」事故を起こしてしまった。）"
+    },
+    {
+      "no": 284,
+      "kanji": "楽な",
+      "kana": "らくな",
+      "en": "easy",
+      "kr": "편하다, 쉽다",
+      "vi": "thoải mái, dễ dàng, nhàn",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "もう少し楽な服を着たい。", "vi": "Muốn mặc quần áo thoải mái hơn một chút."},
+        {"ja": "肩こりがひどいのでマッサージをしてもらったら、楽になった。", "vi": "Vì đau vai nặng nên được xoa bóp, thấy dễ chịu hơn."},
+        {"ja": "「失敗しても大丈夫だよ」と言われて、気が楽になった。", "vi": "Được bảo “Thất bại cũng không sao” nên thấy nhẹ nhõm hẳn."},
+        {"ja": "この仕事は、電話を受けるだけでいいのでとても楽だ。", "vi": "Công việc này chỉ cần nghe điện thoại nên rất nhàn."},
+        {"ja": "相手のチームはあまり強くないから、楽に勝つだろう。", "vi": "Đội đối thủ không mạnh lắm nên chắc sẽ thắng dễ dàng."}
+      ],
+      "related": [],
+      "notes": "③〔(名) 楽〕・年をとったらもう少し楽がしたい。"
+    },
+    {
+      "no": 285,
+      "kanji": "面倒な",
+      "kana": "めんどうな",
+      "en": "troublesome",
+      "kr": "번거롭다, 귀찮다",
+      "vi": "phiền phức, rắc rối",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「ご入会にはめんどうな手続きはありません」", "vi": "“Việc nhập hội không có thủ tục rắc rối.”"},
+        {"ja": "最近忙しいので料理を作るのがめんどうになった。", "vi": "Dạo này bận rộn nên thấy nấu nướng phiền."},
+        {"ja": "雨が降っているので、出かけるのがめんどうだ。", "vi": "Trời mưa nên thấy phiền (lười) đi ra ngoài."},
+        {"ja": "「ごめんどうをおかけして、申しわけありません」", "vi": "“Đã làm phiền anh, rất xin lỗi.”"},
+        {"ja": "出張するときは、母に子どものめんどうを見てもらっている。", "vi": "Khi đi công tác, nhờ mẹ trông con."}
+      ],
+      "related": [
+        {"type": "合", "text": "めんどうくさい"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 286,
+      "kanji": "失礼な",
+      "kana": "しつれいな",
+      "en": "rude",
+      "kr": "무례하다, 실례이다",
+      "vi": "vô lễ, thô lỗ; (lời xin lỗi) mất lịch sự",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "あいさつしても返事もない。なんて失礼な人だろう。", "vi": "Chào mà cũng không đáp lại. Thật là một người vô lễ."},
+        {"ja": "「失礼ですが、田中さんでいらっしゃいますか」", "vi": "“Xin phép hỏi, anh có phải là Tanaka không?”"}
+      ],
+      "related": [
+        {"type": "関", "text": "コラム1「あいさつ」p.15"}
+      ],
+      "notes": "(名) 失礼（例. 客に失礼のないようにする。）/ ③〔(動) 失礼する〕"
+    },
+    {
+      "no": 287,
+      "kanji": "当然な",
+      "kana": "とうぜんな",
+      "en": "natural, expected",
+      "kr": "당연하다",
+      "vi": "đương nhiên, hiển nhiên",
+      "senses": [],
+      "examples": [
+        {"ja": "お金を借りたら、返すのが当然だ。", "vi": "Mượn tiền thì trả là đương nhiên."},
+        {"ja": "「結婚しても仕事は続けるの？」「当然よ」", "vi": "“Lấy chồng rồi vẫn tiếp tục đi làm à?” “Đương nhiên rồi.”"},
+        {"ja": "当り前の強さだから、あのチームは勝って当然だ。", "vi": "Đội đó vốn mạnh như thế nên thắng là đương nhiên."}
+      ],
+      "related": [
+        {"type": "類", "text": "あたりまえ(→400)"},
+        {"type": "類", "text": "もちろん(→621)"}
+      ],
+      "notes": "(名) 当然（例. 不合格になった。勉強しなかったのだから、当然の結果だ。）/ (副) 当然（例. 彼は弁護士だから、当然法律には詳しいだろう。）"
+    },
+    {
+      "no": 288,
+      "kanji": "意外な",
+      "kana": "いがいな",
+      "en": "unexpected, surprising",
+      "kr": "의외다",
+      "vi": "bất ngờ, ngoài ý muốn",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "事故を調査するうちに意外な事実がわかった。", "vi": "Trong quá trình điều tra tai nạn, phát hiện ra một sự thật bất ngờ."},
+        {"ja": "彼が結婚していて子どももいるとは意外だった。", "vi": "Không ngờ anh ấy đã kết hôn và có con."},
+        {"ja": "トマトは嫌いだったが、食べてみると意外「に/と」おいしい。", "vi": "Trước đây ghét cà chua nhưng ăn thử thì bất ngờ là ngon (dùng 意外に/と)."}
+      ],
+      "related": [
+        {"type": "合", "text": "意外さ、意外性→ ＿がある・ない"},
+        {"type": "類", "text": "案外(→626)"}
+      ],
+      "notes": "※「意外と」は「意外に」の少しくだけた形。"
+    },
+    {
+      "no": 289,
+      "kanji": "結構な",
+      "kana": "けっこうな",
+      "en": "nice, fine; No, thank you.",
+      "kr": "훌륭하다; 좋아, 괜찮아",
+      "vi": "tốt, tươm tất; (từ chối lịch sự) đủ rồi, không cần",
+      "senses": ["①", "②", "③", "④"],
+      "examples": [
+        {"ja": "「お味はいかがですか」「大変結構です」", "vi": "“Món ăn thế ạ?” “Rất tuyệt vời.”"},
+        {"ja": "「この前は、けっこうな品をいただき、ありがとうございました」", "vi": "“Lần trước đã nhận món quà quý giá, xin cảm ơn anh.”"},
+        {"ja": "「打ち合わせは月曜日の１４時からでよろしいですか」「はい、けっこうです」", "vi": "“Trao đổi từ 14 giờ thứ Hai được không?” “Vâng, được.”"},
+        {"ja": "「コーヒーのおかわりはいかがですか」「いえ、もうけっこうです」", "vi": "“Rót thêm cà phê không?” “Không, tôi đủ rồi.”"}
+      ],
+      "related": [],
+      "notes": "④〔(副) けっこう〕(→597)"
+    },
+    {
+      "no": 290,
+      "kanji": "派手な",
+      "kana": "はでな",
+      "en": "flashy, fancy",
+      "kr": "화려하다",
+      "vi": "lòe loẹt, sặc sỡ, phô trương",
+      "senses": [],
+      "examples": [
+        {"ja": "派手な｜人/性格/服/化粧/デザイン/生活 …｜", "vi": "Lòe loẹt｜người/tính cách/quần áo/trang điểm/thiết kế/cuộc sống …｜"},
+        {"ja": "この服ははですぎる。", "vi": "Cái áo này lòe loẹt quá."},
+        {"ja": "はでに嫌がる。", "vi": "Thể hiện sự ghét một cách ồn ào, lộ liễu."}
+      ],
+      "related": [
+        {"type": "合", "text": "派手さ"},
+        {"type": "対", "text": "地味な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 291,
+      "kanji": "地味な",
+      "kana": "じみな",
+      "en": "plain",
+      "kr": "수수하다",
+      "vi": "đơn điệu, mờ nhạt, giản dị",
+      "senses": [],
+      "examples": [
+        {"ja": "地味な｜人/性格/服/化粧/デザイン/生活 …｜", "vi": "Đơn điệu｜người/tính cách/quần áo/trang điểm/thiết kế/cuộc sống …｜"},
+        {"ja": "あの人は若いのに、地味なかっこうばかりしている。", "vi": "Người đó tuy trẻ nhưng toàn ăn mặc đơn điệu."}
+      ],
+      "related": [
+        {"type": "合", "text": "地味さ"},
+        {"type": "対", "text": "派手な"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 292,
+      "kanji": "おしゃれな",
+      "kana": "おしゃれな",
+      "en": "stylish, fashionable",
+      "kr": "멋있다, 멋쟁이같다",
+      "vi": "sành điệu, thời trang",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "彼女はとてもおしゃれだ。", "vi": "Cô ấy rất sành điệu."},
+        {"ja": "彼はいつもスーツをおしゃれに着こなしている。", "vi": "Anh ấy luôn mặc vest rất phong cách."},
+        {"ja": "「駅前におしゃれなレストランができたわよ」", "vi": "“Trước ga vừa mở một nhà hàng thật đẹp đấy.”"}
+      ],
+      "related": [
+        {"type": "類", "text": "しゃれ（＋名詞）、しゃれている"}
+      ],
+      "notes": "(名) おしゃれ→ ＿をする"
+    },
+    {
+      "no": 293,
+      "kanji": "変な",
+      "kana": "へんな",
+      "en": "weird",
+      "kr": "이상하다",
+      "vi": "lạ, kỳ quặc",
+      "senses": [],
+      "examples": [
+        {"ja": "変なメールが届いたのですぐに消した。", "vi": "Nhận được một email kỳ lạ nên đã xóa ngay."},
+        {"ja": "停電の後、テレビの画面が変になった。", "vi": "Sau cúp điện, màn hình tivi bị trục trặc."},
+        {"ja": "この牛乳は、少しにおいが変だ。", "vi": "Sữa này hơi bị mùi lạ."}
+      ],
+      "related": [
+        {"type": "類", "text": "おかしい、おかしな"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 294,
+      "kanji": "不思議な",
+      "kana": "ふしぎな",
+      "en": "strange; mysterious; miraculous",
+      "kr": "이상하다, 묘하다",
+      "vi": "kỳ lạ, khó lý giải; thần kỳ",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "この村には不思議な伝説が伝わっている。", "vi": "Làng này lưu truyền một truyền thuyết kỳ lạ."},
+        {"ja": "だれもいない部屋から声が聞こえてくるとは不思議だ。", "vi": "Nghe thấy tiếng nói từ căn phòng không người, thật kỳ lạ."},
+        {"ja": "この車はタイヤが古くなっている。いつ事故が起きても不思議ではない。", "vi": "Chiếc xe này lốp đã cũ, xảy ra tai nạn lúc nào cũng chẳng lạ."},
+        {"ja": "緊張しやすい性格なのに、きのうのスピーチは不思議「に/と」緊張しなかった。", "vi": "Tính dễ hồi hộp thế mà hôm qua diễn thuyết lại không căng thẳng chút nào (dùng 不思議に/と)."}
+      ],
+      "related": [
+        {"type": "合", "text": "不思議さ"}
+      ],
+      "notes": "※「不思議と」は「不思議に」の少しくだけた形。"
+    },
+    {
+      "no": 295,
+      "kanji": "ましな",
+      "kana": "ましな",
+      "en": "preferable, better",
+      "kr": "낫다, 나은",
+      "vi": "tốt hơn, khá hơn",
+      "senses": [],
+      "examples": [
+        {"ja": "せきがひどかったが、うがいをしたら前よりましになった。", "vi": "Ho dữ lắm nhưng súc họng thì đỡ hơn trước."},
+        {"ja": "失敗するかもしれないが、何もやらないよりはましだ。", "vi": "Có thể thất bại nhưng vẫn hơn là chẳng làm gì."},
+        {"ja": "文章は問いだらけだ。もう少しましなものが書けないのだろうか。", "vi": "Bài viết toàn vấn đề thế, không viết ra được cái gì khá hơn sao?"}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 296,
+      "kanji": "むだな",
+      "kana": "むだな",
+      "en": "futile, wasteful",
+      "kr": "헛되다, 낭비하다",
+      "vi": "vô ích, phí công; lãng phí",
+      "senses": [],
+      "examples": [
+        {"ja": "落ちるとわかっているのに試験を受けるのは、むだなことだ。", "vi": "Biết chắc trượt rồi mà vẫn đi thi là việc vô ích."},
+        {"ja": "必要ないものを買ってお金をむだに使ってしまった。", "vi": "Mua những thứ không cần thiết, tiêu tiền lãng phí."}
+      ],
+      "related": [],
+      "notes": "(名) むだ（例. むだのないように燃料を使いたい。/ 生活からむだをなくすよう心がけている。/ 休みの日に寝てばかりいるのは時間のむだだ。/ 資源のむだづかいをしないようにしよう。）"
+    },
+    {
+      "no": 297,
+      "kanji": "自由な",
+      "kana": "じゆうな",
+      "en": "free",
+      "kr": "자유롭다",
+      "vi": "tự do",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "赤ちゃんがいるので、自由な時間がほとんどない。", "vi": "Vì có con nhỏ nên hầu như không có thời gian tự do."},
+        {"ja": "「ここにあるパソコンはご自由にお使いください」", "vi": "“Máy tính ở đây mời mọi người tự do sử dụng.”"},
+        {"ja": "政治についてどう考えるかは個人の自由だ。", "vi": "Nghĩ thế nào về chính trị là tự do của mỗi người."}
+      ],
+      "related": [
+        {"type": "合", "text": "_時間、_席、_行動"},
+        {"type": "連", "text": "「表現/言論 …」の自由＋＿がある・ない"},
+        {"type": "合", "text": "_主義"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 298,
+      "kanji": "不自由な",
+      "kana": "ふじゆうな",
+      "en": "impaired; inconvenient; disadvantaged",
+      "kr": "불편하다",
+      "vi": "khuyết tật; bất tiện, thiếu thốn",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「目/耳/足/体 …」が不自由な人", "vi": "Người khuyết tật「mắt/tai/chân/thân thể …」"},
+        {"ja": "地震でガスと電気が止まり、しばらく不自由な生活をした。", "vi": "Do động đất, gas và điện bị ngắt, phải sống thiếu thốn một thời gian."},
+        {"ja": "パソコンがないと仕事をするのに不自由だ。", "vi": "Không có máy tính thì làm việc rất bất tiện."},
+        {"ja": "彼は、お金に不自由しているらしい。", "vi": "Nghe đâu anh ấy đang khốn thiếu tiền."},
+        {"ja": "長い間海外に住んでいたので、英語には不自由しない。", "vi": "Sống ở nước ngoài lâu năm nên tiếng Anh chẳng phải lo."},
+        {"ja": "病気がちだが、生活に不自由はない。", "vi": "Hay ốm đau nhưng sinh hoạt không thiếu thốn gì."}
+      ],
+      "related": [
+        {"type": "合", "text": "不自由さ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 299,
+      "kanji": "暖まる／温まる",
+      "kana": "あたたまる",
+      "en": "become warm",
+      "kr": "따뜻해지다",
+      "vi": "ấm lên (động từ tự thân)",
+      "senses": [],
+      "examples": [
+        {"ja": "お風呂に入ると体が「暖/温」まる。", "vi": "Ngâm mình trong bồn tắm thì người ấm lên."}
+      ],
+      "related": [],
+      "notes": "(自) — cặp với 300 あたためる(他)"
+    },
+    {
+      "no": 300,
+      "kanji": "暖める／温める",
+      "kana": "あたためる",
+      "en": "warm, heat",
+      "kr": "따뜻하게 하다, 데우다",
+      "vi": "làm ấm, hâm nóng",
+      "senses": [],
+      "examples": [
+        {"ja": "エアコンをつけて部屋を暖める。", "vi": "Bật điều hòa để làm ấm phòng."},
+        {"ja": "スープを温める。", "vi": "Hâm nóng súp."}
+      ],
+      "related": [],
+      "notes": "(他) — cặp với 299 あたたまる(自)"
+    },
+    {
+      "no": 301,
+      "kanji": "高まる",
+      "kana": "たかまる",
+      "en": "rise",
+      "kr": "높아지다",
+      "vi": "tăng cao, dâng cao",
+      "senses": [],
+      "examples": [
+        {"ja": "台風が近づき、波が高まっている。", "vi": "Bão tiến gần, sóng dâng cao."},
+        {"ja": "若者の政治への関心が高まっている。", "vi": "Sự quan tâm của giới trẻ đến chính trị đang dâng cao."},
+        {"ja": "「期待/人気/感情/能力/教育水準 …」が高まる。", "vi": "「Kỳ vọng/độ nổi tiếng/tình cảm/khả năng/trình độ giáo dục …」tăng cao."}
+      ],
+      "related": [],
+      "notes": "(自)／(名) 高まり"
+    },
+    {
+      "no": 302,
+      "kanji": "高める",
+      "kana": "たかめる",
+      "en": "raise",
+      "kr": "높이다",
+      "vi": "nâng cao",
+      "senses": [],
+      "examples": [
+        {"ja": "若者はもっとコミュニケーション能力を高める必要がある。", "vi": "Giới trẻ cần nâng cao hơn nữa khả năng giao tiếp."},
+        {"ja": "「評価/人気/やる気/教育水準 …」を高める。", "vi": "Nâng cao「đánh giá/độ nổi tiếng/ý chí/trình độ giáo dục …」."}
+      ],
+      "related": [],
+      "notes": "(他)"
+    },
+    {
+      "no": 303,
+      "kanji": "強まる",
+      "kana": "つよまる",
+      "en": "strengthen",
+      "kr": "강해지다",
+      "vi": "mạnh lên",
+      "senses": [],
+      "examples": [
+        {"ja": "台風の勢力はますます強まっている。", "vi": "Thế lực của cơn bão ngày càng mạnh lên."},
+        {"ja": "「雨/風/火/力/揺れ …」が強まる。", "vi": "「Mưa/gió/lửa/lực/độ rung chuyển …」mạnh lên."}
+      ],
+      "related": [
+        {"type": "対", "text": "弱まる"}
+      ],
+      "notes": "(自)"
+    },
+    {
+      "no": 304,
+      "kanji": "強める",
+      "kana": "つよめる",
+      "en": "strengthen, confirm",
+      "kr": "강하게 하다",
+      "vi": "làm mạnh lên, tăng cường",
+      "senses": [],
+      "examples": [
+        {"ja": "「火/力/自信 …」を強める。", "vi": "Làm mạnh lên「lửa/lực/sự tự tin …」."}
+      ],
+      "related": [
+        {"type": "対", "text": "弱める"}
+      ],
+      "notes": "(他)"
+    },
+    {
+      "no": 305,
+      "kanji": "弱まる",
+      "kana": "よわまる",
+      "en": "weaken",
+      "kr": "약해지다",
+      "vi": "yếu đi, suy yếu",
+      "senses": [],
+      "examples": [
+        {"ja": "疲れていると抵抗力が弱まって、かぜにかかりやすくなる。", "vi": "Mệt mỏi thì sức đề kháng yếu đi, dễ bị cảm."},
+        {"ja": "「雨/風/力/勢力/影響 …」が弱まる。", "vi": "「Mưa/gió/lực/thế lực/ảnh hưởng …」yếu đi."}
+      ],
+      "related": [
+        {"type": "対", "text": "強まる"}
+      ],
+      "notes": "(自)"
+    },
+    {
+      "no": 306,
+      "kanji": "弱める",
+      "kana": "よわめる",
+      "en": "weaken, reduce",
+      "kr": "약하게 하다",
+      "vi": "làm yếu đi, giảm bớt",
+      "senses": [],
+      "examples": [
+        {"ja": "「材料がやわらかくなったら、火を弱めてゆっくり煮込んでください」", "vi": "“Khi nguyên liệu mềm ra thì giảm lửa, ninh từ từ.”"},
+        {"ja": "「力/勢い …」を弱める。", "vi": "Làm yếu「sức mạnh/độ mạnh mẽ …」."}
+      ],
+      "related": [
+        {"type": "対", "text": "強める"}
+      ],
+      "notes": "(他)"
+    },
+    {
+      "no": 307,
+      "kanji": "広まる",
+      "kana": "ひろまる",
+      "en": "spread",
+      "kr": "널리 퍼지다, 보급되다",
+      "vi": "lan rộng, lan truyền",
+      "senses": [],
+      "examples": [
+        {"ja": "そのうわさは1日で会社中に広まった。", "vi": "Tin đồn đó lan khắp công ty chỉ trong một ngày."},
+        {"ja": "「～の技術/～のやり方/評判/うわさ …」が広まる。", "vi": "「Kỹ thuật của ~/cách làm của ~/tiếng tăm/tin đồn …」lan rộng."}
+      ],
+      "related": [],
+      "notes": "(自)。※307、308 は抽象的な意味で使うことが多い。"
+    },
+    {
+      "no": 308,
+      "kanji": "広める",
+      "kana": "ひろめる",
+      "en": "spread, popularize",
+      "kr": "널리 퍼뜨리다",
+      "vi": "làm lan rộng, truyền bá, phổ biến",
+      "senses": [],
+      "examples": [
+        {"ja": "明治時代に、ヨーロッパから帰国した留学生たちが、日本に西洋文化を広めた。", "vi": "Thời Minh Trị, các du học sinh từ châu Âu về đã truyền bá văn hóa phương Tây vào Nhật."},
+        {"ja": "「～の技術/～のやり方/評判/うわさ …」を広める。", "vi": "Truyền bá「kỹ thuật của ~/cách làm của ~/tiếng tăm/tin đồn …」."}
+      ],
+      "related": [
+        {"type": "関", "text": "広がる・広げる"}
+      ],
+      "notes": "(他)。※307、308 は抽象的な意味で使うことが多い。"
+    },
+    {
+      "no": 309,
+      "kanji": "深まる",
+      "kana": "ふかまる",
+      "en": "deepen",
+      "kr": "깊어지다",
+      "vi": "sâu thêm, sâu đậm hơn",
+      "senses": [],
+      "examples": [
+        {"ja": "子どももできて、二人の愛情はますます深まった。", "vi": "Có con rồi, tình yêu của hai người càng ngày càng sâu đậm."},
+        {"ja": "秋が深まり、紅葉の美しい季節になった。", "vi": "Thu về muộn, vào mùa lá đỏ đẹp."},
+        {"ja": "「交流/友情/理解/対立 …」が深まる。", "vi": "「Giao lưu/tình bạn/sự hiểu biết/mâu thuẫn …」sâu thêm."}
+      ],
+      "related": [],
+      "notes": "(自)"
+    },
+    {
+      "no": 310,
+      "kanji": "深める",
+      "kana": "ふかめる",
+      "en": "deepen, cultivate",
+      "kr": "깊게 하다",
+      "vi": "làm sâu thêm, thắt chặt",
+      "senses": [],
+      "examples": [
+        {"ja": "交流を深め、相手の国のことを理解することが大切だ。", "vi": "Quan trọng là thắt chặt giao lưu, hiểu biết về nước của đối phương."},
+        {"ja": "「オリンピックを通じ、世界各国との友好関係を深めたいと思います」", "vi": "“Qua Thế vận hội, muốn làm sâu thêm quan hệ hữu nghị với các nước trên thế giới.”"},
+        {"ja": "「交流/友情/理解/対立 …」を深める。", "vi": "Làm sâu thêm「giao lưu/tình bạn/sự hiểu biết/mâu thuẫn …」."}
+      ],
+      "related": [],
+      "notes": "(他)。※309、310 は抽象的な意味で使うことが多い。"
+    }
+  ],
+  "columns": [
+    {
+      "title": "数字・計算",
+      "en": "Numbers, Calculation",
+      "book_page": 65,
+      "items": [
+        ["足し算", "たしざん", "1＋1＝2 → 1 たす 1 は 2", "phép cộng"],
+        ["引き算", "ひきざん", "5－3＝2 → 5 ひく 3 は 2", "phép trừ"],
+        ["かけ算", "かけざん", "4×5＝20 → 4 かける 5 は 20", "phép nhân"],
+        ["割り算", "わりざん", "10÷3＝3……1 → 10 わる 3 は 3 あまり 1", "phép chia"],
+        ["3.14", "", "3 てん いち よん", "đọc số thập phân: ba chấm một bốn"],
+        ["2/3", "", "3 ぶんの 2", "hai phần ba"],
+        ["1：1", "", "1 たい 1", "tỷ lệ một với một"],
+        ["「＋」「－」「＝」「・」", "", "プラス、マイナス、イコール、小数点", "dấu cộng, trừ, bằng, dấu chấm thập phân"],
+        ["偶数", "ぐうすう", "2、4、6……", "số chẵn"],
+        ["奇数", "きすう", "1、3、5……", "số lẻ"],
+        ["整数", "せいすう", "－1、0、1、2、10、100……", "số nguyên"],
+        ["小数", "しょうすう", "0.05、0.1、0.2……", "số thập phân"],
+        ["分数", "ぶんすう", "1/2、2/3、3/4……", "phân số"],
+        ["桁", "けた", "1、2、3…… ひとけたの数字；10、11、12…… ふたけたの数字", "chữ số một hàng/hai hàng"],
+        ["四捨五入", "ししゃごにゅう", "8.05→8.1、8.04→8.0", "làm tròn số"],
+        ["割", "わり", "1/10 ＝ 1わり（割）＝ 10パーセント（％）", "10%"]
+      ]
+    },
+    {
+      "title": "教科・科目",
+      "en": "Subjects, Courses",
+      "book_page": 69,
+      "items": [
+        ["社会", "しゃかい", "(social) social studies / 사회", "môn xã hội"],
+        ["地理", "ちり", "geography / 지리", "môn địa lý"],
+        ["歴史", "れきし", "history / 역사", "môn lịch sử"],
+        ["公民", "こうみん", "civics / 공민", "môn công dân"],
+        ["理科", "りか", "science / 과학", "môn khoa học tự nhiên"],
+        ["生物", "せいぶつ", "biology / 생명", "môn sinh vật học"],
+        ["物理", "ぶつり", "physics / 물리", "môn vật lý"],
+        ["化学", "かがく", "chemistry / 화학", "môn hóa học"],
+        ["国語", "こくご", "national language, Japanese language / 국어", "môn quốc ngữ (tiếng Nhật)"],
+        ["算数", "さんすう", "arithmetic / 산수", "môn số học (tiểu học)"],
+        ["数学", "すうがく", "mathematics / 수학", "môn toán học"],
+        ["音楽", "おんがく", "music / 음악", "môn âm nhạc"],
+        ["美術", "びじゅつ", "art / 미술", "môn mỹ thuật"],
+        ["保健体育", "ほけんたいいく", "health and physical education / 보건체육", "môn y tế thể dục"],
+        ["家庭科", "かていか", "home economics, domestic science / 가정과", "môn gia chánh"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "I",
+      "range": "259~298",
+      "book_page": 66,
+      "instruction": "（　）に助詞を書きなさい。",
+      "questions": [
+        {"no": 1, "text": "彼女は子どもの教育（　）熱心だ。"},
+        {"no": 2, "text": "彼は仕事（　）とても積極的だ。"},
+        {"no": 3, "text": "弟は毎日ゲーム（　）夢中だ。"},
+        {"no": 4, "text": "生活（　）苦しい。"},
+        {"no": 5, "text": "今の生活（　）とても満足している。"},
+        {"no": 6, "text": "会社給料（　）不満がある。"},
+        {"no": 7, "text": "英語（　）不自由しない。"},
+        {"no": 8, "text": "健康（　）少し不安がある。"},
+        {"no": 9, "text": "平気（　）悪いことをする人がいる。"},
+        {"no": 10, "text": "子どものころ親（　）めんどう（　）かけた。"},
+        {"no": 11, "text": "いま私が親（　）めんどう（　）見ている。"}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "259~298",
+      "book_page": 66,
+      "instruction": "正しいことばを（　）の中から一つえらびなさい。",
+      "questions": [
+        {"no": 1, "text": "何があっても（　）顔をする。", "options": ["健康な", "平気な", "楽な"]},
+        {"no": 2, "text": "息が（　）。", "options": ["したい", "くるしい", "つらい"]},
+        {"no": 3, "text": "私はあの人が（　）。", "options": ["じょうずだ", "とくいだ", "にがてだ"]},
+        {"no": 4, "text": "（　）目にあった。", "options": ["大変な", "不注意な", "むりな"]}
+      ]
+    },
+    {
+      "type": "III",
+      "range": "259~298",
+      "book_page": 66,
+      "instruction": "下からA・Bのことばをえらんですべて書きなさい。A 人の性格やないようを表す形容詞　B 人の気持ちを表す形容詞",
+      "questions": [
+        {"no": 1, "text": "A 人の性格やないようを表す形容詞／B 人の気持ちを表す形容詞", "options": ["意外", "おとなしい", "がまん", "がまんづよい", "くやしい", "苦しい", "けち", "高齢", "失礼", "じみ", "消極的", "正直", "大変", "努力", "不注意", "楽", "わがまま"]}
+      ]
+    },
+    {
+      "type": "IV",
+      "range": "259~298",
+      "book_page": 67,
+      "instruction": "「不」のつくことばを四つえらんで〇をつけなさい。",
+      "questions": [
+        {"no": 1, "text": "「不」のつくことばを四つえらんで〇をつける。", "options": ["意外な", "健康な", "幸せな", "積極的", "退屈な", "大変な", "当然な", "得意な", "熱心な", "派手な", "無理な", "楽な"]}
+      ]
+    },
+    {
+      "type": "V",
+      "range": "259~298",
+      "book_page": 67,
+      "instruction": "（　）に入ることばを下からえらび、適当な形にして書きなさい。C は名詞の形にしない。",
+      "questions": [
+        {"no": "A1", "text": "私は歌のうまい人が（　）。", "options": ["うらやましい", "かゆい", "けっこう", "とうぜん", "ふしぎ", "へん", "まし", "むり", "めんどう"]},
+        {"no": "A2", "text": "がんばった彼が成功したのは（　）。"},
+        {"no": "A3", "text": "この魚はなにか（　）においがする。"},
+        {"no": "A4", "text": "申し込むには（　）手続きはいらない。"},
+        {"no": "A5", "text": "「おかわりはいかがですか」「はい、もう（　）」"},
+        {"no": "A6", "text": "何もやらないよりは、やって失敗したほうが（　）。"},
+        {"no": "A7", "text": "科学ではわからない（　）ことがたくさんある。"},
+        {"no": "A8", "text": "全然練習していないのだから、試合に勝つのはとても（　）。"},
+        {"no": "A9", "text": "この虫に刺されると、とても（　）。"},
+        {"no": "B1", "text": "この仕事はやさしいから、（　）でできる。", "options": ["いがい", "じゆう", "ふあん", "むり", "らく"]},
+        {"no": "B2", "text": "子どもに（　）勉強させるのはよくない。"},
+        {"no": "B3", "text": "まずそうだったが、食べてみると（　）おいしかった。"},
+        {"no": "B4", "text": "「このパンフレットはご（　）お持ちください」"},
+        {"no": "B5", "text": "試験の日が近づくにつれて、だんだん（　）なってきた。"},
+        {"no": "C1", "text": "この仕事は、（　）が必要だ。", "options": ["おしゃれ", "くやしい", "せっきょくてき", "ふちゅうい", "むだ", "わがまま"]},
+        {"no": "C2", "text": "（　）を言って、親にしかられた。"},
+        {"no": "C3", "text": "（　）で交通事故を起こしてしまった。"},
+        {"no": "C4", "text": "お金の（　）つかいをしないようにしよう。"},
+        {"no": "C5", "text": "「1点差で負けてしまい、（　）でいっぱいだ。」"},
+        {"no": "C6", "text": "きょう、姉は（　）をして出かけて行った。"}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 59, "book_page": 58, "unit_title": "Unit 03 形容詞A 259〜298（Step 1）"},
+    {"pdf_page": 69, "book_page": 68, "unit_title": "まとめ イ形容詞＋まる／める 299〜310"}
+  ]
+}

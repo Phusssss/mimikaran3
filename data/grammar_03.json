@@ -1,0 +1,217 @@
+{
+  "pdf_pages": "28-37",
+  "points": [
+    {
+      "no": 27,
+      "pattern": "たとえ〜ても",
+      "stars": null,
+      "senses": ["Giả sử đặt điều kiện trái với thực tế: dù có... đi chăng nữa thì..."],
+      "connection": "Động từ・tính từ い・tính từ な ở dạng て + も / danh từ + でも",
+      "vi": "dù cho..., cho dù... đi nữa",
+      "explanation": "Dùng khi nói một việc nào đó vẫn đúng, vẫn như vậy cho dù giả định điều kiện ngược lại có xảy ra. たとえ đứng đầu câu để nhấn mạnh tính giả định. Đi với danh từ thì dùng dạng でも.",
+      "examples": [
+        {"ja": "たとえ多少高くても、質のいいものが買いたい。", "vi": "Dù có đắt hơn một chút đi chăng nữa, tôi vẫn muốn mua đồ chất lượng."},
+        {"ja": "たとえ両親に反対されても、家を出て一人暮らししたい。", "vi": "Dù bố mẹ có phản đối đi nữa, tôi vẫn muốn rời nhà ra sống một mình."},
+        {"ja": "手紙は、たとえ字が下手でも手書きのほうが暖かみがある。", "vi": "Về thư từ, dù chữ xấu đi nữa thì viết tay vẫn có sự ấm áp hơn."},
+        {"ja": "たとえ小さな子どもでも、ゆっくり話してあればわかるはずだ。", "vi": "Dù là trẻ nhỏ, nếu nói chậm rãi thì chắc hẳn nó cũng hiểu được."}
+      ]
+    },
+    {
+      "no": 28,
+      "pattern": "〜って",
+      "stars": null,
+      "senses": ["Truyền tin (nghe kể) — cách nói văn nói, thay cho 〜そうだ／ということだ"],
+      "connection": "Thể thường (普通体) của danh từ・động từ・tính từ い・tính từ な",
+      "vi": "nghe nói..., bảo là..., nói rằng...",
+      "explanation": "〜って là dạng rút ngắn khẩu ngữ của cách dẫn truyền tin, dùng trong hội thoại hằng ngày. Cũng dùng khi nhắc lại lời người khác vừa nói (行くって?) hoặc hỏi lại.",
+      "examples": [
+        {"ja": "「お母さん、お父さん、きょうは早く帰れるって」", "vi": "\"Mẹ ơi, bố ơi, nghe nói hôm nay về sớm được.\""},
+        {"ja": "「田中さん、行くって?」「ううん、行かないって」", "vi": "\"Tanaka bảo đi à?\" \"Ừ, bảo là không đi.\""},
+        {"ja": "「学校で習ったんだけど、このあたりは昔、海だったんだって」", "vi": "\"Mình được học ở trường, nghe nói vùng này ngày xưa là biển\""},
+        {"ja": "「天気予報、なんて言ってた?」「晴れるって。それに、暑いって」", "vi": "\"Dự báo thời tiết nói gì?\" \"Bảo là nắng. Với lại bảo là nóng nữa\""},
+        {"ja": "「久しぶりにディンさんからメールが来たよ。元気だって」", "vi": "\"Lâu lắm rồi mới có mail của anh Đình. Bảo là vẫn khỏe\""}
+      ]
+    },
+    {
+      "no": 29,
+      "pattern": "〜くらい/ぐらい",
+      "stars": 1,
+      "senses": ["① Ước lượng số lượng, mức độ: khoảng, chừng, gần như", "② Diễn tả mức độ đến mức nào đó (nêu rõ mức độ)", "③ Thể hiện mức độ thấp, xem nhẹ: chỉ... thôi mà"],
+      "connection": "Danh từ / dạng bổ nghĩa danh từ (名詞修飾形) của động từ・tính từ い・tính từ な + くらい/ぐらい",
+      "vi": "khoảng, chừng; đến mức...; chỉ... thôi mà",
+      "explanation": "① Dùng để ước lượng gần đúng (10分ぐらい). ② Nêu một ví dụ/mức độ cụ thể để diễn tả cường độ của việc đó (泣きたいぐらい悔しい). ③ Hạ thấp giá trị của việc kia, coi như không đáng kể (かぜぐらいで休まない). くらい và ぐらい dùng như nhau, ぐらい hơi khẩu ngữ hơn.",
+      "examples": [
+        {"sense": 1, "ja": "ここから駅まで10分ぐらいだ。", "vi": "Từ đây đến ga khoảng 10 phút."},
+        {"sense": 2, "ja": "もう動けないぐらい疲れた。", "vi": "Mệt đến mức không còn nhúc nhích nổi nữa."},
+        {"sense": 2, "ja": "ライバルに負けた。悔しくて泣きたいぐらいだ。", "vi": "Thua đối thủ. Hối hận đến mức muốn khóc."},
+        {"sense": 2, "ja": "彼くらいの背の高さなら、棚に手が届くだろう。", "vi": "Nếu cao bằng anh ấy thì chắc với tới được kệ hàng."},
+        {"sense": 3, "ja": "かぜぐらいで仕事を休まない。", "vi": "Chỉ vì cảm cúm thôi mà không nghỉ việc."},
+        {"sense": 3, "ja": "これぐらいの傷なら医者に行かなくてもいいだろう。", "vi": "Vết thương cỡ này thì chẳng cần đi bác sĩ đâu."},
+        {"sense": 3, "ja": "半年勉強したので、簡単な会話くらいならできる。", "vi": "Học nửa năm rồi nên hội thoại đơn giản thì làm được."},
+        {"sense": 3, "ja": "忙しくても、電話をするくらいの時間はあるはずだ。", "vi": "Dù bận thì chắc cũng có thời gian mà gọi điện thoại thôi."},
+        {"sense": 3, "ja": "「こんなことを知らないのは君くらいだよ」", "vi": "\"Chỉ có cậu thôi không biết chuyện này đâu\""}
+      ]
+    },
+    {
+      "no": 30,
+      "pattern": "〜くらいなら/ぐらいなら",
+      "stars": 1,
+      "senses": ["So sánh lựa chọn: nếu phải làm việc đó thì làm việc kia còn hơn (thà... còn hơn)"],
+      "connection": "Động từ thể từ điển (辞書形) + くらいなら/ぐらいなら",
+      "vi": "thà... còn hơn..., chẳng thà... thì...",
+      "explanation": "Nêu một phương án không mong muốn, rồi nói rằng phương án khác (đứng sau) vẫn tốt hơn. Thường đi kèm よりましだ、ほうがいい、〜てもいい.",
+      "examples": [
+        {"ja": "途中でやめるくらいなら、初めからやらないほうがいい。", "vi": "Thà bỏ giữa chừng thì không làm ngay từ đầu còn hơn."},
+        {"ja": "お金のために嫌な仕事をするくらいなら、貧しくてもいい。", "vi": "Thà nghèo còn hơn làm việc mình ghét vì tiền."},
+        {"ja": "あいつに謝るくらいなら、死んだほうがましだ。", "vi": "Chết còn dễ chịu hơn là phải xin lỗi thằng đó."},
+        {"ja": "「練習が辛くて泣くくらいなら、やめてしまいなさい」", "vi": "\"Nếu cứ phải khóc vì tập luyện vất vả thì thôi cứ bỏ đi\""}
+      ]
+    },
+    {
+      "no": 31,
+      "pattern": "〜うちに",
+      "stars": 1,
+      "senses": ["① Làm gì đó trước khi có biến đổi xảy ra; trong lúc còn... (trong khoảng thời gian đó)", "② Trong lúc đang... thì xảy ra việc không hề dự đoán trước"],
+      "connection": "① Danh từ・dạng bổ nghĩa danh từ của tính từ い・tính từ な / động từ thể ない・ている | ② Động từ thể ない・ている (động từ không dùng được ている như いる, ある thì dùng thể từ điển)",
+      "vi": "trong khi còn...; trước khi...; trong lúc đang... thì...",
+      "explanation": "① Diễn tả việc làm trong khoảng thời gian trạng thái đó còn duy trì, trước khi nó thay đổi (暗くならないうちに). ② Diễn tả việc gì đó bất ngờ xảy ra trong quá trình đang làm (見ているうちに寝てしまった).",
+      "examples": [
+        {"sense": 1, "ja": "暗くならないうちに (=暗くなる前に／明るいうちに) 山を下りたい。", "vi": "Muốn xuống núi trước khi trời tối (trong lúc trời còn sáng)."},
+        {"sense": 1, "ja": "祖父は元気なうちにいろんな所へ旅行したいと言っている。", "vi": "Ông tôi nói muốn đi du lịch nhiều nơi trong lúc còn khỏe."},
+        {"sense": 1, "ja": "あしたは母の日だ。母が寝ているうちに朝ごはんを作って驚かせよう。", "vi": "Mai là ngày của mẹ. Làm bữa sáng trong lúc mẹ còn ngủ để gây bất ngờ."},
+        {"sense": 1, "ja": "10代のうちに将来の目標を決めたいと思っている。", "vi": "Tôi nghĩ muốn quyết định mục tiêu tương lai trong lúc còn tuổi 20."},
+        {"sense": 1, "ja": "「大事なことは忘れないうちにメモしておいたほうがいいですよ」", "vi": "\"Việc quan trọng thì tốt hơn là ghi chú lại trước khi quên\""},
+        {"sense": 2, "ja": "テレビを見ているうちに寝てしまい、試験勉強ができなかった。", "vi": "Xem ti-ví xem mà ngủ mất, nên chẳng học được gì cho kỳ thi."},
+        {"sense": 2, "ja": "切符を買っているうちに電車が出てしまった。", "vi": "Trong lúc đang mua vé thì tàu đã chạy mất."},
+        {"sense": 2, "ja": "しばらく会わないうちに、その子はずいぶん大きくなっていた。", "vi": "Trong khoảng thời gian lâu không gặp, đứa bé đã lớn khôn hẳn."}
+      ]
+    },
+    {
+      "no": 32,
+      "pattern": "〜を中心に／として／にして",
+      "stars": 1,
+      "senses": ["Lấy... làm trung tâm, xoay quanh..."],
+      "connection": "Danh từ",
+      "vi": "lấy... làm trung tâm; tập trung vào...",
+      "explanation": "Diễn tả việc gì đó được tiến hành xoay quanh một nhân vật, địa điểm, vấn đề trung tâm. を中心に（して）và を中心として đều nghĩa như nhau, có thể theo sau bằng の.",
+      "examples": [
+        {"ja": "駅前を中心に再開発が進められ、新しいビルが次々と建てられている。", "vi": "Công cuộc tái phát triển được tiến hành lấy ga làm trung tâm, các tòa nhà mới mọc lên liên tiếp."},
+        {"ja": "今度の日本代表チームは主将の中村選手を中心によくまとまっている。", "vi": "Đội tuyển Nhật lần này gắn kết tốt xung quanh trụ cột là vận động viên Nakamura."},
+        {"ja": "A社を中心にしてABC 3社の合併計画が進められている。", "vi": "Kế hoạch hợp nhất ba công ty ABC được tiến hành lấy công ty A làm trung tâm."},
+        {"ja": "この地域では大学生を中心とする若者たちが集まり、ボランティア活動をしている。", "vi": "Ở khu vực này, các bạn trẻ chủ yếu là sinh viên đại học tập hợp lại làm hoạt động tình nguyện."}
+      ]
+    },
+    {
+      "no": 33,
+      "pattern": "〜をはじめ",
+      "stars": 1,
+      "senses": ["Lấy... làm tiêu biểu, đại diện; bắt đầu từ... rồi tới các thứ khác"],
+      "connection": "Danh từ",
+      "vi": "bắt đầu từ..., tiêu biểu là...; ngoài ra còn có... nữa",
+      "explanation": "Nêu một ví dụ tiêu biểu nhất đứng trước, rồi ngụ ý còn rất nhiều thứ tương tự khác. Dạng をはじめとする đứng trước danh từ; をはじめとして cũng dùng như nhau.",
+      "examples": [
+        {"ja": "最近の携帯電話にはカメラをはじめとして、いろいろな機能がついている。", "vi": "Điện thoại di động gần đây có máy ảnh làm tiêu biểu, kèm theo nhiều chức năng khác nhau."},
+        {"ja": "新宿には都庁をはじめ、多くの高層ビルが立ち並んでいる。", "vi": "Ở Shinjuku, bắt đầu từ trụ sở Chính quyền đô thị Tokyo, nhiều tòa nhà cao tầng đứng nối tiếp nhau."},
+        {"ja": "サミットにはアメリカをはじめとする各国の首脳が集まる。", "vi": "Hội nghị thượng đỉnh quy tụ các nguyên thủ các nước, tiêu biểu là Mỹ."},
+        {"ja": "校長先生をはじめ、先生方には大変お世話になりました。", "vi": "Bắt đầu từ hiệu trưởng, tôi đã nhận được sự giúp đỡ rất nhiều từ các thầy cô."}
+      ]
+    },
+    {
+      "no": 34,
+      "pattern": "〜に対し(て)",
+      "stars": 1,
+      "senses": ["Hướng về phía, nhắm vào, đối với..."],
+      "connection": "Danh từ",
+      "vi": "đối với..., hướng vào..., dành cho...",
+      "explanation": "Diễn tả hướng tác động, hành vi, thái độ hướng tới một người/việc nào đó. Dạng に対する đứng trước danh từ (に対する不満).",
+      "examples": [
+        {"ja": "目上の人に対しては敬語を使わなければならない。", "vi": "Đối với người lớn tuổi hơn thì phải dùng kính ngữ."},
+        {"ja": "先生は学生のどんな質問に対しても、ていねいに答えてくれる。", "vi": "Dù là câu hỏi nào của học sinh, thầy vẫn nhiệt tình trả lời tử tế."},
+        {"ja": "厳しい父に対し、私はいつも反抗的な態度をとった。", "vi": "Đối với người bố nghiêm khắc, tôi lúc nào cũng có thái độ chống đối."},
+        {"ja": "長引く不況で、国民の政府に対する不満が高まっている。", "vi": "Vì khủng hoảng kinh tế kéo dài, sự bất mãn của người dân đối với chính phủ đang dâng cao."},
+        {"ja": "彼女は自分に対して非常に厳しい人だ。", "vi": "Cô ấy là người rất nghiêm khắc với bản thân mình."}
+      ]
+    },
+    {
+      "no": 35,
+      "pattern": "〜において",
+      "stars": 1,
+      "senses": ["Chỉ địa điểm, thời gian, tình huống, lĩnh vực: tại, vào, ở..."],
+      "connection": "Danh từ",
+      "vi": "tại, vào, ở... (về phương diện...)",
+      "explanation": "Thay cho trợ từ で/に, chỉ nơi chốn, thời điểm, hoặc lĩnh vực, tình huống (においては là dạng nhấn mạnh). Dạng における đứng trước danh từ. Trong văn nói trang trọng dùng おきまして.",
+      "examples": [
+        {"ja": "近代工業はヨーロッパにおいて誕生した。", "vi": "Công nghiệp hiện đại được hình thành tại châu Âu."},
+        {"ja": "災害時においては、冷静になることが何よりも大切だ。", "vi": "Khi xảy ra thiên tai, việc giữ bình tĩnh quan trọng hơn bất cứ điều gì."},
+        {"ja": "卒業式は〇〇ホールにおきまして10時より行われます。", "vi": "Lễ tốt nghiệp sẽ được tổ chức tại hội trường ○○ từ 10 giờ."},
+        {"ja": "我が社の車は、安全性においてはどこにも負けません。", "vi": "Xe của công ty chúng tôi, về độ an toàn thì không thua đâu."},
+        {"ja": "明治時代における学校教育について研究したい。", "vi": "Tôi muốn nghiên cứu về giáo dục học đường thời Minh Trị."}
+      ]
+    },
+    {
+      "no": 36,
+      "pattern": "〜にわたって/わたり",
+      "stars": 1,
+      "senses": ["Kéo dài bao trùm toàn bộ một khoảng thời gian, địa điểm, phạm vi nào đó (quy mô lớn)"],
+      "connection": "Danh từ (thời gian・địa điểm・phạm vi) + にわたって/わたり",
+      "vi": "kéo dài suốt..., trải rộng khắp...; qua...",
+      "explanation": "Diễn tả hoạt động hay trạng thái diễn ra liên tục trên toàn bộ một khoảng thời gian dài, một khu vực rộng hoặc nhiều phương diện. Dạng にわたる・にわたった đứng trước danh từ.",
+      "examples": [
+        {"ja": "国立競技場では2週間にわたって熱戦が繰り広げられた。", "vi": "Tại sân vận động quốc gia, những trận đấu gay cấn diễn ra kéo dài suốt 2 tuần."},
+        {"ja": "台風が近づき、関東地方全域にわたって暴風警報が出された。", "vi": "Bão tiến sát, cảnh báo bão lớn được phát rộng khắp toàn vùng Kanto."},
+        {"ja": "ガケ崩れのため、その道路は10キロにわたり通行止めになった。", "vi": "Vì sạt lở vách núi, con đường đó bị cấm qua lại trên quãng 10 cây số."},
+        {"ja": "病院で食生活全般にわたる指導を受けた。", "vi": "Tôi được hướng dẫn về toàn bộ các mặt trong đời sống ăn uống tại bệnh viện."},
+        {"ja": "20年にわたった内戦が終わり、国民の顔にもようやく笑顔が見られるようになった。", "vi": "Cuộc nội chiến kéo dài 20 năm đã kết thúc, gương mặt người dân cuối cùng cũng thấy được nụ cười."},
+        {"ja": "その会議では、多岐にわたる問題が議論された。", "vi": "Trong hội nghị đó, các vấn đề trải rộng nhiều mặt đã được bàn luận."}
+      ]
+    },
+    {
+      "no": 37,
+      "pattern": "〜にとって",
+      "stars": 1,
+      "senses": ["Xét từ lập trường, góc nhìn của...: đối với (ai đó) (dùng cho đánh giá, phán đoán)"],
+      "connection": "Danh từ",
+      "vi": "đối với..., xét theo quan điểm của...",
+      "explanation": "Diễn tả việc người/vật đứng trước là chủ thể của một đánh giá, cảm xúc, phán đoán đứng sau. Dạng にとっての đứng trước danh từ. Thường đi kèm は để nhấn mạnh.",
+      "examples": [
+        {"ja": "東京は若者にとっては刺激のある魅力的な街だ。", "vi": "Đối với người trẻ, Tokyo là thành phố đầy kích thích và hấp dẫn."},
+        {"ja": "百万円は私にとっては大金だが、彼にとってはたいした金額ではないようだ。", "vi": "1 triệu yên đối với tôi là số tiền lớn, nhưng với anh ta có vẻ không đáng là bao."},
+        {"ja": "私にとって日本は、自分の夢を実現するための国だ。", "vi": "Đối với tôi, Nhật Bản là quốc gia để mình thực hiện giấc mơ của mình."},
+        {"ja": "財政再建は政府にとっても民間企業にとっても切実な問題だ。", "vi": "Tái thiết tài chính là vấn đề cấp thiết đối với cả chính phủ lẫn doanh nghiệp tư nhân."},
+        {"ja": "私にとっての彼女は、青春時代を過ごしたあの町しかない。", "vi": "Đối với tôi, thị trấn năm xưa tôi đã sống tuổi thanh xuân mới là người con gái duy nhất."}
+      ]
+    },
+    {
+      "no": 38,
+      "pattern": "〜による／より／よって／よっては",
+      "stars": 1,
+      "senses": [
+        "① Nguyên nhân, lý do",
+        "② Phương tiện, phương pháp",
+        "③ Lấy... làm căn cứ, dựa vào...",
+        "④ Khác nhau tùy theo...",
+        "⑤ (〜によっては) tùy trường hợp là có khi... (chỉ một bộ phận trường hợp)"
+      ],
+      "connection": "Danh từ",
+      "vi": "do...; bằng, nhờ...; dựa theo...; tùy theo...; có khi tùy... mà...",
+      "explanation": "①による chỉ nguyên nhân (台風による被害). ②によって chỉ phương tiện, thủ đoạn (電話による問い合わせ). ③による chỉ căn cứ, nguồn gốc (成績によって). ④Diễn tả sự khác biệt tùy theo đối tượng (国によって違う). ⑤によっては nghĩa là 'trong một số trường hợp thì', đi với khả năng (によっては〜こともある).",
+      "examples": [
+        {"sense": 1, "ja": "森林の伐採により、世界各地で砂漠化現象が起こっている。", "vi": "Do chặt phá rừng, hiện tượng sa mạc hóa đang xảy ra khắp nơi trên thế giới."},
+        {"sense": 1, "ja": "今度の台風による被害は1億円に上る。", "vi": "Thiệt hại do cơn bão lần này lên tới 100 triệu yên."},
+        {"sense": 1, "ja": "少子化は結婚年齢が上がったことによると言われている。", "vi": "Người ta nói hiện tượng dân số giảm là do tuổi kết hôn tăng lên."},
+        {"sense": 2, "ja": "インターネットによって随時に大量の情報が得られるようになった。", "vi": "Nhờ internet, giờ đây có thể thu được khối lượng thông tin lớn bất cứ lúc nào."},
+        {"sense": 2, "ja": "電話によるお問い合わせはご遠慮ください。", "vi": "Xin vui lòng không hỏi qua điện thoại."},
+        {"sense": 3, "ja": "成績によってクラスを決める。", "vi": "Chia lớp dựa theo học lực."},
+        {"sense": 3, "ja": "目撃者の証言により、犯人が逮捕された。", "vi": "Dựa vào lời khai của nhân chứng, thủ phạm đã bị bắt."},
+        {"sense": 3, "ja": "国籍や性別による差別は許されない。", "vi": "Phân biệt đối xử theo quốc tịch hay giới tính là không được chấp nhận."},
+        {"sense": 4, "ja": "文化や法律は国によって違う。", "vi": "Văn hóa hay pháp luật khác nhau tùy theo quốc gia."},
+        {"sense": 4, "ja": "人により、この商品の評価は分かれる。", "vi": "Đánh giá về sản phẩm này chia thành hai phe tùy theo từng người."},
+        {"sense": 4, "ja": "あの人の言うことは日によって変わる。", "vi": "Lời nói của người đó thay đổi theo từng ngày."},
+        {"sense": 5, "ja": "「日／体調／仕事の状況によっては、旅行に参加できないかもしれません」", "vi": "\"Tùy theo ngày / sức khỏe / công việc mà có khi không thể tham gia chuyến đi\""},
+        {"sense": 5, "ja": "この食べ物は刺激が強いので、人によってはおなかをこわすことがある。", "vi": "Món ăn này kích thích mạnh nên tùy người có khi bị đau bụng."},
+        {"sense": 5, "ja": "国によっては安楽死が認められている。", "vi": "Tùy quốc gia mà có nơi công nhận quyền chết an tử."},
+        {"sense": 5, "ja": "※ 晴れ時々曇り、所により雨", "vi": "※ Nắng, lúc này lúc khác nhiều mây, cục bộ có mưa (cách dùng trong dự báo thời tiết)."}
+      ]
+    }
+  ]
+}

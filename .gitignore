@@ -1,0 +1,26 @@
+# secrets
+.env
+.env.local
+.env*.local
+web/.env.local
+
+# dependencies / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# bản scan sách (nặng + bản quyền) — dùng cục bộ để chạy merge.py
+pages/
+gpages/
+gp/
+site/
+data/parts/
+data/_notes*.txt
+data/notes_*.txt
+data/.notes*.txt
+*.pdf
+
+# misc
+*.log

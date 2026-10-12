@@ -1,0 +1,970 @@
+{
+  "pdf_pages": "99-108",
+  "words": [
+    {
+      "no": 461,
+      "kanji": "振る",
+      "kana": "ふる",
+      "en": "wave; sprinkle; reject",
+      "kr": "흔들다, 뿌리다 / 거절하다",
+      "vi": "vẫy (tay); rắc; từ chối",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "手を振る。", "vi": "Vẫy tay."},
+        {"ja": "「この飲み物は、よくふってからお飲みください」", "vi": "«Đồ uống này, xin hãy lắc kỹ rồi uống.»"},
+        {"ja": "肉に塩をふる。", "vi": "Rắc muối vào thịt."},
+        {"ja": "片思いの彼女に告白したが、ふられてしまった。", "vi": "Tỏ tình với cô gái mình đơn phương thương nhưng đã bị từ chối."}
+      ],
+      "related": [],
+      "notes": "kr 표기 일부 판독 어려움; zh: 摇动, 撒; 拒绝"
+    },
+    {
+      "no": 462,
+      "kanji": "めくる",
+      "kana": "めくる",
+      "en": "turn over",
+      "kr": "넘기다",
+      "vi": "lật (trang, thẻ, lịch)",
+      "senses": [],
+      "examples": [
+        {"ja": "「カード/ページ/カレンダー …」をめくる。", "vi": "Lật «thẻ/trang/lịch …»."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 463,
+      "kanji": "見かける",
+      "kana": "みかける",
+      "en": "see, come across",
+      "kr": "보다, 우연히 보다 / 눈에 띄다",
+      "vi": "tình cờ nhìn thấy, bắt gặp",
+      "senses": [],
+      "examples": [
+        {"ja": "街で偶然、昔の友だちを見かけた。", "vi": "Tình cờ bắt gặp người bạn cũ trên phố."},
+        {"ja": "最近、公衆電話を見かけなくなった。", "vi": "Gần đây hiếm khi thấy điện thoại công cộng nữa."}
+      ],
+      "related": [],
+      "notes": "(名) 見かけ (例. このりんごは見かけは甘そうだったが、食べてみるとすっぱかった。)"
+    },
+    {
+      "no": 464,
+      "kanji": "確かめる",
+      "kana": "たしかめる",
+      "en": "check, confirm",
+      "kr": "확인, 확인하다",
+      "vi": "kiểm tra, xác nhận",
+      "senses": [],
+      "examples": [
+        {"ja": "ファックスが届いたかどうか、相手に電話して確かめた。", "vi": "Gọi điện cho đối phương để xác nhận xem fax đã đến hay chưa."},
+        {"ja": "食事会の参加人数を確かめた。", "vi": "Đã xác nhận số người tham dự bữa ăn (tiệc)."}
+      ],
+      "related": [
+        {"type": "類", "text": "確認する (→371)"},
+        {"type": "関", "text": "確かな (→571)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 465,
+      "kanji": "試す",
+      "kana": "ためす",
+      "en": "try, test",
+      "kr": "시험 / 시험해 보다",
+      "vi": "thử, kiểm tra",
+      "senses": [],
+      "examples": [
+        {"ja": "洋服が似合うかどうか、着て試してみた。", "vi": "Mặc thử xem bộ đồ có hợp không."},
+        {"ja": "自分の実力を試すために、テストを受けた。", "vi": "Đã làm bài kiểm tra để thử năng lực của mình."},
+        {"ja": "「どうぞお試しください」", "vi": "«Mời bạn dùng thử.»"}
+      ],
+      "related": [
+        {"type": "類", "text": "試みる"},
+        {"type": "関", "text": "試に (例. 似合うかどうか、試に着てみた。)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 466,
+      "kanji": "繰り返す",
+      "kana": "くりかえす",
+      "en": "repeat",
+      "kr": "반복, 되풀이 / 되풀이하다, 반복하다",
+      "vi": "lặp lại",
+      "senses": [],
+      "examples": [
+        {"ja": "「同じ失敗をくり返してはいけません」", "vi": "«Đừng lặp lại thất bại như thế nữa.»"},
+        {"ja": "この本は大好きなので、くり返し読みました。", "vi": "Vì rất thích quyển sách này nên tôi đã đọc đi đọc lại."}
+      ],
+      "related": [],
+      "notes": "(名) 繰り返し"
+    },
+    {
+      "no": 467,
+      "kanji": "訳す",
+      "kana": "やくす",
+      "en": "translate",
+      "kr": "번역 / 번역하다",
+      "vi": "dịch",
+      "senses": [],
+      "examples": [
+        {"ja": "英語を日本語に訳す。", "vi": "Dịch tiếng Anh sang tiếng Nhật."}
+      ],
+      "related": [
+        {"type": "類", "text": "翻訳(り)する (→343)、通訳(り)する (→342)"}
+      ],
+      "notes": "(名) 訳 (例. 英語の文に日本語の訳をつける。)"
+    },
+    {
+      "no": 468,
+      "kanji": "行う",
+      "kana": "おこなう",
+      "en": "hold (an event)",
+      "kr": "실시하다, 행하다",
+      "vi": "tiến hành, tổ chức (sự kiện)",
+      "senses": [],
+      "examples": [
+        {"ja": "「試験/会議/スピーチ/イベント …」を行う。", "vi": "Tiến hành «kỳ thi/cuộc họp/bài diễn thuyết/sự kiện …»."}
+      ],
+      "related": [],
+      "notes": "※「する」より改まった言い方; (名) 行い (〜がいい/悪い); zh: 实行, 进行, 执行"
+    },
+    {
+      "no": 469,
+      "kanji": "間違う",
+      "kana": "まちがう",
+      "en": "be incorrect/wrong, make a mistake",
+      "kr": "잘못하다, 틀리다",
+      "vi": "sai, nhầm",
+      "senses": [],
+      "examples": [
+        {"ja": "この計算は間違っている。", "vi": "Cách tính này sai."},
+        {"ja": "お金があれば幸せになれるというのは間違った考え。", "vi": "Nghĩ rằng có tiền thì sẽ hạnh phúc là một suy nghĩ sai lầm."},
+        {"ja": "簡単な計算を間違えた。", "vi": "Đã tính nhầm một phép tính đơn giản."}
+      ],
+      "related": [],
+      "notes": "〈自/他〉ガ/ラ; (名) 間違い; zh: 错, 不正确; 搞错"
+    },
+    {
+      "no": 470,
+      "kanji": "間違える",
+      "kana": "まちがえる",
+      "en": "get wrong, mistake for",
+      "kr": "~을 틀리다, 잘못하다",
+      "vi": "làm nhầm, lẫn lộn",
+      "senses": [],
+      "examples": [
+        {"ja": "テストの答えを間違えた。", "vi": "Làm sai đáp án bài kiểm tra."},
+        {"ja": "塩とさとうを間違えてなべに入れてしまった。", "vi": "Lầm muối với đường cho vào nồi mất rồi."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄错, 搞错"
+    },
+    {
+      "no": 471,
+      "kanji": "許す",
+      "kana": "ゆるす",
+      "en": "forgive; allow",
+      "kr": "용서하다, 허락하다",
+      "vi": "tha thứ; cho phép",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "ひどいことを言われてけんかになったが、相手が謝ったので許してあげた。", "vi": "Bị nói những điều quá đáng nên cãi nhau, nhưng đối phương xin lỗi nên đã tha thứ."},
+        {"ja": "罪を許される。", "vi": "Được tha thứ tội lỗi."},
+        {"ja": "子どもには、1日1時間だけゲームをすることを許している。", "vi": "Cho phép trẻ chỉ được chơi trò chơi điện tử 1 giờ một ngày."}
+      ],
+      "related": [
+        {"type": "類", "text": "許可する"}
+      ],
+      "notes": "(名) 許し (許しを得る/許しをもらう など); zh: 宽恕, 饶恕; 允许, 许可"
+    },
+    {
+      "no": 472,
+      "kanji": "慣れる",
+      "kana": "なれる",
+      "en": "be accustomed; be tame",
+      "kr": "익숙해지다, 길들다",
+      "vi": "quen, thuộc; thuần",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "日本へ来て半年たって、生活にも慣れた。", "vi": "Đến Nhật được nửa năm, đã quen cả với cuộc sống."},
+        {"ja": "生の肉を食べるのには慣れていない。", "vi": "Chưa quen với việc ăn thịt sống."},
+        {"ja": "サーカスの動物は、よく人に慣れている。", "vi": "Động vật trong rạp xiếc rất thuần với con người."}
+      ],
+      "related": [
+        {"type": "合", "text": "使い_、はぎ_、住み_ (慣れ)"}
+      ],
+      "notes": "〈自〉; 合ボックスの一部は判読困難; (名) 慣れ; zh: 习惯"
+    },
+    {
+      "no": 473,
+      "kanji": "慣らす",
+      "kana": "ならす",
+      "en": "warm up (one's body); tame",
+      "kr": "몸을 익히다, 길들이다",
+      "vi": "làm quen, khởi động; thuần dưỡng",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "準備運動をして体を慣らしてからプールに入ったほうがいい。", "vi": "Nên khởi động để làm quen cơ thể rồi mới xuống bể bơi."},
+        {"ja": "象を慣らして芸をさせる。", "vi": "Thuần voi để biểu diễn."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 使…习惯; 驯养"
+    },
+    {
+      "no": 474,
+      "kanji": "立つ",
+      "kana": "たつ",
+      "en": "stand, be put up",
+      "kr": "서다",
+      "vi": "đứng; được dựng lên",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「名前を呼ばれたら立ってください」", "vi": "«Khi được gọi tên thì hãy đứng dậy.»"},
+        {"ja": "授業中、先生はずっと立って話している。", "vi": "Trong giờ học, thầy cô đứng nói chuyện suốt."},
+        {"ja": "店の前に大きな看板が立っている。", "vi": "Trước cửa hàng có tấm biển lớn dựng đứng."},
+        {"ja": "丘の上に白いホテルが立っている。", "vi": "Trên đồi có khách sạn màu trắng sừng sững."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 站, 立; 竖立"
+    },
+    {
+      "no": 475,
+      "kanji": "立てる",
+      "kana": "たてる",
+      "en": "put up, stand",
+      "kr": "세우다",
+      "vi": "dựng, dựng đứng",
+      "senses": [],
+      "examples": [
+        {"ja": "屋根の上にアンテナを立てる。", "vi": "Dựng ăng-ten trên nóc nhà."},
+        {"ja": "四角にかきを立てて飼う。", "vi": "Dựng hàng rào quanh bốn phía để nuôi (vật)."}
+      ],
+      "related": [],
+      "notes": "〈他〉; câu thứ hai một phần khó đọc rõ; zh: 竖起, 立起"
+    },
+    {
+      "no": 476,
+      "kanji": "建つ",
+      "kana": "たつ",
+      "en": "be constructed",
+      "kr": "짓다",
+      "vi": "được xây (dựng)",
+      "senses": [],
+      "examples": [
+        {"ja": "家の前に大きなマンションが建った。", "vi": "Trước nhà đã xây một toà chung cư lớn."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 建, 造"
+    },
+    {
+      "no": 477,
+      "kanji": "建てる",
+      "kana": "たてる",
+      "en": "construct",
+      "kr": "세우다, 짓다",
+      "vi": "xây, dựng",
+      "senses": [],
+      "examples": [
+        {"ja": "都心に家を建てるのは大変だ。", "vi": "Xây nhà ở trung tâm thành phố là điều khó khăn."},
+        {"ja": "うちの会社は今年新しいビルを建てた。", "vi": "Công ty chúng tôi năm nay đã xây toà nhà mới."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 建, 造"
+    },
+    {
+      "no": 478,
+      "kanji": "育つ",
+      "kana": "そだつ",
+      "en": "grow; be trained",
+      "kr": "자라다",
+      "vi": "lớn lên, phát triển; được đào tạo",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "雨が多い年は、米がよく育つ。", "vi": "Năm mưa nhiều, lúa phát triển tốt."},
+        {"ja": "親は子どもが元気に育つのを望んでいる。", "vi": "Cha mẹ mong con khoẻ mạnh lớn lên."},
+        {"ja": "あの大学では優秀な研究者がたくさん育っている。", "vi": "Ở trường đại học đó nhiều nhà nghiên cứu xuất sắc đang trưởng thành."}
+      ],
+      "related": [
+        {"type": "類", "text": "成長する (→18)"}
+      ],
+      "notes": "〈自〉; zh: 发育, 生长; 成长"
+    },
+    {
+      "no": 479,
+      "kanji": "育てる",
+      "kana": "そだてる",
+      "en": "raise (children); grow (flowers); train",
+      "kr": "기르다",
+      "vi": "nuôi dưỡng, nuôi nấng; đào tạo",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "母は5人の子どもを育てた。", "vi": "Mẹ đã nuôi 5 đứa con."},
+        {"ja": "朝晩水をやって草花を育てている。", "vi": "Sáng tối tưới nước để trồng hoa lá."},
+        {"ja": "あの会社は人材を育てるのが上手だ。", "vi": "Công ty đó giỏi trong việc đào tạo nhân tài."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 养育, 培养; 喂养, 饲养"
+    },
+    {
+      "no": 480,
+      "kanji": "生える",
+      "kana": "はえる",
+      "en": "(hair, etc.) grows; (tooth) comes in",
+      "kr": "나다, 자라다",
+      "vi": "mọc (tóc, râu, răng, cỏ…)",
+      "senses": [],
+      "examples": [
+        {"ja": "「髪/ひげ/歯/草/かび …」が生える。", "vi": "«Tóc/râu/răng/cỏ/nấm mốc …» mọc ra."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 生长, 长, 发"
+    },
+    {
+      "no": 481,
+      "kanji": "生やす",
+      "kana": "はやす",
+      "en": "grow (a beard)",
+      "kr": "기르다",
+      "vi": "để mọc, nuôi (râu)",
+      "senses": [],
+      "examples": [
+        {"ja": "ひげを生やす。", "vi": "Để râu mọc."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 使…生长, 留长"
+    },
+    {
+      "no": 482,
+      "kanji": "汚れる",
+      "kana": "よごれる",
+      "en": "be dirty",
+      "kr": "더러워지다",
+      "vi": "bẩn, bị bẩn",
+      "senses": [],
+      "examples": [
+        {"ja": "空気の汚れたところには住みたくない。", "vi": "Không muốn sống ở nơi có không khí ô nhiễm."}
+      ],
+      "related": [
+        {"type": "関", "text": "汚い"}
+      ],
+      "notes": "〈自〉; (名) 汚れ → 汚れ_がつく・汚れ_をつける、_が落ちる・_を落とす; zh: 脏"
+    },
+    {
+      "no": 483,
+      "kanji": "汚す",
+      "kana": "よごす",
+      "en": "dirty, pollute",
+      "kr": "더럽히다",
+      "vi": "làm bẩn, làm ô nhiễm",
+      "senses": [],
+      "examples": [
+        {"ja": "どろ遊びをして服を汚した。", "vi": "Chơi bùn làm bẩn quần áo."},
+        {"ja": "川の水を汚さないようにしよう。", "vi": "Hãy cố không làm ô nhiễm nước sông."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄脏, 污染"
+    },
+    {
+      "no": 484,
+      "kanji": "壊れる",
+      "kana": "こわれる",
+      "en": "break",
+      "kr": "부서지다, 고장 나다",
+      "vi": "hỏng, vỡ, hư",
+      "senses": [],
+      "examples": [
+        {"ja": "「家/家具/電気製品 …」が壊れる。", "vi": "«Nhà/nội thất/thiết bị điện …» bị hỏng."},
+        {"ja": "壊れた時計を直してもらった。", "vi": "Đã nhờ sửa chiếc đồng hồ bị hỏng."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 坏, 破损"
+    },
+    {
+      "no": 485,
+      "kanji": "壊す",
+      "kana": "こわす",
+      "en": "break, damage (one's health)",
+      "kr": "부수다, 부러뜨리다, 망치다",
+      "vi": "phá hỏng, làm hỏng; làm tổn hại",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「家/家具/電気製品 …」を壊す。", "vi": "Làm hỏng «nhà/nội thất/thiết bị điện …»."},
+        {"ja": "息子は新しいおもちゃをすぐに壊してしまう。", "vi": "Con trai tôi lập tức làm hỏng đồ chơi mới."},
+        {"ja": "飲み過ぎて体を壊してしまった。", "vi": "Uống nhiều quá làm hỏng sức khoẻ."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄坏, 损坏; 伤害, 损害"
+    },
+    {
+      "no": 486,
+      "kanji": "割れる",
+      "kana": "われる",
+      "en": "break; be split",
+      "kr": "쪼개지다, 갈라지다",
+      "vi": "vỡ, nứt, tách ra; chia rẽ",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「ガラス/皿/コップ …」が割れる。", "vi": "«Kính/đĩa/cốc …» vỡ."},
+        {"ja": "くぎは先が二つに割れている。", "vi": "Đầu đinh bị tách làm hai."},
+        {"ja": "みんなの意見が割れて、なかなか決まらなかった。", "vi": "Ý kiến mọi người chia rẽ, mãi không quyết định được."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 破裂, 裂开; 分散, 分裂"
+    },
+    {
+      "no": 487,
+      "kanji": "割る",
+      "kana": "わる",
+      "en": "break; divide",
+      "kr": "쪼개다, 갈라다, 나누다",
+      "vi": "đập vỡ, tách; chia",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "「ガラス/皿/コップ …」を割る。", "vi": "Đập vỡ «kính/đĩa/cốc …»."},
+        {"ja": "卵を割ってボウルに入れる。", "vi": "Đập trứng cho vào bát."},
+        {"ja": "りんごを二つに割って二人で食べた。", "vi": "Khúc táo làm hai, hai người cùng ăn."},
+        {"ja": "10を5でわると2になる。", "vi": "10 chia 5 được 2."},
+        {"ja": "10わり5は2だ。", "vi": "10 chia 5 là 2."}
+      ],
+      "related": [],
+      "notes": "〈他〉; →コラム8「数字・計算」 p.65; zh: 弄碎; 分; 划; 份"
+    },
+    {
+      "no": 488,
+      "kanji": "折れる",
+      "kana": "おれる",
+      "en": "break, snap",
+      "kr": "부러지다",
+      "vi": "gãy, đứt",
+      "senses": [],
+      "examples": [
+        {"ja": "強い風で枝が折れた。", "vi": "Gió mạnh làm cành cây gãy."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 折, 断"
+    },
+    {
+      "no": 489,
+      "kanji": "折る",
+      "kana": "おる",
+      "en": "break; fold",
+      "kr": "부러뜨리다, 접다",
+      "vi": "làm gãy; gấp",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "スキーをして、足の骨を折った。", "vi": "Trượt tuyết bị gãy xương chân."},
+        {"ja": "便せんを三つに折って封筒に入れた。", "vi": "Gấp giấy thư làm ba bỏ vào phong bì."}
+      ],
+      "related": [
+        {"type": "合", "text": "折り紙"}
+      ],
+      "notes": "〈他〉; zh: 弄断; 折叠"
+    },
+    {
+      "no": 490,
+      "kanji": "破れる",
+      "kana": "やぶれる",
+      "en": "be ripped",
+      "kr": "찢어지다",
+      "vi": "rách, bị xé",
+      "senses": [],
+      "examples": [
+        {"ja": "「紙/本/布/服 …」が破れる。", "vi": "«Giấy/sách/vải/quần áo …» rách."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 破, 撕破"
+    },
+    {
+      "no": 491,
+      "kanji": "破る",
+      "kana": "やぶる",
+      "en": "rip, break (a promise/rule/record)",
+      "kr": "찢다, 깨다",
+      "vi": "xé, làm rách; phá vỡ (lời hứa/nội quy/kỷ lục)",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "「紙/ノート/布/服 …」を破る。", "vi": "Xé «giấy/vở/vải/quần áo …»."},
+        {"ja": "「約束/規則 …」を破る。", "vi": "Phá vỡ «lời hứa/nội quy …»."},
+        {"ja": "水泳の世界記録が破られた。", "vi": "Kỷ lục thế giới bơi lội bị phá."}
+      ],
+      "related": [
+        {"type": "対", "text": "守る"}
+      ],
+      "notes": "〈他〉; zh: 撕破; 违反; 打破 (记录)"
+    },
+    {
+      "no": 492,
+      "kanji": "曲がる",
+      "kana": "まがる",
+      "en": "turn, curve",
+      "kr": "구부러지다, 휘다, 꺾이다",
+      "vi": "cong, rẽ",
+      "senses": [],
+      "examples": [
+        {"ja": "曲がった道", "vi": "Đường quanh co"},
+        {"ja": "「この角を右に曲がって50mほど行くと、銀行があります」", "vi": "«Rẽ phải ở góc này, đi chừng 50m thì có ngân hàng.»"},
+        {"ja": "「ネクタイが曲がっていますよ」", "vi": "«Cà vạt của bạn bị lệch rồi đấy.»"},
+        {"ja": "腰の曲がったおばあさん", "vi": "Bà cụ lưng còng"}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 弯, 弯曲"
+    },
+    {
+      "no": 493,
+      "kanji": "曲げる",
+      "kana": "まげる",
+      "en": "bend, curve",
+      "kr": "구부리다, 휘다",
+      "vi": "làm cong, uốn",
+      "senses": [],
+      "examples": [
+        {"ja": "「針金/ひざ/腰 …」を曲げる。", "vi": "Uốn cong «dây kim loại/đầu gối/lưng …»."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄弯, 折弯"
+    },
+    {
+      "no": 494,
+      "kanji": "外れる",
+      "kana": "はずれる",
+      "en": "come off; be wrong; drop out",
+      "kr": "떨어지다, 빗나가다, 빠지다",
+      "vi": "rơi ra, tuột; sai, trật; bị loại",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "ボタンがはずれる。", "vi": "Cúc áo bị rơi ra."},
+        {"ja": "天気予報がはずれる。", "vi": "Dự báo thời tiết sai (trật)."},
+        {"ja": "宝くじがはずれた。", "vi": "Vé số không trúng."},
+        {"ja": "予想がはずれる。", "vi": "Dự đoán trật."},
+        {"ja": "けがをした選手は、チームのメンバーからはずれた。", "vi": "Cầu thủ bị chấn thương bị loại khỏi đội."}
+      ],
+      "related": [
+        {"type": "対", "text": "当たる (→421)"}
+      ],
+      "notes": "〈自〉; (名) はずれ⇔当たり; câu ② thứ ba một phần khó đọc, ghi theo nghĩa thông dụng; zh: 脱落, 不中, 不准; (抽签) 不中"
+    },
+    {
+      "no": 495,
+      "kanji": "外す",
+      "kana": "はずす",
+      "en": "take off; get wrong; exclude",
+      "kr": "빼다, 벗다",
+      "vi": "tháo ra, cởi ra; loại ra",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "「メガネ/腕時計/ボタン …」をはずす。", "vi": "Tháo «kính/dòng đồng hồ đeo tay/cúc áo …»."},
+        {"ja": "予想をはずす。", "vi": "Dự đoán trật."},
+        {"ja": "的をはずす。", "vi": "Bắn trượt đích."},
+        {"ja": "監督は、けがをした選手をチームのメンバーからはずした。", "vi": "Huấn luyện viên đã loại cầu thủ bị chấn thương khỏi đội."}
+      ],
+      "related": [
+        {"type": "対", "text": "当てる (→422)"}
+      ],
+      "notes": "〈他〉; zh: 脱下; 落空; 除去, 除名"
+    },
+    {
+      "no": 496,
+      "kanji": "揺れる",
+      "kana": "ゆれる",
+      "en": "shake, waver",
+      "kr": "흔들리다",
+      "vi": "rung, lắc lư; dao động",
+      "senses": [],
+      "examples": [
+        {"ja": "風で木の葉がゆれている。", "vi": "Lá cây rung lắc trong gió."},
+        {"ja": "地震で、地面が大きくゆれた。", "vi": "Động đất, mặt đất rung chuyển dữ dội."},
+        {"ja": "彼と結婚するかしないか、気持ちがゆれている。", "vi": "Lòng còn dao động, có nên kết hôn với anh ấy hay không."}
+      ],
+      "related": [],
+      "notes": "〈自〉; (名) 揺れ → 揺れ_が大きい/小さい (例. 地震の揺れが大きい。); zh: 摇, 摇晃, 动摇"
+    },
+    {
+      "no": 497,
+      "kanji": "揺らす",
+      "kana": "ゆらす",
+      "en": "push (a swing)",
+      "kr": "흔들다",
+      "vi": "lắc, đung đưa",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもの乗ったブランコをゆらして遊ばせた。", "vi": "Đung đưa xích đu có trẻ ngồi cho bé chơi."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 摇动, 使…摇晃"
+    },
+    {
+      "no": 498,
+      "kanji": "流れる",
+      "kana": "ながれる",
+      "en": "flow; drift; be spread",
+      "kr": "흐르다, 흘러가다",
+      "vi": "chảy, trôi; lan truyền",
+      "senses": ["①", "②", "③", "④", "⑤"],
+      "examples": [
+        {"ja": "町の中心を大きな川が流れている。", "vi": "Một con sông lớn chảy qua trung tâm thị trấn."},
+        {"ja": "「汗/涙/血 …」が流れる。", "vi": "«Mồ hôi/nước mắt/máu …» chảy."},
+        {"ja": "川にたくさんのごみが流れてくる。", "vi": "Nhiều rác thải trôi xuống sông."},
+        {"ja": "彼の部屋にはいつも音楽が流れている。", "vi": "Trong phòng anh ấy lúc nào cũng vang lên tiếng nhạc."},
+        {"ja": "「うわさ/情報 …」が流れる。", "vi": "«Tin đồn/thông tin …» lan truyền."}
+      ],
+      "related": [],
+      "notes": "〈自〉; (名) 流れ; zh: (液体) 流动; (汗, 血, 泪等) 流下; 漂流, 移动; 流逝; 流传"
+    },
+    {
+      "no": 499,
+      "kanji": "流す",
+      "kana": "ながす",
+      "en": "flush; shed; wash away; play (music) spread",
+      "kr": "흘리다, 흘려보내다, 퍼뜨리다",
+      "vi": "xả; làm chảy; cuốn trôi; mở (nhạc); lan truyền",
+      "senses": ["①", "②", "③", "④", "⑤"],
+      "examples": [
+        {"ja": "汚れた水を川に流してはいけない。", "vi": "Không được xả nước bẩn ra sông."},
+        {"ja": "トイレの水を流す。", "vi": "Xả nước toilet."},
+        {"ja": "「汗/涙/血」を流す。", "vi": "Đổ «mồ hôi/nước mắt/máu»."},
+        {"ja": "洪水で家が流された。", "vi": "Nhà bị lũ cuốn trôi."},
+        {"ja": "この喫茶店はいつもクラシック音楽を流している。", "vi": "Quán cà phê này lúc nào cũng mở nhạc cổ điển."},
+        {"ja": "「うわさ/情報 …」を流す。", "vi": "Lan truyền «tin đồn/thông tin …»."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 冲, 冲走; 流 (汗, 泪等); 使…流传; 传播"
+    },
+    {
+      "no": 500,
+      "kanji": "濡れる",
+      "kana": "ぬれる",
+      "en": "become wet",
+      "kr": "젖다",
+      "vi": "ướt, ướt sũng",
+      "senses": [],
+      "examples": [
+        {"ja": "雨にぬれて、かぜをひいた。", "vi": "Dính mưa ướt nên bị cảm."},
+        {"ja": "水がこぼれて、服がぬれてしまった。", "vi": "Nước đổ ra làm ướt quần áo."}
+      ],
+      "related": [],
+      "notes": "〈自〉; zh: 淋湿"
+    },
+    {
+      "no": 501,
+      "kanji": "濡らす",
+      "kana": "ぬらす",
+      "en": "wet",
+      "kr": "적시다",
+      "vi": "làm ướt",
+      "senses": [],
+      "examples": [
+        {"ja": "水をこぼして、服をぬらしてしまった。", "vi": "Làm đổ nước làm ướt quần áo."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄湿"
+    },
+    {
+      "no": 502,
+      "kanji": "迷う",
+      "kana": "まよう",
+      "en": "become lost; waver",
+      "kr": "헤매다, 잃어버리다",
+      "vi": "lạc đường; phân vân",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "道に迷う。", "vi": "Lạc đường."},
+        {"ja": "冬山で迷ってしまい、もう少しで死ぬところだった。", "vi": "Lạc trên núi mùa đông, suýt chút nữa thì chết."},
+        {"ja": "日本で就職するか、国に帰るか、迷っている。", "vi": "Còn phân vân không biết ở Nhật tìm việc hay về nước."}
+      ],
+      "related": [
+        {"type": "関", "text": "悩む"}
+      ],
+      "notes": "(名) 迷い → 迷い_がある/ない; zh: 迷, 迷失方向; 犹豫, 困惑"
+    },
+    {
+      "no": 503,
+      "kanji": "悩む",
+      "kana": "なやむ",
+      "en": "be troubled; suffer",
+      "kr": "고민하다, 고생하다",
+      "vi": "khổ sở, phiền muộn",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "就職するか、進学するか、悩んでいる。", "vi": "Còn phân vân đi làm hay học lên."},
+        {"ja": "彼女は苦しい恋に悩んでいる。", "vi": "Cô ấy đau khổ vì tình yêu."},
+        {"ja": "父は腰痛で悩んでいる。", "vi": "Bố khổ sở vì đau thắt lưng."},
+        {"ja": "若いときから頭痛に悩まされてきた。", "vi": "Từ thuở trẻ đã bị đau đầu hành hạ."}
+      ],
+      "related": [],
+      "notes": "〈自〉; (名) 悩み → 悩み_がある/ない、悩み_を打ち明ける; zh: 烦恼, 苦恼; (生病) 感到痛苦"
+    },
+    {
+      "no": 504,
+      "kanji": "慌てる",
+      "kana": "あわてる",
+      "en": "hurry; panic",
+      "kr": "당황하다",
+      "vi": "hoảng hốt, vội vàng",
+      "senses": [],
+      "examples": [
+        {"ja": "学校に遅れそうになって、あわてて家を出た。", "vi": "Thấy sắp muộn học nên vội vã ra khỏi nhà."},
+        {"ja": "店でさいふが見つからなくてあわてた。", "vi": "Hoảng hốt vì không tìm thấy ví ở cửa hàng."}
+      ],
+      "related": [
+        {"type": "合", "text": "大慌て (例. 大あわてで家を出たので、さいふを忘れてしまった。)"}
+      ],
+      "notes": "zh: 惊慌, 慌张"
+    },
+    {
+      "no": 505,
+      "kanji": "覚める",
+      "kana": "さめる",
+      "en": "wake up; sober up",
+      "kr": "잠, 정신 / 깨다, 정신이 차리다",
+      "vi": "tỉnh giấc, tỉnh rượu, tỉnh táo",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "昨夜は暑くて、夜中に何度も目が覚めた。", "vi": "Đêm qua nóng quá, nửa đêm mấy lần tỉnh giấc."},
+        {"ja": "酔いが覚める。", "vi": "Tỉnh rượu."},
+        {"ja": "夢から覚める。", "vi": "Tỉnh khỏi giấc mơ."}
+      ],
+      "related": [],
+      "notes": "〈自〉; sách in «夢 が/から 覚める»; zh: 醒, 醒来; 清醒"
+    },
+    {
+      "no": 506,
+      "kanji": "覚ます",
+      "kana": "さます",
+      "en": "wake up; sober up",
+      "kr": "깨우다, 깨우채다",
+      "vi": "đánh thức; làm tỉnh táo",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "目を覚ますと、もう10時だった。", "vi": "Tỉnh dậy thì đã 10 giờ."},
+        {"ja": "少し酔いを覚ましてから帰ろう。", "vi": "Tỉnh rượu bớt rồi hãy về."}
+      ],
+      "related": [],
+      "notes": "〈他〉; zh: 弄醒; 使…清醒"
+    },
+    {
+      "no": 507,
+      "kanji": "眠る",
+      "kana": "ねむる",
+      "en": "sleep",
+      "kr": "잠들다",
+      "vi": "ngủ, ngủ say",
+      "senses": [],
+      "examples": [
+        {"ja": "入試の前の日、緊張してよく眠れなかった。", "vi": "Ngày trước kỳ thi đầu vào, hồi hộp nên ngủ không ngon."}
+      ],
+      "related": [
+        {"type": "類", "text": "寝る ※「寝る」には「横になる」という意味もある。"}
+      ],
+      "notes": "(名) 眠り → 眠り_につく、眠り_に落ちる、眠り_が浅い/深い; zh: 睡, 睡觉"
+    },
+    {
+      "no": 508,
+      "kanji": "祈る",
+      "kana": "いのる",
+      "en": "pray",
+      "kr": "기도하다, 기원하다",
+      "vi": "cầu nguyện",
+      "senses": [],
+      "examples": [
+        {"ja": "家族の健康を神に祈った。", "vi": "Cầu nguyện thần linh cho sức khoẻ của gia đình."},
+        {"ja": "私は別れても彼の幸福を祈っている。", "vi": "Dù chia tay tôi vẫn cầu mong anh ấy hạnh phúc."}
+      ],
+      "related": [],
+      "notes": "(名) 祈り (例. 私の祈りが神に通じたのか、父の手術は成功した。); zh: 祈祷"
+    },
+    {
+      "no": 509,
+      "kanji": "祝う",
+      "kana": "いわう",
+      "en": "celebrate",
+      "kr": "축하하다",
+      "vi": "chúc mừng, ăn mừng",
+      "senses": [],
+      "examples": [
+        {"ja": "「新年/誕生日/成功 …」を祝って乾杯した。", "vi": "Đã nâng cốc chúc mừng «năm mới/sinh nhật/thành công …»."}
+      ],
+      "related": [],
+      "notes": "(名) 祝い (例. 結婚の(お)祝いにワイングラスをもらった。) → [名詞]+祝い (例. 入学祝い、結婚祝い、誕生祝い); zh: 庆祝, 祝贺"
+    },
+    {
+      "no": 510,
+      "kanji": "感じる",
+      "kana": "かんじる",
+      "en": "feel",
+      "kr": "느끼다",
+      "vi": "cảm thấy, cảm nhận",
+      "senses": [],
+      "examples": [
+        {"ja": "「寒さ/痛み/空腹/甘み/ゆれ …」を感じる。", "vi": "Cảm thấy «lạnh/đau/đói/ngọt/rung động …»."},
+        {"ja": "私のミスで試合に負けてしまい、責任を感じている。", "vi": "Vì sai lầm của mình mà thua trận, tôi thấy mình có trách nhiệm."},
+        {"ja": "子どもたちが独立し、両親は寂しく感じているようだ。", "vi": "Các con đã độc lập, có lẽ cha mẹ cảm thấy cô đơn."},
+        {"ja": "あの父親には子どもの愛情が感じられない。", "vi": "Không cảm nhận được tình yêu thương với con của người bố đó."}
+      ],
+      "related": [],
+      "notes": "(名) 感じ → 感じ_がする (例. 彼女は少し冷たい感じがする。 きょうは何かいいことが起こりそうな感じがする。)、感じ_がいい⇔悪い (例. 彼は感じのいい人だ。); zh: 感觉, 感到, 感受"
+    }
+  ],
+  "columns": [
+    {
+      "title": "駅・列車 (コラム12) Stations, Trains",
+      "book_page": 105,
+      "items": [
+        ["改札口", "かいさつぐち", "ticket gate / 개찰구", "cổng kiểm tra vé"],
+        ["中央口、東口 など", "ちゅうおうぐち、ひがしぐち", "", "cửa ga trung tâm, cửa phía đông, v.v."],
+        ["プラットホーム（1番線 など）", "プラットホーム", "platform / 승강장", "sân ga (ga số 1, v.v.)"],
+        ["（自動）券売機", "きばいき / はんばいき", "vending machine / (자동) 매표기", "máy bán vé (tự động)"],
+        ["精算（機）", "せいさん（き）", "fare adjustment (machine) / 정산 (기)", "máy/cột tính bù tiền vé"],
+        ["チケット/切符", "チケット/きっぷ", "ticket / 차표", "vé"],
+        ["プリペイドカード", "プリペイドカード", "prepaid card / 선불 카드", "thẻ trả trước"],
+        ["定期券", "ていきけん", "commuter pass / 정기권", "vé tháng"],
+        ["回数券", "かいすうけん", "coupon ticket / 회수권", "vé đi nhiều lần"],
+        ["乗り換え", "のりかえ", "transfer / 환승", "chuyển tàu"],
+        ["乗り越し", "のりこし", "going beyond one's destination / 정차역을 지나침", "đi quá ga đích"],
+        ["上り（列車）・下り（列車）", "のぼり・くだり", "inbound/upbound (train), outbound/downbound (train) / 상행 (열차)/ 하행 (열차)", "tàu đi lên (về hướng tâm)・tàu đi xuống"],
+        ["列車の種類", "れっしゃのしゅるい", "types of trains / 열차 종류", "loại tàu"],
+        ["特別急行＞特急", "とくべつきゅうこう＞とっきゅう", "limited express / 특급", "tàu tốc hành đặc biệt (tokkyu)"],
+        ["急行", "きゅうこう", "express / 급행", "tàu tốc hành"],
+        ["快速", "かいそく", "rapid / 쾌속", "tàu nhanh"],
+        ["各駅停車＞各停", "かくえきていしゃ＞かくてい", "local / 각 역 정차, 완행열차", "tàu chạy từng ga (chậm nhất)"]
+      ]
+    },
+    {
+      "title": "お金に関連する言葉「〜代・〜料・〜費・〜賃」 (コラム13) Money",
+      "book_page": 107,
+      "items": [
+        ["〜代（モノ・手間・サービスなどと引きかえに払うお金 → 代金）", "", "Money / 돈", "Tiền trả đổi lấy đồ vật, công sức, dịch vụ → tiền (dạng 〜だい)"],
+        ["【衣】洋服代", "ようふくだい", "clothing bill / 옷 값", "tiền mua quần áo"],
+        ["【食】食事代", "しょくじだい", "food bill / 식대", "tiền ăn"],
+        ["【住】部屋代", "へやだい", "room charge / 방값, 방세", "tiền phòng"],
+        ["【住】電気代", "でんきだい", "electricity bill / 전기 요금", "tiền điện"],
+        ["【住】ガス代", "ガスだい", "gas bill / 가스 요금", "tiền gas"],
+        ["【住】水道代", "すいどうだい", "water bill / 수도 요금", "tiền nước"],
+        ["【住】電話代", "でんわだい", "phone bill / 전화 요금", "tiền điện thoại"],
+        ["【交通】バス代", "バスだい", "bus fare / 버스 요금", "tiền xe buýt"],
+        ["【交通】タクシー代", "タクシーだい", "taxi fare / 택시 요금", "tiền taxi"],
+        ["【交通】電車代", "でんしゃだい", "train fare / 전차 값", "tiền tàu điện"],
+        ["【学校/その他】チケット代", "チケットだい", "ticket charge / 티켓 값", "tiền vé"],
+        ["書籍代", "しょせきだい", "book expenses / 책값", "tiền mua sách"],
+        ["【その他】薬代", "くすりだい", "charge for medicine / 약값", "tiền thuốc"],
+        ["【その他】治療代", "ちりょうだい", "treatment fee / 치료비", "tiền điều trị"],
+        ["【その他】修理代", "しゅうりだい", "repair charge / 수리비", "tiền sửa chữa"],
+        ["〜料（モノ・設備などの利用に対して払うお金 → 料金）", "", "", "Tiền trả cho việc sử dụng đồ vật, thiết bị → phí (dạng 〜りょう)"],
+        ["【住】（電気）料金", "でんきりょうきん", "electricity bill / 전기 요금", "phí điện"],
+        ["【住】ガス料金", "ガスりょうきん", "gas bill / 가스 요금", "phí gas"],
+        ["【住】水道料金", "すいどうりょうきん", "water bill / 수도 요금", "phí nước"],
+        ["【交通】（バス）料金", "バスりょうきん", "bus fare / 버스 요금", "phí xe buýt"],
+        ["【交通】タクシー料金", "タクシーりょうきん", "taxi fare / 택시 요금", "phí taxi"],
+        ["【学校】授業料", "じゅぎょうりょう", "tuition / 수업료", "học phí"],
+        ["【その他】使用料", "しようりょう", "usage fee / 사용료", "phí sử dụng"],
+        ["【その他】入場料", "にゅうじょうりょう", "admission fee / 입장료", "tiền vào cổng"],
+        ["【その他】手数料", "てすうりょう", "service charge / 수수료", "phí thủ tục"],
+        ["【その他】送料", "そうりょう", "shipping fee / 운송료", "phí vận chuyển"],
+        ["【その他】郵送料", "ゆうそうりょう", "postage / 우편 요금", "cước bưu kiện"],
+        ["【その他】レンタル料", "レンタルりょう", "rental fee / 임대료, 대여료", "tiền thuê"],
+        ["〜費（ある目的のために使うお金 → 費用）", "", "", "Tiền dùng cho một mục đích → chi phí (dạng 〜ひ)"],
+        ["【衣】洋服費", "ようふくひ", "clothing expenses / 옷값", "chi phí quần áo"],
+        ["【食】食費", "しょくひ", "food expenses / 식비", "chi phí ăn uống"],
+        ["【住】住居費", "じゅうきょひ", "housing expenses / 주거비", "chi phí nhà ở"],
+        ["【住】光熱費", "こうねつひ", "energy expenses / 광열비", "chi phí điện, nước, gas"],
+        ["【交通】交通費", "こうつうひ", "traveling expenses / 교통비", "tiền đi lại"],
+        ["【学校】学費", "がくひ", "school expenses / 학비", "học phí"],
+        ["【その他】生活費", "せいかつひ", "living expenses / 생활비", "tiền sinh hoạt"],
+        ["【その他】医療費", "いりょうひ", "medical expenses / 의료비", "tiền khám chữa bệnh"],
+        ["【その他】交際費", "こうさいひ", "entertainment expenses / 교제비", "tiền giao tiếp, xã giao"],
+        ["〜賃（仕事に対して/設備などの利用に対して払うお金）", "", "", "Tiền trả cho công việc/việc sử dụng thiết bị (dạng 〜ちん)"],
+        ["【住】家賃", "やちん", "house rent / 집세", "tiền thuê nhà"],
+        ["【交通】電車賃", "でんしゃちん", "train fare / 전차 값", "tiền tàu điện"],
+        ["【交通】運賃", "うんちん", "fare / 운임", "cước phí"],
+        ["【その他】借り賃", "かりちん", "rent, rental fee / 임대료", "tiền thuê"],
+        ["【その他】貸し賃", "かしちん", "rent, rental fee / 임대료", "tiền cho thuê"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "I",
+      "range": "411~460",
+      "book_page": 98,
+      "questions": [
+        {"no": 1, "text": "（　）に動詞を書きなさい。バスで、お年寄り（　）席（　）譲る。", "options": [], "answer": null},
+        {"no": 2, "text": "肉をくし（　）刺して焼いた。", "options": [], "answer": null},
+        {"no": 3, "text": "庭にこおり（　）埋めた。", "options": [], "answer": null},
+        {"no": 4, "text": "日本人は、靴（　）踏まれている。", "options": [], "answer": null},
+        {"no": 5, "text": "自分の国の物価（　）日本の物価を比べる。", "options": [], "answer": null},
+        {"no": 6, "text": "女の子は父親（　）似ることが多い。", "options": [], "answer": null},
+        {"no": 7, "text": "千円札を細かいお金（　）替えてもらった。", "options": [], "answer": null},
+        {"no": 8, "text": "クラスを二つのチーム（　）分けた。", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "411~460",
+      "book_page": 98,
+      "questions": [
+        {"no": 1, "text": "下の表を完成させなさい。(自動詞↔他動詞のペアを書く)", "options": ["1. 近づく ↔（　）", "2. とどく ↔（　）", "3. 合う ↔（　）", "4. 当たる ↔（　）", "5.（　）↔ 上げる", "6.（　）↔ かくす", "7.（　）↔ つめる", "8. 似る ↔（　）", "9.（　）↔ 分ける", "10. ふえる ↔（　）", "11.（　）↔ へらす", "12.（　）↔ たすける", "13.（　）↔ のばす", "14. 飛ぶ ↔（　）", "15.（　）↔ うむる", "16.（　）↔ ささる"], "answer": null}
+      ]
+    },
+    {
+      "type": "III",
+      "range": "411~460",
+      "book_page": 98,
+      "questions": [
+        {"no": 1, "text": "いつしょに使うことばを下からえらんで書きなさい。（　）を閉じる。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 2, "text": "（　）がささる。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 3, "text": "（　）が当たる。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 4, "text": "（　）がふえる。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 5, "text": "（　）が合う。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 6, "text": "（　）をうめる。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null},
+        {"no": 7, "text": "（　）をかく。", "options": ["とげ", "穴", "気", "目", "汗", "予想", "貯金"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV",
+      "range": "411~460",
+      "book_page": 99,
+      "questions": [
+        {"no": 1, "text": "いつしょに使うことばを〔　〕の中から三つえらびなさい。〔プレゼント/花/話/手紙/子ども〕がとどく。", "options": ["プレゼント", "花", "話", "手紙", "子ども"], "answer": null},
+        {"no": 2, "text": "〔チーム/パートナー/仕事/体重/財産〕を分ける。", "options": ["チーム", "パートナー", "仕事", "体重", "財産"], "answer": null},
+        {"no": 3, "text": "〔なこ/パーティー/鳥/話〕をはじめる。", "options": ["なこ", "パーティー", "鳥", "話"], "answer": null},
+        {"no": 4, "text": "〔パーティー/オリンピック/会議/結婚式/入学試験〕を聞く。", "options": ["パーティー", "オリンピック", "会議", "結婚式", "入学試験"], "answer": null},
+        {"no": 5, "text": "〔本/点/油/線/辞書〕を引く。", "options": ["本", "点", "油", "線", "辞書"], "answer": null},
+        {"no": 6, "text": "〔足/文/差/身長/距離〕をつめる。", "options": ["足", "文", "差", "身長", "距離"], "answer": null}
+      ]
+    },
+    {
+      "type": "V",
+      "range": "411~460",
+      "book_page": 99,
+      "questions": [
+        {"no": 1, "text": "つぎのことばの対義語を書きなさい。へらす ⇔（　）", "options": [], "answer": null},
+        {"no": 2, "text": "本をわりくる ⇔ 本を（　）", "options": [], "answer": null},
+        {"no": 3, "text": "足す ⇔（　）", "options": [], "answer": null},
+        {"no": 4, "text": "くじが当たる ⇔ くじが（　）", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "VI",
+      "range": "411~460",
+      "book_page": 99,
+      "questions": [
+        {"no": 1, "text": "（　）に入ることばを下からえらんで適当な形にして書きなさい。引っ越したので、役所に（　）を出した。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 2, "text": "夏になったので、髪型を（　）みよう。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 3, "text": "悪い人に（　）で、100万円とられた。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 4, "text": "子どもが川に落ちたので、（　）を呼んだ。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 5, "text": "きつき虫をたいして（　）。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 6, "text": "うちにどろぼうが入ってお金を（　）しまった。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 7, "text": "この作家の文章は意味が（　）にくい。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 8, "text": "強い風が吹いてきたので、ぼうしが（　）ように、手で（　）。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 9, "text": "父親は子どもの手を（　）、道を渡った。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 10, "text": "私の学校では、上級生から下級生への（　）が多くて、問題になっている。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 11, "text": "料理人が（　）ら、客がへった。", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null},
+        {"no": 12, "text": "「その着物、あなたによく（　）いますね」", "options": ["いじめる", "おぎなう", "かえる", "かわる", "ころす", "たすける", "だます", "ためす", "つかむ", "とどける", "とぶ", "にぎる", "にあう", "ぬすむ"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 99, "book_page": 98, "unit_title": "Unit 05 動詞B 411〜460 / 練習問題I（Step 2）－ 問題ページ、単語エントリーなし"},
+    {"pdf_page": 100, "book_page": 99, "unit_title": "Unit 05 練習問題I（続き）－ 問題ページ、単語エントリーなし"}
+  ]
+}

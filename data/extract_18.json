@@ -1,0 +1,2157 @@
+{
+  "pdf_pages": "179-188",
+  "words": [
+    {
+      "no": 796,
+      "kanji": "パートナー",
+      "kana": "パートナー",
+      "pos": "",
+      "en": "partner",
+      "kr": "/파트너",
+      "vi": "đối tác; bạn đồng hành, bạn đời",
+      "senses": [
+        {
+          "no": 1,
+          "en": "partner",
+          "vi": "đối tác; bạn đồng hành"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "あの人は仕事のいいパートナーだ。",
+          "vi": "Người đó là một đối tác tốt trong công việc."
+        },
+        {
+          "ja": "うちの犬はただのペットではなくて、私のパートナーです。",
+          "vi": "Chú chó nhà tôi không chỉ là thú cưng mà là bạn đồng hành của tôi."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 797,
+      "kanji": "リーダー",
+      "kana": "リーダー",
+      "pos": "",
+      "en": "leader",
+      "kr": "/리더, 지도자",
+      "vi": "người lãnh đạo, thủ lĩnh",
+      "senses": [
+        {
+          "no": 1,
+          "en": "leader",
+          "vi": "người lãnh đạo, thủ lĩnh"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "グループのリーダーを決める。",
+          "vi": "Quyết định thủ lĩnh của nhóm."
+        },
+        {
+          "ja": "この国に新しいリーダーが誕生した。",
+          "vi": "Một nhà lãnh đạo mới đã ra đời ở nước này."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_シップ、チア_",
+          "vi": "lãnh đạo (leadership); người cổ vũ (cheerleader)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 798,
+      "kanji": "ボランティア",
+      "kana": "ボランティア",
+      "pos": "",
+      "en": "volunteer",
+      "kr": "/자원봉사(자)",
+      "vi": "công tác tình nguyện; tình nguyện viên",
+      "senses": [
+        {
+          "no": 1,
+          "en": "volunteer (activity); volunteer (person)",
+          "vi": "công tác tình nguyện; tình nguyện viên"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "老人ホームでボランティアをしている。",
+          "vi": "Đang làm tình nguyện ở viện dưỡng lão."
+        },
+        {
+          "ja": "ボランティアで日本語を教えている。",
+          "vi": "Đang dạy tiếng Nhật trên tinh thần tình nguyện."
+        },
+        {
+          "ja": "介護のボランティアを募集する。",
+          "vi": "Tuyển tình nguyện viên chăm sóc người già."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_をする",
+          "vi": "làm công tác tình nguyện"
+        },
+        {
+          "type": "合",
+          "ja": "_活動、_精神",
+          "vi": "hoạt động tình nguyện, tinh thần tình nguyện"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 799,
+      "kanji": "コミュニケーション",
+      "kana": "コミュニケーション",
+      "pos": "",
+      "en": "communication",
+      "kr": "/커뮤니케이션, 소통",
+      "vi": "sự giao tiếp, truyền đạt thông tin",
+      "senses": [
+        {
+          "no": 1,
+          "en": "communication",
+          "vi": "sự giao tiếp, trao đổi thông tin"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "同僚とはじゅうぶんコミュニケーションをとったほうがよい。",
+          "vi": "Nên giao tiếp đầy đủ với đồng nghiệp."
+        },
+        {
+          "ja": "うちの家族は最近コミュニケーションが少ない。",
+          "vi": "Gần đây gia đình tôi ít giao tiếp với nhau."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_をとる、_がない",
+          "vi": "giao tiếp (với nhau); thiếu giao tiếp"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: コミュニケーションスル"
+      ]
+    },
+    {
+      "no": 800,
+      "kanji": "ユーモア",
+      "kana": "ユーモア",
+      "pos": "",
+      "en": "humor",
+      "kr": "/유머",
+      "vi": "tính hóm hỉnh, sự hài hước",
+      "senses": [
+        {
+          "no": 1,
+          "en": "humor",
+          "vi": "tính hóm hỉnh, sự hài hước"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ユーモアがある彼はクラスの人気者だ。",
+          "vi": "Anh ấy hóm hỉnh nên rất được yêu thích trong lớp."
+        },
+        {
+          "ja": "旅行の話を、ユーモアたっぷりに話す。",
+          "vi": "Kể chuyện du lịch đầy sự hóm hỉnh."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_がある⇔ない",
+          "vi": "có ⇔ không có khiếu hóm hỉnh"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 801,
+      "kanji": "ショック",
+      "kana": "ショック",
+      "pos": "",
+      "en": "shock; (physical) impact",
+      "kr": "/충격, 쇼크",
+      "vi": "cú sốc, chấn động; sức va chạm",
+      "senses": [
+        {
+          "no": 1,
+          "en": "(mental) shock",
+          "vi": "cú sốc, chấn động (tinh thần)"
+        },
+        {
+          "no": 2,
+          "en": "(physical) impact",
+          "vi": "sức va chạm (vật lý)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "親友の突然の死にショックを受けた。",
+          "vi": "Chịu cú sốc vì cái chết đột ngột của bạn thân."
+        },
+        {
+          "ja": "シートベルトをすれば、ショックが小さくなる。",
+          "vi": "Nếu thắt dây an toàn thì lực va chạm sẽ nhỏ hơn."
+        },
+        {
+          "ja": "この時計はショックに強い。",
+          "vi": "Đồng hồ này chịu va đập tốt."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_が大きい⇔小さい、_を受ける、_を与える",
+          "vi": "cú sốc lớn ⇔ nhỏ; chịu cú sốc; gây cú sốc"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 802,
+      "kanji": "ストレス",
+      "kana": "ストレス",
+      "pos": "",
+      "en": "stress",
+      "kr": "/스트레스",
+      "vi": "căng thẳng, áp lực tinh thần",
+      "senses": [
+        {
+          "no": 1,
+          "en": "stress",
+          "vi": "căng thẳng, áp lực tinh thần"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ストレスがたまったときは、カラオケに行く。",
+          "vi": "Khi căng thẳng tích tụ thì đi karaoke."
+        },
+        {
+          "ja": "ストレスで胃をこわした。",
+          "vi": "Vì căng thẳng mà hỏng dạ dày."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_が大きい⇔小さい、_がたまる、_をためる、_を与える、_を発散する、_を解消する",
+          "vi": "căng thẳng nhiều ⇔ ít; tích tụ căng thẳng; tích lũy căng thẳng; gây căng thẳng; xả căng thẳng; giải tỏa căng thẳng"
+        },
+        {
+          "type": "合",
+          "ja": "_解消",
+          "vi": "giải tỏa căng thẳng"
+        },
+        {
+          "type": "関",
+          "ja": "プレッシャー",
+          "vi": "sức ép"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 803,
+      "kanji": "バランス",
+      "kana": "バランス",
+      "pos": "",
+      "en": "balance",
+      "kr": "/밸런스, 균형",
+      "vi": "sự cân bằng, cân đối",
+      "senses": [
+        {
+          "no": 1,
+          "en": "balance",
+          "vi": "sự cân bằng, cân đối"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "栄養のバランスがいい食事をする。",
+          "vi": "Ăn uống cân đối về dinh dưỡng."
+        },
+        {
+          "ja": "このデザインは左右のバランスが悪い。",
+          "vi": "Thiết kế này cân bằng trái phải không tốt."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_がいい⇔悪い、_がとれる、_をとる",
+          "vi": "cân bằng tốt ⇔ xấu; mất cân bằng; giữ cân bằng"
+        },
+        {
+          "type": "関",
+          "ja": "アンバランスな",
+          "vi": "mất cân bằng"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 804,
+      "kanji": "レベル",
+      "kana": "レベル",
+      "pos": "",
+      "en": "level",
+      "kr": "/레벨, 수준",
+      "vi": "trình độ, cấp độ",
+      "senses": [
+        {
+          "no": 1,
+          "en": "level",
+          "vi": "trình độ, cấp độ"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "マリアさんは日本語のレベルが高い。",
+          "vi": "Maria có trình độ tiếng Nhật cao."
+        },
+        {
+          "ja": "レベル別にクラスを分ける。",
+          "vi": "Phân lớp theo trình độ."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_が高い⇔低い、_が上がる⇔下がる、_を上げる⇔下げる",
+          "vi": "trình độ cao ⇔ thấp; tăng ⇔ giảm; nâng ⇔ hạ trình độ"
+        },
+        {
+          "type": "合",
+          "ja": "_アップ⇔_ダウン",
+          "vi": "nâng cấp độ ⇔ hạ cấp độ"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 805,
+      "kanji": "アップ",
+      "kana": "アップ",
+      "pos": "",
+      "en": "up; increase; close-up",
+      "kr": "/앞, 인상",
+      "vi": "tăng, tăng lên; cận cảnh",
+      "senses": [
+        {
+          "no": 1,
+          "en": "up; increase",
+          "vi": "tăng, tăng lên"
+        },
+        {
+          "no": 2,
+          "en": "close-up",
+          "vi": "cận cảnh (khi chụp ảnh)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "時給がアップした。",
+          "vi": "Tiền lương theo giờ đã tăng."
+        },
+        {
+          "ja": "写真をアップでとる。",
+          "vi": "Chụp ảnh cận cảnh."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "ダウンスル",
+          "vi": "giảm xuống"
+        },
+        {
+          "type": "関",
+          "ja": "上がる",
+          "vi": "tăng lên"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: アップスル; 〔レベル/イメージ/スピード…〕＋アップスル"
+      ]
+    },
+    {
+      "no": 806,
+      "kanji": "ダウン",
+      "kana": "ダウン",
+      "pos": "",
+      "en": "down; reduction; being down (with illness)",
+      "kr": "/다운",
+      "vi": "giảm, đi xuống; gục ngã, nằm ốm",
+      "senses": [
+        {
+          "no": 1,
+          "en": "down; reduction",
+          "vi": "giảm, đi xuống"
+        },
+        {
+          "no": 2,
+          "en": "being down (with illness)",
+          "vi": "gục ngã, nằm ốm"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "給料ダウンで生活が苦しい。",
+          "vi": "Tiền lương giảm nên cuộc sống khó khăn."
+        },
+        {
+          "ja": "かぜでダウンした。",
+          "vi": "Bị cảm nên gục xuống (nằm ốm)."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "アップスル",
+          "vi": "tăng lên"
+        },
+        {
+          "type": "関",
+          "ja": "下がる",
+          "vi": "giảm xuống"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: ダウンスル; 〔レベル/イメージ/スピード/コスト…〕＋ダウンスル"
+      ]
+    },
+    {
+      "no": 807,
+      "kanji": "プラス",
+      "kana": "プラス",
+      "pos": "",
+      "en": "plus; surplus; positive effect",
+      "kr": "/플러스",
+      "vi": "cộng, dương; thặng dư; tác dụng tích cực",
+      "senses": [
+        {
+          "no": 1,
+          "en": "plus; addition",
+          "vi": "cộng, thêm vào"
+        },
+        {
+          "no": 2,
+          "en": "surplus (vs. minus)",
+          "vi": "thặng dư, lãi (đối lập với trừ)"
+        },
+        {
+          "no": 3,
+          "en": "positive effect",
+          "vi": "tác dụng tích cực, có lợi"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "まめに働いていたら、時給が20円プラスされた。",
+          "vi": "Vì làm việc chăm chỉ nên lương theo giờ được cộng 20 yên."
+        },
+        {
+          "ja": "漢字を覚えることは、日本語の勉強にプラスになります。",
+          "vi": "Học thuộc kanji có lợi cho việc học tiếng Nhật."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_になる",
+          "vi": "trở thành (lợi/cộng)"
+        },
+        {
+          "type": "合",
+          "ja": "_評価、_効果",
+          "vi": "đánh giá tích cực, hiệu quả tích cực"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: プラススル"
+      ]
+    },
+    {
+      "no": 808,
+      "kanji": "マイナス",
+      "kana": "マイナス",
+      "pos": "",
+      "en": "minus; deficit; negative effect",
+      "kr": "/마이너스",
+      "vi": "trừ, âm; thâm hụt, lỗ; tác dụng tiêu cực",
+      "senses": [
+        {
+          "no": 1,
+          "en": "minus; subtraction",
+          "vi": "trừ, bớt đi"
+        },
+        {
+          "no": 2,
+          "en": "deficit (vs. plus)",
+          "vi": "thâm hụt, lỗ (đối lập với lãi)"
+        },
+        {
+          "no": 3,
+          "en": "negative effect",
+          "vi": "tác dụng tiêu cực, bất lợi"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "今月の給料は1万円のマイナスだった。",
+          "vi": "Tháng này tiền lương bị thiếu mất 10.000 yên."
+        },
+        {
+          "ja": "今月の収支は〔プラス/マイナス〕だった。",
+          "vi": "Thu chi tháng này lãi (dương) / lỗ (âm)."
+        },
+        {
+          "ja": "「こんなことをしていたら、あなたにとってマイナスになりますよ」",
+          "vi": "“Làm thế này thì sẽ bất lợi cho bạn đấy.”"
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_になる",
+          "vi": "trở thành (lỗ/bất lợi)"
+        },
+        {
+          "type": "合",
+          "ja": "_評価、_効果",
+          "vi": "đánh giá tiêu cực, hiệu quả tiêu cực"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: マイナススル"
+      ]
+    },
+    {
+      "no": 809,
+      "kanji": "イメージ",
+      "kana": "イメージ",
+      "pos": "",
+      "en": "image",
+      "kr": "/이미지",
+      "vi": "ấn tượng, hình ảnh (trong suy nghĩ)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "image; impression",
+          "vi": "ấn tượng, hình ảnh"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "私はこの曲から広い海をイメージした。",
+          "vi": "Từ bài hát này tôi hình dung ra biển cả mênh mông."
+        },
+        {
+          "ja": "イメージがいい女優をCMに使う。",
+          "vi": "Dùng nữ diễn viên có ấn tượng tốt cho quảng cáo."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_がいい⇔悪い、_が浮かぶ、_がアップする⇔ダウンする",
+          "vi": "ấn tượng tốt ⇔ xấu; hiện lên trong tâm trí; ấn tượng tăng ⇔ giảm"
+        },
+        {
+          "type": "合",
+          "ja": "_チェンジ、_アップ⇔_ダウン",
+          "vi": "thay đổi hình ảnh; cải thiện ⇔ làm xấu hình ảnh"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: イメージスル"
+      ]
+    },
+    {
+      "no": 810,
+      "kanji": "コンテスト",
+      "kana": "コンテスト",
+      "pos": "",
+      "en": "contest",
+      "kr": "/콘테스트, 대회",
+      "vi": "cuộc thi, cuộc đấu",
+      "senses": [
+        {
+          "no": 1,
+          "en": "contest",
+          "vi": "cuộc thi, cuộc đấu"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "スピーチのコンテストで優勝した。",
+          "vi": "Đã đoạt giải nhất cuộc thi hùng biện."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_に出る/出場する、_に参加する",
+          "vi": "tham dự, tham gia cuộc thi"
+        },
+        {
+          "type": "合",
+          "ja": "スピーチ_、写真_",
+          "vi": "cuộc thi hùng biện, cuộc thi ảnh"
+        },
+        {
+          "type": "類",
+          "ja": "コンクール",
+          "vi": "cuộc thi (concours)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 811,
+      "kanji": "マスコミ",
+      "kana": "マスコミ",
+      "pos": "",
+      "en": "mass media",
+      "kr": "/매스컴",
+      "vi": "truyền thông đại chúng",
+      "senses": [
+        {
+          "no": 1,
+          "en": "mass media",
+          "vi": "truyền thông đại chúng"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "このニュースはマスコミに注目されている。",
+          "vi": "Tin tức này đang được truyền thông chú ý."
+        },
+        {
+          "ja": "マスコミ関係の仕事がしたい。",
+          "vi": "Muốn làm công việc liên quan đến truyền thông."
+        }
+      ],
+      "related": [],
+      "notes": [
+        "Viết tắt của マス・コミュニケーション"
+      ]
+    },
+    {
+      "no": 812,
+      "kanji": "プライバシー",
+      "kana": "プライバシー",
+      "pos": "",
+      "en": "privacy",
+      "kr": "/프라이버시",
+      "vi": "quyền riêng tư, đời tư",
+      "senses": [
+        {
+          "no": 1,
+          "en": "privacy",
+          "vi": "quyền riêng tư, đời tư"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "現代社会では個人のプライバシーが守られないことが多い。",
+          "vi": "Trong xã hội hiện đại, quyền riêng tư cá nhân nhiều khi không được bảo vệ."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_を守る、_をおかす、_の侵害",
+          "vi": "bảo vệ quyền riêng tư; xâm phạm quyền riêng tư; sự xâm phạm đời tư"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 813,
+      "kanji": "オフィス",
+      "kana": "オフィス",
+      "pos": "",
+      "en": "office",
+      "kr": "/오피스",
+      "vi": "văn phòng",
+      "senses": [
+        {
+          "no": 1,
+          "en": "office",
+          "vi": "văn phòng"
+        }
+      ],
+      "examples": [],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_街、_ビル",
+          "vi": "khu văn phòng, tòa nhà văn phòng"
+        },
+        {
+          "type": "関",
+          "ja": "事務所",
+          "vi": "văn phòng, sở"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 814,
+      "kanji": "ルール",
+      "kana": "ルール",
+      "pos": "",
+      "en": "rule",
+      "kr": "/규칙",
+      "vi": "luật lệnh, quy tắc",
+      "senses": [
+        {
+          "no": 1,
+          "en": "rule",
+          "vi": "luật lệnh, quy tắc"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "サッカーのルールを覚える。",
+          "vi": "Học thuộc luật bóng đá."
+        },
+        {
+          "ja": "交通ルールは国によって違う。",
+          "vi": "Luật giao thông khác nhau tùy theo quốc gia."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_を守る⇔破る、_に違反する、_に従う",
+          "vi": "chấp hành ⇔ phá vỡ quy tắc; vi phạm quy định; tuân theo quy tắc"
+        },
+        {
+          "type": "合",
+          "ja": "_違反",
+          "vi": "vi phạm quy định"
+        },
+        {
+          "type": "類",
+          "ja": "規則",
+          "vi": "quy tắc, nội quy"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 815,
+      "kanji": "マナー",
+      "kana": "マナー",
+      "pos": "",
+      "en": "manners",
+      "kr": "/매너, 예절",
+      "vi": "phép lịch sự, quy tắc ứng xử",
+      "senses": [
+        {
+          "no": 1,
+          "en": "manners",
+          "vi": "phép lịch sự, quy tắc ứng xử"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "フランス料理のマナーは難しい。",
+          "vi": "Phép tắc ăn món Pháp rất khó."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_がいい⇔悪い、_を守る、_が/に厳しい",
+          "vi": "cư xử lịch sự ⇔ thiếu lịch sự; giữ phép tắc; khắt khe về phép tắc"
+        },
+        {
+          "type": "合",
+          "ja": "_違反、テーブル_",
+          "vi": "vi phạm phép tắc; phép tắc ăn uống"
+        },
+        {
+          "type": "類",
+          "ja": "エチケット、礼儀",
+          "vi": "phép lịch sự, lễ nghi"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 816,
+      "kanji": "ミス",
+      "kana": "ミス",
+      "pos": "",
+      "en": "mistake; failure",
+      "kr": "/미스, 실수",
+      "vi": "sai sót, lỗi lầm; thất bại",
+      "senses": [
+        {
+          "no": 1,
+          "en": "mistake; failure",
+          "vi": "sai sót, lỗi lầm; thất bại"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "試合でミスをして、負けてしまった。",
+          "vi": "Mắc sai sót trong trận đấu nên đã thua."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_をおかす",
+          "vi": "mắc sai sót"
+        },
+        {
+          "type": "合",
+          "ja": "計算_、_ジャッジ、_プリント",
+          "vi": "sai sót tính toán; phán xét sai; bản in sai"
+        },
+        {
+          "type": "関",
+          "ja": "失敗",
+          "vi": "thất bại"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: ミス(ラ)スル"
+      ]
+    },
+    {
+      "no": 817,
+      "kanji": "スケジュール",
+      "kana": "スケジュール",
+      "pos": "",
+      "en": "schedule",
+      "kr": "/스케줄, 계획",
+      "vi": "lịch trình, kế hoạch",
+      "senses": [
+        {
+          "no": 1,
+          "en": "schedule (making/checking)",
+          "vi": "lịch trình (lập/xác nhận)"
+        },
+        {
+          "no": 2,
+          "en": "being full of appointments",
+          "vi": "lịch trình kín đặc"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "今週のスケジュールを確認する。",
+          "vi": "Xác nhận lịch trình tuần này."
+        },
+        {
+          "ja": "週末はスケジュールが/でいっぱいだ。",
+          "vi": "Cuối tuần lịch trình kín đặc."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_を立てる、_を組む",
+          "vi": "lập kế hoạch, sắp xếp lịch trình"
+        },
+        {
+          "type": "合",
+          "ja": "_表、_帳",
+          "vi": "bảng lịch trình, sổ lịch trình"
+        },
+        {
+          "type": "類",
+          "ja": "予定",
+          "vi": "kế hoạch, dự định"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 818,
+      "kanji": "タイトル",
+      "kana": "タイトル",
+      "pos": "",
+      "en": "title",
+      "kr": "/타이틀, 제목",
+      "vi": "nhan đề, tựa đề",
+      "senses": [
+        {
+          "no": 1,
+          "en": "title",
+          "vi": "nhan đề, tựa đề"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "タイトルをよく見てから文章を読む。",
+          "vi": "Xem kỹ tiêu đề rồi mới đọc bài văn."
+        },
+        {
+          "ja": "有名な映画のタイトルが思い出せない。",
+          "vi": "Không nhớ nổi nhan đề bộ phim nổi tiếng."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "題名",
+          "vi": "tựa đề"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 819,
+      "kanji": "テーマ",
+      "kana": "テーマ",
+      "pos": "",
+      "en": "theme; topic",
+      "kr": "/테마, 주제",
+      "vi": "chủ đề, đề tài",
+      "senses": [
+        {
+          "no": 1,
+          "en": "theme; topic",
+          "vi": "chủ đề, đề tài"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "この映画のテーマは「愛」だ。",
+          "vi": "Chủ đề của bộ phim này là “tình yêu”."
+        },
+        {
+          "ja": "論文のテーマが決まらない。",
+          "vi": "Chưa quyết định được chủ đề của luận án."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_ソング、_音楽、_パーク",
+          "vi": "nhạc chủ đề, nhạc nền, công viên theo chủ đề"
+        },
+        {
+          "type": "類",
+          "ja": "主題",
+          "vi": "chủ đề"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 820,
+      "kanji": "ストーリー",
+      "kana": "ストーリー",
+      "pos": "",
+      "en": "story",
+      "kr": "/스토리, 줄거리",
+      "vi": "câu chuyện, cốt truyện",
+      "senses": [
+        {
+          "no": 1,
+          "en": "story",
+          "vi": "câu chuyện, cốt truyện"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "「あの映画のストーリーを教えてください」",
+          "vi": "“Hãy kể cho tôi cốt truyện bộ phim ấy.”"
+        }
+      ],
+      "related": [
+        {
+          "type": "関",
+          "ja": "あらすじ",
+          "vi": "tóm tắt nội dung"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 821,
+      "kanji": "ヒット",
+      "kana": "ヒット",
+      "pos": "",
+      "en": "hit",
+      "kr": "/히트",
+      "vi": "ăn khách, bán chạy; được ưa chuộng",
+      "senses": [
+        {
+          "no": 1,
+          "en": "hit",
+          "vi": "ăn khách, bán chạy; được ưa chuộng"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "あの歌手の新曲はヒットしている。",
+          "vi": "Bài hát mới của ca sĩ đó đang rất ăn khách."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_曲、_商品、大_スル",
+          "vi": "bài hát ăn khách, sản phẩm bán chạy; thành công vang dội"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: ヒットスル"
+      ]
+    },
+    {
+      "no": 822,
+      "kanji": "ブランド",
+      "kana": "ブランド",
+      "pos": "",
+      "en": "brand",
+      "kr": "/브랜드",
+      "vi": "thương hiệu, hàng hiệu",
+      "senses": [
+        {
+          "no": 1,
+          "en": "brand",
+          "vi": "thương hiệu, hàng hiệu"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "海外でブランドのバッグを買った。",
+          "vi": "Đã mua túi hàng hiệu ở nước ngoài."
+        },
+        {
+          "ja": "彼女は一流ブランドのものしか使わない。",
+          "vi": "Cô ấy chỉ dùng đồ của hàng hiệu hàng đầu."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_品、_もの、一流_",
+          "vi": "hàng hiệu, đồ hiệu; hàng hiệu hàng đầu"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 823,
+      "kanji": "レンタル",
+      "kana": "レンタル",
+      "pos": "",
+      "en": "rental",
+      "kr": "/렌탈, 임대",
+      "vi": "sự thuê, cho thuê",
+      "senses": [
+        {
+          "no": 1,
+          "en": "rental",
+          "vi": "sự thuê, cho thuê"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "このスーツケースはレンタルだ。",
+          "vi": "Chiếc vali này là của thuê."
+        },
+        {
+          "ja": "パーティードレスはレンタルすることにした。",
+          "vi": "Đã quyết định thuê váy dự tiệc."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_ビデオ、_ショップ、_料",
+          "vi": "băng đĩa cho thuê, cửa hàng cho thuê, phí thuê"
+        },
+        {
+          "type": "関",
+          "ja": "レンタカー、レンタサイクル",
+          "vi": "xe thuê, xe đạp thuê"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: レンタルスル"
+      ]
+    },
+    {
+      "no": 824,
+      "kanji": "リサイクル",
+      "kana": "リサイクル",
+      "pos": "",
+      "en": "recycling",
+      "kr": "/재활용, 리사이클",
+      "vi": "tái chế, tái sử dụng",
+      "senses": [
+        {
+          "no": 1,
+          "en": "recycling",
+          "vi": "tái chế, tái sử dụng"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "古くなった服をリサイクルに出した。",
+          "vi": "Đã đem quần áo cũ đi tái chế."
+        },
+        {
+          "ja": "新聞紙はリサイクルされて、トイレットペーパーなどになる。",
+          "vi": "Giấy báo được tái chế thành giấy vệ sinh v.v."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "リ_に出す",
+          "vi": "đem đi tái chế"
+        },
+        {
+          "type": "合",
+          "ja": "_運動、_ショップ",
+          "vi": "phong trào tái chế, cửa hàng đồ tái chế"
+        },
+        {
+          "type": "類",
+          "ja": "再利用(リ)スル",
+          "vi": "tái sử dụng"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: リサイクル(ラ)スル"
+      ]
+    },
+    {
+      "no": 825,
+      "kanji": "ラベル",
+      "kana": "ラベル",
+      "pos": "",
+      "en": "label",
+      "kr": "/라벨, 상표",
+      "vi": "nhãn dán, nhãn mác",
+      "senses": [
+        {
+          "no": 1,
+          "en": "label",
+          "vi": "nhãn dán, nhãn mác"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ビンのラベルをはがして、リサイクルに出す。",
+          "vi": "Bóc nhãn chai rồi đem đi tái chế."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 826,
+      "kanji": "タイプ",
+      "kana": "タイプ",
+      "pos": "",
+      "en": "type; sort",
+      "kr": "/타입",
+      "vi": "kiểu, loại; mẫu người",
+      "senses": [
+        {
+          "no": 1,
+          "en": "type (of person)",
+          "vi": "kiểu, mẫu người"
+        },
+        {
+          "no": 2,
+          "en": "type/model (of machine)",
+          "vi": "loại, kiểu (máy móc)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "このクラスにはいろいろなタイプの学生がいる。",
+          "vi": "Lớp này có đủ kiểu học sinh."
+        },
+        {
+          "ja": "彼女は私の理想のタイプだ。",
+          "vi": "Cô ấy là mẫu người lý tưởng của tôi."
+        },
+        {
+          "ja": "このタイプのパソコンはもう売っていない。",
+          "vi": "Loại máy tính này không còn bán nữa."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "型",
+          "vi": "kiểu, loại"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 827,
+      "kanji": "スタイル",
+      "kana": "スタイル",
+      "pos": "",
+      "en": "style; figure",
+      "kr": "/스타일",
+      "vi": "vóc dáng; phong cách",
+      "senses": [
+        {
+          "no": 1,
+          "en": "figure",
+          "vi": "vóc dáng, dáng người"
+        },
+        {
+          "no": 2,
+          "en": "style",
+          "vi": "phong cách"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼女はスタイルを気にしてダイエットしている。",
+          "vi": "Cô ấy trăn trở về vóc dáng nên đang giảm cân."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_がいい⇔悪い",
+          "vi": "vóc dáng đẹp ⇔ xấu"
+        },
+        {
+          "type": "合",
+          "ja": "ヘア_、ライフ_",
+          "vi": "kiểu tóc, phong cách sống"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 828,
+      "kanji": "セット",
+      "kana": "セット",
+      "pos": "",
+      "en": "set; setting",
+      "kr": "/세트",
+      "vi": "bộ, một bộ; cài đặt, chỉnh sẵn",
+      "senses": [
+        {
+          "no": 1,
+          "en": "set",
+          "vi": "bộ, một bộ"
+        },
+        {
+          "no": 2,
+          "en": "setting (a clock), arranging",
+          "vi": "cài đặt, chỉnh sẵn"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "テーブルといすをセットで買う。",
+          "vi": "Mua bàn và ghế theo bộ."
+        },
+        {
+          "ja": "このグラスは5個で1セットです。",
+          "vi": "Loại ly này 5 cái một bộ."
+        },
+        {
+          "ja": "目覚まし時計を6時にセットした。",
+          "vi": "Đã cài đồng hồ báo thức lúc 6 giờ."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "〔数字〕＋セット",
+          "vi": "〔số〕＋bộ"
+        }
+      ],
+      "notes": [
+        "Dạng động từ: セットスル"
+      ]
+    },
+    {
+      "no": 829,
+      "kanji": "ウイルス",
+      "kana": "ウイルス",
+      "pos": "",
+      "en": "virus",
+      "kr": "/바이러스",
+      "vi": "vi-rút, siêu vi trùng",
+      "senses": [
+        {
+          "no": 1,
+          "en": "virus",
+          "vi": "vi-rút, siêu vi trùng"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "この病気はウイルスによって起こる。",
+          "vi": "Căn bệnh này do vi-rút gây ra."
+        },
+        {
+          "ja": "ウイルスが入ってパソコンが故障した。",
+          "vi": "Vi-rút xâm nhập làm máy tính hỏng."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "インフルエンザ_",
+          "vi": "vi-rút cúm"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 830,
+      "kanji": "ロボット",
+      "kana": "ロボット",
+      "pos": "",
+      "en": "robot",
+      "kr": "/로봇",
+      "vi": "người máy, rô-bốt",
+      "senses": [
+        {
+          "no": 1,
+          "en": "robot",
+          "vi": "người máy, rô-bốt"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "子どもはロボットのアニメが好きだ。",
+          "vi": "Trẻ con thích anime về người máy."
+        },
+        {
+          "ja": "ロボットは工場で危険な作業をする。",
+          "vi": "Người máy làm những công việc nguy hiểm trong nhà máy."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "産業_",
+          "vi": "rô-bốt công nghiệp"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 831,
+      "kanji": "エネルギー",
+      "kana": "エネルギー",
+      "pos": "",
+      "en": "energy",
+      "kr": "/에너지, 동력, 자원",
+      "vi": "năng lượng; sức lực",
+      "senses": [
+        {
+          "no": 1,
+          "en": "energy (natural resource)",
+          "vi": "năng lượng (nguồn tài nguyên)"
+        },
+        {
+          "no": 2,
+          "en": "energy (physical/mental)",
+          "vi": "sức lực, sinh lực"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "地球ではさまざまなエネルギーが不足している。",
+          "vi": "Trên Trái Đất nhiều loại năng lượng đang khan hiếm."
+        },
+        {
+          "ja": "機械を動かすにはエネルギーが必要だ。",
+          "vi": "Để vận hành máy móc cần có năng lượng."
+        },
+        {
+          "ja": "仕事で疲れてしまって、もうエネルギーが残っていない。",
+          "vi": "Mệt vì công việc nên không còn chút sức lực nào."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "〔原子力/熱/太陽…〕＋エネルギー、省エネ、_不足、_資源",
+          "vi": "năng lượng nguyên tử/nhiệt/mặt trời…; tiết kiệm năng lượng (省エネ); thiếu năng lượng; nguồn năng lượng"
+        }
+      ],
+      "notes": [
+        "省エネ = 省エネルギー (viết tắt)"
+      ]
+    },
+    {
+      "no": 832,
+      "kanji": "デジタル",
+      "kana": "デジタル",
+      "pos": "",
+      "en": "digital",
+      "kr": "/디지털",
+      "vi": "kỹ thuật số, digital",
+      "senses": [
+        {
+          "no": 1,
+          "en": "digital",
+          "vi": "kỹ thuật số, digital"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "デジタルの時計は見やすい。",
+          "vi": "Đồng hồ số dễ nhìn."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "_カメラ、デジカメ、_時計",
+          "vi": "máy ảnh số (デジカメ = viết tắt), đồng hồ số"
+        },
+        {
+          "type": "対",
+          "ja": "アナログ",
+          "vi": "analog"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 833,
+      "kanji": "マイク",
+      "kana": "マイク",
+      "pos": "",
+      "en": "microphone",
+      "kr": "/마이크",
+      "vi": "micrô",
+      "senses": [
+        {
+          "no": 1,
+          "en": "microphone",
+          "vi": "micrô"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "みんなの前でマイクを持って話す。",
+          "vi": "Cầm micrô nói trước mọi người."
+        }
+      ],
+      "related": [
+        {
+          "type": "関",
+          "ja": "スピーカー",
+          "vi": "loa"
+        }
+      ],
+      "notes": [
+        "Tên đầy đủ: マイクロホン"
+      ]
+    },
+    {
+      "no": 834,
+      "kanji": "ブレーキ",
+      "kana": "ブレーキ",
+      "pos": "",
+      "en": "brake; check, restraint",
+      "kr": "/브레이크",
+      "vi": "phanh; sự kìm hãm, cản trở",
+      "senses": [
+        {
+          "no": 1,
+          "en": "brake",
+          "vi": "phanh"
+        },
+        {
+          "no": 2,
+          "en": "brake (figurative): check, restraint",
+          "vi": "sự kìm hãm, cản trở (nghĩa bóng)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ブレーキを踏んでスピードを落とした。",
+          "vi": "Đạp phanh để giảm tốc độ."
+        },
+        {
+          "ja": "石油の値上がりで、経済の発展にブレーキがかかった。",
+          "vi": "Giá dầu tăng khiến sự phát triển kinh tế bị hãm lại."
+        },
+        {
+          "ja": "弟のいたずらがひどいときは、ブレーキをかけるようにしている。",
+          "vi": "Khi em trai nghịch quá đà, tôi kìm lại (khuyên nhủ)."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_をかける、_を踏む、_がきかない（①）／_がかかる、_をかける（②）",
+          "vi": "hãm phanh, đạp phanh, phanh không ăn (①); bị hãm lại, kìm hãm (②)"
+        },
+        {
+          "type": "合",
+          "ja": "急_",
+          "vi": "phanh gấp"
+        },
+        {
+          "type": "関",
+          "ja": "アクセル、ハンドル、ヘッドライト、タイヤ",
+          "vi": "ga (bàn đạp tăng tốc), vô-lăng, đèn pha, lốp xe"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 835,
+      "kanji": "ペンキ",
+      "kana": "ペンキ",
+      "pos": "",
+      "en": "paint",
+      "kr": "/페인트",
+      "vi": "sơn, vecni",
+      "senses": [
+        {
+          "no": 1,
+          "en": "paint",
+          "vi": "sơn, vecni"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "壁にペンキを塗る。",
+          "vi": "Sơn tường."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "ja": "_を塗る、_がはがれる",
+          "vi": "quét sơn; sơn bong ra"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "columns": [],
+  "exercises": [
+    {
+      "pdf_page": 179,
+      "book_page": 178,
+      "unit": "Unit 10",
+      "title": "動詞C 練習問題I",
+      "step": 3,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）にことばを書きなさい。",
+          "instruction_vi": "Hãy viết từ thích hợp vào ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "「〒」は、地図では郵便局（　）表す。"
+            },
+            {
+              "no": 2,
+              "ja": "たな（　）荷物（　）のせた。"
+            },
+            {
+              "no": 3,
+              "ja": "コーヒー（　）さとう（　）とかした。"
+            },
+            {
+              "no": 4,
+              "ja": "シャツ（　）よごれ（　）ついている。"
+            },
+            {
+              "no": 5,
+              "ja": "この橋は、本州（　）四国（　）つないでいる。"
+            },
+            {
+              "no": 6,
+              "ja": "生まれた子ども（　）かわいい名前（　）つけた。"
+            },
+            {
+              "no": 7,
+              "ja": "この値段（　）は、消費税（　）ふくまれていない。"
+            },
+            {
+              "no": 8,
+              "ja": "しめ切りが8日（　）20日（　）のびた。"
+            }
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "下の表を完成させなさい。（自他動詞）",
+          "instruction_vi": "Hãy hoàn thành bảng dưới đây. (động từ tự động/tha động)",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "（　）／かさねる"
+            },
+            {
+              "no": 2,
+              "ja": "（　）／そろえる"
+            },
+            {
+              "no": 3,
+              "ja": "たたまる／（　）"
+            },
+            {
+              "no": 4,
+              "ja": "ちる／（　）"
+            },
+            {
+              "no": 5,
+              "ja": "（　）／とかす"
+            },
+            {
+              "no": 6,
+              "ja": "続く（つづく）／（　）"
+            },
+            {
+              "no": 7,
+              "ja": "つながる／（　）"
+            },
+            {
+              "no": 8,
+              "ja": "広がる／（　）"
+            }
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "正しいことばを（　）の中から一つえらびなさい。",
+          "instruction_vi": "Chọn một từ đúng nhất trong ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "夜が（　）。",
+              "options": [
+                "あく",
+                "あける",
+                "ひらく"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "雨がやんで日が（　）。",
+              "options": [
+                "見られる",
+                "来る",
+                "さす"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "新聞にニュースが（　）。",
+              "options": [
+                "のる",
+                "見える",
+                "現れる"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "問題を（　）。",
+              "options": [
+                "とく",
+                "わかる",
+                "答える"
+              ]
+            },
+            {
+              "no": 5,
+              "ja": "毎日日記を（　）。",
+              "options": [
+                "とる",
+                "つける",
+                "のせる"
+              ]
+            },
+            {
+              "no": 6,
+              "ja": "ビールのせんを（　）。",
+              "options": [
+                "とる",
+                "ぬく",
+                "はずす"
+              ]
+            },
+            {
+              "no": 7,
+              "ja": "練習を（　）。",
+              "options": [
+                "のせる",
+                "ならべる",
+                "かさねる"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 180,
+      "book_page": 179,
+      "unit": "Unit 10",
+      "title": "動詞C 練習問題I（つづき）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "IV",
+          "instruction": "いっしょに使うことばをえらびなさい。（　）の数字はえらぶ数です。",
+          "instruction_vi": "Chọn từ có thể dùng cùng với động từ. (Số trong ngoặc là số từ cần chọn.)",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "（　）が広がる。",
+              "options": [
+                "差",
+                "考え",
+                "貯金",
+                "被害",
+                "予定"
+              ],
+              "select": 2
+            },
+            {
+              "no": 2,
+              "ja": "（　）がとける。",
+              "options": [
+                "氷",
+                "技術",
+                "疑問",
+                "計画",
+                "課題"
+              ],
+              "select": 2
+            },
+            {
+              "no": 3,
+              "ja": "（　）がたまる。",
+              "options": [
+                "ストレス",
+                "疲れ",
+                "記録",
+                "貯金",
+                "予定"
+              ],
+              "select": 3
+            },
+            {
+              "no": 4,
+              "ja": "（　）をのばす。",
+              "options": [
+                "ひげ",
+                "ストレス",
+                "記録",
+                "貯金",
+                "予定"
+              ],
+              "select": 3
+            },
+            {
+              "no": 5,
+              "ja": "（　）をそろえる。",
+              "options": [
+                "くつ",
+                "声",
+                "考え",
+                "書類",
+                "被害"
+              ],
+              "select": 3
+            },
+            {
+              "no": 6,
+              "ja": "（　）をまとめる。",
+              "options": [
+                "レポート",
+                "声",
+                "考え",
+                "荷物",
+                "予定"
+              ],
+              "select": 3
+            }
+          ]
+        },
+        {
+          "label": "V-A",
+          "instruction": "（　）に入ることばを下からえらび、適当な形にして書きなさい。",
+          "instruction_vi": "Chọn từ ở khung dưới điền vào ( ) và viết ở dạng thích hợp.",
+          "box": [
+            "あらわれる",
+            "ちる",
+            "つく",
+            "つながる",
+            "とける",
+            "まじる",
+            "ませる"
+          ],
+          "questions": [
+            {
+              "no": 1,
+              "ja": "春になると雪が（　）。"
+            },
+            {
+              "no": 2,
+              "ja": "子どもの受験に（　）行った。"
+            },
+            {
+              "no": 3,
+              "ja": "曇が切れて、太陽が（　）。"
+            },
+            {
+              "no": 4,
+              "ja": "黄色と青色を（　）と、緑色になる。"
+            },
+            {
+              "no": 5,
+              "ja": "強い風で桜が全部（　）しまった。"
+            },
+            {
+              "no": 6,
+              "ja": "人と人との（　）を大切にしたい。"
+            },
+            {
+              "no": 7,
+              "ja": "子どもの中に大人が一人（　）サッカーをしている。"
+            }
+          ]
+        },
+        {
+          "label": "V-B",
+          "instruction": "（　）に入ることばを下からえらび、適当な形にして書きなさい。",
+          "instruction_vi": "Chọn từ ở khung dưới điền vào ( ) và viết ở dạng thích hợp.",
+          "box": [
+            "そろう",
+            "つづく",
+            "つながる",
+            "ぬける",
+            "ふくめる",
+            "まとまる",
+            "まとめる"
+          ],
+          "questions": [
+            {
+              "no": 1,
+              "ja": "うちの家族は、私を（　）6人いる。"
+            },
+            {
+              "no": 2,
+              "ja": "10回もかけて、やっと電話が（　）。"
+            },
+            {
+              "no": 3,
+              "ja": "今週のテレビドラマの（　）を早く見たい。"
+            },
+            {
+              "no": 4,
+              "ja": "会議の内容をメモに（　）、上司に伝えた。"
+            },
+            {
+              "no": 5,
+              "ja": "虫歯をそのままにしておいたら、（　）しまった。"
+            },
+            {
+              "no": 6,
+              "ja": "私のクラスは、みんながばらばらで、（　）がない。"
+            },
+            {
+              "no": 7,
+              "ja": "幼稚園児たちが、お（　）のぼうしをかぶっている。"
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 181,
+      "book_page": 180,
+      "unit": "Unit 10",
+      "title": "動詞C 練習問題II",
+      "step": 3,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。",
+          "instruction_vi": "Chọn đáp án thích hợp nhất để điền vào ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "年が（　）2015年になった。",
+              "options": [
+                "空いて",
+                "明けて",
+                "開いて",
+                "開けて"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "白髪を見つけて（　）。",
+              "options": [
+                "取れた",
+                "はずした",
+                "引いた",
+                "抜いた"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "いくら考えてもいい方法が（　）。",
+              "options": [
+                "思えない",
+                "思い出さない",
+                "思いつかない",
+                "思いやらない"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "留学しているいろいろな経緯を（　）。",
+              "options": [
+                "合わせた",
+                "直した",
+                "続いた",
+                "ならべた"
+              ]
+            },
+            {
+              "no": 5,
+              "ja": "このごろ、仕事が忙しくて疲れが（　）いる。",
+              "options": [
+                "強まって",
+                "高まって",
+                "たまって",
+                "増えて"
+              ]
+            },
+            {
+              "no": 6,
+              "ja": "毎日、新聞にたくさんのニュースが（　）。",
+              "options": [
+                "のる",
+                "のれる",
+                "見える",
+                "見られる"
+              ]
+            },
+            {
+              "no": 7,
+              "ja": "昨年の地震の被害は1億円に（　）。",
+              "options": [
+                "あがった",
+                "すすんだ",
+                "くだった",
+                "のぼった"
+              ]
+            },
+            {
+              "no": 8,
+              "ja": "定期が（　）いるのに気がつかなかった。",
+              "options": [
+                "切れて",
+                "終わって",
+                "消えて",
+                "済んで"
+              ]
+            },
+            {
+              "no": 9,
+              "ja": "クラス会では、昔のクラスメートが全員（　）。",
+              "options": [
+                "かたづいた",
+                "そろった",
+                "ならんだ",
+                "まとまった"
+              ]
+            },
+            {
+              "no": 10,
+              "ja": "あの人には、こちらの気持ちがなかなか（　）。",
+              "options": [
+                "通じない",
+                "通せない",
+                "通らない",
+                "通れない"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "___に意味が最も近いものを、1・2・3・4から一つえらびなさい。",
+          "instruction_vi": "Chọn cụm có nghĩa gần nhất với phần gạch chân.",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "仕事をすませた。",
+              "options": [
+                "終えた",
+                "成功させた",
+                "始めた",
+                "やめた"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "数学の問題が解けた。",
+              "options": [
+                "直した",
+                "終わった",
+                "足りた",
+                "わかった"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "この時計は進んでいる。",
+              "options": [
+                "時間が早い",
+                "質がいい",
+                "人気がある",
+                "値段が高い"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "台風のため、旅行の予定をのばした。",
+              "options": [
+                "やめた",
+                "あとにした",
+                "がまんした",
+                "はずした"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 182,
+      "book_page": 181,
+      "unit": "Unit 10",
+      "title": "動詞C 練習問題II（つづき）",
+      "step": 3,
+      "sections": [
+        {
+          "label": "II",
+          "instruction": "___に意味が最も近いものを、1・2・3・4から一つえらびなさい。（つづき）",
+          "instruction_vi": "Chọn cụm có nghĩa gần nhất với phần gạch chân. (tiếp)",
+          "questions": [
+            {
+              "no": 5,
+              "ja": "トンネルが北海道と本州をつないでいる。",
+              "options": [
+                "合わせて",
+                "付けて",
+                "結んで",
+                "引いて"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "つぎのことばの言い方として最もよいものを、一つえらびなさい。",
+          "instruction_vi": "Chọn câu dùng từ dưới đây đúng nhất.",
+          "questions": [
+            {
+              "no": 1,
+              "word": "あきる",
+              "options": [
+                "給料にあきた。もっと上げてもらいたい。",
+                "ゲームにあきた。しばらくやりたくない。",
+                "体にあきた。疲れがとれるまで少し休もう。",
+                "意味にあきた。わかりやすく話してほしい。"
+              ]
+            },
+            {
+              "no": 2,
+              "word": "与える",
+              "options": [
+                "地震がこの地方に大きな被害を与えた。",
+                "この映画は多くの人に感動を与えさせた。",
+                "恋人から誕生日のプレゼントを与えられた。",
+                "私は山本さんに強い印象を与えさせられた。"
+              ]
+            },
+            {
+              "no": 3,
+              "word": "伝わる",
+              "options": [
+                "インターネットは世界中に伝わっている。",
+                "窓を通してさわやかな風が伝わっている。",
+                "この喫茶店には、いつも音楽が伝わっている。",
+                "この会社は危ないといううわさが伝わっている。"
+              ]
+            },
+            {
+              "no": 4,
+              "word": "まとめる",
+              "options": [
+                "家賃を1年分まとめて払った。",
+                "豚、油、酢をまとめてマヨネーズを作った。",
+                "国民が力をまとめて政治を変えることが大切だ。",
+                "いつもスーツの色にまとめてネクタイを選んでいる。"
+              ]
+            },
+            {
+              "no": 5,
+              "word": "ふくめる",
+              "options": [
+                "スープにもう少し塩をふくめて、味を濃くした。",
+                "この工場には、パートをふくめて500人の労働者がいる。",
+                "ドアが開かないので、強く力をふくめて引っ張った。",
+                "久しぶりに会った喜びをふくめて、友だちと抱きあった。"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    }
+  ],
+  "unit_pages": [
+    {
+      "pdf_page": 183,
+      "book_page": 182,
+      "unit": "Unit 11",
+      "title": "カタカナB",
+      "word_range": "796〜835",
+      "step": 3,
+      "notes": "Trang tiêu đề Unit 11 (カタカナB). Các từ 796〜835 nằm ở trang ảnh 183〜188 (trang sách 182〜187); trang ảnh 188 chỉ có 2 từ cuối (834〜835), không có phần bài tập."
+    }
+  ]
+}

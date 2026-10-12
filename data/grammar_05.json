@@ -1,0 +1,502 @@
+{
+  "pdf_pages": "48-57",
+  "points": [
+    {
+      "no": 49,
+      "pattern": "～はもちろん／もとより",
+      "stars": 2,
+      "senses": [
+        "A là điều tất nhiên rồi, cả B cũng vậy",
+        "Chẳng cần phải nói đến A (điều hiển nhiên), ngay cả B cũng..."
+      ],
+      "connection": "Danh từ + も",
+      "vi": "A đương nhiên là đúng rồi, thì B (thứ ở trình độ thấp hơn hoặc ngoài dự đoán) càng đúng / cũng vậy.",
+      "explanation": "Dùng để nêu một điều A hiển nhiên, hiển lộ rõ ràng, rồi từ đó khẳng định cả B nữa (B thường là điều ngoài dự đoán hơn A). もとより là cách nói trang trọng hơn, thường dùng trong văn viết. Trong bài này, もとより đều đi kèm với danh từ + も.",
+      "examples": [
+        {
+          "ja": "会社の経営が悪化して、ボーナスはもちろん給料も出ない状態だ。",
+          "vi": "Công ty kinh doanh xấu đi, trạng thái là không những không có thưởng mà lương cũng không trả."
+        },
+        {
+          "ja": "「今度のパーティーには、君はもちろん、奥さんにも出席してもらいたい」",
+          "vi": "\"Buổi tiệc lần này, không riêng anh, tôi cũng muốn cả vợ anh đến dự.\""
+        },
+        {
+          "ja": "コンビニでは日用品の販売はもちろん、宅配便の受け付けもするし、公共料金の支払いもできる。",
+          "vi": "Ở cửa hàng tiện lợi, không chỉ bán hàng tiêu dùng hằng ngày, mà còn nhận gửi bưu kiện, và cũng có thể thanh toán các khoản phí công cộng."
+        },
+        {
+          "ja": "彼はスポーツマンで、自分でするのはもちろん、見るのも大好きだそうだ。",
+          "vi": "Nghe nói anh ấy là người thể thao, tự mình chơi thì khỏi nói, mà xem cũng rất thích."
+        },
+        {
+          "ja": "日本へ留学するなら、言葉はもとより文化や習慣も学んできなさい。",
+          "vi": "Nếu đi du học ở Nhật thì không chỉ ngôn ngữ, cả văn hóa và thói quen cũng phải học theo."
+        },
+        {
+          "ja": "アメリカ大統領選挙の結果は、国内もとより国外にも大きな影響を与えるだろう。",
+          "vi": "Kết quả bầu cử tổng thống Mỹ chắc chắn sẽ ảnh hưởng lớn không chỉ đến trong nước mà cả ngoài nước nữa."
+        }
+      ]
+    },
+    {
+      "no": 50,
+      "pattern": "～ついでに",
+      "stars": 2,
+      "senses": [
+        "Nhân tiện / tiện thể, khi đang làm A thì làm luôn cả B",
+        "Vì đây là cơ hội thuận tiện để làm A, nên làm luôn cả B"
+      ],
+      "connection": "Danh từ + の / Động từ (thể từ điển, thể quá khứ タ形)",
+      "vi": "Khi đang thực hiện việc A (hoặc nhân cơ hội của việc A), tiện tay thực hiện luôn việc B.",
+      "explanation": "Dùng khi có dịp, có cơ hội thuận tiện trong lúc làm việc này nên làm luôn việc khác cùng lúc. Ngoài ra,~たついでに / ~のついでに / ついでに đứng đầu câu cũng được dùng.",
+      "examples": [
+        {
+          "ja": "買い物のついでにクリーニング屋に寄って、できあがった洗濯物を受け取ってきた。",
+          "vi": "Nhân tiện đi mua sắm, tôi ghé tiệm giặt ủi nhận lại đồ giặt đã xong."
+        },
+        {
+          "ja": "用事で都心へ出たついでに、美術館をのぞいてみた。",
+          "vi": "Nhân tiện ra trung tâm thành phố vì việc riêng, tôi ghé xem thử viện bảo tàng mỹ thuật."
+        },
+        {
+          "ja": "（コピーをしている人に）「すみません、ついでにこれもお願いします」",
+          "vi": "(Với người đang photocopy) \"Xin lỗi, tiện thể nhờ anh photoc cả cái này nữa.\""
+        },
+        {
+          "ja": "「きょうデパートに行って買ってきてあげる」「いいよ、悪いから」「いいの、ついでがあるから」",
+          "vi": "\"Hôm nay tôi ra cửa hàng bách hóa mua giúp nhé.\" \"Ừ, phiền cho bạn nên không đâu.\" \"Không sao, tiện tay mà.\""
+        }
+      ]
+    },
+    {
+      "no": 51,
+      "pattern": "～ということだ",
+      "stars": 2,
+      "senses": [
+        "①Nghe nói rằng / đồn rằng (thể truyền đạt, dẫn lại lời của người khác, tin tức)",
+        "②<A là một điều như vậy nghĩa là B> — A đồng nghĩa, tương đương với B"
+      ],
+      "connection": "【Danh từ・Động từ・Tính từ イ・Tính từ ナ】ở thể 普通体 (thể thường)",
+      "vi": "①Dùng để truyền đạt lại nội dung người khác nói, tin tức hay kết quả điều tra một cách gián tiếp, như «nghe nói rằng...», «đồi rằng...». ②Dùng để diễn giải, nói lại nghĩa của điều vừa nói dưới dạng khác: «A thì tức là B».",
+      "explanation": "① Theo sau các từ như によると、～の話では để dẫn lại nguồn tin. Khi kể lại việc đã xảy ra thì dùng ということだった. Ngoài ra, ぞのことです cũng được dùng tương tự trong hội thoại. ② Dùng để nói lại nội dung của A bằng cách diễn đạt khác là B, cho thấy A tương đương với B.",
+      "examples": [
+        {
+          "ja": "長期予報によると、今年の夏は暑いということだ。",
+          "vi": "Theo dự báo dài hạn thì nghe nói mùa hè năm nay sẽ nóng."
+        },
+        {
+          "ja": "医者の話では、２か月ぐらいで退院できるだろうということだった。",
+          "vi": "Theo lời bác sĩ thì nghe nói khoảng hai tháng nữa có thể xuất viện."
+        },
+        {
+          "ja": "東京のあたりは昔は海だったのだということだ。",
+          "vi": "Nghe nói vùng Tokyo xưa kia vốn là biển."
+        },
+        {
+          "ja": "「ニュースで聞いたのですが、来年JRの運賃が値上げされるということですよ」",
+          "vi": "\"Tôi nghe qua tin tức, bảo là sang năm cước phí JR sẽ tăng giá đấy.\""
+        },
+        {
+          "ja": "「さっき電話があって、山田さんはもうすぐ着くとのことです」「お姉さんが大学に合格なさったとのこと、おめでとうございます」",
+          "vi": "\"Vừa có điện thoại, bảo là anh Yamada sắp đến nơi.\" \"Nghe nói em gái anh đã đỗ đại học, chúc mừng anh nhé.\""
+        },
+        {
+          "ja": "新聞の一面に載るということには、それが大きなニュースであるということだ。",
+          "vi": "Việc được đăng trên trang nhất báo nghĩa là đó là một tin tức lớn."
+        },
+        {
+          "ja": "ビザがおりないということには、相手国に入国できないということだ。",
+          "vi": "Việc không được cấp visa nghĩa là không thể nhập cảnh vào nước đối phương."
+        },
+        {
+          "ja": "「反対意見が出ないということには、皆さん賛成ということですね」",
+          "vi": "\"Việc không ai đưa ra ý kiến phản đối nghĩa là mọi người đều đồng thuận, phải không?\""
+        },
+        {
+          "ja": "「来年はうるう年ですね」「ということは、２月は２９日まであるんですよね」",
+          "vi": "\"Sang năm là năm nhuận nhỉ.\" \"Nghĩa là tháng 2 có đủ đến ngày 29 đúng không?\""
+        }
+      ]
+    },
+    {
+      "no": 52,
+      "pattern": "～ことはない",
+      "stars": 2,
+      "senses": [
+        "Không cần thiết phải làm ~ / chẳng có gì phải ~ cả (cách nói khẩu ngữ, uyển chuyển hơn 「～なくてもいい」)"
+      ],
+      "connection": "Động từ ở thể từ điển",
+      "vi": "Nói rằng việc đó là không cần thiết, không đến mức phải làm — «chẳng cần phải ~», «không có gì phải ~ cả».",
+      "explanation": "Có ý nghĩa tương đương 「～なくてもいい」 nhưng mang tính khẩu ngữ (話し言葉), được dùng để khuyên người khác không cần phải làm gì. Ở dạng lịch sự dùng ～ことはありません.",
+      "examples": [
+        {
+          "ja": "「時間は十分にあるから、そんなに急ぐことはありませんよ」",
+          "vi": "\"Thời gian còn đủ cả, nên anh không cần phải vội như thế đâu.\""
+        },
+        {
+          "ja": "「彼の招待だから、あなたがお金を払うことはないと思う」",
+          "vi": "\"Vì là anh ấy mời nên tôi nghĩ cậu không cần phải trả tiền đâu.\""
+        },
+        {
+          "ja": "「そんなにがっかりすることはありませんよ。まだチャンスがあるんだから」",
+          "vi": "\"Cậu không cần phải thất vọng đến thế đâu. Còn cơ hội mà.\""
+        }
+      ]
+    },
+    {
+      "no": 53,
+      "pattern": "～こと",
+      "stars": 2,
+      "senses": [
+        "Mệnh lệnh / chỉ thị: «phải ~» (≈「～しなさい」); thường dùng trong quy định, nội quy (thể văn viết)"
+      ],
+      "connection": "Động từ ở thể từ điển",
+      "vi": "Diễn tả mệnh lệnh hay chỉ thị một cách ngắn gọn: «phải ~», «bắt buộc phải ~».",
+      "explanation": "Dùng như một hình thức mệnh lệnh thay cho ～しなさい, thường thấy trong quy định, bản ghi chú, chỉ dẫn. Vì chủ yếu là văn viết nên không dùng trong hội thoại. Ở mẫu 「時間に遅れないこと」 là thể phủ định ナイ形 + こと.",
+      "examples": [
+        {
+          "ja": "あしたは８時までに来ること。時間に遅れないこと。",
+          "vi": "Mai phải đến trước 8 giờ. Không được đi trễ giờ."
+        },
+        {
+          "ja": "レポートは今週中に提出のこと。",
+          "vi": "Bản báo cáo phải nộp trong tuần này."
+        }
+      ]
+    },
+    {
+      "no": 54,
+      "pattern": "～ないことはない／もない",
+      "stars": 2,
+      "senses": [
+        "Không phải là không thể / không phải là không ~ (chỉ là có phần nào đó)",
+        "Không hề không... — nghĩa là vẫn có thể, vẫn có cảm giác ấy dù ở mức độ thấp",
+        "Một chút thì có / một phần thì đúng, nhưng không nhiều"
+      ],
+      "connection": "【Động từ・Tính từ イ・Tính từ ナ】ở thể ナイ形 + ことはない／こともない",
+      "vi": "Phủ định hai lần để nói một cách nhẹ nhàng rằng «cũng không phải là không thể / không phải là không có», tức vẫn khả thi hoặc vẫn đúng ở một mức độ nào đó, nhưng kèm theo tâm lý không mấy tích cực.",
+      "explanation": "Phủ định của 「～ことはない」. Vì dùng phủ định kép nên mang nghĩa khẳng định nhưng yếu, thể hiện tâm trạng miễn cưỡng, một phần thì đúng nhưng không hẳn nhiệt tình. Nói cho nhẹ nhàng, tránh khẳng định chắc nịch.",
+      "examples": [
+        {
+          "ja": "なっとうは、食べないことはないが、あまり好きではない。",
+          "vi": "Cá hồi lên men natto thì không phải tôi không ăn, nhưng cũng không thích lắm."
+        },
+        {
+          "ja": "無理をすれば買えないこともないが、やはりやめておこう。",
+          "vi": "Nếu ép mình thì không phải là không mua được, nhưng thôi vẫn nên từ bỏ vậy."
+        },
+        {
+          "ja": "銅メダルを取った。うれしくないことはないが、金メダルでなくて残念だ。",
+          "vi": "Tôi đã đoạt huy chương đồng. Không phải là không vui, nhưng tiếc vì không phải huy chương vàng."
+        },
+        {
+          "ja": "「テレビが壊れたんですが、直せるでしょうか」「うーん、修理できないことはありませんが、新品を買ったほうが安いですよ」",
+          "vi": "\"Tivi nhà tôi hỏng rồi, anh sửa được không?\" \"À ừ, không phải là không sửa được, nhưng mua cái mới thì rẻ hơn đấy.\""
+        },
+        {
+          "ja": "「ダンスがお得意だそうですわ」「いえ、得意じゃないこともないですけど……」",
+          "vi": "\"Nghe nói anh khiêu vũ giỏi lắm.\" \"À không, cũng không phải là giỏi gì đâu nhưng mà...\""
+        }
+      ]
+    },
+    {
+      "no": 55,
+      "pattern": "～もの（もん）",
+      "stars": 2,
+      "senses": [
+        "Lý do, lời biện minh cho cảm xúc, hành vi của bản thân (chủ yếu người trẻ và trẻ con dùng trong hội thoại)",
+        "Vì là... mà / vì thế đấy (giải thích một cách mang tính cá nhân, hơi trẻ con)"
+      ],
+      "connection": "【Danh từ・Động từ・Tính từ イ・Tính từ ナ】ở thể 普通体 (thể thường)",
+      "vi": "Nêu lý do hoặc biện minh cho một quyết định, một trạng thái cảm xúc của cá nhân mình: «vì là ~ mà», «vì thế đấy».",
+      "explanation": "Cách nói mang đậm màu sắc cá nhân, phụ nữ và trẻ em hay dùng; trong hội thoại もの trở thành もん. Mang nghĩa «vì là ~ nên đấy», lời giải thích có phần nhỏ nhắn hay hơi đùa cợt, không dùng trong văn viết trang trọng.",
+      "examples": [
+        {
+          "ja": "「肉体労働のアルバイトはぼくには無理だよ。そんなに体力ないもん」",
+          "vi": "\"Việc làm thêm lao động chân tay thì tớ không làm nổi đâu. Vì sức tớ có đâu.\""
+        },
+        {
+          "ja": "「ねえ、タクシーで帰らない？　荷物が多くて、かささせないもん」",
+          "vi": "\"Này, mình bắt taxi về nhé? Vì đồ nhiều quá, vướng víu không xách nổi.\" (Lưu ý: sách in かささせないもん — có vẻ là lỗi in của かさばる)"
+        },
+        {
+          "ja": "「まだ子どもだもの、少しぐらいの失敗は大目に見てやらなくちゃ」",
+          "vi": "\"Nó vẫn còn là trẻ con mà, những sai phạm nhỏ chút thôi thì mình phải buông tha cho nó chứ.\""
+        },
+        {
+          "ja": "「これ、おいしいわよ。何で食べないの」「だって、嫌いなんだもん」",
+          "vi": "\"Cái này ngon lắm mà. Sao em không ăn?\" \"Vì em ghét nó mà.\""
+        }
+      ]
+    },
+    {
+      "no": 56,
+      "pattern": "～ものだから／もので",
+      "stars": 2,
+      "senses": [
+        "Vì là ~ (nêu lý do, biện minh cho việc đã làm hay tình trạng của mình)",
+        "Vì ~ nên (lời giải thích mang tính cá nhân, thường dùng khi xin lỗi hoặc biện hộ)"
+      ],
+      "connection": "Danh từ + な / 【Động từ・Tính từ イ・Tính từ ナ】ở dạng bổ nghĩa cho danh từ (名詞修飾形)",
+      "vi": "Nêu lý do một cách nhấn mạnh, mang tính biện minh cho hành vi hay tình huống của bản thân: «vì là ~ nên...».",
+      "explanation": "Giống 「から」 nhưng mang nghĩa biện minh, giải thích lý do một cách nài nỉ hay xin lỗi, khiến người nghe cảm thông. もので cũng được dùng với cùng ý nghĩa, thường trong lời xin lỗi, giải trình.",
+      "examples": [
+        {
+          "ja": "「なぜ遅刻したのですか」「すみません、事故で電車が止まってしまったものですから」",
+          "vi": "\"Tại sao anh đến trễ?\" \"Xin lỗi, vì tai nạn làm tàu điện bị dừng nên tôi bị trễ.\""
+        },
+        {
+          "ja": "ふだん健康なものだから、つい過信して過労で倒れてしまった。",
+          "vi": "Vì bình thường vẫn khỏe mạnh nên tôi chủ quan quá, làm việc quá sức và ngã bệnh."
+        },
+        {
+          "ja": "「父が病気なものですから、いろいろとお金が必要なんです」",
+          "vi": "\"Vì cha tôi bị bệnh nên có nhiều khoản chi phí cần tiền lắm.\""
+        },
+        {
+          "ja": "「先生とは知らなかったもので、大変失礼いたしました」",
+          "vi": "\"Vì tôi không biết đó là thầy nên thật là thất lễ.\""
+        }
+      ]
+    },
+    {
+      "no": 57,
+      "pattern": "～ものか",
+      "stars": 2,
+      "senses": [
+        "Tuyệt đối không thể / sẽ không bao giờ ~ (cảm xúc phủ định mạnh, lời tuyên bố)",
+        "Đâu có phải là... đâu / sao thể nào lại... (phản bác, báng bổ một cách mãnh liệt)"
+      ],
+      "connection": "Danh từ + な / 【Động từ・Tính từ イ・Tính từ ナ】ở dạng bổ nghĩa cho danh từ (名詞修飾形)",
+      "vi": "Nhấn mạnh sự phủ định với cảm xúc mãnh liệt: «tuyệt đối không ~», «sao thể nào lại ~ được», dùng để bày tỏ quyết tâm hay phản đối.",
+      "explanation": "Dùng trong lời nói (話し言葉) để phủ định một cách cảm xúc, quyết liệt: «thà rằng... chứ tuyệt đối không ~». Cách nói đàn ông hay dùng là もんか; phụ nữ dùng ものか (mềm hơn).",
+      "examples": [
+        {
+          "ja": "あんなまずい店、二度と行くものか。",
+          "vi": "Cửa hàng dở tệ như thế đó thì tôi thề sẽ không bao giờ đến lần nào nữa."
+        },
+        {
+          "ja": "負けるもんか！　今度は絶対勝つ。",
+          "vi": "Sao thể nào tớ để thua được! Lần này nhất định tớ sẽ thắng."
+        },
+        {
+          "ja": "「いい会社に入れてよかったな」「いいものか。毎日残業で、土日も休みなしだよ」",
+          "vi": "\"Vào được công ty tốt thế là tốt rồi nhỉ.\" \"Tốt gì chứ. Ngày nào cũng làm thêm giờ, cả thứ bảy chủ nhật cũng không nghỉ đấy.\""
+        },
+        {
+          "ja": "「あの人、努力家よね」「努力家なもんか。要領がいいだけだよ」",
+          "vi": "\"Người ấy chăm chỉ phấn đấu thật đấy nhỉ.\" \"Chăm chỉ gì chứ. Chỉ tại khéo léo, biết cách thôi.\""
+        }
+      ]
+    },
+    {
+      "no": 58,
+      "pattern": "～たところ",
+      "stars": 2,
+      "senses": [
+        "Làm ~ thì (phát hiện) kết quả là... / thử làm A thì hóa ra B",
+        "Kết quả của việc A (đã làm) lại là B — diễn tả sự phát hiện hay kết quả bất ngờ"
+      ],
+      "connection": "Động từ ở thể タ (thể quá khứ)",
+      "vi": "Sau khi thực hiện hành động A thì thu được kết quả B (thường là điều được phát hiện hay kết quả ngoài ý muốn): «làm A thì (hóa ra) B».",
+      "explanation": "Diễn tả việc người nói làm A rồi, kết quả của nó là B. Ở vế sau thường xuất hiện biểu hiện sự phát hiện, tình cờ hay kết quả ngoài ý muốn (わかった、~だった、~した). Chỉ dùng cho sự việc đã xảy ra, không dùng cho việc tương lai.",
+      "examples": [
+        {
+          "ja": "先生にお願いしたところ、快く引き受けてくださった。",
+          "vi": "Khi tôi nhờ thầy thì thầy đã nhận lời một cách thoải mái."
+        },
+        {
+          "ja": "先生のお宅へ行ったところ、あいにく先生は留守だった。",
+          "vi": "Tôi đến nhà thầy thì không may thầy lại vắng nhà."
+        },
+        {
+          "ja": "一口食べてみたところ、とてもおいしかった。",
+          "vi": "Thử ăn thử một miếng thì thấy rất ngon."
+        },
+        {
+          "ja": "調べてみたところ、意外な事実がわかった。",
+          "vi": "Khi tìm hiểu thì phát hiện ra một sự thật bất ngờ."
+        },
+        {
+          "ja": "久しぶりに体重を測ったところ、やはり増えていた。",
+          "vi": "Lâu lắm mới lên cân lại thì quả nhiên trọng lượng đã tăng."
+        }
+      ]
+    },
+    {
+      "no": 59,
+      "pattern": "～ところに／へ／を／で",
+      "stars": 2,
+      "senses": [
+        "Đúng lúc / đúng khoảnh khắc đang ~ thì... (場面: hoàn cảnh)",
+        "Đúng thời điểm ~ thì... (時点: thời điểm)",
+        "Đang trong lúc / đang trong tình trạng ~ thì... (行為の段階: giai đoạn hành động)"
+      ],
+      "connection": "【Danh từ・Động từ・Tính từ イ・Tính từ ナ】ở dạng bổ nghĩa cho danh từ (名詞修飾形)",
+      "vi": "Diễn tả một hành động hay sự việc xảy ra đúng vào lúc, đúng thời điểm, đúng giai đoạn của một hành động hay tình huống khác đang diễn ra.",
+      "explanation": "ところ kết hợp với các trợ từ に／へ／を／で để chỉ «đúng lúc đang ~ thì...». ところに／へ: đúng thời điểm thì có việc xấy đến; ところを: đúng lúc đang ở trạng thái đó thì bị phát hiện hay làm phiền; ところで: đúng lúc vừa ~ xong thì phát hiện điều gì; 今のところ là thành ngữ nghĩa «hiện tại / lúc này».",
+      "examples": [
+        {
+          "ja": "家を出ようとしたところに電話がかかってきた。",
+          "vi": "Đúng lúc tôi định ra khỏi nhà thì có điện thoại gọi đến."
+        },
+        {
+          "ja": "授業中に居眠りしているところを先生に見つかってしまった。",
+          "vi": "Đúng lúc đang ngủ gật trong giờ học thì bị thầy bắt gặp."
+        },
+        {
+          "ja": "駅に着いたところで財布を忘れてきたことに気がついた。",
+          "vi": "Đúng lúc vừa đến nhà ga thì tôi nhận ra đã bỏ quên ví ở lại."
+        },
+        {
+          "ja": "今のところ、大学院進学は考えていない。",
+          "vi": "Hiện tại thì tôi chưa nghĩ đến chuyện học lên cao học."
+        },
+        {
+          "ja": "「いいところへ来た。この荷物運ぶの、手伝って」",
+          "vi": "\"Đúng lúc cậu đến đấy. Giúp mình khuân đồ này với.\""
+        }
+      ]
+    },
+    {
+      "no": 60,
+      "pattern": "～ところだった",
+      "stars": 2,
+      "senses": [
+        "①Sắp sửa thì... / suýt nữa thì đã... (trông thì như thế nhưng may mà không xảy ra)",
+        "②Suýt nữa thì đã làm được nhưng tiếc là không xong (còn tí nữa là xong nhưng không xong, tiếc)"
+      ],
+      "connection": "Động từ ở thể từ điển",
+      "vi": "Diễn tả một việc suýt nữa thì xảy ra (hoặc suýt nữa thì hoàn thành) nhưng thực tế lại không xảy ra, hoặc may mắn tránh được.",
+      "explanation": "① Trước đó nhìn cứ tưởng sẽ xảy ra điều không mong muốn, nhưng đã không xảy ra — thường đi với あやうく、もう少しで để nói «suýt nữa thì...». ② Dùng để nói «còn tí nữa là xong / đạt được rồi mà tiếc là không được», thể hiện sự tiếc nuối.",
+      "examples": [
+        {
+          "ja": "駅のホームで押されて、あやうく線路に落ちるところだった。",
+          "vi": "Bị đẩy trên sân ga nên suýt nữa thì tôi đã ngã xuống đường ray."
+        },
+        {
+          "ja": "出かけると急いでいたので、もう少しでさいふを忘れるところだった。",
+          "vi": "Vì vội vã khi ra ngoài nên suýt nữa thì tôi đã quên mang ví."
+        },
+        {
+          "ja": "彼女が注意してくれなかったら、だまされるところだった。",
+          "vi": "Nếu không có cô ấy nhắc nhở thì suýt nữa tôi đã bị lừa."
+        },
+        {
+          "ja": "（試験のとき）あと少しで書き終わるところだったのに、ベルが鳴ってしまった。",
+          "vi": "(Lúc thi) Còn tí nữa là viết xong rồi nhưng chuông lại reo mất."
+        },
+        {
+          "ja": "高橋選手はもう少しで正選手になれるところだったのだが、事故でけがをして、引退してしまった。",
+          "vi": "Vận động viên Takahashi suýt nữa thì đã trở thành chính thức, nhưng vì bị chấn thương do tai nạn nên đã phải giải nghệ."
+        }
+      ]
+    },
+    {
+      "no": 61,
+      "pattern": "～ほど",
+      "stars": 2,
+      "senses": [
+        "①Khoảng chừng, khoảng ước ~ (≈くらい)",
+        "②Diễn tả mức độ: đến mức mà ~",
+        "③<Không ai/không thứ gì ~ hơn> — ~ là nhất, vượt bậc nhất"
+      ],
+      "connection": "Danh từ / 【Động từ・Tính từ イ・Tính từ ナ】ở dạng bổ nghĩa cho danh từ (名詞修飾形)",
+      "vi": "①Cho biết số lượng, mức độ xấp xỉ: «khoảng ~», «chừng ~». ②Cho biết mức độ của sự việc: «đến mức ~», «từng vẫn ~». ③Dùng mẫu 「～ほど…はない」 để nói «không ai/không cái gì bằng ~», tức ~ là nhất.",
+      "explanation": "① Tương đương くらい, chỉ lượng xấp xỉ (30分ほど = 30分くらい). ② Nêu một ví dụ cụ thể để minh họa mức độ cao của trạng thái. ③ Mẫu ～ほど…はない lấy danh từ đó làm chuẩn so sánh cao nhất.",
+      "examples": [
+        {
+          "ja": "うちから学校まで３０分ほどで行ける。",
+          "vi": "Từ nhà đến trường đi trong khoảng 30 phút là đến."
+        },
+        {
+          "ja": "夜も眠れないほど悩んだ。",
+          "vi": "Đã khổ sở đến mức cả đêm không ngủ được."
+        },
+        {
+          "ja": "あの家の双子は親でも見間違えるほどよく似ている。",
+          "vi": "Anh em sinh đôi nhà đó giống nhau đến mức bố mẹ cũng nhìn nhầm."
+        },
+        {
+          "ja": "きのうは猫の手も借りたいほどの忙しさだった。",
+          "vi": "Hôm qua bận rộn đến mức 'cả tay mèo cũng muốn mượn' (vào việc)."
+        },
+        {
+          "ja": "きのうは風が強くて、目を開けていられないほどだった。",
+          "vi": "Hôm qua gió mạnh đến mức không thể mở mắt ra nổi."
+        },
+        {
+          "ja": "彼女ほど優しい人はいない。",
+          "vi": "Không có người nào tốt bụng bằng cô ấy."
+        },
+        {
+          "ja": "これほど面白い本は今まで読んだことがない。",
+          "vi": "Cuốn sách hay như thế này thì trước giờ tôi chưa từng đọc."
+        }
+      ]
+    },
+    {
+      "no": 62,
+      "pattern": "～ば～ほど",
+      "stars": 2,
+      "senses": [
+        "Càng ~ thì càng... (mức độ A tiến hành thì mức độ B cũng tiến theo)"
+      ],
+      "connection": "【Động từ・Tính từ イ・Tính từ ナ】ở thể giả định (ば) + 【Động từ・Tính từ イ】ở thể từ điển / Tính từ ナ + なら /【Danh từ・Tính từ ナ】∅ (であればあるほど)",
+      "vi": "Mức độ của A tiến triển đến đâu thì mức độ của B cũng tiến triển theo đến đó: «càng ~ thì càng...».",
+      "explanation": "Cùng một động từ hay tính từ lặp lại hai lần: lần đầu ở thể ば (giả định), lần sau ở thể từ điển hay dạng bổ nghĩa, rồi thêm ほど. Biểu hiện khi một trạng thái thay đổi thì trạng thái khác cũng thay đổi theo theo cùng chiều. Với tính từ ナ và danh từ dùng であればあるほど.",
+      "examples": [
+        {
+          "ja": "外国語はだれでも、練習すればするほど上手になる。",
+          "vi": "Ngoại ngữ thì ai cũng vậy, càng luyện tập càng giỏi lên."
+        },
+        {
+          "ja": "将来のことを考えれば考えるほど不安になる。",
+          "vi": "Càng suy nghĩ về tương lai càng thấy bất an."
+        },
+        {
+          "ja": "見れば見るほどすばらしい絵だ。",
+          "vi": "Là một bức tranh càng nhìn càng thấy tuyệt đẹp."
+        },
+        {
+          "ja": "夢は大きければ大きいほど良い。",
+          "vi": "Ước mơ thì càng lớn càng tốt."
+        },
+        {
+          "ja": "子どもは元気であればあるほどけがも増える。",
+          "vi": "Trẻ con càng khỏe mạnh thì vết thương trầy xước cũng càng nhiều."
+        },
+        {
+          "ja": "「返事はいつまでにすればいいですか」「（早ければ）早いほどいいです」",
+          "vi": "\"Phản hồi thì tôi nên làm trước khi nào?\" \"Càng sớm càng tốt.\""
+        }
+      ]
+    },
+    {
+      "no": 63,
+      "pattern": "～ほど",
+      "stars": 2,
+      "senses": [
+        "Người nào như ~ thì càng... / thứ nào như ~ thì càng... (so sánh: loại đó càng vượt trội hơn)"
+      ],
+      "connection": "Danh từ",
+      "vi": "Khi muốn nói «loại người hay loại vật như ~ thì càng hơn»: người càng ~ thì tính chất đó càng mạnh.",
+      "explanation": "Danh từ + ほど để so sánh mức độ: thứ mang tính chất được nêu càng nhiều thì tính chất trong vế sau càng đậm. Tương tự mẫu ～は～ほど nhưng dùng cho danh từ.",
+      "examples": [
+        {
+          "ja": "真面目にがんばる人ほどストレスを抱え込みやすい。",
+          "vi": "Người càng nghiêm túc cố gắng thì càng dễ tích tụ căng thẳng."
+        },
+        {
+          "ja": "一般的に、若い患者ほど病気の進行が早い。",
+          "vi": "Nói chung, bệnh nhân càng trẻ thì tiến triển của bệnh càng nhanh."
+        },
+        {
+          "ja": "魚は新鮮なものほどおいしい。",
+          "vi": "Cá thì càng tươi càng ngon."
+        }
+      ]
+    }
+  ]
+}

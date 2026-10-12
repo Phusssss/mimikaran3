@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*.local
+.env
+*.tsbuildinfo
+next-env.d.ts
+
+# dict kuromoji (copy tu node_modules qua postinstall)
+public/dict/

@@ -1,0 +1,91 @@
+{
+  "pdf_pages": "68-77",
+  "points": [
+    {
+      "no": 75,
+      "pattern": "〜にともなって／ともない",
+      "stars": null,
+      "senses": ["A xảy ra thì B cũng xảy ra theo (cùng với A, B cũng xảy ra)"],
+      "connection": "Danh từ / động từ thể từ điển (辞書形) + にともなって／にともない",
+      "vi": "cùng với ~, đi kèm với ~, theo đổi theo ~",
+      "explanation": "Diễn tả việc B xảy ra gắn liền với sự biến A, khi A xảy ra thì B cũng xảy ra theo. Thường dùng trong văn viết, văn phong trang trọng, với các thay đổi, biến động trên phạm vi lớn (thời đại, chính sách, kinh tế, thiên tai...). Dạng 〜にともない cũng dùng tương tự. Động từ 伴う（ともなう）nghĩa là 'đi kèm, kèm theo'.",
+      "examples": [
+        {"ja": "会社の倒産にともなって、多くの社員が失業した。", "vi": "Cùng với việc công ty phá sản, nhiều nhân viên đã mất việc làm."},
+        {"ja": "公共料金の値上げにともない、物価が上昇した。", "vi": "Cùng với việc tăng giá phí công cộng, vật giá đã tăng lên."},
+        {"ja": "大地震発生にともなう被害を予測する。", "vi": "Dự đoán những thiệt hại đi kèm khi xảy ra động đất lớn."},
+        {"ja": "病気が長引くにともなって、看病する家族にも疲れが見えてきた。", "vi": "Cùng với bệnh tình kéo dài, ở những người nhà chăm bệnh cũng dần lộ rõ sự mệt mỏi."},
+        {"ja": "妻子を伴って出かける。", "vi": "Đi ra ngoài cùng với vợ con."},
+        {"ja": "この仕事は危険を伴う。", "vi": "Công việc này có kèm theo nguy hiểm."}
+      ]
+    },
+    {
+      "no": 76,
+      "pattern": "〜に決まっている",
+      "stars": null,
+      "senses": ["きっと〜だろう、〜に違いない（確信）- chắc chắn là ~, không thể sai được (sự tin chắc)"],
+      "connection": "Danh từ / thể thường (普通体) của 【động từ・tính từ い・tính từ な】. Tuy nhiên, tính từ な ở dạng hiện tại không gắn 「だ」",
+      "vi": "chắc chắn là ~, nhất định là ~, clear là ~",
+      "explanation": "Thể hiện sự tin chắc rất mạnh của người nói rằng điều đó nhất định là như vậy, là một phán đoán mang cảm xúc chủ quan, mạnh hơn に違いない. Đa phần dùng trong hội thoại để khẳng định hay cảm thán.",
+      "examples": [
+        {"ja": "「そんなのうそに決まっている。信じられない」", "vi": "\"Cái đó chắc chắn là nói dối. Không thể tin nổi\""},
+        {"ja": "相手はプロなんだから、強いに決まっている。", "vi": "Đối thủ là dân chuyên nghiệp mà, chắc chắn là mạnh."},
+        {"ja": "私が家を出たいと言えば、父は反対するに決まっている。", "vi": "Nếu tôi nói muốn ra ở riêng thì chắc chắn bố sẽ phản đối."},
+        {"ja": "この仕事をきょう中に終わらせるなんて、無理に決まっている。", "vi": "Chuyện hoàn thành công việc này trong hôm nay thì chắc chắn là bất khả."}
+      ]
+    },
+    {
+      "no": 77,
+      "pattern": "〜っけ",
+      "stars": null,
+      "senses": ["①事実の確認（話し言葉）- hỏi lại để xác nhận sự thật (lời nói)", "②過去の回想（独り言）- hồi tưởng quá khứ (lời tự nói một mình)"],
+      "connection": "Dạng quá khứ (過去形) của 【danh từ・động từ・tính từ い・tính từ な】 + っけ",
+      "vi": "...nhỉ, ...hay nhỉ (hỏi lại để xác nhận); ...nhỉ (hồi tưởng hoài niệm)",
+      "explanation": "Nghĩa ①: dùng khi hỏi lại người đối diện để xác nhận lại sự thật mình không nhớ rõ, mang tính hội thoại. Với danh từ và tính từ な, dạng だっけ cũng được dùng. Nghĩa ②: dùng khi một mình hồi tưởng về những chuyện trong quá khứ, thường kèm cảm xúc hoài niệm.",
+      "examples": [
+        {"ja": "「レポートの提出期限は来週の月曜日だったっけ（／だっけ）」", "vi": "\"Hạn nộp báo cáo là thứ Hai tuần sau nhỉ?\""},
+        {"ja": "「試験は何時からだったっけ（／だっけ）」", "vi": "\"Kỳ thi bắt đầu từ mấy giờ nhỉ?\""},
+        {"ja": "「えっ、私、そんなこと言ったっけ」", "vi": "\"Ơ, tôi đã từng nói chuyện đó sao nhỉ?\""},
+        {"ja": "「山田さんの家、駅から近かったっけ」", "vi": "\"Nhà anh Yamada, hồi đó gần nhà ga chứ nhỉ?\""},
+        {"ja": "「キムさんって、数学が得意じゃなかったっけ」", "vi": "\"Anh Kim hồi đó giỏi toán chứ nhỉ?\""},
+        {"ja": "子どものころ、よくこの公園で遊んだっけ。", "vi": "Hồi nhỏ, tôi thường hay chơi ở công viên này nhỉ."},
+        {"ja": "上田先生にはよく姿勢が悪いと注意されたっけ。", "vi": "Ngày xưa hay bị thầy Ueda nhắc nhở là tư thế ngồi xấu nhỉ."}
+      ]
+    },
+    {
+      "no": 78,
+      "pattern": "〜ように",
+      "stars": null,
+      "senses": ["①〜とおりに - giống như ~, như là ~", "②目的（※「に」は省略可）- mục đích (để mà ~) ※có thể lược bỏ 「に」"],
+      "connection": "Nghĩa ①: dạng sửa danh từ (名詞修飾形) của 【danh từ・động từ】 + ように. Nghĩa ②: động từ ở 【dạng khả năng（可能形）・dạng phủ định（ナイ形）】; riêng động từ không có dạng khả năng thì dùng thể từ điển (辞書形)",
+      "vi": "như là ~, theo như ~ (nghĩa ①); để mà ~, để có thể ~ (nghĩa ②)",
+      "explanation": "Nghĩa ①: dẫn ra một nội dung, tình huống để làm ví dụ hay cơ sở cho việc đang nói. Nghĩa ②: nêu mục tiêu, hy vọng và tiến hành hành vi để đạt được nó; thường đi với động từ khả năng, động từ dạng ナイ形, hay động từ không thuộc ý chí chủ quan. Chú ý: với động từ diễn tả hành vi có ý chí thì dùng 「ために」(N4): 私はコンピューターについて勉強するために日本へ来た。／9時の新幹線に乗るためには、8時に家を出なければならない。",
+      "examples": [
+        {"ja": "子どもは親の思うようにはならないのがふつうだ。", "vi": "Con cái không chịu làm theo đúng như cha mẹ nghĩ là chuyện bình thường."},
+        {"ja": "「皆さん、今から私が言うように体を動かしてください」", "vi": "\"Cả quý vị, xin hãy vận động cơ thể theo như tôi nói bây giờ\""},
+        {"ja": "「この本にも書いてあるように、世界のあちこちで水不足が大きな問題になっています」", "vi": "\"Như cũng được viết trong cuốn sách này, khắp nơi trên thế giới tình trạng thiếu nước đang trở thành vấn đề lớn\""},
+        {"ja": "「先日お話しましたように、佐藤さんが転勤することになったので、来週、送別会を開きたいと思います」", "vi": "\"Như tôi đã kể hôm trước, vì anh Sato sắp chuyển công tác nên tuần sau tôi định mở tiệc chia tay\""},
+        {"ja": "9時の新幹線に間に合うように、8時に家を出た。", "vi": "Để kịp chuyến shinkansen 9 giờ, tôi đã ra khỏi nhà lúc 8 giờ."},
+        {"ja": "母は家族が快適に暮らせるよう、いろいろと気を配っている。", "vi": "Mẹ vun vén đủ điều để gia đình có thể sống thoải mái."},
+        {"ja": "「他の人の迷惑にならないよう、静かに話してください」", "vi": "\"Xin hãy nói chuyện nhẹ nhàng để không làm phiền người khác\""},
+        {"ja": "思いついたアイデアは、忘れないようにすぐメモしておくことが大切だ。", "vi": "Với ý tưởng nghĩ ra, quan trọng là phải ghi chú ngay để không quên."},
+        {"ja": "私はコンピューターについて勉強するために日本へ来た。", "vi": "Tôi sang Nhật để học về máy tính."},
+        {"ja": "9時の新幹線に乗るためには、8時に家を出なければならない。", "vi": "Muốn đi chuyến shinkansen 9 giờ thì phải ra khỏi nhà lúc 8 giờ."}
+      ]
+    },
+    {
+      "no": 79,
+      "pattern": "〜ようがない",
+      "stars": null,
+      "senses": ["〜する手段、方法がない - không có phương tiện, cách thức nào để làm ~"],
+      "connection": "Động từ ở dạng マス形（masu）+ ようがない",
+      "vi": "không có cách nào ~, không thể nào ~ được",
+      "explanation": "Diễn tả việc không có phương pháp hay phương tiện nào để thực hiện hành vi đó. Ở thì quá khứ dùng dạng 〜ようがなかった. Cách nói nhấn mạnh 〜ようもない và cách dùng trước danh từ 〜ようのない（感動）cũng thường gặp.",
+      "examples": [
+        {"ja": "手紙に彼の住所が書いてない。これでは返事の出しようがない。", "vi": "Trong thư không ghi địa chỉ của anh ấy. Đằng này thì lấy gì mà trả lời."},
+        {"ja": "とても悲しそうだったので、慰めようがなかった。", "vi": "Vì trông buồn lắm nên chẳng có cách nào an ủi được."},
+        {"ja": "どんなに注意していても、人間である以上、ミスは防ぎようがない。", "vi": "Dù có chú ý bao nhiêu đi nữa, đã là con người thì sai sót không thể nào ngăn được."},
+        {"ja": "その映画を見て、なんとも言いようのない感動を覚えた。", "vi": "Xem bộ phim đó, tôi cảm nhận một xúc động khó nói thành lời."}
+      ]
+    }
+  ]
+}

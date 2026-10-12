@@ -1,0 +1,151 @@
+{
+  "pdf_pages": "98-107",
+  "points": [
+    {
+      "no": 102,
+      "pattern": "〜かけ／かける",
+      "stars": 2,
+      "senses": ["đang làm dở, mới làm đến một nửa (chưa xong)"],
+      "connection": "Thể MASU (bỏ ます) của động từ + かける／かけ（dạng danh từ）",
+      "vi": "đang làm dở..., mới làm nửa chừng (chưa kết thúc)",
+      "explanation": "Diễn tả trạng thái một hành động được bắt đầu nhưng mới thực hiện được một phần, chưa hoàn tất. 「〜かけの＋danh từ」 dùng như từ bổ nghĩa danh từ; động từ 「〜かける」 dùng như một động từ. Cũng dùng cho trạng thái sắp quên như 「忘れかけていた」.",
+      "examples": [
+        {"ja": "書きかけの手紙・読みかけの本・食べかけのりんご・忘れかけていた記憶", "vi": "Lá thư viết dở / quyển sách đọc dở / quả táo ăn dở / ký ức gần như đã quên."},
+        {"ja": "「やりかけたことは最後までちゃんとやりなさい」", "vi": "\"Việc đã làm dở thì phải làm cho đàng hoàng đến cùng.\""},
+        {"ja": "彼女は何か言いかけてが、すぐに口を閉じてしまった。", "vi": "Cô ấy định nói gì đó (nửa chừng) nhưng lập tức khép miệng lại."}
+      ]
+    },
+    {
+      "no": 103,
+      "pattern": "〜をこめて",
+      "stars": 2,
+      "senses": ["gửi gắm (tình cảm...) vào...; chứa đựng tình cảm..."],
+      "connection": "Danh từ + をこめて",
+      "vi": "gửi gắm... vào, chứa đựng (tình cảm)... bên trong",
+      "explanation": "Diễn tả việc làm gì đó với tình cảm như tình yêu, lòng biết ơn, lời chúc, lời cầu nguyện... được chứa đựng bên trong. Thường dùng với các danh từ như 心・愛・感謝・願い・祈り・力. Cách nói liên quan: 「心のこもった」 (đầy ấm áp tình cảm).",
+      "examples": [
+        {"ja": "母の誕生日に、心をこめて編んだセーターを贈った。", "vi": "Vào sinh nhật của mẹ, tôi đã tặng chiếc áo len đan bằng cả tấm lòng."},
+        {"ja": "先生への感謝の気持ちをこめて、みんなで手紙を書いた。", "vi": "Gửi gắm lòng biết ơn dành cho thầy cô, cả lớp cùng viết thư."},
+        {"ja": "子どもたちは平和への祈りを込めて千羽鶴を折った。", "vi": "Các đứa trẻ gấp nghìn con hạc với lời cầu nguyện cho hòa bình."},
+        {"ja": "愛／力／皮肉／願い + をこめて", "vi": "Tình yêu / sức mạnh / lời châm biếm / lời mong ước + をこめて."},
+        {"ja": "「心のこもったおもてなしをありがとうございます」", "vi": "\"Cảm ơn sự tiếp đón đầy tấm lòng của quý vị.\""}
+      ]
+    },
+    {
+      "no": 104,
+      "pattern": "〜わりに（は）",
+      "stars": 2,
+      "senses": ["so với..., thì... (khác với điều đương nhiên được nghĩ là...); khỏi mong..."],
+      "connection": "【Danh từ・Động từ・Tính từ い・Tính từ な】ở dạng bổ nghĩa danh từ + わりに（は）",
+      "vi": "so với... thì..., trái với cái đương nhiên nghĩ từ... thì thật bất ngờ",
+      "explanation": "Diễn tả nội dung vế sau khác hẳn với điều bình thường đương nhiên được suy nghĩ từ tình huống ở vế trước, tạo ấn tượng bất ngờ hoặc không tương xứng. 「〜わりには」 nhấn mạnh hơn 「〜わりに」. Cũng có dạng dùng như danh từ: 「そのわりには」.",
+      "examples": [
+        {"ja": "「山田さんは留学経験がないわりに英語の発音がきれいですね」", "vi": "\"So với việc anh Yamada không có kinh nghiệm du học thì phát âm tiếng Anh của anh ấy thật đẹp nhỉ.\""},
+        {"ja": "この仕事は大変なわりに給料が安い。", "vi": "Công việc này cực khổ vậy mà lương lại thấp."},
+        {"ja": "あのレストランは値段のわりに（＝値段が安いわりに）おいしくて量も多い。", "vi": "Nhà hàng đó so với giá cả (＝so với việc giá rẻ) thì ngon và lượng cũng nhiều."},
+        {"ja": "彼女はやせているわりには丈夫で力も強い。", "vi": "Cô ấy gầy vậy mà lại khỏe mạnh, sức cũng mạnh."},
+        {"ja": "今度の試験はあまり勉強しなかった。そのわりには成績がまあまあでほっとした。", "vi": "Kỳ thi lần này tôi đã không học nhiều. So với thế thì điểm khá tạm được nên tôi nhẹ cả người."}
+      ]
+    },
+    {
+      "no": 105,
+      "pattern": "〜くせに",
+      "stars": 2,
+      "senses": ["dù... nhưng lại..., trong khi... mà lại (có tính trách móc, khinh miệt)"],
+      "connection": "【Danh từ・Động từ・Tính từ い・Tính từ な】ở dạng bổ nghĩa danh từ + くせに",
+      "vi": "dù... mà lại..., trong khi... mà không... (lời nói mang tính phê phán, coi thường)",
+      "explanation": "Ý nghĩa gần giống 「〜のに」 nhưng chứa tâm phê phán, trách mắng, khinh miệt đối tượng; là cách nói của ngôn ngữ nói. Cách dùng tương tự có 「〜くせして」; và 「そのくせ」 (mà lại, thế mà) dùng để nối câu.",
+      "examples": [
+        {"ja": "石田さんは次の日にテストがあることを知っていたくせに、教えてくれなかった。", "vi": "Anh Ishida biết trước ngày mai có kiểm tra mà lại không chịu bảo cho tôi."},
+        {"ja": "母は歌が下手なくせに、マイクを持つと放さない。", "vi": "Mẹ hát dở mà cứ cầm micro vào là không buông."},
+        {"ja": "最近の若者は体は大きいくせに、体力はないようだ。", "vi": "Gần đây giới trẻ thân hình to lớn mà dường như lại không có sức bền."},
+        {"ja": "「子どものくせして（／何も知らないくせに）偉そうなことを言うな」", "vi": "\"Trẻ con mà lại (／có biết gì đâu mà lại) nói năng giả tạo quan trọng thế.\""},
+        {"ja": "松井さんは、自分は何もしない。そのくせ人のすることには文句を言う。", "vi": "Anh Matsui thì bản thân chẳng làm gì cả. Thế mà lại chê bai việc người khác làm."}
+      ]
+    },
+    {
+      "no": 106,
+      "pattern": "〜てみせる",
+      "stars": 2,
+      "senses": ["làm ra, làm cho (ai) xem", "quyết làm bằng được (thể hiện ý chí mạnh của người nói)"],
+      "connection": "Động từ ở thể TE + みせる",
+      "vi": "làm cho... xem; nhất định sẽ làm ra... (thể hiện ý chí mạnh mẽ)",
+      "explanation": "Ý ①: vì đối phương, thực sự thực hiện hành vi đó trước mặt họ để họ xem/hiểu. Ý ②: thể hiện quyết tâm, ý chí mạnh mẽ của người nói rằng nhất định sẽ làm được việc đó.",
+      "examples": [
+        {"ja": "言葉で説明するのが難しいことでも、実際にやってみせればすぐにわかる。", "vi": "Dù là việc khó giải thích bằng lời, nhưng nếu thực hành làm cho xem thì ngay lập tức sẽ hiểu."},
+        {"ja": "子どもが不安そうだったので、母親は「大丈夫よ」と言うように、うなずいてみせた。", "vi": "Vì đứa trẻ trông có vẻ bất an nên người mẹ gật đầu như nói \"Không sao đâu\" để trấn an."},
+        {"ja": "「ほんとにそんなこと、できるのか」「できるよ」「じゃ、やってみせろよ」", "vi": "\"Thật sự làm được việc đó à?\" \"Làm được chứ.\" \"Vậy thì làm ra xem thử đi.\""},
+        {"ja": "今度こそ、ぜったい勝ってみせる。", "vi": "Lần này nhất định tôi sẽ thắng bằng được."},
+        {"ja": "今年はダメだったけど、来年は必ず合格してみせる。", "vi": "Năm nay là trượt rồi, nhưng năm sau nhất định tôi sẽ đậu bằng được."}
+      ]
+    },
+    {
+      "no": 107,
+      "pattern": "〜をきっかけに／にして／として",
+      "stars": 2,
+      "senses": ["lấy... làm cơ hội/bước ngoặt để..., kể từ..."],
+      "connection": "Danh từ + をきっかけに／にして／として",
+      "vi": "nhân cơ hội..., lấy... làm bước ngoặt để (chuyển biến, phát triển)",
+      "explanation": "Lấy một sự việc, biến cố cụ thể làm cơ hội hoặc bước ngoặt, từ đó sự việc mới xảy ra, biến đổi hoặc phát triển. 「をきっかけに」 là cách nói thông dụng nhất; 「をきっかけにして」「をきっかけとして」 nhấn mạnh hơn, hay dùng trong văn viết.",
+      "examples": [
+        {"ja": "大学入学をきっかけに、一人暮らしを始めた。", "vi": "Nhân dịp vào đại học, tôi bắt đầu sống một mình."},
+        {"ja": "留学をきっかけに、自国の文化について考えるようになった。", "vi": "Từ dịp du học, tôi trở nên suy nghĩ về văn hóa nước mình."},
+        {"ja": "大統領の来日をきっかけにして、日本人の米国に対する関心が深まった。", "vi": "Lấy chuyến Tổng thống sang thăm Nhật làm bước ngoặt, sự quan tâm của người Nhật đối với nước Mỹ ngày càng sâu sắc."},
+        {"ja": "ちょっとした事件をきっかけとして、やがて死者が出る暴動へと発展した。", "vi": "Lấy một vụ việc nhỏ làm bước ngoặt, rồi nó dần phát triển thành bạo loạn có người chết."}
+      ]
+    },
+    {
+      "no": 108,
+      "pattern": "〜とする（〜としたら／すれば／すると・〜としても）",
+      "stars": 2,
+      "senses": ["giả định là..., coi như là...", "nếu giả định là..., trong trường hợp là...", "kể cả khi giả định là..., cho dù coi như..."],
+      "connection": "【Danh từ・Động từ・Tính từ い・Tính từ な】ở thể thường + とする（としたら／すれば／すると・としても）",
+      "vi": "giả sử..., coi như...; nếu như giả định...; dù cho coi như là...",
+      "explanation": "Ý 1 「〜とする」: tạm giả định một việc chưa phải là thực tế để nói hoặc xử lý coi như là vậy. Ý 2 「〜としたら／すれば／すると」: nếu đặt giả định đó thì, trong trường hợp đó thì — vế sau là phán đoán hay câu hỏi về kết quả. Ý 3 「〜としても」: kể cả khi thừa nhận giả định đó đi nữa thì... (vế sau thường là kết quả không thay đổi).",
+      "examples": [
+        {"ja": "太陽を直径1メートルの球だとします。すると地球は9ミリくらいです。", "vi": "Giả sử Mặt Trời là một quả cầu có đường kính 1 mét. Thì Trái Đất khoảng 9 mm."},
+        {"ja": "「お見舞いに行くとしたら何時ごろがいいだろうか」", "vi": "\"Nếu đi thăm bệnh thì khoảng mấy giờ là tiện nhỉ?\""},
+        {"ja": "A＝B、B＝Cとすると、A＝Cである。", "vi": "Nếu coi A＝B, B＝C thì A＝C."},
+        {"ja": "あの工場の廃水が病気の原因だとすれば、当然補償問題が出てくるだろう。", "vi": "Nếu nước thải của nhà máy đó là nguyên nhân gây bệnh thì đương nhiên vấn đề bồi thường sẽ nảy sinh chứ."},
+        {"ja": "彼が犯人でないとしたら、だれが盗んだのだろう。", "vi": "Nếu anh ta không phải là hung thủ thì kẻ nào đã ăn trộm nhỉ?"},
+        {"ja": "成績優秀な佐藤さんにも難しいとすれば、私になどわかるわけがない。", "vi": "Nếu đến cả anh Sato học giỏi còn thấy khó thì chẳng có lý do gì tôi lại hiểu được."},
+        {"ja": "「休日は無理だとすると、平日の夜に集まるしかありませんね」", "vi": "\"Nếu ngày nghỉ là không được thì chỉ còn cách tụ họp vào buổi tối ngày thường nhỉ.\""},
+        {"ja": "チャレンジ精神こそ大切だ。もし失敗したとしても、後悔はしないぞ。", "vi": "Điều quý giá chính là tinh thần thử thách. Dù có thất bại đi nữa, ta cũng sẽ không hối hận."},
+        {"ja": "彼は苦しんでいたとしてもそれを顔には出さなかったので、私にはわからなかった。", "vi": "Dù có thể anh ấy đang khổ sở nhưng anh không để lộ ra trên mặt nên tôi đã không nhận ra."},
+        {"ja": "たとえ可能性は低いとしても、やってみる価値はある。", "vi": "Dù khả năng là thấp đi nữa thì cũng đáng để thử."},
+        {"ja": "その試合を見に行くのは無理だと思う。行けたとしても、試合開始には間に合わないだろう。", "vi": "Tôi nghĩ đi xem trận đấu đó là vô lý. Dù có đi được đi nữa thì chắc cũng không kịp giờ bắt đầu trận."}
+      ]
+    },
+    {
+      "no": 109,
+      "pattern": "〜際に／際（には）",
+      "stars": 2,
+      "senses": ["vào lúc..., trong dịp... (hành động, tình huống cụ thể)"],
+      "connection": "Danh từ + の／Động từ ở thể từ điển hoặc thể TA + 際に／際（には）",
+      "vi": "vào lúc..., nhân lúc..., trong dịp...",
+      "explanation": "Chỉ thời điểm hoặc dịp cụ thể diễn ra một hành động hay tình huống, trang trọng hơn 「〜とき」. Thường dùng trong các tình huống chính thức, thông báo, hướng dẫn. 「この際」 (nhân dịp này) là một cách dùng đã thành ngữ, mang nghĩa \"nhân cơ hội này, quyết đoán mà...\".",
+      "examples": [
+        {"ja": "「お降りの際は足元にご注意ください」（乗り物内のアナウンス）", "vi": "\"Khi xuống xe, xin hãy chú ý dưới chân.\" (thông báo trong phương tiện)"},
+        {"ja": "「外国人登録をする際に必要な書類を教えてください」", "vi": "\"Xin hãy cho tôi biết những giấy tờ cần thiết khi làm đăng ký người nước ngoài.\""},
+        {"ja": "「今度日本へいらっしゃった際には、ぜひ我が家にお泊りください」", "vi": "\"Khi quý vị sang Nhật lần này, nhất định hãy ở lại nhà tôi.\""},
+        {"ja": "きょうは安売りしている。この際だから、まとめて1ダース買っておこう。（＝いい機会だから思い切って）", "vi": "Hôm nay đang hạ giá. Nhân dịp này, cứ mua gộp một tá cho rồi. (＝vì là cơ hội tốt nên quyết đoán mà làm)"}
+      ]
+    },
+    {
+      "no": 110,
+      "pattern": "〜おそれがある",
+      "stars": 2,
+      "senses": ["có nguy cơ...; có khả năng xảy ra điều xấu..., e rằng..."],
+      "connection": "【Danh từ・Động từ】ở dạng bổ nghĩa danh từ + おそれがある",
+      "vi": "có nguy cơ..., có lo ngại rằng... (nên rất lo lắng)",
+      "explanation": "Diễn tả rằng có khả năng xảy ra một sự việc xấu, nguy hiểm, và vì thế mà lo lắng. Chủ yếu dùng trong văn viết, tin tức, thông báo, báo cáo. Không dùng cho những việc tốt. Dạng phủ định: 「〜おそれはない」 (không có nguy cơ...).",
+      "examples": [
+        {"ja": "この薬は副作用のおそれがあるので注意しなければならない。", "vi": "Loại thuốc này có nguy cơ gây tác dụng phụ nên phải chú ý."},
+        {"ja": "出席率が悪いと、ビザの更新ができない恐れがある。", "vi": "Nếu tỉ lệ chuyên cần kém thì có nguy cơ không gia hạn được visa."},
+        {"ja": "風が強く、火事が広がる恐れがあったので、付近の住民は避難した。", "vi": "Vì gió mạnh, có nguy cơ hỏa hoạn lan rộng nên dân cư gần đó đã sơ tán."},
+        {"ja": "警察は、犯人はすでに国外へ逃亡した恐れがあると見ている。", "vi": "Cảnh sát nhận định rằng hung thủ đã có dấu hiệu bỏ trốn ra nước ngoài."},
+        {"ja": "「四国南部で地震が発生しました。しかし、津波の恐れはありません」", "vi": "\"Đã xảy ra động đất ở phía nam Shikoku. Tuy nhiên, không có nguy cơ sóng thần.\""}
+      ]
+    }
+  ]
+}

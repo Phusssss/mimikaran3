@@ -1,0 +1,801 @@
+{
+  "pdf_pages": "149-158",
+  "words": [
+    {
+      "no": 676,
+      "kanji": "影響する",
+      "kana": "えいきょうする",
+      "en": "influence",
+      "kr": "영향",
+      "vi": "ảnh hưởng",
+      "senses": [],
+      "examples": [
+        {"ja": "両親の影響で、私も子どものころから絵を描き始めた。", "vi": "Nhờ ảnh hưởng của bố mẹ, tôi cũng bắt đầu vẽ từ thuở nhỏ."},
+        {"ja": "アメリカの経済は世界に影響を与えた。", "vi": "Nền kinh tế Mỹ đã ảnh hưởng đến thế giới."},
+        {"ja": "親の考え方は子どもに影響する。", "vi": "Cách nghĩ của cha mẹ ảnh hưởng đến con cái."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_を与える⇔受ける、_を受ける、_が出る"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 677,
+      "kanji": "効果",
+      "kana": "こうか",
+      "en": "effect",
+      "kr": "효과",
+      "vi": "hiệu quả",
+      "senses": [],
+      "examples": [
+        {"ja": "この薬を飲んだら、すぐに効果が出た。", "vi": "Uống thuốc này thì có hiệu quả ngay."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_が出る、_が現れる、_をあげる、_が高い"},
+        {"type": "合", "text": "_的"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 678,
+      "kanji": "印象",
+      "kana": "いんしょう",
+      "en": "impression",
+      "kr": "인상",
+      "vi": "ấn tượng",
+      "senses": [],
+      "examples": [
+        {"ja": "彼女と初めて会ったとき、優しそうな人だという印象を受けた。", "vi": "Khi lần đầu gặp cô ấy, tôi có ấn tượng rằng đó là người dịu dàng."},
+        {"ja": "彼は昔、よく先生に怒られていたという印象がある。", "vi": "Tôi có ấn tượng rằng hồi xưa cậu ấy hay bị thầy cô giận."}
+      ],
+      "related": [
+        {"type": "連", "text": "_に強い／～そうな …、_を与える⇔受ける、_に残る"},
+        {"type": "合", "text": "_的"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 679,
+      "kanji": "印",
+      "kana": "しるし",
+      "en": "mark, sign, pledge",
+      "kr": "표, 징표",
+      "vi": "dấu hiệu, biểu tượng",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "地図の目的地にしるしをつける。", "vi": "Đánh dấu vào điểm đến trên bản đồ."},
+        {"ja": "「〒」は郵便局のしるしだ。", "vi": "\"〒\" là dấu hiệu của bưu điện."},
+        {"ja": "ハトは平和のしるしだ。", "vi": "Chim bồ câu là biểu tượng của hòa bình."},
+        {"ja": "愛のしるしに恋人に指輪を贈る。", "vi": "Tặng người yêu chiếc nhẫn làm chứng tình yêu."}
+      ],
+      "related": [
+        {"type": "連", "text": "_をつける"},
+        {"type": "合", "text": "目印"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 680,
+      "kanji": "合図( ラスル)",
+      "kana": "あいず(する)",
+      "en": "signal",
+      "kr": "신호",
+      "vi": "tín hiệu; ra hiệu",
+      "senses": [],
+      "examples": [
+        {"ja": "友だちに目で合図する／合図を送る。", "vi": "Ra hiệu cho bạn bằng mắt / gửi tín hiệu."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を送る"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 681,
+      "kanji": "共通する",
+      "kana": "きょうつうする",
+      "en": "common, shared",
+      "kr": "공통",
+      "vi": "chung, giống nhau",
+      "senses": [],
+      "examples": [
+        {"ja": "二人の共通の趣味は音楽だ。", "vi": "Sở thích chung của hai người là âm nhạc."},
+        {"ja": "横浜と神戸の共通点は、大きな港があることだ。", "vi": "Điểm chung của Yokohama và Kobe là có cảng lớn."},
+        {"ja": "少子高齢化は先進国に共通する問題だ。", "vi": "Già hóa dân số do tỉ suất sinh thấp là vấn đề chung của các nước phát triển."}
+      ],
+      "related": [
+        {"type": "合", "text": "_点"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 682,
+      "kanji": "ラ強調スル",
+      "kana": "きょうちょうする",
+      "en": "emphasis",
+      "kr": "강조",
+      "vi": "nhấn mạnh",
+      "senses": [],
+      "examples": [
+        {"ja": "大事な点を強調して説明する。", "vi": "Nhấn mạnh những điểm quan trọng khi giải thích."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 683,
+      "kanji": "ラ省略スル",
+      "kana": "しょうりゃくする",
+      "en": "abbreviation, omission",
+      "kr": "생략",
+      "vi": "lược bỏ, bỏ qua",
+      "senses": [],
+      "examples": [
+        {"ja": "くわしい説明を省略して簡単に話す。", "vi": "Lược bỏ lời giải thích chi tiết và nói ngắn gọn."}
+      ],
+      "related": [
+        {"type": "関", "text": "ラ省く"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 684,
+      "kanji": "挑戦する",
+      "kana": "ちょうせんする",
+      "en": "challenge",
+      "kr": "도전",
+      "vi": "thách thức, thử thách",
+      "senses": [],
+      "examples": [
+        {"ja": "難しい課題／チャンピオン …に挑戦する。", "vi": "Thách thức đề tài khó, nhà vô địch…"},
+        {"ja": "世界記録への挑戦。", "vi": "Thử thách hướng đến kỷ lục thế giới."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 685,
+      "kanji": "やる気",
+      "kana": "やるき",
+      "en": "motivation, willingness",
+      "kr": "할 의욕",
+      "vi": "động lực, ý chí",
+      "senses": [],
+      "examples": [
+        {"ja": "やる気のある人", "vi": "Người có động lực."},
+        {"ja": "ほめられてやる気になる。", "vi": "Được khen nên có động lực."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_が出る・を出す、_になる、_がなくなる・_をなくす"},
+        {"type": "関", "text": "意欲"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 686,
+      "kanji": "勇気",
+      "kana": "ゆうき",
+      "en": "courage",
+      "kr": "용기",
+      "vi": "lòng dũng cảm",
+      "senses": [],
+      "examples": [
+        {"ja": "困難に立ち向かう勇気", "vi": "Lòng dũng cảm đối mặt với khó khăn."},
+        {"ja": "勇気を出してプロポーズする。", "vi": "Lấy hết can đảm để cầu hôn."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_が出る・を出す"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 687,
+      "kanji": "資格",
+      "kana": "しかく",
+      "en": "qualification; being worthy",
+      "kr": "자격",
+      "vi": "tư cách, bằng cấp",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "介護士の資格を取る。", "vi": "Lấy chứng chỉ điều dưỡng."},
+        {"ja": "彼女は奨学金をもらう資格が十分ある。", "vi": "Cô ấy đủ tư cách để nhận học bổng."},
+        {"ja": "「あなたも同じことをしたのだから、あなたに彼を悪く言う資格はない」", "vi": "\"Bạn cũng đã làm điều tương tự nên không có tư cách nói xấu anh ấy.\""}
+      ],
+      "related": [
+        {"type": "連", "text": "①_を取る、_を与える"},
+        {"type": "合", "text": "_試験"},
+        {"type": "連", "text": "②③_がある⇔ない"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 688,
+      "kanji": "ラ申請( ラスル)",
+      "kana": "しんせい(する)",
+      "en": "application",
+      "kr": "신청",
+      "vi": "xin, nộp đơn",
+      "senses": [],
+      "examples": [
+        {"ja": "パスポートの申請・大使館でビザを申請する。", "vi": "Xin hộ chiếu; làm thủ tục xin visa tại đại sứ quán."}
+      ],
+      "related": [
+        {"type": "合", "text": "_書類、_書"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 689,
+      "kanji": "本人",
+      "kana": "ほんにん",
+      "en": "the person in question, the said person",
+      "kr": "본인",
+      "vi": "bản thân người đó",
+      "senses": [],
+      "examples": [
+        {"ja": "通帳は貯金をする本人が作らなければならない。", "vi": "Sổ tiết kiệm thì chính bản thân người gửi tiền phải làm."}
+      ],
+      "related": [
+        {"type": "合", "text": "_確認、[名詞] 者＋本人 （例、申し込み者本人）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 690,
+      "kanji": "ラ契約( ラスル)",
+      "kana": "けいやく(する)",
+      "en": "contract",
+      "kr": "계약",
+      "vi": "hợp đồng; ký hợp đồng",
+      "senses": [],
+      "examples": [
+        {"ja": "アパートを２年間借りる契約をした。", "vi": "Đã ký hợp đồng thuê căn hộ 2 năm."},
+        {"ja": "わが社は今度、Ａ社と契約を結ぶことになった。", "vi": "Công ty chúng tôi lần này đã quyết định ký hợp đồng với công ty A."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を結ぶ、_を[取り消す／キャンセルする]、_が切れる、_に違反する"},
+        {"type": "合", "text": "_書"},
+        {"type": "関", "text": "ラ約束する"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 691,
+      "kanji": "ラ証明( ラスル)",
+      "kana": "しょうめい(する)",
+      "en": "evidence",
+      "kr": "증명",
+      "vi": "chứng minh, bằng chứng",
+      "senses": [],
+      "examples": [
+        {"ja": "銀行口座を開くときには、身分を証明するものが必要だ。", "vi": "Khi mở tài khoản ngân hàng cần giấy tờ chứng minh thân phận."},
+        {"ja": "無実を証明する。", "vi": "Chứng minh sự vô tội."}
+      ],
+      "related": [
+        {"type": "合", "text": "_書、身分_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 692,
+      "kanji": "ラ変更( ラスル)",
+      "kana": "へんこう(する)",
+      "en": "change",
+      "kr": "변경",
+      "vi": "thay đổi",
+      "senses": [],
+      "examples": [
+        {"ja": "「予定、計画、進路 …」の変更を行う。", "vi": "Thực hiện việc thay đổi (kế hoạch, lộ trình…)."},
+        {"ja": "旅行先を沖縄から北海道に変更する。", "vi": "Thay đổi điểm du lịch từ Okinawa sang Hokkaido."}
+      ],
+      "related": [
+        {"type": "合", "text": "予定_、進路_"},
+        {"type": "類", "text": "ラ変える"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 693,
+      "kanji": "ラ保存( ラスル)",
+      "kana": "ほぞん(する)",
+      "en": "preservation",
+      "kr": "보존",
+      "vi": "bảo quản, lưu trữ",
+      "senses": [],
+      "examples": [
+        {"ja": "食料の保存・パソコンにデータを保存する。", "vi": "Bảo quản thực phẩm; lưu dữ liệu vào máy tính."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がきく"},
+        {"type": "合", "text": "冷凍_、_食"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 694,
+      "kanji": "ラ保護( ラスル)",
+      "kana": "ほご(する)",
+      "en": "conservation, protection; guardianship; (social) security",
+      "kr": "보호",
+      "vi": "bảo vệ, bảo hộ",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "自然を保護する。", "vi": "Bảo vệ tự nhiên."},
+        {"ja": "プライバシーの保護", "vi": "Bảo vệ quyền riêng tư."},
+        {"ja": "迷い子の保護・警察に保護される。", "vi": "Bảo vệ trẻ lạc đường; được cảnh sát bảo vệ."},
+        {"ja": "病気で働けないので、生活保護を受けている。", "vi": "Vì bệnh không làm việc được nên đang nhận trợ cấp sinh hoạt."}
+      ],
+      "related": [
+        {"type": "合", "text": "①自然_、動物_、環境_、_者、過_"},
+        {"type": "連", "text": "_を受ける"},
+        {"type": "合", "text": "生活_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 695,
+      "kanji": "環境",
+      "kana": "かんきょう",
+      "en": "environment",
+      "kr": "환경",
+      "vi": "môi trường",
+      "senses": [],
+      "examples": [
+        {"ja": "都心より、環境のいい郊外に住みたい。", "vi": "Muốn sống ở ngoại ô có môi trường tốt hơn là ở trung tâm thành phố."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を守る"},
+        {"type": "合", "text": "自然_、_問題、_保護"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 696,
+      "kanji": "資源",
+      "kana": "しげん",
+      "en": "resources",
+      "kr": "자원",
+      "vi": "tài nguyên",
+      "senses": [],
+      "examples": [
+        {"ja": "資源を有効に利用する。", "vi": "Sử dụng tài nguyên một cách hiệu quả."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が[豊かだ／豊富だ] ⇔乏しい"},
+        {"type": "合", "text": "天然_、地下_"},
+        {"type": "関", "text": "石油、石炭"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 697,
+      "kanji": "ラ不足スル",
+      "kana": "ふそくする",
+      "en": "shortage",
+      "kr": "부족",
+      "vi": "thiếu, không đủ",
+      "senses": [],
+      "examples": [
+        {"ja": "野菜が不足した食事・戦争で食料が不足する。", "vi": "Bữa ăn thiếu rau; chiến tranh khiến lương thực thiếu thốn."}
+      ],
+      "related": [
+        {"type": "合", "text": "運動_、寝_、睡眠_、経験_ （〇〇ふそく）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 698,
+      "kanji": "ラ平均スル",
+      "kana": "へいきんする",
+      "en": "average; unvaried",
+      "kr": "평균",
+      "vi": "trung bình; đều",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "テストの点を平均する。", "vi": "Tính điểm trung bình các bài kiểm tra."},
+        {"ja": "１日に平均 1800 キロカロリーの食事をとる。", "vi": "Một ngày ăn uống trung bình 1800 kilocalo."},
+        {"ja": "商品の質が平均している。", "vi": "Chất lượng hàng hóa đồng đều."}
+      ],
+      "related": [
+        {"type": "合", "text": "①_点、_寿命、平均＋[数量]、[数量]＋平均"},
+        {"type": "合", "text": "②_的な （例、私は平均的なサラリーマンだと思う。）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 699,
+      "kanji": "割合",
+      "kana": "わりあい",
+      "en": "ratio; relatively",
+      "kr": "비율, 비교",
+      "vi": "tỉ lệ; tương đối",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "デパートの客は女性の割合が高い。", "vi": "Ở cửa hàng bách hóa, tỉ lệ khách nữ cao."},
+        {"ja": "年に 10％の割合で売り上げが伸びている。", "vi": "Doanh thu tăng với tỉ lệ 10% một năm."},
+        {"ja": "［（副）割合（に）］・試験は割合（に）簡単だった。", "vi": "(Phó từ \"割合(に)\") Kỳ thi khá dễ."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が大きい⇔小さい、_が高い⇔低い"},
+        {"type": "類", "text": "比率"},
+        {"type": "類", "text": "わりに、比較的"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 700,
+      "kanji": "ラ商売( ラスル)",
+      "kana": "しょうばい(する)",
+      "en": "business",
+      "kr": "장사",
+      "vi": "buôn bán, kinh doanh",
+      "senses": [],
+      "examples": [
+        {"ja": "父は衣料品の商売をしている。", "vi": "Bố tôi kinh doanh hàng may mặc."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 701,
+      "kanji": "商品",
+      "kana": "しょうひん",
+      "en": "product",
+      "kr": "상품",
+      "vi": "sản phẩm, hàng hóa",
+      "senses": [],
+      "examples": [
+        {"ja": "店に商品を並べる。", "vi": "Bày hàng hóa trong cửa hàng."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 702,
+      "kanji": "質",
+      "kana": "しつ",
+      "en": "quality",
+      "kr": "질",
+      "vi": "chất lượng",
+      "senses": [],
+      "examples": [
+        {"ja": "このメーカーの製品は質がいい。", "vi": "Sản phẩm của hãng này chất lượng tốt."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がいい⇔悪い、_が高い、_が上がる⇔下がる、_を上げる⇔下げる、_が落ちる"},
+        {"type": "対", "text": "量"},
+        {"type": "関", "text": "品質"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 703,
+      "kanji": "型",
+      "kana": "かた",
+      "en": "model",
+      "kr": "형, 모형",
+      "vi": "kiểu, mẫu",
+      "senses": [],
+      "examples": [
+        {"ja": "新しい型のパソコンを買った。", "vi": "Đã mua máy tính kiểu mới."}
+      ],
+      "related": [
+        {"type": "合", "text": "大_⇔小_、新_、薄_、髪_、血液_ （〇〇がた）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 704,
+      "kanji": "ラ生産( ラスル)",
+      "kana": "せいさん(する)",
+      "en": "production",
+      "kr": "생산",
+      "vi": "sản xuất",
+      "senses": [],
+      "examples": [
+        {"ja": "日本は農作物の生産が少ない。", "vi": "Nhật Bản sản xuất ít nông sản."},
+        {"ja": "工場でカメラを生産する。", "vi": "Sản xuất máy ảnh tại nhà máy."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_量、_高、大量_"},
+        {"type": "対", "text": "ラ消費( ラスル)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 705,
+      "kanji": "ラ消費( ラスル)",
+      "kana": "しょうひ(する)",
+      "en": "consumption",
+      "kr": "소비",
+      "vi": "tiêu thụ",
+      "senses": [],
+      "examples": [
+        {"ja": "牛乳の消費が減っている。", "vi": "Lượng tiêu thụ sữa đang giảm."},
+        {"ja": "運動してカロリーを消費する。", "vi": "Vận động để tiêu thụ calo."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_税、_量"},
+        {"type": "対", "text": "ラ生産( ラスル)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 706,
+      "kanji": "物価",
+      "kana": "ぶっか",
+      "en": "prices",
+      "kr": "물가",
+      "vi": "giá cả",
+      "senses": [],
+      "examples": [
+        {"ja": "東京は物価が高い。", "vi": "Tokyo giá cả đắt đỏ."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が高い⇔安い、_が上がる⇔下がる"},
+        {"type": "関", "text": "値上がりスル⇔値下がりスル"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 707,
+      "kanji": "ラ倒産スル",
+      "kana": "とうさんする",
+      "en": "bankruptcy",
+      "kr": "도산, 파산",
+      "vi": "phá sản",
+      "senses": [],
+      "examples": [
+        {"ja": "会社が倒産する。", "vi": "Công ty phá sản."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 708,
+      "kanji": "ラ携帯スル",
+      "kana": "けいたい(する)",
+      "en": "carrying",
+      "kr": "휴대",
+      "vi": "mang theo",
+      "senses": [],
+      "examples": [
+        {"ja": "外国人はいつも外国人登録証を携帯していなければならない。", "vi": "Người nước ngoài luôn phải mang theo giấy đăng ký người nước ngoài."},
+        {"ja": "私はたばこを吸うので、いつも携帯用灰皿を持ち歩いている。", "vi": "Vì hút thuốc nên tôi luôn mang theo gạt tắt bỏ túi."}
+      ],
+      "related": [
+        {"type": "合", "text": "_電話、_用"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 709,
+      "kanji": "現代",
+      "kana": "げんだい",
+      "en": "the present age",
+      "kr": "현대",
+      "vi": "hiện đại, thời nay",
+      "senses": [],
+      "examples": [
+        {"ja": "現代は情報の時代だと言われている。", "vi": "Người ta nói hiện nay là thời đại thông tin."}
+      ],
+      "related": [
+        {"type": "合", "text": "_人、_社会"},
+        {"type": "類", "text": "今日"},
+        {"type": "関", "text": "近代・中古・古代、現在"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 710,
+      "kanji": "世紀",
+      "kana": "せいき",
+      "en": "century",
+      "kr": "세기",
+      "vi": "thế kỷ",
+      "senses": [],
+      "examples": [
+        {"ja": "21世紀が始まった。", "vi": "Thế kỷ 21 đã bắt đầu."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 711,
+      "kanji": "文化",
+      "kana": "ぶんか",
+      "en": "culture",
+      "kr": "문화",
+      "vi": "văn hóa",
+      "senses": [],
+      "examples": [
+        {"ja": "日本（の）文化・文化が発達する。", "vi": "Văn hóa Nhật Bản; văn hóa phát triển."}
+      ],
+      "related": [
+        {"type": "合", "text": "_的、異_、_交流、_遺産"},
+        {"type": "関", "text": "文明"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 712,
+      "kanji": "都市",
+      "kana": "とし",
+      "en": "city",
+      "kr": "도시",
+      "vi": "đô thị",
+      "senses": [],
+      "examples": [
+        {"ja": "都市に人口が集中する。", "vi": "Dân cư tập trung vào đô thị."},
+        {"ja": "新しい都市を建設する。", "vi": "Xây dựng đô thị mới."}
+      ],
+      "related": [
+        {"type": "合", "text": "大_、_部、[工業／商業 …]"},
+        {"type": "類", "text": "都会（⇔いなか）"},
+        {"type": "関", "text": "都心"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 713,
+      "kanji": "地方",
+      "kana": "ちほう",
+      "en": "region; the provinces",
+      "kr": "지방",
+      "vi": "vùng, địa phương",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "雨が多い地方では、植物がよく育つ。", "vi": "Ở vùng mưa nhiều, cây cối tốt tươi."},
+        {"ja": "地方から都会へ出て働く。", "vi": "Rời vùng quê ra thành phố làm việc."}
+      ],
+      "related": [
+        {"type": "合", "text": "①[東北／関東／熱帯 …] ＋地方"},
+        {"type": "類", "text": "地域"},
+        {"type": "合", "text": "②_都市、_自治体"},
+        {"type": "対", "text": "中央"},
+        {"type": "類", "text": "いなか"},
+        {"type": "関", "text": "都会"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 714,
+      "kanji": "戦争( ラスル)",
+      "kana": "せんそう(する)",
+      "en": "war",
+      "kr": "전쟁",
+      "vi": "chiến tranh",
+      "senses": [],
+      "examples": [
+        {"ja": "Ａ国とＢ国の間で戦争が起きた。", "vi": "Chiến tranh nổ ra giữa nước A và nước B."},
+        {"ja": "戦争が終わって平和になった。", "vi": "Chiến tranh kết thúc và hòa bình trở lại."}
+      ],
+      "related": [
+        {"type": "合", "text": "受験_"},
+        {"type": "対", "text": "平和"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 715,
+      "kanji": "平和",
+      "kana": "へいわ",
+      "en": "peace",
+      "kr": "평화",
+      "vi": "hòa bình",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "世界の平和を守る。", "vi": "Bảo vệ hòa bình thế giới."},
+        {"ja": "争いを平和的に解決した", "vi": "Giải quyết mâu thuẫn một cách hòa bình."},
+        {"ja": "［（ナ形）平和な］・平和な家庭・平和に暮らす。", "vi": "(Tính từ na) Gia đình êm ấm; sống yên bình."}
+      ],
+      "related": [
+        {"type": "合", "text": "_運動、_的"},
+        {"type": "対", "text": "戦争"},
+        {"type": "類", "text": "穏やか"}
+      ],
+      "notes": ""
+    }
+  ],
+  "columns": [
+    {
+      "title": "郵便",
+      "book_page": 155,
+      "items": [
+        ["封筒", "ふうとう", "envelope /信封 /봉투", "phong bì"],
+        ["便せん", "びんせん", "stationery, writing paper /信笺，信纸 /편지지", "giấy viết thư"],
+        ["はがき", "はがき", "postcard /明信片 /엽서", "bưu thiếp"],
+        ["切手", "きって", "stamp /邮票 /우표", "tem thư"],
+        ["速達", "そくたつ", "special delivery, express delivery /快递，快信，快件 /속달", "chuyển phát nhanh"],
+        ["書留", "かきとめ", "registered mail /挂号（信） /등기우편", "bưu kiện có đăng ký"],
+        ["小包", "こづつみ", "parcel /包裹，邮包 /소포", "kiện hàng, bưu kiện"],
+        ["郵送（する）", "ゆうそう（する）", "mailing /寄，邮，寄送 /우송", "gửi qua bưu điện"],
+        ["郵送料", "ゆうそうりょう", "postage /邮费，运费 /우송료", "cước bưu điện"],
+        ["※船便", "ふなびん", "sea/surface mail /海运 /선박우송", "gửi đường biển"],
+        ["航空便", "こうくうびん", "air mail /空运 /항공우송", "gửi đường hàng không"],
+        ["※宅配便", "たくはいびん", "parcel delivery service /送货服务 /배달", "dịch vụ giao hàng tận nơi"],
+        ["送料", "そうりょう", "shipping fee /运费 /운임", "cước vận chuyển"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "Unit 09 名詞C 練習問題 I (I・II・III)",
+      "range": "636~675",
+      "book_page": 148,
+      "questions": [
+        {"no": "I", "text": "（　）に動詞を書きなさい。", "options": [], "answer": null},
+        {"no": "I-1", "text": "やっと作品（　）完成した。", "options": [], "answer": null},
+        {"no": "I-2", "text": "彼は上司（　）新商品の開発（　）提案した。", "options": [], "answer": null},
+        {"no": "I-3", "text": "私は外国の友人（　）手紙（　）やり取りしている。", "options": [], "answer": null},
+        {"no": "I-4", "text": "肉が変なにおいがしたので、買った店（　）文句（　）言った。", "options": [], "answer": null},
+        {"no": "I-5", "text": "［キャンセルはできませんが、事故・病気の場合は例外（　／　）します］", "options": [], "answer": null},
+        {"no": "II-A", "text": "「する」がつくことばに○をつけなさい。", "options": ["栄養", "演奏", "課題", "基本", "記録", "禁煙", "禁止", "芸術", "検査", "後悔", "誤解", "実力", "死亡", "手術", "手段", "状態", "態度", "代表", "治療", "読書", "表面", "予防", "例外", "礼儀"], "answer": null},
+        {"no": "II-B", "text": "上から「的」がつくことばを六つえらんで（　）に書きなさい。", "options": [], "answer": null},
+        {"no": "III-1", "text": "記録を［こわす／やる／わる］。", "options": ["こわす", "やる", "わる"], "answer": null},
+        {"no": "III-2", "text": "症状が［大きい／深い／重い］。", "options": ["大きい", "深い", "重い"], "answer": null},
+        {"no": "III-3", "text": "［大きい／深い／重い］わけがある。", "options": ["大きい", "深い", "重い"], "answer": null},
+        {"no": "III-4", "text": "駅まで距離が［ある／大きい／広い］。", "options": ["ある", "大きい", "広い"], "answer": null},
+        {"no": "III-5", "text": "適当な手段を［行う／する／とる］。", "options": ["行う", "する", "とる"], "answer": null},
+        {"no": "III-6", "text": "失礼な態度を［行う／する／とる］。", "options": ["行う", "する", "とる"], "answer": null}
+      ]
+    },
+    {
+      "type": "Unit 09 名詞C 練習問題 I (IV・V・VI)",
+      "range": "636~675",
+      "book_page": 149,
+      "questions": [
+        {"no": "IV-1", "text": "［栄養 記録 実力 礼儀 知識］がある。（3）", "options": ["栄養", "記録", "実力", "礼儀", "知識"], "answer": null},
+        {"no": "IV-2", "text": "［課題 検査 誤解 手術 治療］を与える。（2）", "options": ["課題", "検査", "誤解", "手術", "治療"], "answer": null},
+        {"no": "IV-3", "text": "［課題 検査 誤解 知識 治療］を受ける。（3）", "options": ["課題", "検査", "誤解", "知識", "治療"], "answer": null},
+        {"no": "IV-4", "text": "［栄養 実力 場面 文句 例外］をつける。（3）", "options": ["栄養", "実力", "場面", "文句", "例外"], "answer": null},
+        {"no": "IV-5", "text": "［栄養 記録 実力 状態 礼儀］をとる。（2）", "options": ["栄養", "記録", "実力", "状態", "礼儀"], "answer": null},
+        {"no": "IV-6", "text": "［基本 芸術 知識 表情 礼儀］がゆたかだ。（2）", "options": ["基本", "芸術", "知識", "表情", "礼儀"], "answer": null},
+        {"no": "V", "text": "（　）に下からえらんだ言葉を書いて、一つのことばにしなさい。1.栄養（　） 2.（　）距離 3.（　）記録 4.血液（　） 5.禁煙（　） 6.死亡（　） 7.（　）場面 8.礼儀（　）［語句枠: 望 近 状態 新 席 正しい 名 取］", "options": ["望", "近", "状態", "新", "席", "正しい", "名", "取"], "answer": null},
+        {"no": "VI", "text": "（　）に入ることばを下からえらんで書きなさい。（13問）［語句枠: いっしょう いのち かがい きほん きんし くせ けんさ こうかい こうかい じょうたい だいひょう できごと じゅみょう］", "options": ["いっしょう", "いのち", "かがい", "きほん", "きんし", "くせ", "けんさ", "こうかい", "こうかい", "じょうたい", "だいひょう", "できごと", "じゅみょう"], "answer": null}
+      ]
+    },
+    {
+      "type": "Unit 09 名詞C 練習問題 I (I・II・III)",
+      "range": "676~715",
+      "book_page": 156,
+      "questions": [
+        {"no": "I", "text": "（　）に動詞を書きなさい。", "options": [], "answer": null},
+        {"no": "I-1", "text": "水（　）不足している。", "options": [], "answer": null},
+        {"no": "I-2", "text": "これは全員（　）共通する問題だ。", "options": [], "answer": null},
+        {"no": "I-3", "text": "こちらから相手（　）合図した。", "options": [], "answer": null},
+        {"no": "I-4", "text": "引っ越してから電話会社（　）契約した。", "options": [], "answer": null},
+        {"no": "I-5", "text": "ちょっと難しい数学の問題（　）挑戦した。", "options": [], "answer": null},
+        {"no": "I-6", "text": "CD（　）音楽（　）保存した。", "options": [], "answer": null},
+        {"no": "I-7", "text": "大切な部分（　）しるし（　）つけた。", "options": [], "answer": null},
+        {"no": "I-8", "text": "試験が８日（　）９日（　）変更された。", "options": [], "answer": null},
+        {"no": "II-A", "text": "「する」がつくことばに○をつけなさい。", "options": ["影響", "印象", "環境", "強調", "携帯", "現代", "効果", "資格", "資源", "証明", "商売", "消費", "省略", "申請", "戦争", "地方", "倒産", "文化", "平均", "平和", "物価", "保護", "勇気"], "answer": null},
+        {"no": "II-B", "text": "上から「的」がつくことばを六つえらんで（　）に書きなさい。", "options": [], "answer": null},
+        {"no": "III-1", "text": "勇気を［引く／あげる／出す］。", "options": ["引く", "あげる", "出す"], "answer": null},
+        {"no": "III-2", "text": "資格を［とる／つかむ／つける］。", "options": ["とる", "つかむ", "つける"], "answer": null},
+        {"no": "III-3", "text": "契約を［つなぐ／むすぶ／かける］。", "options": ["つなぐ", "むすぶ", "かける"], "answer": null},
+        {"no": "III-4", "text": "影響を［やる／あげる／あたえる］。", "options": ["やる", "あげる", "あたえる"], "answer": null},
+        {"no": "III-5", "text": "印象を［もらう／受ける／ついられる］。", "options": ["もらう", "受ける", "ついられる"], "answer": null}
+      ]
+    },
+    {
+      "type": "Unit 09 名詞C 練習問題 I (IV・V・VI・VII)",
+      "range": "676~715",
+      "book_page": 157,
+      "questions": [
+        {"no": "IV", "text": "（　）に入ることばを下からえらんで書きなさい。1.質が（　）。2.やる気が（　）／（　）。3.物価が（　）／（　）。4.割合が（　）／（　）。5.影響が（　）／（　）／（　）。6.効果が（　）／（　）／（　）／（　）。［語句枠: 大きい 高い 安い ある 出る］", "options": ["大きい", "高い", "安い", "ある", "出る"], "answer": null},
+        {"no": "V", "text": "（　）に下からえらんだ言葉を書いて、一つのことばにしなさい。1.（　）型 2.（　）文化 3.（　）環境 4.（　）保護 5.（　）資源 6.生産（　） 7.消費（　） 8.質（　） 9.共通（　）［語句枠: 異 過 薄 税 高 点 自然 天然 不足］", "options": ["異", "過", "薄", "税", "高", "点", "自然", "天然", "不足"], "answer": null},
+        {"no": "VI", "text": "つぎのことばの対義語を書きなさい。1.質⇔（　） 2.平和⇔（　） 3.生産⇔（　）", "options": [], "answer": null},
+        {"no": "VII", "text": "（　）に入ることばを下からえらんで書きなさい。1.（　）は情報化が進んでいる。2.20年前、（　）から東京に出てきた。3.この手続きには（　）の写真が必要だ。4.（　）用の灰皿をいつも持ち歩いている。5.会社が（　）して、仕事を失ってしまった。6.21（　）は、平和な時代になるようにしたい。7.大事なところを（　）するために、大きな声で話した。8.父は背が長くならないよう、必要のない部分は（　）しました。9.子どものために、（　）のいい場所に家を建てて住みたい。［語句枠: かんきょう きょうちょう けいたい げんだい しょうりゃく せいき ちほう とうさん ほんにん］", "options": ["かんきょう", "きょうちょう", "けいたい", "げんだい", "しょうりゃく", "せいき", "ちほう", "とうさん", "ほんにん"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 149, "book_page": 148, "unit_title": "Unit 09 名詞C 636～675 練習問題 I (Step 3) — trang bài tập, không có từ vựng"},
+    {"pdf_page": 150, "book_page": 149, "unit_title": "Unit 09 名詞C 練習問題 I (IV・V・VI) — trang bài tập, không có từ vựng"},
+    {"pdf_page": 157, "book_page": 156, "unit_title": "Unit 09 名詞C 676～715 練習問題 I (Step 3) — trang bài tập, không có từ vựng"},
+    {"pdf_page": 158, "book_page": 157, "unit_title": "Unit 09 名詞C 練習問題 I (IV・V・VI・VII) — trang bài tập, không có từ vựng"}
+  ]
+}

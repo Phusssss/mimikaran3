@@ -1,0 +1,775 @@
+{
+  "pdf_pages": "109-118",
+  "words": [
+    {
+      "no": 511,
+      "kanji": "クラスメート",
+      "kana": "クラスメート",
+      "en": "classmate",
+      "kr": "반급우",
+      "vi": "bạn cùng lớp",
+      "senses": [],
+      "examples": [
+        {"ja": "クラスメートと仲よくする。", "vi": "Chơi hoà nhã với bạn cùng lớp."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 512,
+      "kanji": "グループ",
+      "kana": "グループ",
+      "en": "group",
+      "kr": "모임",
+      "vi": "nhóm, tổ",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "3人のグループで旅行をする。", "vi": "Đi du lịch theo nhóm 3 người."},
+        {"ja": "形容詞は、イ形容詞とナ形容詞の二つのグループに分かれる。", "vi": "Tính từ được chia thành hai nhóm: tính từ イ và tính từ ナ."}
+      ],
+      "related": [
+        {"type": "関", "text": "ペア"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 513,
+      "kanji": "チーム",
+      "kana": "チーム",
+      "en": "team",
+      "kr": "팀",
+      "vi": "đội, nhóm",
+      "senses": [],
+      "examples": [
+        {"ja": "私たちのチームが勝った。", "vi": "Đội của chúng tôi đã thắng."},
+        {"ja": "チームを組んで調査する。", "vi": "Lập nhóm để điều tra."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を組む"},
+        {"type": "合", "text": "__プレー、__ワーク、__メート、野球／サッカー …｜+チーム"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 514,
+      "kanji": "プロフェッショナル＞プロ",
+      "kana": "プロフェッショナル",
+      "en": "professional",
+      "kr": "프로",
+      "vi": "chuyên nghiệp",
+      "senses": [],
+      "examples": [
+        {"ja": "プロのサッカー選手になりたい。", "vi": "Tôi muốn trở thành cầu thủ bóng đá chuyên nghiệp."},
+        {"ja": "彼女の料理はプロ並みだ。", "vi": "Nấu ăn của cô ấy đạt trình độ chuyên nghiệp."}
+      ],
+      "related": [
+        {"type": "合", "text": "プロ＋野球／レスリング …"},
+        {"type": "対", "text": "アマ（チュア）"},
+        {"type": "類", "text": "くろうと"}
+      ],
+      "notes": "viết tắt: プロ"
+    },
+    {
+      "no": 515,
+      "kanji": "アマチュア＞アマ",
+      "kana": "アマチュア",
+      "en": "amateur",
+      "kr": "아마, 아마추어",
+      "vi": "nghiệp dư, người không chuyên",
+      "senses": [],
+      "examples": [
+        {"ja": "この絵はアマチュアの作品とは思えないほどすばらしい。", "vi": "Bức tranh này tuyệt đến mức không thể tin là tác phẩm của người nghiệp dư."}
+      ],
+      "related": [
+        {"type": "合", "text": "アマチュア＋野球／写真家 …"},
+        {"type": "対", "text": "プロ（フェッショナル）"},
+        {"type": "類", "text": "しろうと"}
+      ],
+      "notes": "viết tắt: アマ"
+    },
+    {
+      "no": 516,
+      "kanji": "トレーニング",
+      "kana": "トレーニング(ラ)スル",
+      "en": "training",
+      "kr": "트레이닝, 훈련",
+      "vi": "việc rèn luyện, huấn luyện",
+      "senses": [],
+      "examples": [
+        {"ja": "勝つためには毎日のトレーニングが必要だ。", "vi": "Muốn thắng cuộc thì cần rèn luyện hằng ngày."}
+      ],
+      "related": [
+        {"type": "類", "text": "練習(ラ)スル、訓練(ラ)スル"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 517,
+      "kanji": "マッサージ",
+      "kana": "マッサージ(ラ)スル",
+      "en": "massage",
+      "kr": "마사지",
+      "vi": "sự xoa bóp, mát-xa",
+      "senses": [],
+      "examples": [
+        {"ja": "頭をマッサージしてもらうと気持ちがいい。", "vi": "Được xoa bóp đầu thì rất dễ chịu."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 518,
+      "kanji": "アドバイス",
+      "kana": "アドバイス(ラ)スル",
+      "en": "advice",
+      "kr": "어드바이스, 조언",
+      "vi": "lời khuyên",
+      "senses": [],
+      "examples": [
+        {"ja": "後輩に仕事のやり方についてアドバイスをする。", "vi": "Tôi khuyên người đi sau về cách làm việc."},
+        {"ja": "「何かアドバイスをいただけませんか」", "vi": "Không biết anh/chị có thể cho tôi một lời khuyên nào không?"}
+      ],
+      "related": [
+        {"type": "連", "text": "__を与える、に/から__をもらう、に/から__を受ける"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 519,
+      "kanji": "アイデア／アイディア",
+      "kana": "アイデア／アイディア",
+      "en": "idea",
+      "kr": "아이디어",
+      "vi": "ý tưởng",
+      "senses": [],
+      "examples": [
+        {"ja": "いいアイデアが浮かんだ。", "vi": "Một ý tưởng hay đã nảy ra."}
+      ],
+      "related": [
+        {"type": "連", "text": "__が浮かぶ、__を思いつく"},
+        {"type": "合", "text": "グッド__"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 520,
+      "kanji": "トップ",
+      "kana": "トップ",
+      "en": "top; first",
+      "kr": "최고(봉), 일등",
+      "vi": "đứng đầu, hàng đầu; đầu tiên",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "彼はクラスでトップの成績だ。", "vi": "Cậu ấy có thành tích đứng đầu lớp."},
+        {"ja": "日本の科学技術は、世界のトップレベルにある。", "vi": "Khoa học kỹ thuật của Nhật Bản ở trình độ hàng đầu thế giới."},
+        {"ja": "高橋選手がトップでゴールした。", "vi": "Vận động viên Takahashi đã về đích đầu tiên."},
+        {"ja": "「これからスピーチコンテストを始めます。トップは中国のチンさんです」", "vi": "Bây giờ chúng ta bắt đầu cuộc thi phát biểu. Người đứng đầu là chị Tin người Trung Quốc."},
+        {"ja": "新聞のトップを見る。", "vi": "Xem phần tin nổi bật ở đầu báo."}
+      ],
+      "related": [
+        {"type": "合", "text": "__クラス、__レベル"},
+        {"type": "類", "text": "1位、首位、先頭"},
+        {"type": "合", "text": "__バッター、__ニュース"},
+        {"type": "類", "text": "最初、一番"}
+      ],
+      "notes": "①hàng đầu ②đầu tiên/trang đầu"
+    },
+    {
+      "no": 521,
+      "kanji": "スピード",
+      "kana": "スピード",
+      "en": "speed",
+      "kr": "스피드, 속도",
+      "vi": "tốc độ",
+      "senses": [],
+      "examples": [
+        {"ja": "「運転手さん、もう少しスピードを上げてください」", "vi": "Anh lái xe ơi, làm ơn tăng tốc độ lên một chút."},
+        {"ja": "先生の話すスピードが速すぎて理解できない。", "vi": "Tốc độ nói của thầy quá nhanh nên tôi không hiểu được."}
+      ],
+      "related": [
+        {"type": "連", "text": "__が速い／遅い、__が出る・__を出す、__を上げる／落とす"},
+        {"type": "合", "text": "__違反、__アップ、__オーバー"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 522,
+      "kanji": "ラッシュ",
+      "kana": "ラッシュ",
+      "en": "rush, rush hour",
+      "kr": "혼잡",
+      "vi": "giờ cao điểm, tình trạng đông đúc",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "年末年始は、帰省ラッシュでチケットがとりにくい。", "vi": "Dịp cuối năm đầu năm, do cao điểm về quê nên khó mua vé."},
+        {"ja": "ラッシュ（＝ラッシュアワー）の時間帯に電車に乗るのは大変だ。", "vi": "Lên tàu vào giờ cao điểm thì rất vất vả."}
+      ],
+      "related": [
+        {"type": "合", "text": "帰省__"},
+        {"type": "合", "text": "通勤__、通学__"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 523,
+      "kanji": "バイク",
+      "kana": "バイク",
+      "en": "motorcycle",
+      "kr": "오토바이",
+      "vi": "xe máy",
+      "senses": [],
+      "examples": [],
+      "related": [
+        {"type": "類", "text": "オートバイ、原付（原動機付き自転車）"},
+        {"type": "関", "text": "自転車"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 524,
+      "kanji": "ヘルメット",
+      "kana": "ヘルメット",
+      "en": "helmet",
+      "kr": "헬멧",
+      "vi": "mũ bảo hiểm",
+      "senses": [],
+      "examples": [
+        {"ja": "バイクに乗るときは、ヘルメットをかぶる。", "vi": "Khi đi xe máy thì đội mũ bảo hiểm."}
+      ],
+      "related": [
+        {"type": "連", "text": "__をかぶる／ぬぐ、__をとる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 525,
+      "kanji": "コンタクトレンズ＞コンタクト",
+      "kana": "コンタクトレンズ",
+      "en": "contact lens",
+      "kr": "콘택트렌즈",
+      "vi": "kính áp tròng",
+      "senses": [],
+      "examples": [],
+      "related": [
+        {"type": "連", "text": "__をする／入れる／はめる／つける ⇔ はずす／とる"},
+        {"type": "関", "text": "めがね"}
+      ],
+      "notes": "viết tắt: コンタクト"
+    },
+    {
+      "no": 526,
+      "kanji": "ガラス",
+      "kana": "ガラス",
+      "en": "glass, pane",
+      "kr": "유리",
+      "vi": "kính (thủy tinh)",
+      "senses": [],
+      "examples": [
+        {"ja": "ボールをぶつけて窓ガラスを割ってしまった。", "vi": "Đã làm vỡ kính cửa sổ vì quả bóng va vào."}
+      ],
+      "related": [
+        {"type": "合", "text": "窓__"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 527,
+      "kanji": "プラスチック",
+      "kana": "プラスチック",
+      "en": "plastic",
+      "kr": "플라스틱",
+      "vi": "chất liệu nhựa",
+      "senses": [],
+      "examples": [
+        {"ja": "「プラスチック製品は生ごみの中に入れないでください」", "vi": "Xin đừng bỏ đồ nhựa vào thùng rác hữu cơ."}
+      ],
+      "related": [
+        {"type": "合", "text": "__製品"},
+        {"type": "関", "text": "ビニール、ビニール袋、ポリエチレン、ポリ袋"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 528,
+      "kanji": "ベランダ",
+      "kana": "ベランダ",
+      "en": "balcony",
+      "kr": "베란다",
+      "vi": "ban công",
+      "senses": [],
+      "examples": [
+        {"ja": "ベランダに洗たく物を干す。", "vi": "Phơi đồ giặt ở ban công."}
+      ],
+      "related": [
+        {"type": "類", "text": "バルコニー"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 529,
+      "kanji": "ペット",
+      "kana": "ペット",
+      "en": "pet",
+      "kr": "애완동물",
+      "vi": "vật nuôi trong nhà",
+      "senses": [],
+      "examples": [
+        {"ja": "アパートなので、ペットが飼えない。", "vi": "Vì ở nhà trọ nên không thể nuôi thú cưng."},
+        {"ja": "ペットの犬にかまれた。", "vi": "Bị con chó nuôi cắn."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を飼う"},
+        {"type": "合", "text": "__ショップ、__フード"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 530,
+      "kanji": "ベンチ",
+      "kana": "ベンチ",
+      "en": "bench",
+      "kr": "벤치",
+      "vi": "ghế dài",
+      "senses": [],
+      "examples": [
+        {"ja": "公園のベンチで休む。", "vi": "Nghỉ ở ghế dài trong công viên."},
+        {"ja": "駅のホームのベンチにすわる。", "vi": "Ngồi xuống ghế dài trên sân ga."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 531,
+      "kanji": "デザイン",
+      "kana": "デザイン(ラ)スル",
+      "en": "design",
+      "kr": "디자인",
+      "vi": "thiết kế, kiểu dáng",
+      "senses": [],
+      "examples": [
+        {"ja": "あのドレスは色もデザインもいい。", "vi": "Chiếc đầm đó cả màu sắc lẫn kiểu dáng đều đẹp."},
+        {"ja": "おしゃれなデザインのブーツ", "vi": "Đôi bốt kiểu dáng thời trang"},
+        {"ja": "私たちの学校の制服は、有名なデザイナーがデザインしたものだ。", "vi": "Đồng phục trường chúng tôi do một nhà thiết kế nổi tiếng thiết kế."}
+      ],
+      "related": [
+        {"type": "合", "text": "グラフィック__、インテリア__"},
+        {"type": "関", "text": "デザイナー"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 532,
+      "kanji": "バーゲンセール＞バーゲン／セール",
+      "kana": "バーゲンセール",
+      "en": "sale",
+      "kr": "바겐세일",
+      "vi": "bán hàng giảm giá",
+      "senses": [],
+      "examples": [
+        {"ja": "デパートで今バーゲンセールをしている。", "vi": "Bây giờ cửa hàng bách hóa đang có bán giảm giá."},
+        {"ja": "「このバッグ、バーゲンで買ったの」", "vi": "Chiếc túi này tôi mua lúc bán giảm giá đấy."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 533,
+      "kanji": "パート",
+      "kana": "パート",
+      "en": "part-time job; part",
+      "kr": "파트(타임)아르바이트",
+      "vi": "công việc bán thời gian; (vai) phần",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "母は週三日、スーパーでパートをしている。", "vi": "Mẹ tôi làm bán thời gian ba buổi một tuần ở siêu thị."},
+        {"ja": "パートで働く。", "vi": "Làm việc bán thời gian."},
+        {"ja": "合唱でソプラノのパートを歌っている。", "vi": "Tôi hát bè soprano trong dàn hợp xướng."}
+      ],
+      "related": [
+        {"type": "合", "text": "__タイム、__タイマー"}
+      ],
+      "notes": "①công việc bán thời gian ②bè/vai trong hợp xướng"
+    },
+    {
+      "no": 534,
+      "kanji": "コンビニエンスストア＞コンビニ",
+      "kana": "コンビニエンスストア",
+      "en": "convenience store",
+      "kr": "편의점",
+      "vi": "cửa hàng tiện lợi",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "viết tắt: コンビニ"
+    },
+    {
+      "no": 535,
+      "kanji": "レジ",
+      "kana": "レジスター",
+      "en": "cash register",
+      "kr": "계산, 계산대",
+      "vi": "quầy tính tiền",
+      "senses": [],
+      "examples": [
+        {"ja": "スーパーでレジのアルバイトをしている。", "vi": "Tôi đang làm thêm ở quầy tính tiền của siêu thị."},
+        {"ja": "レジに立つ。", "vi": "Trực quầy tính tiền."},
+        {"ja": "レジが込んでいる。", "vi": "Quầy tính tiền đông người."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を打つ"}
+      ],
+      "notes": "kana in đậm là レジ"
+    },
+    {
+      "no": 536,
+      "kanji": "レシート",
+      "kana": "レシート",
+      "en": "receipt",
+      "kr": "영수증",
+      "vi": "hóa đơn, biên lai",
+      "senses": [],
+      "examples": [
+        {"ja": "レジでお金を払って、レシートを受け取る。", "vi": "Trả tiền ở quầy tính tiền rồi nhận hóa đơn."}
+      ],
+      "related": [
+        {"type": "類", "text": "領収書"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 537,
+      "kanji": "インスタント",
+      "kana": "インスタント",
+      "en": "instant",
+      "kr": "인스턴트(라), 즉석",
+      "vi": "loại ăn liền, chế biến nhanh",
+      "senses": [],
+      "examples": [
+        {"ja": "インスタント食品は便利だ。", "vi": "Đồ ăn tức thì rất tiện lợi."}
+      ],
+      "related": [
+        {"type": "合", "text": "__ラーメン、__コーヒー、__食品"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 538,
+      "kanji": "ファストフード",
+      "kana": "ファストフード",
+      "en": "fast food",
+      "kr": "패스트푸드",
+      "vi": "đồ ăn nhanh",
+      "senses": [],
+      "examples": [
+        {"ja": "それは江戸時代のファストフードだった。", "vi": "Đó là món đồ ăn nhanh của thời Edo."}
+      ],
+      "related": [
+        {"type": "合", "text": "__店"},
+        {"type": "関", "text": "ハンバーガー、フライドチキン"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 539,
+      "kanji": "フルーツ",
+      "kana": "フルーツ",
+      "en": "fruit",
+      "kr": "과일",
+      "vi": "trái cây",
+      "senses": [],
+      "examples": [
+        {"ja": "暖かいところには、いろいろなフルーツがある。", "vi": "Ở nơi ấm áp có nhiều loại trái cây."}
+      ],
+      "related": [
+        {"type": "合", "text": "__ジュース、__ケーキ"},
+        {"type": "類", "text": "くだもの"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 540,
+      "kanji": "デザート",
+      "kana": "デザート",
+      "en": "dessert",
+      "kr": "디저트",
+      "vi": "món tráng miệng",
+      "senses": [],
+      "examples": [
+        {"ja": "デザートにアイスクリームを食べる。", "vi": "Ăn kem làm món tráng miệng."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 541,
+      "kanji": "インターネット",
+      "kana": "インターネット",
+      "en": "Internet",
+      "kr": "인터넷",
+      "vi": "internet, mạng",
+      "senses": [],
+      "examples": [
+        {"ja": "インターネットで世界の環境問題について調べた。", "vi": "Tôi đã tra cứu trên mạng về các vấn đề môi trường thế giới."},
+        {"ja": "きのうは1日中インターネットをしていた。", "vi": "Hôm qua tôi dùng internet cả ngày."}
+      ],
+      "related": [
+        {"type": "連", "text": "__をする、__につなぐ、__に接続する"},
+        {"type": "合", "text": "__カフェ"},
+        {"type": "関", "text": "パソコン（パーソナルコンピューター）、ホームページ、メール(ラ)スル、ブログ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 542,
+      "kanji": "チャイム",
+      "kana": "チャイム",
+      "en": "chime",
+      "kr": "벨, 초인종",
+      "vi": "chuông",
+      "senses": [],
+      "examples": [
+        {"ja": "授業が始まるとき、チャイムが鳴る。", "vi": "Khi giờ học bắt đầu, chuông kêu."}
+      ],
+      "related": [
+        {"type": "連", "text": "__が鳴る・__を鳴らす"},
+        {"type": "関", "text": "ベル、ブザー"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 543,
+      "kanji": "アナウンス",
+      "kana": "アナウンス(ラ)スル",
+      "en": "announcement",
+      "kr": "방송",
+      "vi": "sự thông báo, phát thanh",
+      "senses": [],
+      "examples": [
+        {"ja": "電車の中でアナウンスを聞く。", "vi": "Nghe thông báo trên tàu điện."},
+        {"ja": "緊急ニュースを校内でアナウンスする。", "vi": "Phát tin khẩn cấp trong trường."}
+      ],
+      "related": [
+        {"type": "合", "text": "場内__、車内__"},
+        {"type": "関", "text": "アナウンサー"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 544,
+      "kanji": "メッセージ",
+      "kana": "メッセージ",
+      "en": "message",
+      "kr": "메시지, 성명",
+      "vi": "lời nhắn; thông điệp",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "留守番電話にメッセージをのこす。", "vi": "Để lại lời nhắn trong máy trả lời điện thoại."},
+        {"ja": "メッセージといっしょに花束を送る。", "vi": "Gửi bó hoa kèm theo lời nhắn."},
+        {"ja": "大統領は国民にメッセージを発表した。", "vi": "Tổng thống đã công bố thông điệp tới toàn dân."},
+        {"ja": "この曲には、平和へのメッセージがこめられている。", "vi": "Bài hát này gửi gắm thông điệp về hòa bình."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を残す、__を頼む、__を伝える"},
+        {"type": "類", "text": "伝言(ラ)スル"},
+        {"type": "連", "text": "__を伝える"}
+      ],
+      "notes": "①lời nhắn ②thông điệp"
+    },
+    {
+      "no": 545,
+      "kanji": "パンフレット",
+      "kana": "パンフレット",
+      "en": "pamphlet, brochure",
+      "kr": "팜플렛",
+      "vi": "tập tờ rơi giới thiệu, sách mỏng",
+      "senses": [],
+      "examples": [
+        {"ja": "旅行会社でパンフレットをたくさんもらってきた。", "vi": "Tôi đã lấy rất nhiều tập tờ rơi giới thiệu ở công ty du lịch."}
+      ],
+      "related": [
+        {"type": "関", "text": "カタログ、ちらし"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 546,
+      "kanji": "カード",
+      "kana": "カード",
+      "en": "card",
+      "kr": "카드",
+      "vi": "thẻ, thiệp",
+      "senses": [],
+      "examples": [],
+      "related": [
+        {"type": "合", "text": "キャッシュ／クレジット／テレホン …｜+カード"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 547,
+      "kanji": "インタビュー",
+      "kana": "インタビュー(ラ)スル",
+      "en": "interview",
+      "kr": "인터뷰",
+      "vi": "cuộc phỏng vấn",
+      "senses": [],
+      "examples": [
+        {"ja": "勝ったチームの選手にインタビューする。", "vi": "Phỏng vấn vận động viên của đội thắng cuộc."},
+        {"ja": "記者のインタビューに答える。", "vi": "Trả lời cuộc phỏng vấn của phóng viên."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を受ける、__に答える"},
+        {"type": "合", "text": "__調査"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 548,
+      "kanji": "アンケート",
+      "kana": "アンケート",
+      "en": "questionnaire",
+      "kr": "앤케트",
+      "vi": "bảng khảo sát ý kiến",
+      "senses": [],
+      "examples": [
+        {"ja": "「アンケートにご協力ください」", "vi": "Xin quý vị hợp tác trả lời bảng khảo sát."},
+        {"ja": "アンケートをして学生の生活を調べる。", "vi": "Làm khảo sát để tìm hiểu cuộc sống của sinh viên."}
+      ],
+      "related": [
+        {"type": "連", "text": "__をする、__をとる、__に答える"},
+        {"type": "合", "text": "__調査"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 549,
+      "kanji": "データ",
+      "kana": "データ",
+      "en": "data",
+      "kr": "데이타",
+      "vi": "dữ liệu, số liệu",
+      "senses": [],
+      "examples": [
+        {"ja": "研究のために、データを集めている。", "vi": "Đang thu thập dữ liệu phục vụ nghiên cứu."}
+      ],
+      "related": [
+        {"type": "連", "text": "__を集める、__をとる"},
+        {"type": "合", "text": "__ベース、__バンク"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 550,
+      "kanji": "パーセント（%）",
+      "kana": "パーセント",
+      "en": "percent",
+      "kr": "퍼센트",
+      "vi": "phần trăm",
+      "senses": [],
+      "examples": [],
+      "related": [
+        {"type": "合", "text": "数字＋パーセント"},
+        {"type": "関", "text": "割（1割＝10%）"}
+      ],
+      "notes": ""
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム14 パソコン（Computers／电脑／컴퓨터）",
+      "book_page": 117,
+      "items": [
+        ["デスクトップ（パソコン）", "デスクトップ", "desktop computer / 台式电脑 / 데스크탑 컴퓨터", "máy tính để bàn"],
+        ["ノートパソコン", "ノートパソコン", "laptop computer / 便携式电脑，笔记本电脑 / 노트북（ノートPC）", "máy tính xách tay"],
+        ["ディスプレイ", "ディスプレイ", "display, monitor / 显示器 / 디스플레이", "màn hình"],
+        ["キーボード", "キーボード", "keyboard / 键盘 / 키보드, 자판", "bàn phím"],
+        ["マウス", "マウス", "mouse / 鼠标 / 마우스", "chuột"],
+        ["CD/DVDドライブ", "シーディー／ディーブイディー ドライブ", "(CD/DVD) drive / 光驱 / (CD, DVD) 드라이브", "ổ CD/DVD"],
+        ["ハードディスク", "ハードディスク", "hard disk / 硬盘 / 하드디스크", "ổ cứng"],
+        ["メモリー", "メモリー", "memory / 存储器，内存 / 메모리", "bộ nhớ"],
+        ["プリンタ", "プリンタ", "printer / 打印机 / 프린터", "máy in"],
+        ["インク", "インク", "ink / 墨水 / 잉크", "mực in"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "I",
+      "range": "461~510",
+      "book_page": 108,
+      "questions": [
+        {"no": "I-1", "text": "（　）に動詞を書きなさい。テストを提出する前に、答え（　）よく確かめる。", "options": [], "answer": ""},
+        {"no": "I-2", "text": "英語の文章を日本語（　）訳す。", "options": [], "answer": ""},
+        {"no": "I-3", "text": "彼女は今、恋（　）悩んでいる。", "options": [], "answer": ""},
+        {"no": "I-4", "text": "父の80歳の誕生日（　）祝う。", "options": [], "answer": ""},
+        {"no": "I-5", "text": "動物園のライオンは、人（　）なれている。", "options": [], "answer": ""},
+        {"no": "II", "text": "下の表を完成させなさい。自動詞：1.立つ 2.育つ 3.はえる 4.（　）→他動詞「まげる」 5.ゆれる 6.（　）→「ぬらす」 7.ながれる 8.われる 9.（　）→「はずす」 10.（　）→「覚ます」 11.こわれる 12.やぶれる 13.（　）→「よごす」 14.おれる", "options": [], "answer": ""},
+        {"no": "III", "text": "いっしょに使うことばを下からえらびなさい。1.（　）がはえる。 2.（　）が曲がる。 3.（　）がはずれる。 4.（　）がさめる。 5.（　）が建つ。 6.（　）をめぐる。 7.（　）を行う。 8.（　）をいいわける。 9.（　）を感じる。 10.（　）をまちがえる。", "options": ["ざしき（座敷？・判読困難）", "きょひつ（判読困難）", "こし（腰）", "新年（しんねん）", "スピーチ", "ひげ", "ビル", "ページ", "ボタン", "酔い"], "answer": ""}
+      ]
+    },
+    {
+      "type": "I",
+      "range": "461~510",
+      "book_page": 109,
+      "questions": [
+        {"no": "IV", "text": "（　）に入ることばを下からえらんで書きなさい。1.（　）／（　）／（　）がおれた。 2.（　）／（　）／（　）がこわれた。 3.（　）／（　）がやぶれた。 4.（　）／（　）がわれた。", "options": ["えんぴつ", "カメラ", "スカート", "パソコン", "まどガラス", "本", "えだ", "ほね", "さら", "本だな"], "answer": ""},
+        {"no": "V-1", "text": "いっしょに使うことばを〔　〕の中から三つえらびなさい。〔くつした ぼうし めがね ゆびわ ボタン〕をはずす。", "options": [], "answer": ""},
+        {"no": "V-2", "text": "〔うわぎ あせ ガス 水 音楽〕を流す。", "options": [], "answer": ""},
+        {"no": "V-3", "text": "〔インターネット カード テーマ ノート パンフレット〕をめぐる。", "options": [], "answer": ""},
+        {"no": "VI-1", "text": "（　）よりも中身が大切だ。", "options": ["あわてる", "いのる", "くりかえす", "さます", "たつ", "ためす", "ねむる", "ふる", "まちがう", "まよう", "みかける", "ゆらす", "ゆれる"], "answer": ""},
+        {"no": "VI-2", "text": "「さよなら」と手を（　）別れた。", "options": [], "answer": ""},
+        {"no": "VI-3", "text": "私は道に（　）やすい。", "options": [], "answer": ""},
+        {"no": "VI-4", "text": "友だちを怒らせたが、（　）もらった。", "options": [], "answer": ""},
+        {"no": "VI-5", "text": "外国語の勉強は、毎日の（　）が大切だ。", "options": [], "answer": ""},
+        {"no": "VI-6", "text": "家の前に高いビルが（　）、日当たりが悪くなった。", "options": [], "answer": ""},
+        {"no": "VI-7", "text": "（　）が浅くて、つかれがとれない。", "options": [], "answer": ""},
+        {"no": "VI-8", "text": "おいしいかどうか、（　）に食べてみた。", "options": [], "answer": ""},
+        {"no": "VI-9", "text": "（　）家を出たので、さいふを忘れてしまった。", "options": [], "answer": ""},
+        {"no": "VI-10", "text": "「あなたの成功を（　）います」", "options": [], "answer": ""},
+        {"no": "VI-11", "text": "テストの答えに（　）がないかどうか、よく確認した。", "options": [], "answer": ""},
+        {"no": "VI-12", "text": "けさ、地震の（　）で目を（　）。", "options": [], "answer": ""}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "411~510",
+      "book_page": 110,
+      "questions": [
+        {"no": "I-1", "text": "（　）に入れるのに最もよいものを、a・b・c・dから一つえらびなさい。スキーで足の骨を（　）しまった。", "options": ["a 折って", "b 割って", "c 破って", "d 壊して"], "answer": ""},
+        {"no": "I-2", "text": "上司と話を（　）のは大変だ。", "options": ["a 合う", "b 合わせる", "c 当てる", "d 当たる"], "answer": ""},
+        {"no": "I-3", "text": "夫はいびきを（　）寝ている。", "options": ["a かいて", "b して", "c ひいて", "d たして"], "answer": ""},
+        {"no": "I-4", "text": "山がくずれて、家が（　）。", "options": ["a 壊した", "b 隠れた", "c 詰まった", "d 埋まった"], "answer": ""},
+        {"no": "I-5", "text": "風で桜の木の枝が大きく（　）いる。", "options": ["a 飛んで", "b ゆれて", "c よごれて", "d 流れて"], "answer": ""},
+        {"no": "I-6", "text": "毎日教会で神に平和を（　）いる。", "options": ["a いわって", "b いのって", "c たのんで", "d ねらって"], "answer": ""},
+        {"no": "I-7", "text": "地図がわかりにくくて、道に（　）。", "options": ["a 働いた（？判読困難）", "b あがった", "c 迷った", "d 変わった"], "answer": ""},
+        {"no": "I-8", "text": "電車で赤ちゃんを抱いたお母さんに席を（　）。", "options": ["a 譲った", "b 返した", "c かえた", "d 助けた"], "answer": ""},
+        {"no": "I-9", "text": "電話番号が正しいかどうか、友だちに（　）みた。", "options": ["a 頼んで", "b 試して", "c 見かけて", "d 確かめて"], "answer": ""},
+        {"no": "I-10", "text": "新しい月になったので、カレンダーを（　）。", "options": ["a ふった", "b 飛ばした", "c めくった", "d 閉じた"], "answer": ""},
+        {"no": "II-1", "text": "＿＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。帰国する友人に自転車を安く譲ってもらった。", "options": ["a 売って", "b もらって", "c あげて", "d おくって"], "answer": ""},
+        {"no": "II-2", "text": "学校でクリスマスパーティーが開かれた。", "options": ["a された", "b 行われた", "c 行かれた", "d 開けられた"], "answer": ""},
+        {"no": "II-3", "text": "会社が倒産するかもしれないという、うわさが流れた。", "options": ["a ぬれた", "b 行った", "c 広まった", "d はやった"], "answer": ""},
+        {"no": "II-4", "text": "勉強するかどうか、悩んでいる。", "options": ["a あわてて", "b 感じて", "c 迷って", "d 困って"], "answer": ""}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "411~510",
+      "book_page": 111,
+      "questions": [
+        {"no": "II-5", "text": "道を歩いていて、他の人と肩が当たってしまった。", "options": ["a 合って", "b 届いて", "c ひけて", "d ぶつかって"], "answer": ""},
+        {"no": "III-1", "text": "つぎのことばの言い方として最もよいものを、一つえらびなさい。見かける a 昨夜友だちと映画を見かけた。 b 家へ帰る途中、選挙のポスターを見かけた。 c 仕事のあと、美術館に寄って絵を見かけた。 d 家へ帰ってから、テレビを見かけた。", "options": ["a", "b", "c", "d"], "answer": ""},
+        {"no": "III-2", "text": "育つ a この10年間で財産がよく育っている。 b 長く育っている髪を大切にしている。 c あの研究所では、多くの学者が育っている。 d 地下鉄ができてから、この町の交通は便利に育っている。", "options": ["a", "b", "c", "d"], "answer": ""},
+        {"no": "III-3", "text": "破る a 友だちとの約束を破ってしまったので、反省している。 b 急に用事ができて、レストランの予約を破ってしまった。 c 私一人が反対して、みんなの意見を破ってしまった。 d 法律を破ってしまったら、弁護士に相談したほうがいい。", "options": ["a", "b", "c", "d"], "answer": ""},
+        {"no": "III-4", "text": "つまる a カップにコーヒーがつまっている。 b 夏休みなので、映画館がつまっている。 c あのビルは窓ガラスがつまっている。 d スケジュールがつまっているので、大変だ。", "options": ["a", "b", "c", "d"], "answer": ""},
+        {"no": "III-5", "text": "足す a 本にカバーを足した。 b 味がうすいので、塩を足した。 c パソコンに足したマウスが動かない。 d チームに新しいメンバーが足した。", "options": ["a", "b", "c", "d"], "answer": ""}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 109, "book_page": 108, "unit_title": "Unit 05 動詞B 練習問題I（Step 2, 461〜510）"},
+    {"pdf_page": 110, "book_page": 109, "unit_title": "Unit 05 動詞B 練習問題I（つづき：IV・V・VI）"},
+    {"pdf_page": 111, "book_page": 110, "unit_title": "Unit 05 動詞B 練習問題II（Step 2, 411〜510）"},
+    {"pdf_page": 112, "book_page": 111, "unit_title": "Unit 05 動詞B 練習問題II（つづき）"},
+    {"pdf_page": 113, "book_page": 112, "unit_title": "Unit 06 カタカナA（Step 2, 511〜550）"}
+  ]
+}

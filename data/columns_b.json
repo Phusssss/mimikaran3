@@ -1,0 +1,548 @@
+{
+  "columns": [
+    {
+      "no": 13,
+      "title": "お金に関連する言葉",
+      "book_page": 107,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "〜代",
+          "rows": [
+            { "word": "洗濯代", "kana": "せんたくだい", "vi": "tiền giặt ủi", "en": "clothing bill", "note": "【衣】" },
+            { "word": "食事代", "kana": "しょくじだい", "vi": "tiền ăn", "en": "food bill", "note": "【食】" },
+            { "word": "部屋代", "kana": "へやだい", "vi": "tiền phòng", "en": "room charge", "note": "【住】" },
+            { "word": "電気代", "kana": "でんきだい", "vi": "tiền điện", "en": "electricity bill", "note": "【住】" },
+            { "word": "ガス代", "kana": "ガスだい", "vi": "tiền gas", "en": "gas bill", "note": "【住】" },
+            { "word": "水道代", "kana": "すいどうだい", "vi": "tiền nước", "en": "water bill", "note": "【住】" },
+            { "word": "バス代", "kana": "バスだい", "vi": "tiền xe buýt", "en": "bus fare", "note": "【交通】" },
+            { "word": "タクシー代", "kana": "タクシーだい", "vi": "tiền taxi", "en": "taxi fare", "note": "【交通】" },
+            { "word": "電車代", "kana": "でんしゃだい", "vi": "tiền tàu điện", "en": "train fare", "note": "【交通】" },
+            { "word": "チケット代", "kana": "チケットだい", "vi": "tiền vé", "en": "ticket charge", "note": "【その他】" },
+            { "word": "本代", "kana": "ほんだい", "vi": "tiền mua sách", "en": "book expenses", "note": "【その他】" },
+            { "word": "薬代", "kana": "くすりだい", "vi": "tiền thuốc", "en": "charge for medicine", "note": "【その他】" },
+            { "word": "治療代", "kana": "ちりょうだい", "vi": "tiền chữa bệnh", "en": "treatment fee", "note": "【その他】" },
+            { "word": "修理代", "kana": "しゅうりだい", "vi": "tiền sửa chữa", "en": "repair charge", "note": "【その他】" }
+          ]
+        },
+        {
+          "group": "〜料",
+          "rows": [
+            { "word": "(電気)料金", "kana": "(でんき)りょうきん", "vi": "tiền điện", "en": "electricity bill", "note": "【住】" },
+            { "word": "ガス料金", "kana": "ガスりょうきん", "vi": "tiền gas", "en": "gas bill", "note": "【住】" },
+            { "word": "(水道)料金", "kana": "(すいどう)りょうきん", "vi": "tiền nước", "en": "water bill", "note": "【住】" },
+            { "word": "(バス)料金", "kana": "(バス)りょうきん", "vi": "tiền xe buýt", "en": "bus fare", "note": "【交通】" },
+            { "word": "タクシー料金", "kana": "タクシーりょうきん", "vi": "tiền taxi", "en": "taxi fare", "note": "【交通】" },
+            { "word": "授業料", "kana": "じゅぎょうりょう", "vi": "học phí", "en": "tuition", "note": "【学校】" },
+            { "word": "使用料", "kana": "しようりょう", "vi": "phí sử dụng", "en": "usage fee", "note": "【その他】" },
+            { "word": "入場料", "kana": "にゅうじょうりょう", "vi": "phí vào cửa", "en": "admission fee", "note": "【その他】" },
+            { "word": "手数料", "kana": "てすうりょう", "vi": "phí thủ tục", "en": "service charge", "note": "【その他】" },
+            { "word": "送料", "kana": "そうりょう", "vi": "phí vận chuyển", "en": "shipping fee", "note": "【その他】" },
+            { "word": "郵送料", "kana": "ゆうそうりょう", "vi": "cước bưu điện", "en": "postage", "note": "【その他】" },
+            { "word": "レンタル料", "kana": "レンタルりょう", "vi": "phí thuê, tiền thuê", "en": "rental fee", "note": "【その他】" }
+          ]
+        },
+        {
+          "group": "〜費",
+          "rows": [
+            { "word": "衣料費", "kana": "いりょうひ", "vi": "chi phí quần áo", "en": "clothing expenses", "note": "【衣】" },
+            { "word": "食費", "kana": "しょくひ", "vi": "chi phí ăn uống", "en": "food expenses", "note": "【食】" },
+            { "word": "住居費", "kana": "じゅうきょひ", "vi": "chi phí chỗ ở", "en": "housing expenses", "note": "【住】" },
+            { "word": "光熱費", "kana": "こうねつひ", "vi": "chi phí điện, gas, nước", "en": "energy expenses", "note": "【住】" },
+            { "word": "交通費", "kana": "こうつうひ", "vi": "chi phí đi lại", "en": "traveling expenses", "note": "【交通】" },
+            { "word": "学費", "kana": "がくひ", "vi": "chi phí học hành", "en": "school expenses", "note": "【学校】" },
+            { "word": "生活費", "kana": "せいかつひ", "vi": "chi phí sinh hoạt", "en": "living expenses", "note": "【その他】" },
+            { "word": "医療費", "kana": "いりょうひ", "vi": "chi phí y tế", "en": "medical expenses", "note": "【その他】" },
+            { "word": "交際費", "kana": "こうさいひ", "vi": "chi phí giao tiếp, tiếp đãi", "en": "entertainment expenses", "note": "【その他】" }
+          ]
+        },
+        {
+          "group": "〜賃",
+          "rows": [
+            { "word": "家賃", "kana": "やちん", "vi": "tiền thuê nhà", "en": "house rent", "note": "【住】" },
+            { "word": "電車賃", "kana": "でんしゃちん", "vi": "tiền tàu điện", "en": "train fare", "note": "【交通】" },
+            { "word": "運賃", "kana": "うんちん", "vi": "cước phí, tiền vé", "en": "fare", "note": "【交通】" },
+            { "word": "借り賃", "kana": "かりちん", "vi": "tiền thuê (bên thuê trả)", "en": "rent, rental fee", "note": "【その他】" },
+            { "word": "貸し賃", "kana": "かしちん", "vi": "tiền cho thuê (bên cho thuê nhận)", "en": "rent, rental fee", "note": "【その他】" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "パソコン",
+      "book_page": 117,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "パソコンの種類",
+          "rows": [
+            { "word": "デスクトップ(パソコン)", "kana": "", "vi": "máy tính để bàn", "en": "desktop computer", "note": "" },
+            { "word": "ノートパソコン", "kana": "", "vi": "máy tính xách tay", "en": "laptop computer", "note": "" }
+          ]
+        },
+        {
+          "group": "パソコンの部分",
+          "rows": [
+            { "word": "ディスプレイ", "kana": "", "vi": "màn hình", "en": "display, monitor", "note": "" },
+            { "word": "キーボード", "kana": "", "vi": "bàn phím", "en": "keyboard", "note": "" },
+            { "word": "マウス", "kana": "", "vi": "chuột", "en": "mouse", "note": "" },
+            { "word": "CD/DVDドライブ", "kana": "", "vi": "ổ CD/DVD", "en": "(CD/DVD) drive", "note": "" },
+            { "word": "ハードディスク", "kana": "", "vi": "ổ cứng", "en": "hard disk", "note": "" },
+            { "word": "メモリー", "kana": "", "vi": "bộ nhớ (RAM)", "en": "memory", "note": "" }
+          ]
+        },
+        {
+          "group": "周辺機器",
+          "rows": [
+            { "word": "プリンタ", "kana": "", "vi": "máy in", "en": "printer", "note": "" },
+            { "word": "インク", "kana": "", "vi": "mực in", "en": "ink", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "公共の施設",
+      "book_page": 127,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "",
+          "rows": [
+            { "word": "都庁", "kana": "とちょう", "vi": "văn phòng chính quyền đô (Tokyo)", "en": "Tokyo Metropolitan Government office", "note": "" },
+            { "word": "県庁", "kana": "けんちょう", "vi": "văn phòng chính quyền huyện/tỉnh", "en": "prefectural office", "note": "" },
+            { "word": "府庁", "kana": "ふちょう", "vi": "văn phòng chính quyền phủ (Osaka, Kyoto)", "en": "prefectural office (Osaka, Kyoto)", "note": "" },
+            { "word": "道庁", "kana": "どうちょう", "vi": "văn phòng chính quyền đạo (Hokkaido)", "en": "prefectural office (Hokkaido)", "note": "" },
+            { "word": "市役所", "kana": "しやくしょ", "vi": "văn phòng chính quyền thành phố", "en": "city office", "note": "" },
+            { "word": "区役所", "kana": "くやくしょ", "vi": "văn phòng chính quyền quận", "en": "ward office", "note": "" },
+            { "word": "入国管理局", "kana": "にゅうこくかんりきょく", "vi": "cục quản lý xuất nhập cảnh", "en": "immigration bureau", "note": "" },
+            { "word": "警察署", "kana": "けいさつしょ", "vi": "đồn cảnh sát (cấp lớn)", "en": "police department", "note": "" },
+            { "word": "消防署", "kana": "しょうぼうしょ", "vi": "trạm cứu hỏa", "en": "fire department", "note": "" },
+            { "word": "保健所", "kana": "ほけんしょ", "vi": "trạm y tế", "en": "public health center", "note": "" },
+            { "word": "派出所", "kana": "はしゅつしょ", "vi": "chi cục công an, đồn công an", "en": "police box, substation", "note": "" },
+            { "word": "交番", "kana": "こうばん", "vi": "trạm cảnh sát khu phố", "en": "police box", "note": "" },
+            { "word": "公民館", "kana": "こうみんかん", "vi": "nhà sinh hoạt cộng đồng", "en": "community center", "note": "" },
+            { "word": "図書館", "kana": "としょかん", "vi": "thư viện", "en": "library", "note": "" },
+            { "word": "博物館", "kana": "はくぶつかん", "vi": "bảo tàng", "en": "museum", "note": "" },
+            { "word": "美術館", "kana": "びじゅつかん", "vi": "bảo tàng mỹ thuật", "en": "art museum", "note": "" },
+            { "word": "劇場", "kana": "げきじょう", "vi": "nhà hát", "en": "theater", "note": "" },
+            { "word": "映画館", "kana": "えいがかん", "vi": "rạp chiếu phim", "en": "movie theater", "note": "" },
+            { "word": "(音楽)ホール", "kana": "(おんがく)ホール", "vi": "hội trường (âm nhạc)", "en": "(concert) hall", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "title": "時の表現",
+      "book_page": 139,
+      "kind": "quiz",
+      "groups": [
+        {
+          "group": "I ふつうの表現/改まった表現",
+          "rows": [
+            { "word": "一昨日", "kana": "いっさくじつ", "vi": "hôm kia (2 ngày trước)", "en": "", "note": "① → ふつう: おととい" },
+            { "word": "昨日", "kana": "さくじつ", "vi": "hôm qua", "en": "", "note": "② → ふつう: きのう" },
+            { "word": "本日", "kana": "ほんじつ", "vi": "hôm nay", "en": "", "note": "③ → ふつう: きょう" },
+            { "word": "明日", "kana": "みょうにち", "vi": "ngày mai", "en": "", "note": "④ → ふつう: あした" },
+            { "word": "明後日", "kana": "みょうごにち", "vi": "ngày mốt", "en": "", "note": "⑤ → ふつう: あさって" },
+            { "word": "一昨年", "kana": "いっさくねん", "vi": "năm trước (2 năm trước)", "en": "", "note": "⑥ → ふつう: おととし" },
+            { "word": "昨年", "kana": "さくねん", "vi": "năm ngoái", "en": "", "note": "⑦ → ふつう: きょねん" },
+            { "word": "本年", "kana": "ほんねん", "vi": "năm nay", "en": "", "note": "⑧ → ふつう: ことし" },
+            { "word": "来年", "kana": "らいねん", "vi": "năm sau", "en": "", "note": "→ (明年・みょうねん)" },
+            { "word": "再来年", "kana": "さらいねん", "vi": "năm kìa (2 năm sau)", "en": "", "note": "→ (明後年・みょうごねん)" }
+          ]
+        },
+        {
+          "group": "II 漢字の読みかた",
+          "rows": [
+            { "word": "早期", "kana": "そうちょう", "vi": "buổi sáng sớm, thẳng sớm", "en": "early morning", "note": "①" },
+            { "word": "正午", "kana": "しょうご", "vi": "buổi trưa, 12 giờ trưa", "en": "noon", "note": "①" },
+            { "word": "深夜", "kana": "しんや", "vi": "khoảng khuya đêm", "en": "late night", "note": "①" },
+            { "word": "真夜中", "kana": "まよなか", "vi": "nửa đêm", "en": "middle of the night, midnight", "note": "①" },
+            { "word": "平日", "kana": "へいじつ", "vi": "ngày thường", "en": "weekday", "note": "②" },
+            { "word": "休日", "kana": "きゅうじつ", "vi": "ngày nghỉ, ngày lễ", "en": "day off, holiday", "note": "②" },
+            { "word": "年末", "kana": "ねんまつ", "vi": "cuối năm", "en": "end of the year", "note": "③" },
+            { "word": "月末", "kana": "げつまつ", "vi": "cuối tháng", "en": "end of the month", "note": "③" },
+            { "word": "週末", "kana": "しゅうまつ", "vi": "cuối tuần", "en": "weekend", "note": "③" },
+            { "word": "上旬", "kana": "じょうじゅん", "vi": "đầu tháng (ngày 1–10)", "en": "early part of the month", "note": "④" },
+            { "word": "中旬", "kana": "ちゅうじゅん", "vi": "giữa tháng", "en": "middle of the month", "note": "④" },
+            { "word": "下旬", "kana": "げじゅん", "vi": "cuối tháng", "en": "late part of the month", "note": "④" }
+          ]
+        },
+        {
+          "group": "III 訓読・読みかた",
+          "rows": [
+            { "word": "先日", "kana": "せんじつ", "vi": "hôm trước, dạo trước", "en": "the other day", "note": "① → このあいだ/このまえ" },
+            { "word": "最近", "kana": "さいきん", "vi": "gần đây, mới đây", "en": "recently", "note": "② → 近ごろ/このごろ" },
+            { "word": "今後", "kana": "こんご", "vi": "từ nay về sau", "en": "hereafter", "note": "③ → これから" }
+          ]
+        },
+        {
+          "group": "IV 反対のことば",
+          "rows": [
+            { "word": "以前", "kana": "いぜん", "vi": "trước đây", "en": "previously", "note": "① ↔ 以後(いご)" },
+            { "word": "直前", "kana": "ちょくぜん", "vi": "ngay trước", "en": "immediately before", "note": "② ↔ 直後(ちょくご)" },
+            { "word": "事前", "kana": "じぜん", "vi": "trước (khi làm việc gì)", "en": "beforehand", "note": "③ ↔ 事後(じご)" },
+            { "word": "生前", "kana": "せいぜん", "vi": "lúc còn sống", "en": "in life, before death", "note": "④ ↔ 死後(しご)" },
+            { "word": "食前", "kana": "しょくぜん", "vi": "trước bữa ăn", "en": "before eating", "note": "⑤ ↔ 食後(しょくご)" },
+            { "word": "年末", "kana": "ねんまつ", "vi": "cuối năm", "en": "end of the year", "note": "⑥ ↔ 年始(ねんし)" },
+            { "word": "前日", "kana": "ぜんじつ", "vi": "ngày trước, hôm trước", "en": "the day before", "note": "⑦ ↔ 翌日(よくじつ)" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "ジャンル",
+      "book_page": 147,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "文学",
+          "rows": [
+            { "word": "小説", "kana": "しょうせつ", "vi": "tiểu thuyết", "en": "novel", "note": "" },
+            { "word": "詩", "kana": "し", "vi": "thơ", "en": "poem, poetry", "note": "" },
+            { "word": "エッセー(随筆)", "kana": "エッセー(ずいひつ)", "vi": "tiểu luận, bút ký", "en": "essay", "note": "" },
+            { "word": "伝記", "kana": "でんき", "vi": "tiểu sử", "en": "biography", "note": "" },
+            { "word": "評論", "kana": "ひょうろん", "vi": "bài phê bình, bình luận", "en": "review, critique", "note": "" }
+          ]
+        },
+        {
+          "group": "音楽",
+          "rows": [
+            { "word": "クラシック", "kana": "", "vi": "nhạc cổ điển", "en": "classical music", "note": "" },
+            { "word": "ジャズ", "kana": "", "vi": "nhạc jazz", "en": "jazz", "note": "" },
+            { "word": "ポップス", "kana": "", "vi": "nhạc pop", "en": "pop music", "note": "" },
+            { "word": "ロック", "kana": "", "vi": "nhạc rock", "en": "rock", "note": "" },
+            { "word": "演歌", "kana": "えんか", "vi": "enka (bản tình ca Nhật)", "en": "enka (Japanese ballad)", "note": "" }
+          ]
+        },
+        {
+          "group": "映画",
+          "rows": [
+            { "word": "アクション", "kana": "", "vi": "phim hành động", "en": "action", "note": "" },
+            { "word": "SF", "kana": "", "vi": "khoa học viễn tưởng", "en": "science fiction", "note": "" },
+            { "word": "ホラー", "kana": "", "vi": "kinh dị", "en": "horror", "note": "" },
+            { "word": "コメディ", "kana": "", "vi": "hài", "en": "comedy", "note": "" },
+            { "word": "恋愛", "kana": "れんあい", "vi": "tình cảm, lãng mạn", "en": "romance", "note": "" },
+            { "word": "アニメ", "kana": "", "vi": "phim hoạt hình", "en": "animation", "note": "" }
+          ]
+        },
+        {
+          "group": "テレビ番組",
+          "rows": [
+            { "word": "テレビ番組", "kana": "テレビばんぐみ", "vi": "chương trình truyền hình", "en": "TV program", "note": "" },
+            { "word": "ニュース", "kana": "", "vi": "bản tin thời sự", "en": "news", "note": "" },
+            { "word": "ドラマ", "kana": "", "vi": "phim truyền hình", "en": "drama", "note": "" },
+            { "word": "ドキュメンタリー", "kana": "", "vi": "phim tài liệu", "en": "documentary", "note": "" },
+            { "word": "クイズ", "kana": "", "vi": "chương trình đố vui", "en": "quiz show", "note": "" },
+            { "word": "バラエティ", "kana": "", "vi": "chương trình giải trí tổng hợp", "en": "variety show", "note": "" },
+            { "word": "スポーツ中継", "kana": "スポーツちゅうけい", "vi": "trực tiếp thể thao", "en": "sports telecast", "note": "" },
+            { "word": "天気予報", "kana": "てんきよほう", "vi": "dự báo thời tiết", "en": "weather forecast", "note": "" }
+          ]
+        },
+        {
+          "group": "舞台",
+          "rows": [
+            { "word": "舞台", "kana": "ぶたい", "vi": "sân khấu", "en": "stage", "note": "" },
+            { "word": "演劇", "kana": "えんげき", "vi": "kịch nghệ", "en": "play, drama", "note": "" },
+            { "word": "ミュージカル", "kana": "", "vi": "nhạc kịch", "en": "musical", "note": "" },
+            { "word": "歌劇/オペラ", "kana": "かげき/オペラ", "vi": "opera", "en": "opera", "note": "" },
+            { "word": "バレエ", "kana": "", "vi": "ba-lê", "en": "ballet", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "title": "郵便",
+      "book_page": 155,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "",
+          "rows": [
+            { "word": "封筒", "kana": "ふうとう", "vi": "bao thư", "en": "envelope", "note": "" },
+            { "word": "便せん", "kana": "びんせん", "vi": "giấy viết thư", "en": "stationery, writing paper", "note": "" },
+            { "word": "はがき", "kana": "", "vi": "bưu thiếp", "en": "postcard", "note": "" },
+            { "word": "切手", "kana": "きって", "vi": "tem thư", "en": "stamp", "note": "" },
+            { "word": "速達", "kana": "そくたつ", "vi": "gửi nhanh (tốc hành)", "en": "special delivery, express delivery", "note": "" },
+            { "word": "書留", "kana": "かきとめ", "vi": "gửi bảo đảm (ki đăng ký)", "en": "registered mail", "note": "" },
+            { "word": "小包", "kana": "こづつみ", "vi": "kiện hàng, bưu kiện", "en": "parcel", "note": "" },
+            { "word": "郵送(する)", "kana": "ゆうそう(する)", "vi": "gửi qua bưu điện", "en": "mailing", "note": "" },
+            { "word": "郵送料", "kana": "ゆうそうりょう", "vi": "cước bưu điện", "en": "postage", "note": "" },
+            { "word": "船便", "kana": "ふなびん", "vi": "gửi đường biển", "en": "sea/surface mail", "note": "※" },
+            { "word": "航空便", "kana": "こうくうびん", "vi": "gửi đường hàng không", "en": "airmail", "note": "" },
+            { "word": "宅配便", "kana": "たくはいびん", "vi": "dịch vụ giao hàng tận nơi", "en": "parcel delivery service", "note": "※" },
+            { "word": "送料", "kana": "そうりょう", "vi": "phí vận chuyển", "en": "shipping fee", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "位置を表す言葉",
+      "book_page": 167,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "横・となり・正面・向かい・ななめ",
+          "rows": [
+            { "word": "横", "kana": "よこ", "vi": "bên cạnh, bên hông", "en": "", "note": "Aさんの[横/となり]にEさん、Fさんがいます。" },
+            { "word": "となり", "kana": "", "vi": "bên cạnh (kế sát)", "en": "", "note": "Aさんの[横/となり]にEさん、Fさんがいます。" },
+            { "word": "正面", "kana": "しょうめん", "vi": "chính diện, đối diện thẳng", "en": "", "note": "Aさんの[向かい/正面]にBさんがいます。" },
+            { "word": "向かい", "kana": "むかい", "vi": "đối diện", "en": "", "note": "Aさんの[向かい/正面]にBさんがいます。" },
+            { "word": "ななめ前/ななめ向かい", "kana": "", "vi": "chéo trước, đối diện chéo", "en": "", "note": "Aさんの[ななめ前/ななめ向かい]にCさん、Dさんがいます。" }
+          ]
+        },
+        {
+          "group": "手前・向こう",
+          "rows": [
+            { "word": "手前", "kana": "てまえ", "vi": "phía gần (về phía người nói)", "en": "", "note": "どんぶりの[手前]にはしがあります。" },
+            { "word": "向こう", "kana": "むこう", "vi": "phía kia, phía xa", "en": "", "note": "どんぶりの[向こう]にコップがあります。" }
+          ]
+        },
+        {
+          "group": "奥",
+          "rows": [
+            { "word": "奥", "kana": "おく", "vi": "trong cùng, phía sâu", "en": "", "note": "ひきだしの奥にはさみがあります。／家の奥に風呂、トイレがあります。／たなの奥に人形があります。" }
+          ]
+        },
+        {
+          "group": "かど・すみ",
+          "rows": [
+            { "word": "かど", "kana": "", "vi": "góc (của vật sắc, cạnh góc)", "en": "", "note": "dùng cho つくえ (bàn), 道 (đường)" },
+            { "word": "すみ", "kana": "", "vi": "góc trong, xó", "en": "", "note": "dùng cho 箱 (hộp), 部屋 (phòng)" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "衣食住「衣」",
+      "book_page": 177,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "「着る」もの",
+          "rows": [
+            { "word": "シャツ", "kana": "", "vi": "áo sơ mi", "en": "", "note": "" },
+            { "word": "Tシャツ", "kana": "", "vi": "áo phông", "en": "", "note": "" },
+            { "word": "ブラウス", "kana": "", "vi": "áo blouse (nữ)", "en": "", "note": "" },
+            { "word": "上着/ジャケット", "kana": "うわぎ/ジャケット", "vi": "áo ngoài, áo khoác ngắn", "en": "", "note": "" },
+            { "word": "スーツ", "kana": "", "vi": "bộ vest", "en": "", "note": "" },
+            { "word": "ワンピース", "kana": "", "vi": "váy liền", "en": "", "note": "" },
+            { "word": "コート", "kana": "", "vi": "áo khoác dài", "en": "", "note": "" },
+            { "word": "下着", "kana": "したぎ", "vi": "đồ lót", "en": "", "note": "※「下着」は「着る」「つける」「はく」を使う。" }
+          ]
+        },
+        {
+          "group": "「はく」もの",
+          "rows": [
+            { "word": "ズボン/パンツ", "kana": "", "vi": "quần dài", "en": "", "note": "" },
+            { "word": "ジーンズ", "kana": "", "vi": "quần bò", "en": "", "note": "" },
+            { "word": "スカート", "kana": "", "vi": "váy", "en": "", "note": "" },
+            { "word": "くつした/ソックス", "kana": "くつした", "vi": "tất, vớ", "en": "", "note": "" },
+            { "word": "ストッキング", "kana": "", "vi": "tất hơi người", "en": "", "note": "" },
+            { "word": "スニーカー", "kana": "", "vi": "giày thể thao", "en": "", "note": "" },
+            { "word": "パンプス", "kana": "", "vi": "giày cao gót (mũi kín)", "en": "", "note": "" },
+            { "word": "ハイヒール", "kana": "", "vi": "giày gót cao", "en": "", "note": "" },
+            { "word": "サンダル", "kana": "", "vi": "sandal, dép hở", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "「巻く/する」もの",
+          "rows": [
+            { "word": "マフラー", "kana": "", "vi": "khăn quàng cổ", "en": "", "note": "" },
+            { "word": "スカーフ", "kana": "", "vi": "khăn bỏng, khăn choàng mỏng", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "「しめる/する」もの",
+          "rows": [
+            { "word": "ネクタイ", "kana": "", "vi": "cà vạt", "en": "", "note": "" },
+            { "word": "ベルト", "kana": "", "vi": "thắt lưng", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "「はめる/する」もの",
+          "rows": [
+            { "word": "手袋", "kana": "てぶくろ", "vi": "găng tay", "en": "", "note": "" },
+            { "word": "指輪", "kana": "ゆびわ", "vi": "nhẫn", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "「つける/する」もの",
+          "rows": [
+            { "word": "アクセサリー", "kana": "", "vi": "trang sức", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "「かぶる」もの",
+          "rows": [
+            { "word": "帽子", "kana": "ぼうし", "vi": "mũ, nón", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "衣服の部分",
+          "rows": [
+            { "word": "えり", "kana": "", "vi": "cổ áo", "en": "", "note": "" },
+            { "word": "そで", "kana": "", "vi": "tay áo", "en": "", "note": "" },
+            { "word": "すそ", "kana": "", "vi": "gấu áo, gấu quần", "en": "", "note": "" },
+            { "word": "ボタン", "kana": "", "vi": "cúc áo", "en": "", "note": "" },
+            { "word": "ファスナー", "kana": "", "vi": "dây kéo", "en": "", "note": "" },
+            { "word": "ポケット", "kana": "", "vi": "túi áo, túi quần", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "衣服のもよう",
+          "rows": [
+            { "word": "無地", "kana": "むじ", "vi": "trơn, không hoa văn", "en": "", "note": "" },
+            { "word": "花もよう/花がら", "kana": "はなもよう/はながら", "vi": "hoa văn hoa", "en": "", "note": "" },
+            { "word": "水玉もよう", "kana": "みずたまもよう", "vi": "hoa văn chấm tròn", "en": "", "note": "" },
+            { "word": "しまもよう/しまがら/ストライプ", "kana": "しまもよう/しまがら", "vi": "hoa văn sọc", "en": "", "note": "" },
+            { "word": "チェック", "kana": "", "vi": "hoa văn kẻ ô", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "衣服の材質",
+          "rows": [
+            { "word": "綿/コットン", "kana": "めん/コットン", "vi": "cotton, bông", "en": "cotton", "note": "" },
+            { "word": "絹/シルク", "kana": "きぬ/シルク", "vi": "lụa", "en": "silk", "note": "" },
+            { "word": "毛/ウール", "kana": "けう/ウール", "vi": "len, lông cừu", "en": "wool", "note": "" },
+            { "word": "麻", "kana": "あさ", "vi": "gai, vải gai dầu", "en": "hemp", "note": "" },
+            { "word": "ナイロン", "kana": "", "vi": "sợi nylon", "en": "nylon", "note": "" },
+            { "word": "ポリエステル", "kana": "", "vi": "sợi polyester", "en": "polyester", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "衣食住「食」",
+      "book_page": 193,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "料理の道具",
+          "rows": [
+            { "word": "電子レンジ", "kana": "でんしレンジ", "vi": "lò vi sóng", "en": "", "note": "" },
+            { "word": "オーブン", "kana": "", "vi": "lò nướng", "en": "", "note": "" },
+            { "word": "トースター", "kana": "", "vi": "lò nướng bánh mì", "en": "", "note": "" },
+            { "word": "炊飯器", "kana": "すいはんき", "vi": "nồi cơm điện", "en": "", "note": "" },
+            { "word": "なべ(+ふた)", "kana": "", "vi": "nồi (+nắp)", "en": "", "note": "" },
+            { "word": "中華なべ", "kana": "ちゅうかなべ", "vi": "quảc xào kiểu Trung Quốc", "en": "", "note": "" },
+            { "word": "フライパン", "kana": "", "vi": "chảo rán", "en": "", "note": "" },
+            { "word": "やかん", "kana": "", "vi": "ấm đun nước", "en": "", "note": "" },
+            { "word": "お玉じゃくし", "kana": "おたまじゃくし", "vi": "vái múc (thìa múc)", "en": "", "note": "" },
+            { "word": "フライ返し", "kana": "フライがえし", "vi": "sạn/xẻng lật đồ ăn", "en": "", "note": "" },
+            { "word": "しゃもじ", "kana": "", "vi": "thìa cơm (vái cơm)", "en": "", "note": "" },
+            { "word": "ほうちょう", "kana": "", "vi": "dao bếp", "en": "", "note": "" },
+            { "word": "ナイフ", "kana": "", "vi": "dao (dùng trong ăn uống)", "en": "", "note": "" },
+            { "word": "まな板", "kana": "まないた", "vi": "thớt", "en": "", "note": "" }
+          ]
+        },
+        {
+          "group": "調味料",
+          "rows": [
+            { "word": "塩", "kana": "しお", "vi": "muối", "en": "salt", "note": "" },
+            { "word": "こしょう", "kana": "", "vi": "tiêu", "en": "pepper", "note": "" },
+            { "word": "さとう", "kana": "", "vi": "đường", "en": "sugar", "note": "" },
+            { "word": "しょうゆ", "kana": "", "vi": "nước tương, xì dầu", "en": "soy sauce", "note": "" },
+            { "word": "みそ", "kana": "", "vi": "miso (tương đậu Nhật)", "en": "miso, soybean paste", "note": "" },
+            { "word": "酢", "kana": "す", "vi": "giấm", "en": "vinegar", "note": "" },
+            { "word": "油", "kana": "あぶら", "vi": "dầu ăn", "en": "oil", "note": "" },
+            { "word": "ソース", "kana": "", "vi": "nước sốt", "en": "sauce", "note": "" },
+            { "word": "マヨネーズ", "kana": "", "vi": "sốt mayonnaise", "en": "mayonnaise", "note": "" },
+            { "word": "ケチャップ", "kana": "", "vi": "tương cà", "en": "ketchup", "note": "" },
+            { "word": "ドレッシング", "kana": "", "vi": "nước sốt trộn salad", "en": "dressing", "note": "" }
+          ]
+        },
+        {
+          "group": "食器",
+          "rows": [
+            { "word": "皿", "kana": "さら", "vi": "đĩa", "en": "", "note": "" },
+            { "word": "(お)ちゃわん", "kana": "", "vi": "bát cơm", "en": "", "note": "" },
+            { "word": "(お)わん", "kana": "", "vi": "bát (múc ăn)", "en": "", "note": "" },
+            { "word": "どんぶり", "kana": "", "vi": "bát lớn (đựng cơm/mì)", "en": "", "note": "" },
+            { "word": "湯のみ", "kana": "ゆのみ", "vi": "chén trà (không quai)", "en": "", "note": "" },
+            { "word": "コップ", "kana": "", "vi": "cốc (không quai)", "en": "", "note": "" },
+            { "word": "カップ", "kana": "", "vi": "tách, cốc có quai", "en": "", "note": "" },
+            { "word": "グラス", "kana": "", "vi": "ly thủy tinh", "en": "", "note": "" },
+            { "word": "はし", "kana": "", "vi": "đũa", "en": "", "note": "" },
+            { "word": "スプーン", "kana": "", "vi": "thìa", "en": "", "note": "" },
+            { "word": "フォーク", "kana": "", "vi": "nĩa", "en": "", "note": "" },
+            { "word": "ナイフ", "kana": "", "vi": "dao (bàn ăn)", "en": "", "note": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "title": "衣食住「住」",
+      "book_page": 201,
+      "kind": "table",
+      "groups": [
+        {
+          "group": "家の間取り",
+          "rows": [
+            { "word": "玄関", "kana": "げんかん", "vi": "cửa vào, tiền sảnh", "en": "", "note": "①" },
+            { "word": "居間/リビング", "kana": "いま/リビング", "vi": "phòng khách", "en": "", "note": "②" },
+            { "word": "食堂/ダイニング", "kana": "しょくどう/ダイニング", "vi": "phòng ăn", "en": "", "note": "③" },
+            { "word": "台所/キッチン", "kana": "だいところ/キッチン", "vi": "nhà bếp", "en": "", "note": "④" },
+            { "word": "洗面所", "kana": "せんめんしょ", "vi": "phòng rửa mặt", "en": "", "note": "⑤" },
+            { "word": "風呂(場)/バス", "kana": "ふろ(ば)/バス", "vi": "phòng tắm", "en": "", "note": "⑥" },
+            { "word": "トイレ/お手洗い", "kana": "", "vi": "nhà vệ sinh", "en": "", "note": "⑦" },
+            { "word": "寝室", "kana": "しんしつ", "vi": "phòng ngủ", "en": "", "note": "⑧" },
+            { "word": "廊下", "kana": "ろうか", "vi": "hành lang", "en": "", "note": "⑨" },
+            { "word": "階段", "kana": "かいだん", "vi": "cầu thang", "en": "", "note": "⑩" },
+            { "word": "天井、床、たたみ、フローリング", "kana": "てんじょう、ゆか、たたみ", "vi": "trần nhà, sàn nhà, chiếu tatami, sàn gỗ", "en": "", "note": "※" }
+          ]
+        },
+        {
+          "group": "家具",
+          "rows": [
+            { "word": "本棚", "kana": "ほんだな", "vi": "kệ sách", "en": "", "note": "①" },
+            { "word": "たんす", "kana": "", "vi": "tủ (đựng quần áo)", "en": "", "note": "②" },
+            { "word": "カーテン", "kana": "", "vi": "màn cửa", "en": "", "note": "③" },
+            { "word": "ブラインド", "kana": "", "vi": "mành sáo (cửa sổ)", "en": "", "note": "④" },
+            { "word": "ベッド", "kana": "", "vi": "giường", "en": "", "note": "⑤" },
+            { "word": "鏡", "kana": "かがみ", "vi": "gương", "en": "", "note": "⑥" },
+            { "word": "机", "kana": "つくえ", "vi": "bàn (học, làm việc)", "en": "", "note": "⑦" },
+            { "word": "ソファー", "kana": "", "vi": "ghế sô-pha", "en": "", "note": "⑧" },
+            { "word": "いす", "kana": "", "vi": "ghế", "en": "", "note": "⑨" },
+            { "word": "テーブル", "kana": "", "vi": "bàn (tròn/khách)", "en": "", "note": "⑩" },
+            { "word": "じゅうたん/カーペット", "kana": "", "vi": "thảm (trải sàn)", "en": "", "note": "⑪" },
+            { "word": "食器棚", "kana": "しょっきだな", "vi": "tủ bát đĩa", "en": "", "note": "⑫" }
+          ]
+        },
+        {
+          "group": "家電製品",
+          "rows": [
+            { "word": "エアコン", "kana": "", "vi": "máy lạnh, điều hòa", "en": "", "note": "①" },
+            { "word": "電気/電灯", "kana": "でんき/でんとう", "vi": "đèn điện", "en": "", "note": "②" },
+            { "word": "蛍光灯", "kana": "けいこうとう", "vi": "đèn huỳnh quang", "en": "", "note": "③" },
+            { "word": "電気スタンド", "kana": "でんきスタンド", "vi": "đèn để bàn", "en": "", "note": "④" },
+            { "word": "パソコン", "kana": "", "vi": "máy tính", "en": "", "note": "⑤" },
+            { "word": "ファックス", "kana": "", "vi": "máy fax", "en": "", "note": "⑥" },
+            { "word": "扇風機", "kana": "せんぷうき", "vi": "quạt điện", "en": "", "note": "⑦" },
+            { "word": "テレビ", "kana": "", "vi": "tivi", "en": "", "note": "⑧" },
+            { "word": "ビデオ/DVDデッキ", "kana": "", "vi": "đầu video/DVD", "en": "", "note": "⑨" },
+            { "word": "洗濯機", "kana": "せんたくき", "vi": "máy giặt", "en": "", "note": "⑩" },
+            { "word": "掃除機", "kana": "そうじき", "vi": "máy hút bụi", "en": "", "note": "⑪" },
+            { "word": "ヒーター", "kana": "", "vi": "máy sưởi", "en": "", "note": "⑫" },
+            { "word": "アイロン", "kana": "", "vi": "bàn ủi", "en": "", "note": "⑬" },
+            { "word": "ドライヤー", "kana": "", "vi": "máy sấy tóc", "en": "", "note": "⑭" },
+            { "word": "ラジオ", "kana": "", "vi": "radio", "en": "", "note": "⑮" },
+            { "word": "デジカメ", "kana": "", "vi": "máy ảnh số (デジタルカメラ)", "en": "", "note": "⑯" },
+            { "word": "懐中電灯", "kana": "かいちゅうでんとう", "vi": "đèn pin", "en": "", "note": "⑰" },
+            { "word": "電球", "kana": "でんきゅう", "vi": "bóng đèn", "en": "", "note": "⑱" },
+            { "word": "電池", "kana": "でんち", "vi": "pin", "en": "", "note": "⑲" }
+          ]
+        }
+      ]
+    }
+  ]
+}

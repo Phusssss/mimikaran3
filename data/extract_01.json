@@ -1,0 +1,2104 @@
+{
+  "pdf_pages": "9-18",
+  "words": [
+    {
+      "no": 1,
+      "kanji": "男性",
+      "kana": "だんせい",
+      "en": "man",
+      "kr": "남자, 남성",
+      "vi": "nam giới, đàn ông",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "理想的な男性と結婚する。",
+          "vi": "Kết hôn với một người đàn ông lý tưởng."
+        },
+        {
+          "ja": "「あの男性／○女性／○女の人／×女」はだれですか",
+          "vi": "\"Người đàn ông ấy / ○ phụ nữ / ○ người phụ nữ / × 女 (không dùng) là ai?\""
+        }
+      ],
+      "related": [
+        {
+          "type": "問",
+          "text": "男女、性別"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 2,
+      "kanji": "女性",
+      "kana": "じょせい",
+      "en": "woman",
+      "kr": "여성, 여자",
+      "vi": "phụ nữ, đàn bà",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "Ví dụ chung với từ số 1 (đối lập 男性／女性)."
+    },
+    {
+      "no": 3,
+      "kanji": "高齢",
+      "kana": "こうれい",
+      "en": "old age, advanced age",
+      "kr": "고령",
+      "vi": "tuổi cao, cao tuổi",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "祖母は高齢だが、まだとても元気だ。",
+          "vi": "Bà tôi tuy tuổi cao nhưng vẫn rất khỏe mạnh."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "高齢者、高齢化社会"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 4,
+      "kanji": "年上",
+      "kana": "としうえ",
+      "en": "elder",
+      "kr": "연상",
+      "vi": "lớn tuổi hơn",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "年上の友だち。",
+          "vi": "Bạn bè lớn tuổi hơn."
+        },
+        {
+          "ja": "彼女は私より／の／三つ年上だ。",
+          "vi": "Cô ấy hơn tôi một chút / hơn ba tuổi."
+        }
+      ],
+      "related": [
+        {
+          "type": "問",
+          "text": "年長"
+        },
+        {
+          "type": "対",
+          "text": "年下"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 5,
+      "kanji": "目上",
+      "kana": "めうえ",
+      "en": "superior",
+      "kr": "윗사람",
+      "vi": "người trên (bề trên, người lớn tuổi)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "目上の人には敬語で話したほうがいい。",
+          "vi": "Nên nói chuyện với người bề trên bằng kính ngữ."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "text": "目下"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 6,
+      "kanji": "先輩",
+      "kana": "せんぱい",
+      "en": "senior",
+      "kr": "선배",
+      "vi": "tiền bối (người vào trước)",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 7,
+      "kanji": "後輩",
+      "kana": "こうはい",
+      "en": "junior",
+      "kr": "후배",
+      "vi": "hậu bối (người vào sau)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "田中さんと私は同じ年だが、職場では彼のほうが先輩だ。",
+          "vi": "Tanaka và tôi cùng tuổi, nhưng ở công ty anh ấy là tiền bối."
+        }
+      ],
+      "related": [],
+      "notes": "Ví dụ dùng cả 先輩／後輩."
+    },
+    {
+      "no": 8,
+      "kanji": "上司",
+      "kana": "じょうし",
+      "en": "boss",
+      "kr": "상사",
+      "vi": "cấp trên, sếp",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "上司に相談してから決定する。",
+          "vi": "Quyết định sau khi trao đổi với cấp trên."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "text": "部下"
+        },
+        {
+          "type": "問",
+          "text": "同僚"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 9,
+      "kanji": "相手",
+      "kana": "あいて",
+      "en": "other person, opponent",
+      "kr": "상대, 상대방",
+      "vi": "đối phương, đối thủ, đối tác",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "相手の目を見て話す。",
+          "vi": "Nói chuyện trong khi nhìn vào mắt đối phương."
+        },
+        {
+          "ja": "今度の試合の相手は強そうだ。",
+          "vi": "Đối thủ của trận lần này có vẻ mạnh."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "話し相手、結婚相手、相談相手"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 10,
+      "kanji": "知り合い",
+      "kana": "しりあい",
+      "en": "acquaintance",
+      "kr": "아는 사람",
+      "vi": "người quen",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "知り合いに息子の就職を頼む。",
+          "vi": "Nhờ người quen việc tìm việc cho con trai."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "text": "知人"
+        },
+        {
+          "type": "問",
+          "text": "友だち、友人、親友"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 11,
+      "kanji": "友人",
+      "kana": "ゆうじん",
+      "en": "friend",
+      "kr": "친구",
+      "vi": "bạn bè",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「田中さんを知っていますか」「ええ、学生時代の友人です」",
+          "vi": "\"Bạn có biết Tanaka không?\" \"Vâng, là bạn của tôi thời học sinh.\""
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "text": "友だち"
+        },
+        {
+          "type": "問",
+          "text": "親友、知り合い"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 12,
+      "kanji": "仲",
+      "kana": "なか",
+      "en": "relations",
+      "kr": "사이",
+      "vi": "quan hệ, tình cảm (giữa người với người)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "私は山本さんと仲がいい。",
+          "vi": "Tôi thân thiết với Yamamoto."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "仲がいい／悪い"
+        },
+        {
+          "type": "合",
+          "text": "仲間、仲良し"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 13,
+      "kanji": "生年月日",
+      "kana": "せいねんがっぴ",
+      "en": "date of birth",
+      "kr": "생년월일",
+      "vi": "ngày tháng năm sinh",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "書類に生年月日を記入する。",
+          "vi": "Điền ngày tháng năm sinh vào giấy tờ."
+        }
+      ],
+      "related": [
+        {
+          "type": "問",
+          "text": "誕生日"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 14,
+      "kanji": "誕生する",
+      "kana": "たんじょうする",
+      "en": "birth",
+      "kr": "탄생",
+      "vi": "sự ra đời, sự chào đời",
+      "senses": [
+        {
+          "label": "①",
+          "vi": "sự chào đời, sự ra đời (của sinh mệnh)"
+        }
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "ja": "新しい命の誕生を祝う。",
+          "vi": "Chúc mừng sự chào đời của một sinh mệnh mới."
+        },
+        {
+          "sense": "①",
+          "ja": "結婚2年目に子どもが誕生した。",
+          "vi": "Năm thứ hai sau kết hôn, con chào đời."
+        },
+        {
+          "sense": "②",
+          "ja": "新政権が誕生する。",
+          "vi": "Chính quyền mới ra đời."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "誕生日"
+        },
+        {
+          "type": "問",
+          "text": "①②生まれる →166"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 15,
+      "kanji": "年",
+      "kana": "とし",
+      "en": "year, age",
+      "kr": "해, 나이",
+      "vi": "năm; tuổi",
+      "senses": [
+        {
+          "label": "①",
+          "vi": "năm (đầu năm lập kế hoạch một năm)"
+        },
+        {
+          "label": "②",
+          "vi": "tuổi, tuổi tác"
+        }
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "ja": "年の初めに1年の計画を立てる。",
+          "vi": "Đầu năm, lập kế hoạch cho cả năm."
+        },
+        {
+          "sense": "②",
+          "ja": "父は年より若く見える。",
+          "vi": "Bố tôi trông trẻ hơn tuổi."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "年が始まる／終わる、年が明ける、年が過ぎる"
+        },
+        {
+          "type": "合",
+          "text": "年明け"
+        },
+        {
+          "type": "連",
+          "text": "年をとる"
+        },
+        {
+          "type": "合",
+          "text": "(お)年寄り"
+        },
+        {
+          "type": "類",
+          "text": "年齢"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 16,
+      "kanji": "出身",
+      "kana": "しゅっしん",
+      "en": "origin, homeland",
+      "kr": "출신",
+      "vi": "quê quán, xuất thân",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「ご出身はどちらですか」「東京です」",
+          "vi": "\"Bạn quê ở đâu?\" \"Tôi quê Tokyo.\""
+        },
+        {
+          "ja": "私は{東京／東京大学 …}の出身です。",
+          "vi": "Tôi xuất thân từ {Tokyo / Đại học Tokyo ...}."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "出身地、出身校、{地名／学校名 …}＋出身"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 17,
+      "kanji": "故郷",
+      "kana": "こきょう",
+      "en": "hometown",
+      "kr": "고향",
+      "vi": "quê hương, cố hương",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "住み慣れて、もう何年も故郷に帰っていない。",
+          "vi": "Đã quen nơi sống nên đã nhiều năm không quay về quê hương."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "text": "ふるさと"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 18,
+      "kanji": "成長する",
+      "kana": "せいちょうする",
+      "en": "growth",
+      "kr": "성장",
+      "vi": "sự trưởng thành, tăng trưởng",
+      "senses": [
+        {
+          "label": "①",
+          "vi": "(người, thân thể) lớn lên, trưởng thành"
+        },
+        {
+          "label": "②",
+          "vi": "(sự nghiệp, kinh tế) phát triển, tăng trưởng"
+        }
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "ja": "子どもの成長を喜ぶ。",
+          "vi": "Mừng sự lớn lên của con cái."
+        },
+        {
+          "sense": "①",
+          "ja": "りっぱな大人に成長する。",
+          "vi": "Trưởng thành thành một người lớn tử tế."
+        },
+        {
+          "sense": "②",
+          "ja": "事業の成長",
+          "vi": "Sự phát triển của sự nghiệp, kinh doanh."
+        },
+        {
+          "sense": "②",
+          "ja": "経済が大きく成長した。",
+          "vi": "Kinh tế đã tăng trưởng mạnh."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "高度経済、成長率"
+        },
+        {
+          "type": "問",
+          "text": "育つ →478"
+        }
+      ],
+      "notes": "合 box in sách: 「高度経済、_率」(chỗ trống điền 成長 → 成長率)."
+    },
+    {
+      "no": 19,
+      "kanji": "成人する",
+      "kana": "せいじんする",
+      "en": "adult",
+      "kr": "성인",
+      "vi": "người trưởng thành, thành niên",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "日本では二十歳以上の人を成人という。",
+          "vi": "Ở Nhật, những người từ 20 tuổi trở lên được gọi là người trưởng thành."
+        },
+        {
+          "ja": "息子は成人して働いている。",
+          "vi": "Con trai tôi đã trưởng thành và đang đi làm."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "成人式"
+        },
+        {
+          "type": "対",
+          "text": "未成年"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 20,
+      "kanji": "合格する",
+      "kana": "ごうかくする",
+      "en": "passing, acceptance",
+      "kr": "합격",
+      "vi": "đậu, vượt qua (kỳ thi); đạt chuẩn",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "{大学／大学試験／検査 …}に合格する。",
+          "vi": "Đậu {đại học / kỳ thi đại học / kỳ kiểm tra ...}."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "合格者、合格率"
+        },
+        {
+          "type": "対",
+          "text": "不合格（×不合格する ○不合格になる／不合格だ）"
+        }
+      ],
+      "notes": "Lưu ý ngữ pháp: ×不合格する ○不合格になる／不合格だ."
+    },
+    {
+      "no": 21,
+      "kanji": "進学する",
+      "kana": "しんがくする",
+      "en": "going to a higher school",
+      "kr": "진학",
+      "vi": "tiến lên bậc học cao hơn (lên cấp, vào đại học)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "子どもの進学について考える。",
+          "vi": "Suy nghĩ về việc học lên của con cái."
+        },
+        {
+          "ja": "大学院に進学する。",
+          "vi": "Tiến vào học viện cao học (sau đại học)."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "進学率"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 22,
+      "kanji": "退学する",
+      "kana": "たいがくする",
+      "en": "expulsion, dropping out",
+      "kr": "퇴학",
+      "vi": "nghỉ học, thôi học, bị đuổi học",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "退学の理由を説明する。",
+          "vi": "Giải thích lý do nghỉ học."
+        },
+        {
+          "ja": "病気で大学を退学した。",
+          "vi": "Vì bệnh mà phải nghỉ học đại học."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "退学届、退学処分"
+        },
+        {
+          "type": "問",
+          "text": "中途(り)退学"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 23,
+      "kanji": "就職する",
+      "kana": "しゅうしょくする",
+      "en": "getting employed, finding employment",
+      "kr": "취직",
+      "vi": "xin được việc, tìm được việc làm",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "旅行会社に就職する。",
+          "vi": "Vào làm việc ở công ty du lịch."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "就職活動、就職試験、就職難"
+        },
+        {
+          "type": "対",
+          "text": "退職する"
+        },
+        {
+          "type": "問",
+          "text": "履歴書"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 24,
+      "kanji": "退職する",
+      "kana": "たいしょくする",
+      "en": "resignation, retirement",
+      "kr": "퇴직",
+      "vi": "nghỉ việc, nghỉ hưu",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "母の介護のため、退職を決めた。",
+          "vi": "Vì chăm sóc mẹ nên quyết định nghỉ việc."
+        },
+        {
+          "ja": "長年勤めた会社を退職した。",
+          "vi": "Đã nghỉ khỏi công ty mà đã gắn bó làm việc nhiều năm."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "定年退職、退職金"
+        },
+        {
+          "type": "対",
+          "text": "就職する"
+        },
+        {
+          "type": "類",
+          "text": "辞職(ラ)スル"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 25,
+      "kanji": "失業する",
+      "kana": "しつぎょうする",
+      "en": "unemployment",
+      "kr": "실업",
+      "vi": "mất việc, thất nghiệp",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "会社が倒産して失業した。",
+          "vi": "Công ty phá sản nên đã mất việc."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "失業率、失業者、失業保険"
+        },
+        {
+          "type": "問",
+          "text": "ぐん、リストラ"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 26,
+      "kanji": "残業(ラ)スル",
+      "kana": "ざんぎょう(ラ)する",
+      "en": "overtime work",
+      "kr": "잔업",
+      "vi": "làm thêm giờ, tăng ca",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "残業が多くて疲れた。",
+          "vi": "Làm thêm giờ nhiều nên mệt."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "残業代、残業時間"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 27,
+      "kanji": "生活(ラ)スル",
+      "kana": "せいかつ(ラ)する",
+      "en": "life",
+      "kr": "생활",
+      "vi": "cuộc sống, sinh hoạt",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "健康な生活を送る。",
+          "vi": "Sống một cuộc sống lành mạnh."
+        },
+        {
+          "ja": "「もう少し日本の生活に慣れましたか」",
+          "vi": "\"Bạn đã quen với cuộc sống ở Nhật thêm chút nào chưa?\""
+        },
+        {
+          "ja": "外国で生活するのは楽しい。",
+          "vi": "Sinh sống ở nước ngoài rất vui."
+        },
+        {
+          "ja": "虫の生活を観察する。",
+          "vi": "Quan sát cuộc sống của côn trùng."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "生活が苦しい／楽だ、{楽しい／苦しい／豊かな …}生活を送る"
+        },
+        {
+          "type": "合",
+          "text": "生活費、学生生活、社会生活、結婚生活、年金生活"
+        },
+        {
+          "type": "類",
+          "text": "暮らし →746"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 28,
+      "kanji": "通勤する",
+      "kana": "つうきんする",
+      "en": "commuting (to work)",
+      "kr": "출근",
+      "vi": "đi làm (hằng ngày)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "私は毎日1時間かけて通勤している。",
+          "vi": "Tôi dành 1 tiếng mỗi ngày để đi làm."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "通勤時間"
+        },
+        {
+          "type": "問",
+          "text": "通学する、通院する"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 29,
+      "kanji": "学歴",
+      "kana": "がくれき",
+      "en": "educational background",
+      "kr": "학력",
+      "vi": "học vấn, bằng cấp",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "学歴が高くても、実力があるかどうかはわからない。",
+          "vi": "Dù học vấn cao cũng không biết có thực lực hay không."
+        },
+        {
+          "ja": "子どもにいい学歴をつけさせたいと思う親が多い。",
+          "vi": "Nhiều bậc phụ huynh muốn cho con có học hành đàng hoàng."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "学歴が高い／低い、学歴をつける"
+        },
+        {
+          "type": "合",
+          "text": "高学歴、学歴社会"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 30,
+      "kanji": "給料",
+      "kana": "きゅうりょう",
+      "en": "salary, pay",
+      "kr": "급료",
+      "vi": "lương, tiền lương",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "会社から給料をもらう。",
+          "vi": "Nhận lương từ công ty."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "給料日"
+        },
+        {
+          "type": "問",
+          "text": "時給、月給"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 31,
+      "kanji": "面接(ラ)スル",
+      "kana": "めんせつ(ラ)する",
+      "en": "interview",
+      "kr": "면접",
+      "vi": "phỏng vấn",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "きょう、会社の人との面接がある。",
+          "vi": "Hôm nay có buổi phỏng vấn với người của công ty."
+        },
+        {
+          "ja": "受験者の面接を行う。",
+          "vi": "Tiến hành phỏng vấn thí sinh."
+        },
+        {
+          "ja": "先生が学生を面接する。",
+          "vi": "Giáo viên phỏng vấn sinh viên."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "面接試験、面接官"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 32,
+      "kanji": "休憩(ラ)スル",
+      "kana": "きゅうけい(ラ)する",
+      "en": "break",
+      "kr": "휴식",
+      "vi": "nghỉ ngơi, giải lao",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「ではここで、10分間の休憩です」",
+          "vi": "\"Bây giờ, nghỉ giải lao 10 phút ở đây nhé.\""
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "休憩をとる"
+        },
+        {
+          "type": "合",
+          "text": "休憩時間、休憩室、休憩所"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 33,
+      "kanji": "観光(ラ)スル",
+      "kana": "かんこう(ラ)する",
+      "en": "tourism, sightseeing",
+      "kr": "관광",
+      "vi": "du lịch, tham quan",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「来日の日は観光です」",
+          "vi": "\"Ngày sang Nhật là để du lịch.\""
+        },
+        {
+          "ja": "先週、京都を観光してまわった。",
+          "vi": "Tuần trước đã đi tham quan khắp Kyoto."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "観光客、観光旅行、観光地、観光バス、{地名}＋観光（例：京都観光）"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 34,
+      "kanji": "帰国する",
+      "kana": "きこくする",
+      "en": "returning to one's country",
+      "kr": "귀국",
+      "vi": "về nước",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "今度の正月には帰国するつもりだ。",
+          "vi": "Dịp năm mới lần này định về nước."
+        }
+      ],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 35,
+      "kanji": "帰省する",
+      "kana": "きせいする",
+      "en": "returning to one's hometown",
+      "kr": "귀성",
+      "vi": "về quê (thăm nhà)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "お盆にはふるさとに帰省する日本人が多い。",
+          "vi": "Vào dịp Obon có nhiều người Nhật về quê hương."
+        }
+      ],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 36,
+      "kanji": "帰宅する",
+      "kana": "きたくする",
+      "en": "going home",
+      "kr": "귀가",
+      "vi": "về nhà",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "毎日忙しくて帰宅が遅い。",
+          "vi": "Mỗi ngày đều bận rộn nên về nhà muộn."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "帰宅時間"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 37,
+      "kanji": "参加(ラ)スル",
+      "kana": "さんか(ラ)する",
+      "en": "participation",
+      "kr": "참가",
+      "vi": "tham gia",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "ボランティア活動に参加する。",
+          "vi": "Tham gia hoạt động tình nguyện."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "参加者"
+        },
+        {
+          "type": "対",
+          "text": "不参加（○不参加だ ×不参加する）"
+        }
+      ],
+      "notes": "Lưu ý: ○不参加だ ×不参加する."
+    },
+    {
+      "no": 38,
+      "kanji": "出席する",
+      "kana": "しゅっせきする",
+      "en": "attendance",
+      "kr": "출석",
+      "vi": "có mặt, tham dự",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "ミーティングに出席する。",
+          "vi": "Tham dự cuộc họp."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "出席者、出席簿"
+        }
+      ],
+      "notes": "Ví dụ dùng chung với từ 39 (欠席する)."
+    },
+    {
+      "no": 39,
+      "kanji": "欠席する",
+      "kana": "けっせきする",
+      "en": "absence",
+      "kr": "결석",
+      "vi": "vắng mặt, nghỉ học",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "授業を欠席する。",
+          "vi": "Nghỉ buổi học."
+        },
+        {
+          "ja": "高橋さんは今度の同窓会は「欠席だ／欠席する」そうだ。",
+          "vi": "Nghe nói Takahashi lần họp lớp tới sẽ \"vắng mặt\"."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "欠席者、欠席届"
+        }
+      ],
+      "notes": "Sách ghi 〔欠席だ／欠席する〕."
+    },
+    {
+      "no": 40,
+      "kanji": "遅刻(ラ)スル",
+      "kana": "ちこく(ラ)する",
+      "en": "arriving late",
+      "kr": "지각",
+      "vi": "đi trễ, đến muộn",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "寝坊して授業に遅刻する。",
+          "vi": "Ngủ quên nên đến lớp trễ."
+        },
+        {
+          "ja": "面接では１分の遅刻も許されない。",
+          "vi": "Trong buổi phỏng vấn, đi trễ 1 phút cũng không được phép."
+        }
+      ],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 41,
+      "kanji": "化粧(ラ)スル",
+      "kana": "けしょう(ラ)する",
+      "en": "makeup",
+      "kr": "화장",
+      "vi": "trang điểm",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「あなたは毎日、お化粧に何分ぐらいかけていますか」",
+          "vi": "\"Mỗi ngày bạn dành khoảng bao nhiêu phút để trang điểm?\""
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "化粧を落とす、化粧が濃い／薄い"
+        },
+        {
+          "type": "合",
+          "text": "化粧品"
+        },
+        {
+          "type": "類",
+          "text": "メイク(ラ)スル"
+        },
+        {
+          "type": "問",
+          "text": "口紅"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 42,
+      "kanji": "計算(ラ)スル",
+      "kana": "けいさん(ラ)する",
+      "en": "calculation",
+      "kr": "계산",
+      "vi": "tính toán, tính",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "私は計算が苦手だ。",
+          "vi": "Tôi dốt tính toán."
+        },
+        {
+          "ja": "旅行にいくらかかるか計算する。",
+          "vi": "Tính xem chuyến đi tốn bao nhiêu tiền."
+        }
+      ],
+      "related": [
+        {
+          "type": "問",
+          "text": "電卓、電子式卓上計算機"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 43,
+      "kanji": "計画(ラ)スル",
+      "kana": "けいかく(ラ)する",
+      "en": "plan",
+      "kr": "계획",
+      "vi": "kế hoạch; hoạch định",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "来年の計画を立てる。",
+          "vi": "Lập kế hoạch cho năm tới."
+        },
+        {
+          "ja": "夏休みには富士山に登ろうと計画している。",
+          "vi": "Kế hoạch leo núi Phú Sĩ vào kỳ nghỉ hè."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "計画を立てる"
+        },
+        {
+          "type": "類",
+          "text": "プラン"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 44,
+      "kanji": "成功する",
+      "kana": "せいこうする",
+      "en": "success",
+      "kr": "성공",
+      "vi": "thành công",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "Ví dụ dùng chung với từ 45 (失敗する)."
+    },
+    {
+      "no": 45,
+      "kanji": "失敗する",
+      "kana": "しっぱいする",
+      "en": "failure",
+      "kr": "실패",
+      "vi": "thất bại",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "実験に成功する。",
+          "vi": "Thành công trong thí nghiệm."
+        },
+        {
+          "ja": "実験は大成功だった。",
+          "vi": "Cuộc thí nghiệm là một thành công lớn."
+        },
+        {
+          "ja": "実験の失敗で、計画は中止になった。",
+          "vi": "Vì thí nghiệm thất bại nên kế hoạch bị hủy bỏ."
+        },
+        {
+          "ja": "このパソコンを買ったのは失敗だった。",
+          "vi": "Việc mua chiếc máy tính này là một thất bại."
+        },
+        {
+          "ja": "入試に失敗する。",
+          "vi": "Thất bại trong kỳ thi tuyển sinh."
+        },
+        {
+          "ja": "計画が失敗した。",
+          "vi": "Kế hoạch đã thất bại."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "大成功"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 46,
+      "kanji": "準備(ラ)スル",
+      "kana": "じゅんび(ラ)する",
+      "en": "preparation",
+      "kr": "준비",
+      "vi": "chuẩn bị",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "引っ越しの準備が終わった。",
+          "vi": "Việc chuẩn bị chuyển nhà đã xong."
+        },
+        {
+          "ja": "会議の資料を準備する。",
+          "vi": "Chuẩn bị tài liệu cho cuộc họp."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "text": "用意(ラ)スル"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 47,
+      "kanji": "整理(ラ)スル",
+      "kana": "せいり(ラ)する",
+      "en": "organizing, arrangement; disposal",
+      "kr": "정리",
+      "vi": "sắp xếp, dọn dẹp; xử lý (bỏ đi)",
+      "senses": [
+        {
+          "label": "①",
+          "vi": "sắp xếp, chỉnh lý (tài liệu, đồ đeda)"
+        },
+        {
+          "label": "②",
+          "vi": "dọn bỏ, thanh lý những thứ không cần thiết"
+        }
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "ja": "資料の整理",
+          "vi": "Việc sắp xếp tài liệu."
+        },
+        {
+          "sense": "①",
+          "ja": "勉強の前に机の上を整理する。",
+          "vi": "Trước khi học, dọn dẹp mặt bàn."
+        },
+        {
+          "sense": "②",
+          "ja": "不用品の整理",
+          "vi": "Việc thanh lý đồ không dùng đến."
+        },
+        {
+          "sense": "②",
+          "ja": "引っ越しの前に、古い物を整理する。",
+          "vi": "Trước khi chuyển nhà, dọn bớt đồ cũ."
+        }
+      ],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 48,
+      "kanji": "注文(ラ)スル",
+      "kana": "ちゅうもん(ラ)する",
+      "en": "order; request",
+      "kr": "주문",
+      "vi": "gọi món, đặt hàng; yêu cầu, dặn dò",
+      "senses": [
+        {
+          "label": "①",
+          "vi": "gọi món, đặt hàng"
+        },
+        {
+          "label": "②",
+          "vi": "yêu cầu, dặn dò, đòi hỏi"
+        }
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "ja": "注文した品が届く。",
+          "vi": "Đơn hàng đã đặt được giao đến."
+        },
+        {
+          "sense": "①",
+          "ja": "喫茶店でコーヒーを注文する。",
+          "vi": "Gọi cà phê ở quán cà phê."
+        },
+        {
+          "sense": "①",
+          "ja": "書店に本を注文する。",
+          "vi": "Đặt sách ở hiệu sách."
+        },
+        {
+          "sense": "②",
+          "ja": "工事を早くするように注文をつける。",
+          "vi": "Dặn dò cho hoàn công sớm hơn."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "注文をとる"
+        },
+        {
+          "type": "連",
+          "text": "=注文をつける (=＝注文をつける)"
+        }
+      ],
+      "notes": "Sách in 「_をとる」「=＿をつける」— cụm phổ biến: 注文をとる (ghi nhận đơn), 注文をつける (chép móng, bắt bẻ yêu cầu)."
+    },
+    {
+      "no": 49,
+      "kanji": "貯金(ラ)スル",
+      "kana": "ちょきん(ラ)する",
+      "en": "savings, depositing",
+      "kr": "저금",
+      "vi": "tiết kiệm, gửi tiết kiệm",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "貯金が増える。",
+          "vi": "Tiền tiết kiệm tăng lên."
+        },
+        {
+          "ja": "銀行にボーナスを貯金する。",
+          "vi": "Gửi tiền thưởng vào ngân hàng."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "貯金をおろす、貯金を引き出す"
+        },
+        {
+          "type": "合",
+          "text": "貯金通帳、貯金箱"
+        },
+        {
+          "type": "類",
+          "text": "預金"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 50,
+      "kanji": "徹夜(ラ)スル",
+      "kana": "てつや(ラ)する",
+      "en": "staying up all night",
+      "kr": "철야",
+      "vi": "thức trắng đêm",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "徹夜が続く。",
+          "vi": "Thức trắng đêm liên tục."
+        },
+        {
+          "ja": "徹夜で勉強する。",
+          "vi": "Học cả đêm không ngủ."
+        },
+        {
+          "ja": "きょうは徹夜だ。",
+          "vi": "Tối nay thức trắng đêm."
+        },
+        {
+          "ja": "仕事で徹夜をする。",
+          "vi": "Vì công việc mà thức trắng đêm."
+        }
+      ],
+      "related": [],
+      "notes": null
+    },
+    {
+      "no": 51,
+      "kanji": "引っ越し(ラ)スル",
+      "kana": "ひっこし(ラ)する",
+      "en": "move",
+      "kr": "이사",
+      "vi": "chuyển nhà",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "引っ越しを手伝う。",
+          "vi": "Giúp việc chuyển nhà."
+        },
+        {
+          "ja": "東京から横浜へ引っ越しする。",
+          "vi": "Chuyển nhà từ Tokyo sang Yokohama."
+        }
+      ],
+      "related": [
+        {
+          "type": "動",
+          "text": "引っ越す"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 52,
+      "kanji": "身長",
+      "kana": "しんちょう",
+      "en": "body height",
+      "kr": "신장, 키",
+      "vi": "chiều cao",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "身長を測る。",
+          "vi": "Đo chiều cao."
+        },
+        {
+          "ja": "兄は身長が高い。",
+          "vi": "Anh trai tôi có chiều cao cao."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "身長が高い／低い、身長が伸びる"
+        },
+        {
+          "type": "問",
+          "text": "背"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "no": 53,
+      "kanji": "体重",
+      "kana": "たいじゅう",
+      "en": "body weight",
+      "kr": "체중",
+      "vi": "cân nặng, thể trọng",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "体重を測る。",
+          "vi": "Đo cân nặng."
+        },
+        {
+          "ja": "父の体重は60キロだ。",
+          "vi": "Cân nặng của bố là 60 ký."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_が多い／少ない、_が増える／減る"
+        },
+        {
+          "type": "合",
+          "text": "_計 (体重計)"
+        },
+        {
+          "type": "関",
+          "text": "太る ⇔ やせる"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "no": 54,
+      "kanji": "",
+      "kana": "けが",
+      "en": "injury",
+      "kr": "상처, 부상",
+      "vi": "vết thương, bị thương",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "小さなけが",
+          "vi": "Vết thương nhỏ."
+        },
+        {
+          "ja": "転んで足にけがをした。",
+          "vi": "Ngã nên bị thương ở chân."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_をする、_が治る ・ _を治す"
+        },
+        {
+          "type": "合",
+          "text": "大_ (大けが)、_人 (けが人)"
+        },
+        {
+          "type": "関",
+          "text": "きず、やけど、骨折"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "no": 55,
+      "kanji": "会",
+      "kana": "かい",
+      "en": "party",
+      "kr": "모임",
+      "vi": "buổi họp, tiệc, cuộc gặp",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "忘年会を「開く／する」。",
+          "vi": "Tổ chức / mở tiệc tất niên."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "記念年_、新年_、送別_、歓迎_、飲み_、宴_、誕生日_、クリスマス_、同窓_"
+        }
+      ],
+      "notes": "合 box: điền 会 vào chỗ trống (記念会、新年会、送別会、歓迎会、飲み会、宴会、誕生日会、クリスマス会、同窓会). 「記念年_」 in đậm sát nhau, có thể là 記念_ và 年_ hai mục liền dòng."
+    },
+    {
+      "no": 56,
+      "kanji": "趣味",
+      "kana": "しゅみ",
+      "en": "hobby, interest, taste",
+      "kr": "취미",
+      "vi": "sở thích; gu, thẩm mỹ",
+      "senses": [
+        {
+          "label": "①",
+          "text": "趣味は読書です。",
+          "vi": "Sở thích của tôi là đọc sách.",
+          "related": [
+            {
+              "type": "連",
+              "text": "_が広い"
+            }
+          ]
+        },
+        {
+          "label": "②",
+          "text": "彼女はいつも趣味のいい服を着ている。",
+          "vi": "Cô ấy lúc nào cũng mặc những bộ quần áo có gu đẹp.",
+          "related": [
+            {
+              "type": "連",
+              "text": "_がいい ◇悪い"
+            }
+          ]
+        }
+      ],
+      "examples": [],
+      "related": [],
+      "notes": "Nghĩa ①: sở thích; nghĩa ②: gu / thẩm mỹ (tính từ: 趣味のいい = có gu đẹp)."
+    },
+    {
+      "no": 57,
+      "kanji": "興味",
+      "kana": "きょうみ",
+      "en": "interest",
+      "kr": "관심",
+      "vi": "sự quan tâm, hứng thú",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "私は歴史に興味がある。",
+          "vi": "Tôi quan tâm / hứng thú với lịch sử."
+        },
+        {
+          "ja": "小さな子どもは何にでも興味を持つ。",
+          "vi": "Trẻ nhỏ hứng thú với mọi thứ."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_がある／ない、_を持つ"
+        },
+        {
+          "type": "合",
+          "text": "_深い (興味深い)"
+        },
+        {
+          "type": "類",
+          "text": ""
+        },
+        {
+          "type": "関",
+          "text": "関心"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "no": 58,
+      "kanji": "思い出",
+      "kana": "おもいで",
+      "en": "memory",
+      "kr": "추억",
+      "vi": "kỷ niệm",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "子どものころの思い出",
+          "vi": "Kỷ niệm thời thơ ấu."
+        },
+        {
+          "ja": "日本で富士山に登ったのは、いい思い出だ。",
+          "vi": "Việc leo núi Fuji ở Nhật là một kỷ niệm đẹp."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "いい_"
+        },
+        {
+          "type": "関",
+          "text": "思い出す"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "no": 59,
+      "kanji": "冗談",
+      "kana": "じょうだん",
+      "en": "joke",
+      "kr": "농담",
+      "vi": "lời nói đùa",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "冗談を言ったら、みんなが本気にした。",
+          "vi": "Vì nói đùa nên mọi người đã nhận cho thật."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_を言う"
+        },
+        {
+          "type": "×",
+          "text": "冗談する"
+        }
+      ],
+      "notes": "×冗談する là cách dùng sai."
+    },
+    {
+      "no": 60,
+      "kanji": "目的",
+      "kana": "もくてき",
+      "en": "purpose",
+      "kr": "목적",
+      "vi": "mục đích",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "日本に来た目的は大学への入学だ。",
+          "vi": "Mục đích đến Nhật là để vào đại học."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "_地 (目的地)"
+        },
+        {
+          "type": "関",
+          "text": "目標"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "no": 61,
+      "kanji": "約束",
+      "kana": "やくそく",
+      "en": "promise, appointment",
+      "kr": "약속",
+      "vi": "lời hứa, sự hẹn; hứa, hẹn (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "彼と結婚の約束をした。",
+          "vi": "Đã hứa kết hôn với anh ấy."
+        },
+        {
+          "ja": "再会を約束して別れた。",
+          "vi": "Hứa sẽ gặp lại rồi chia tay."
+        },
+        {
+          "ja": "約束の時間に間に合うかどうか心配だ。",
+          "vi": "Lo không biết có kịp giờ hẹn không."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_を守る ◇破る"
+        }
+      ],
+      "notes": "(スル) động từ: 約束する."
+    },
+    {
+      "no": 62,
+      "kanji": "おしゃべり",
+      "kana": "おしゃべり",
+      "en": "chatting; talkativeness",
+      "kr": "잡담, 수다; 수다스러움",
+      "vi": "chuyện phiếm; tán gẫu; người nhiều chuyện (スル/ナ)",
+      "senses": [
+        {
+          "label": "①",
+          "text": "授業中に隣の人とおしゃべりをしていて、先生に怒られた。",
+          "vi": "Vì chuyện phiếm với người ngồi cạnh trong giờ học nên bị thầy cô mắng.",
+          "related": [
+            {
+              "type": "動",
+              "text": "しゃべる"
+            }
+          ]
+        },
+        {
+          "label": "②",
+          "text": "(ナ形) おしゃべりな",
+          "vi": "(tính từ ナ) hay tán gẫu, nhiều chuyện",
+          "related": [
+            {
+              "type": "例",
+              "text": "おしゃべりな人 ・ あの人はおしゃべりだ。"
+            }
+          ]
+        }
+      ],
+      "examples": [],
+      "related": [],
+      "notes": "(スル/ナ): vừa là danh từ/スル động từ, vừa là tính từ ナ形."
+    },
+    {
+      "no": 63,
+      "kanji": "遠慮",
+      "kana": "えんりょ",
+      "en": "reserve, refraining",
+      "kr": "사양, 삼감",
+      "vi": "sự e dè, kiêng nể, khéo giữ phép; nhún nhường, kiềm chế (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「遠慮しないで食べてください」",
+          "vi": "\"Cứ ăn đi, đừng ngại.\""
+        },
+        {
+          "ja": "上司に遠慮して、自分の意見が言えなかった。",
+          "vi": "Vì e dè sếp nên không nói nổi ý kiến của mình."
+        },
+        {
+          "ja": "「ここではたばこはご遠慮ください」",
+          "vi": "\"Xin vui lòng không hút thuốc ở đây.\""
+        }
+      ],
+      "related": [],
+      "notes": "(スル)."
+    },
+    {
+      "no": 64,
+      "kanji": "我慢",
+      "kana": "がまん",
+      "en": "endurance, patience",
+      "kr": "참음, 인내",
+      "vi": "sự nhẫn nại, chịu đựng (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "痛くてもがまんする。",
+          "vi": "Dù đau cũng chịu đựng."
+        },
+        {
+          "ja": "眠いのをがまんして勉強した。",
+          "vi": "Nhịn cơn buồn ngủ để học."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "_強い (我慢強い)"
+        }
+      ],
+      "notes": "(スル)."
+    },
+    {
+      "no": 65,
+      "kanji": "迷惑",
+      "kana": "めいわく",
+      "en": "nuisance",
+      "kr": "폐, 귀찮음",
+      "vi": "sự phiền phức, gây phiền (スル/ナ)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "人に迷惑をかけてはいけない。",
+          "vi": "Không được gây phiền cho người khác."
+        },
+        {
+          "ja": "夜中に騒がれて迷惑する。",
+          "vi": "Bị ồn ào giữa đêm nên khổ sở."
+        },
+        {
+          "ja": "迷惑な人",
+          "vi": "Người phiền phức / gây phiền."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_がかかる ・ _をかける"
+        },
+        {
+          "type": "合",
+          "text": "近所_ (近所迷惑)"
+        }
+      ],
+      "notes": "(スル/ナ)."
+    },
+    {
+      "no": 66,
+      "kanji": "希望",
+      "kana": "きぼう",
+      "en": "hope, wish",
+      "kr": "희망",
+      "vi": "hy vọng, nguyện vọng (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "最後まで希望を捨ててはいけない。",
+          "vi": "Không được bỏ rơi hy vọng cho đến cùng."
+        },
+        {
+          "ja": "私はふるさとでの就職を希望している。",
+          "vi": "Tôi mong muốn xin việc ở quê hương."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "_者 (希望者)"
+        },
+        {
+          "type": "類",
+          "text": "望み"
+        },
+        {
+          "type": "関",
+          "text": "望む (739)"
+        }
+      ],
+      "notes": "(スル). Số 739 là số từ tham chiếu trong sách."
+    },
+    {
+      "no": 67,
+      "kanji": "夢",
+      "kana": "ゆめ",
+      "en": "dream",
+      "kr": "꿈",
+      "vi": "giấc mơ; ước mơ",
+      "senses": [
+        {
+          "label": "①",
+          "text": "きのう、こわい夢を見た。",
+          "vi": "Hôm qua tôi đã thấy một giấc mơ đáng sợ.",
+          "related": [
+            {
+              "type": "連",
+              "text": "_を見る、_からさめる"
+            }
+          ]
+        },
+        {
+          "label": "②",
+          "text": "「あなたの将来の夢は何ですか」",
+          "vi": "\"Ước mơ trong tương lai của bạn là gì?\"",
+          "related": [
+            {
+              "type": "連",
+              "text": "_がある ◇ない、_を持つ、_がかなう ・ _をかなえる"
+            }
+          ]
+        }
+      ],
+      "examples": [],
+      "related": [],
+      "notes": "Nghĩa ①: giấc mơ khi ngủ; nghĩa ②: ước mơ, khát vọng."
+    },
+    {
+      "no": 68,
+      "kanji": "賛成",
+      "kana": "さんせい",
+      "en": "agreement, support",
+      "kr": "찬성",
+      "vi": "sự tán thành, đồng ý (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "「賛成の人は手を挙げてください」",
+          "vi": "\"Bạn nào tán thành xin giơ tay lên.\""
+        },
+        {
+          "ja": "私はその提案〔意見〕に〔賛成だ／賛成する〕。",
+          "vi": "Tôi tán thành / tán thành với đề xuất [ý kiến] đó."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "text": "_意見 (賛成意見)"
+        },
+        {
+          "type": "対",
+          "text": "反対スル"
+        }
+      ],
+      "notes": "(スル). Mẫu: 〜に賛成だ／賛成する."
+    },
+    {
+      "no": 69,
+      "kanji": "反対",
+      "kana": "はんたい",
+      "en": "opposite, opposition",
+      "kr": "반대",
+      "vi": "sự đối lập, ngược lại; sự phản đối (スル)",
+      "senses": [
+        {
+          "label": "①",
+          "text": "プラスの反対はマイナスだ。",
+          "vi": "Đối lập của cộng là trừ.",
+          "related": [
+            {
+              "type": "合",
+              "text": "_側 (反対側)"
+            }
+          ]
+        },
+        {
+          "label": "②",
+          "text": "彼の意見には反対だ。 ・ 提案に反対する。",
+          "vi": "Tôi phản đối ý kiến của anh ấy. ・ Phản đối đề xuất.",
+          "related": [
+            {
+              "type": "合",
+              "text": "_意見 (反対意見)"
+            },
+            {
+              "type": "対",
+              "text": "賛成スル"
+            }
+          ]
+        }
+      ],
+      "examples": [],
+      "related": [],
+      "notes": "(スル). Nghĩa ①: phía đối diện, ngược lại; nghĩa ②: phản đối."
+    },
+    {
+      "no": 70,
+      "kanji": "想像",
+      "kana": "そうぞう",
+      "en": "imagination",
+      "kr": "상상",
+      "vi": "sự tưởng tượng (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "想像と現実は違う。",
+          "vi": "Tưởng tượng và thực tế là khác nhau."
+        },
+        {
+          "ja": "100年後の未来を想像する。",
+          "vi": "Tưởng tượng về tương lai 100 năm sau."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_がつく (想像がつく)"
+        },
+        {
+          "type": "合",
+          "text": "_力 (想像力)"
+        }
+      ],
+      "notes": "(スル)."
+    },
+    {
+      "no": 71,
+      "kanji": "努力",
+      "kana": "どりょく",
+      "en": "effort",
+      "kr": "노력",
+      "vi": "sự nỗ lực, cố gắng (スル)",
+      "senses": [],
+      "examples": [
+        {
+          "ja": "一生懸命、努力する。",
+          "vi": "Cố gắng hết sức, dốc toàn lực."
+        }
+      ],
+      "related": [
+        {
+          "type": "連",
+          "text": "_を重ねる、_が実る"
+        },
+        {
+          "type": "合",
+          "text": "_家 (努力家)"
+        }
+      ],
+      "notes": "(スル)."
+    }
+  ],
+  "columns": [
+    {
+      "no": 1,
+      "title": "あいさつ",
+      "en": "Greeting",
+      "kr": "인사",
+      "vi": "Lời chào hỏi",
+      "page": 16,
+      "items": [
+        "家を出るとき「行ってきます」ー「行ってらっしゃい」",
+        "家に帰ったとき「ただいま」ー「お帰り（なさい）」",
+        "ほかの人がいる部屋に入るとき「失礼します」",
+        "ほかの人がいる部屋を出るとき「失礼します／しました」",
+        "ほかの人の家に入るとき「おじゃまします」",
+        "ほかの家にいて、玄関にだれもいないとき「ごめんください」",
+        "寝るとき「お休みなさい」",
+        "あやまるとき「失礼しました」「すみません」「ごめんなさい」",
+        "かたい表現 → やわらかい表現",
+        "その他・(人を待たせたとき)「お待たせしました」、「お元気ですか」ー「おかげさまで（元気です）」"
+      ]
+    },
+    {
+      "no": 2,
+      "title": "家族の呼び方",
+      "en": "Family",
+      "kr": "가족",
+      "vi": "Cách gọi người thân trong gia đình",
+      "page": 18,
+      "items": [
+        "(　)にあてはまる言葉を書きましょう。 (Điền từ phù hợp vào chỗ trống.)",
+        "「私の家族」sơ đồ 1: 15 ô trống (1)〜(15) với nam (男) / nữ (女) / nam-nữ (男女); có ghi 年上 / 年下, 父, 母, 私.",
+        "「ほかの人の家族」sơ đồ 2: 12 ô trống (1)〜(12); có おとうさん, おかあさん, あなた.",
+        "解答 「私の家族」: 1 そふ 祖父 / 2 そぼ 祖母 / 3 おじ / 4 おば / 5 おに 兄 / 6 あね 姉 / 7 おとうと 弟 / 8 いもうと 妹 / 9 (男) おっと 夫・しゅじん 主人, (女) つま 妻・かない 家内 / 10 むすこ 息子 / 11 むすめ 娘 / 12 まご 孫 / 13 いとこ / 14 おい / 15 めい",
+        "解答 「ほかの人の家族」: 1 おじいさん / 2 おばあさん / 3 おじさん / 4 おばさん / 5 おにいさん / 6 おねえさん / 7 おとうとさん / 8 いもうとさん / 9 (男) ご主人, (女) おくさん / 10 むすこさん / 11 おじょうさん / 12 おまごさん"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "page": 18,
+      "column": 2,
+      "title": "家族の呼び方",
+      "instruction": "(　)にあてはまる言葉を書きましょう。",
+      "vi": "Điền từ chỉ người thân phù hợp vào các ô ( ) trong hai sơ đồ gia đình 「私の家族」 (15 ô) và 「ほかの人の家族」 (12 ô). Đáp án (解答) in ở cột phải trang."
+    }
+  ],
+  "unit_pages": [
+    {
+      "pdf_page": 15,
+      "book_page": 14,
+      "section": "05",
+      "note": "Section header ⊙05 bắt đầu trang sách 14 (từ 53 体重 đến 60 目的)."
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 16,
+      "section": "06",
+      "note": "Section header ⊙06 bắt đầu trang sách 16 (từ 67 夢 đến 71 努力)."
+    }
+  ]
+}

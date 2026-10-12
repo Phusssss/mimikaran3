@@ -1,0 +1,1246 @@
+{
+  "pdf_pages": "69-78",
+  "words": [
+    {
+      "no": 299,
+      "kanji": "暖まる／温まる",
+      "kana": "あたたまる",
+      "en": "become warm",
+      "kr": "따뜻해지다",
+      "vi": "ấm lên, ấm áp lên",
+      "senses": [],
+      "examples": [
+        {"ja": "お風呂に入ると体が[暖/温]まる。", "vi": "Vào bồn tắm thì cơ thể ấm lên."}
+      ],
+      "related": [],
+      "notes": "（自）ガ／まとめ：い形容詞＋まる／める 299〜310"
+    },
+    {
+      "no": 300,
+      "kanji": "暖める／温める",
+      "kana": "あたためる",
+      "en": "warm, heat",
+      "kr": "따뜻하게 하다, 데우다",
+      "vi": "làm ấm, hâm nóng",
+      "senses": [],
+      "examples": [
+        {"ja": "エアコンをつけて部屋を暖める。", "vi": "Bật điều hòa để làm ấm phòng."},
+        {"ja": "スープを温める。", "vi": "Hâm nóng súp."}
+      ],
+      "related": [],
+      "notes": "（他）ヲ"
+    },
+    {
+      "no": 301,
+      "kanji": "高まる",
+      "kana": "たかまる",
+      "en": "rise",
+      "kr": "높아지다",
+      "vi": "tăng cao, dâng cao",
+      "senses": [],
+      "examples": [
+        {"ja": "台風が近づき、波が高まっている。", "vi": "Bão đang đến gần, sóng dâng cao."},
+        {"ja": "若者の政治への関心が高まっている。", "vi": "Sự quan tâm của giới trẻ đến chính trị đang tăng cao."},
+        {"ja": "［期待／人気／感情／能力／教育水準 ・・・］が高まる。", "vi": "［Kỳ vọng／độ nổi tiếng／cảm xúc／năng lực／trình độ giáo dục...］ tăng cao."}
+      ],
+      "related": [],
+      "notes": "（自）ガ；（名）高まり"
+    },
+    {
+      "no": 302,
+      "kanji": "高める",
+      "kana": "たかめる",
+      "en": "raise",
+      "kr": "높이다",
+      "vi": "nâng cao",
+      "senses": [],
+      "examples": [
+        {"ja": "若者はもっとコミュニケーション能力を高める必要がある。", "vi": "Giới trẻ cần nâng cao hơn nữa năng lực giao tiếp."},
+        {"ja": "［評価／人気／やる気／教育水準 ・・・］を高める。", "vi": "Nâng cao ［đánh giá／độ nổi tiếng／ý chí／trình độ giáo dục...］."}
+      ],
+      "related": [],
+      "notes": "（他）ヲ"
+    },
+    {
+      "no": 303,
+      "kanji": "強まる",
+      "kana": "つよまる",
+      "en": "strengthen",
+      "kr": "강해지다",
+      "vi": "mạnh lên, mạnh thêm",
+      "senses": [],
+      "examples": [
+        {"ja": "台風の勢力はますます強まっている。", "vi": "Thế lực của cơn bão đang ngày càng mạnh lên."},
+        {"ja": "［雨／風／火／力／揺れ ・・・］が強まる。", "vi": "［Mưa／gió／lửa／sức／chòng chành...］ trở nên mạnh hơn."}
+      ],
+      "related": [
+        {"type": "対", "text": "弱まる"}
+      ],
+      "notes": "（自）ガ"
+    },
+    {
+      "no": 304,
+      "kanji": "強める",
+      "kana": "つよめる",
+      "en": "strengthen, confirm",
+      "kr": "강하게 하다",
+      "vi": "làm mạnh lên, tăng cường",
+      "senses": [],
+      "examples": [
+        {"ja": "［火／力／自信 ・・・］を強める。", "vi": "Làm cho ［lửa／sức mạnh／sự tự tin...］ mạnh hơn."}
+      ],
+      "related": [
+        {"type": "対", "text": "弱める"}
+      ],
+      "notes": "（他）ヲ"
+    },
+    {
+      "no": 305,
+      "kanji": "弱まる",
+      "kana": "よわまる",
+      "en": "weaken",
+      "kr": "약해지다",
+      "vi": "yếu đi",
+      "senses": [],
+      "examples": [
+        {"ja": "疲れていると抵抗力が弱まって、かぜにかかりやすくなる。", "vi": "Khi mệt mỏi, sức đề kháng yếu đi và dễ mắc cảm hơn."},
+        {"ja": "［雨／風／力／勢力／影響 ・・・］が弱まる。", "vi": "［Mưa／gió／sức／thế lực／ảnh hưởng...］ yếu đi."}
+      ],
+      "related": [
+        {"type": "対", "text": "強まる"}
+      ],
+      "notes": "（自）ガ"
+    },
+    {
+      "no": 306,
+      "kanji": "弱める",
+      "kana": "よわめる",
+      "en": "weaken, reduce",
+      "kr": "약하게 하다",
+      "vi": "làm yếu đi, giảm bớt",
+      "senses": [],
+      "examples": [
+        {"ja": "「材料がやわらかくなったら、火を弱めてゆっくり煮込んでください」", "vi": "“Khi nguyên liệu mềm rồi thì vặn nhỏ lửa và ninh chậm nhé”."},
+        {"ja": "［力／勢い ・・・］を弱める。", "vi": "Làm yếu đi ［sức lực／sức mạnh...］."}
+      ],
+      "related": [
+        {"type": "対", "text": "強める"}
+      ],
+      "notes": "（他）ヲ"
+    },
+    {
+      "no": 307,
+      "kanji": "広まる",
+      "kana": "ひろまる",
+      "en": "spread",
+      "kr": "넓어지다, 퍼지다",
+      "vi": "lan rộng",
+      "senses": [],
+      "examples": [
+        {"ja": "そのうわさは１日で会社中に広まった。", "vi": "Tin đồn đó lan khắp công ty chỉ trong một ngày."},
+        {"ja": "［～の技術／仏教／習慣／話 ・・・］が広まる。", "vi": "［Kỹ thuật của~／Phật giáo／thói quen／chuyện...］ lan rộng."}
+      ],
+      "related": [],
+      "notes": "（自）ガ；307、308 thường dùng với nghĩa trừu tượng"
+    },
+    {
+      "no": 308,
+      "kanji": "広める",
+      "kana": "ひろめる",
+      "en": "spread, popularize",
+      "kr": "넓히다, 퍼뜨리다",
+      "vi": "phổ biến, lan truyền",
+      "senses": [],
+      "examples": [
+        {"ja": "明治時代に、ヨーロッパから帰国した留学生たちが、日本に西洋文化を広めた。", "vi": "Thời Minh Trị, các du học sinh trở về từ châu Âu đã phổ biến văn hóa phương Tây vào Nhật Bản."},
+        {"ja": "［～の技術／～のやり方／仏教／習慣／話／うわさ ・・・］を広める。", "vi": "Lan truyền ［kỹ thuật của~／cách làm của~／Phật giáo／thói quen／chuyện／tin đồn...］."}
+      ],
+      "related": [
+        {"type": "関", "text": "広がる・広げる"}
+      ],
+      "notes": "（他）ヲ；307、308 thường dùng với nghĩa trừu tượng"
+    },
+    {
+      "no": 309,
+      "kanji": "深まる",
+      "kana": "ふかまる",
+      "en": "deepen",
+      "kr": "깊어지다",
+      "vi": "sâu thêm, sâu đậm thêm",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもができて、二人の愛情はますます深まった。", "vi": "Có con cái, tình yêu của hai người ngày càng sâu đậm."},
+        {"ja": "秋が深まり、紅葉の美しい季節になった。", "vi": "Mùa thu vào sâu, trở thành mùa lá đỏ đẹp mắt."},
+        {"ja": "［交流／友情／理解／対立 ・・・］が深まる。", "vi": "［Giao lưu／tình bạn／sự hiểu biết／sự đối đầu...］ trở nên sâu sắc."}
+      ],
+      "related": [],
+      "notes": "（自）ガ；309、310 thường dùng với nghĩa trừu tượng"
+    },
+    {
+      "no": 310,
+      "kanji": "深める",
+      "kana": "ふかめる",
+      "en": "deepen, cultivate",
+      "kr": "깊게 하다",
+      "vi": "làm sâu thêm, làm sâu sắc",
+      "senses": [],
+      "examples": [
+        {"ja": "交流を深め、相手国のことを理解することが大切だ。", "vi": "Quan trọng là thắt chặt giao lưu, hiểu biết về nước đối tác."},
+        {"ja": "「オリンピックを通じ、世界各国との友好関係を深めたいと思います」", "vi": "“Qua Thế vận hội, tôi mong muốn thắt chặt quan hệ hữu nghị với các nước trên thế giới”."},
+        {"ja": "［交流／友情／理解／対立 ・・・］を深める。", "vi": "Làm sâu sắc ［giao lưu／tình bạn／sự hiểu biết／sự đối đầu...］."}
+      ],
+      "related": [],
+      "notes": "（他）ヲ；309、310 thường dùng với nghĩa trừu tượng"
+    },
+    {
+      "no": 311,
+      "kanji": "世話",
+      "kana": "せわ",
+      "en": "care, support",
+      "kr": "보살핌, 신세",
+      "vi": "sự chăm sóc, sự giúp đỡ",
+      "senses": [],
+      "examples": [
+        {"ja": "うちではペットの世話は私の仕事だ。", "vi": "Ở nhà tôi, việc chăm sóc thú cưng là việc của tôi."},
+        {"ja": "病人の世話をする。", "vi": "Chăm sóc người bệnh."},
+        {"ja": "今度の仕事では、山本さんに大変お世話になった。", "vi": "Trong công việc lần này, tôi được anh Yamamoto giúp đỡ rất nhiều."}
+      ],
+      "related": [
+        {"type": "連", "text": "_をする、_になる"},
+        {"type": "慣", "text": "「お_になり｜ます／しました」（あいさつ）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 312,
+      "kanji": "家庭",
+      "kana": "かてい",
+      "en": "home, household",
+      "kr": "가정",
+      "vi": "gia đình",
+      "senses": [],
+      "examples": [
+        {"ja": "田中課長は仕事ではきびしいが、家庭ではやさしいお父さんだろう。", "vi": "Trưởng phòng Tanaka nghiêm khắc trong công việc nhưng ở nhà hình như là một người cha hiền lành."},
+        {"ja": "早く結婚して、あたたかい家庭を持ちたい。", "vi": "Tôi muốn sớm kết hôn để có một gia đình ấm áp."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を持つ"},
+        {"type": "合", "text": "_的な"},
+        {"type": "関", "text": "主婦"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 313,
+      "kanji": "協力",
+      "kana": "きょうりょく",
+      "en": "cooperation",
+      "kr": "협력",
+      "vi": "sự hợp tác",
+      "senses": [],
+      "examples": [
+        {"ja": "家族で協力して祖母の介護をした。", "vi": "Cả nhà hợp tác chăm sóc bà."},
+        {"ja": "「アンケート調査にご協力ください」", "vi": "“Xin hãy hợp tác cho cuộc khảo sát”."}
+      ],
+      "related": [
+        {"type": "連", "text": "＝_を求める"},
+        {"type": "合", "text": "_的な"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 314,
+      "kanji": "感謝",
+      "kana": "かんしゃ",
+      "en": "gratitude, thank",
+      "kr": "감사",
+      "vi": "lòng biết ơn",
+      "senses": [],
+      "examples": [
+        {"ja": "アドバイスしてくれた先輩に、とても感謝している。", "vi": "Tôi rất biết ơn tiền bối đã cho mình lời khuyên."}
+      ],
+      "related": [
+        {"type": "連", "text": "深く_する"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 315,
+      "kanji": "（お）礼",
+      "kana": "（お）れい",
+      "en": "token of gratitude/appreciation",
+      "kr": "사의, 답례",
+      "vi": "lời cảm ơn, quà cảm tạ",
+      "senses": [],
+      "examples": [
+        {"ja": "お世話になった方にお礼をした。", "vi": "Tôi đã gửi quà cảm ơn người đã giúp đỡ mình."},
+        {"ja": "入学祝のお礼にお菓子を送った。", "vi": "Tôi đã gửi bánh như quà cảm tạ mừng nhập học."}
+      ],
+      "related": [
+        {"type": "連", "text": "お_をする、（お）_を言う"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 316,
+      "kanji": "（お）詫び",
+      "kana": "（お）わび",
+      "en": "apology",
+      "kr": "사죄",
+      "vi": "lời xin lỗi",
+      "senses": [],
+      "examples": [
+        {"ja": "迷惑をかけた人におわびをした。", "vi": "Tôi đã xin lỗi người mà mình gây phiền phức."},
+        {"ja": "おわびの言葉を言う。", "vi": "Nói lời xin lỗi."}
+      ],
+      "related": [
+        {"type": "連", "text": "お_をする、（お）_を言う"}
+      ],
+      "notes": "（動）こわびる"
+    },
+    {
+      "no": 317,
+      "kanji": "おじぎ",
+      "kana": "おじぎ",
+      "en": "bow",
+      "kr": "절",
+      "vi": "sự cúi chào, hành lễ",
+      "senses": [],
+      "examples": [
+        {"ja": "「お客様にはていねいにおじぎをしましょう」", "vi": "“Hãy cúi chào khách hàng một cách lịch sự”."}
+      ],
+      "related": [
+        {"type": "連", "text": "軽く／深く／ていねいに｜_する"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 318,
+      "kanji": "握手",
+      "kana": "あくしゅ",
+      "en": "handshake",
+      "kr": "악수",
+      "vi": "sự bắt tay",
+      "senses": [],
+      "examples": [
+        {"ja": "コンサートで歌手と握手した。", "vi": "Tôi đã bắt tay ca sĩ ở buổi hòa nhạc."}
+      ],
+      "related": [],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 319,
+      "kanji": "いじわる",
+      "kana": "いじわる",
+      "en": "spite",
+      "kr": "남을 괴롭힘",
+      "vi": "sự trêu chọc, ác ý",
+      "senses": [],
+      "examples": [
+        {"ja": "好きな子はついいじわるをしてしまう。", "vi": "Vì thích nên vô tình lại trêu chọc cô bé ấy."},
+        {"ja": "いじわるな人", "vi": "người hay ác ý, trêu chọc người khác"}
+      ],
+      "related": [],
+      "notes": "(ラ)スル／ナ"
+    },
+    {
+      "no": 320,
+      "kanji": "いたずら",
+      "kana": "いたずら",
+      "en": "prank, mischief",
+      "kr": "장난",
+      "vi": "sự nghịch ngợm, quậy phá",
+      "senses": [],
+      "examples": [
+        {"ja": "いたずらをして、先生に怒られた。", "vi": "Vì nghịch ngợm nên đã bị thầy cô trách mắng."},
+        {"ja": "いたずらな子ども", "vi": "đứa trẻ nghịch ngợm"}
+      ],
+      "related": [],
+      "notes": "(ラ)スル／ナ"
+    },
+    {
+      "no": 321,
+      "kanji": "節約",
+      "kana": "せつやく",
+      "en": "saving (money, electricity, etc.)",
+      "kr": "절약",
+      "vi": "sự tiết kiệm",
+      "senses": [],
+      "examples": [
+        {"ja": "生活費の節約", "vi": "việc tiết kiệm chi phí sinh hoạt"},
+        {"ja": "電気や水を節約する。", "vi": "Tiết kiệm điện và nước."}
+      ],
+      "related": [
+        {"type": "対", "text": "ヲ浪費（ラ スル）"},
+        {"type": "類", "text": "ヲ倹約（ラ スル）"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 322,
+      "kanji": "経営",
+      "kana": "けいえい",
+      "en": "management",
+      "kr": "경영",
+      "vi": "sự kinh doanh, quản lý",
+      "senses": [],
+      "examples": [
+        {"ja": "父はスーパーを経営している。", "vi": "Cha tôi đang kinh doanh một siêu thị."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 323,
+      "kanji": "反省",
+      "kana": "はんせい",
+      "en": "reflection, remorse",
+      "kr": "반성",
+      "vi": "sự phản tỉnh, nhìn lại bản thân",
+      "senses": [],
+      "examples": [
+        {"ja": "１日の反省を日記に書く。", "vi": "Viết những suy ngẫm của một ngày vào nhật ký."},
+        {"ja": "「あなたのせいで、みんなに迷惑したんですよ。少しは反省しなさい」", "vi": "“Tại anh cả đấy, mọi người đã chịu phiền vì anh đấy. Hãy tự phản tỉnh đi”."}
+      ],
+      "related": [],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 324,
+      "kanji": "実行",
+      "kana": "じっこう",
+      "en": "implementation, practice",
+      "kr": "실행",
+      "vi": "sự thực hiện, thi hành",
+      "senses": [],
+      "examples": [
+        {"ja": "この計画は実行が難しい。", "vi": "Kế hoạch này khó thực hiện."},
+        {"ja": "作戦を実行する。", "vi": "Thực hiện kế hoạch chiến đấu."}
+      ],
+      "related": [
+        {"type": "合", "text": "_力"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 325,
+      "kanji": "進歩",
+      "kana": "しんぽ",
+      "en": "progress",
+      "kr": "진보",
+      "vi": "sự tiến bộ",
+      "senses": [],
+      "examples": [
+        {"ja": "英語を勉強しているが、進歩がない。", "vi": "Tôi có học tiếng Anh nhưng không thấy tiến bộ."},
+        {"ja": "科学技術が進歩する。", "vi": "Khoa học kỹ thuật tiến bộ."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある↔ない、_が速い↔遅い"},
+        {"type": "合", "text": "_的（例、進歩的な考え）"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 326,
+      "kanji": "変化",
+      "kana": "へんか",
+      "en": "change",
+      "kr": "변화",
+      "vi": "sự biến đổi, thay đổi",
+      "senses": [],
+      "examples": [
+        {"ja": "大きな変化", "vi": "một sự thay đổi lớn"},
+        {"ja": "社会が変化する。", "vi": "Xã hội biến đổi."},
+        {"ja": "固体が液体に変化する。", "vi": "Chất rắn biến thành chất lỏng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある↔ない、_が起こる"},
+        {"type": "関", "text": "変わる"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 327,
+      "kanji": "発達",
+      "kana": "はったつ",
+      "en": "development",
+      "kr": "발달",
+      "vi": "sự phát triển, phát đạt",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "①体や頭が発達する。", "vi": "①Cơ thể và trí não phát triển."},
+        {"ja": "②文明が発達する。", "vi": "②Văn minh phát triển."},
+        {"ja": "③発達した台風が近づいている。", "vi": "③Cơn bão mạnh đang tiến đến gần."}
+      ],
+      "related": [
+        {"type": "類", "text": "①発育スル"},
+        {"type": "類", "text": "②発展スル"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 328,
+      "kanji": "体力",
+      "kana": "たいりょく",
+      "en": "physical strength",
+      "kr": "체력",
+      "vi": "thể lực",
+      "senses": [],
+      "examples": [
+        {"ja": "若者の体力が低下している。", "vi": "Thể lực của giới trẻ đang suy giảm."},
+        {"ja": "「たくさん食べて、体力をつけてください」", "vi": "“Hãy ăn nhiều vào để tăng cường thể lực nhé”."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある↔ない、_がつく、_が落ちる、_が向上する↔低下する"},
+        {"type": "関", "text": "視力、精神力"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 329,
+      "kanji": "出場",
+      "kana": "しゅつじょう",
+      "en": "participation (in athletic event)",
+      "kr": "출장",
+      "vi": "sự tham gia thi đấu, tranh tài",
+      "senses": [],
+      "examples": [
+        {"ja": "オリンピックへの出場が決まった。", "vi": "Đã quyết định tham dự Thế vận hội."},
+        {"ja": "全国大会に出場する。", "vi": "Tham gia đại hội toàn quốc."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者"},
+        {"type": "関", "text": "出る"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 330,
+      "kanji": "活躍",
+      "kana": "かつやく",
+      "en": "activity",
+      "kr": "활약",
+      "vi": "hoạt động tích cực, tỏa sáng",
+      "senses": [],
+      "examples": [
+        {"ja": "田中選手の活躍を期待する。", "vi": "Kỳ vọng vào sự tỏa sáng của vận động viên Tanaka."},
+        {"ja": "友だちは運動会で大活躍した。", "vi": "Bạn tôi đã rất tỏa sáng ở hội thao."}
+      ],
+      "related": [
+        {"type": "合", "text": "大_（ラ スル）"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 331,
+      "kanji": "競争",
+      "kana": "きょうそう",
+      "en": "competition",
+      "kr": "경쟁",
+      "vi": "sự cạnh tranh",
+      "senses": [],
+      "examples": [
+        {"ja": "どちらがいい成績を取るか、友だちと競争した。", "vi": "Đã cạnh tranh với bạn xem ai đạt thành tích tốt hơn."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がきびしい、_が激しい"},
+        {"type": "合", "text": "_率（例、あの大学は競争率が高い。）"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 332,
+      "kanji": "応援",
+      "kana": "おうえん",
+      "en": "cheering, support",
+      "kr": "응원",
+      "vi": "sự cổ vũ, ủng hộ",
+      "senses": [],
+      "examples": [
+        {"ja": "自分の学校のチームを応援する。", "vi": "Cổ vũ cho đội của trường mình."}
+      ],
+      "related": [],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 333,
+      "kanji": "拍手",
+      "kana": "はくしゅ",
+      "en": "applause",
+      "kr": "박수",
+      "vi": "sự vỗ tay, tiếng vỗ tay",
+      "senses": [],
+      "examples": [
+        {"ja": "ステージの歌手に拍手をする。", "vi": "Vỗ tay cho ca sĩ trên sân khấu."},
+        {"ja": "ゲストを拍手で迎える。", "vi": "Chào đón khách mời bằng tiếng vỗ tay."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を送る、大きな_、盛んな_"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 334,
+      "kanji": "人気",
+      "kana": "にんき",
+      "en": "popularity",
+      "kr": "인기",
+      "vi": "sự nổi tiếng, được ưa chuộng",
+      "senses": [],
+      "examples": [
+        {"ja": "彼はクラスで一番人気がある。", "vi": "Cậu ấy là người được yêu thích nhất trong lớp."},
+        {"ja": "新しいゲーム機が人気だ。", "vi": "Máy chơi game mới rất được ưa chuộng."},
+        {"ja": "人気の映画を見る。", "vi": "Xem bộ phim đang được ưa chuộng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある↔ない、_が上がる↔下がる、_が出る、_がなくなる、_が落ちる、_が高い、_を集める、_を呼ぶ"},
+        {"type": "合", "text": "大_、_者"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 335,
+      "kanji": "うわさ",
+      "kana": "うわさ",
+      "en": "rumor",
+      "kr": "소문",
+      "vi": "tin đồn",
+      "senses": [],
+      "examples": [
+        {"ja": "クラスメートのうわさをしていたら、そこに本人が現れた。", "vi": "Đang bàn tán về bạn cùng lớp thì chính người đó xuất hiện ở đó."},
+        {"ja": "消費税が上がるといううわさがある。", "vi": "Có tin đồn rằng thuế tiêu dùng sẽ tăng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある、_が流れる・_を流す、_が立つ・_を立てる"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 336,
+      "kanji": "情報",
+      "kana": "じょうほう",
+      "en": "information",
+      "kr": "정보",
+      "vi": "thông tin, tin tức",
+      "senses": [],
+      "examples": [
+        {"ja": "テレビからいろいろな情報を得る。", "vi": "Nhận được nhiều thông tin từ truyền hình."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を得る、_が入る、_が流れる・_を流す、_を交換する"},
+        {"type": "合", "text": "_化、社会、_交換、_源"}
+      ],
+      "notes": "hộp 合 có ghi chú (社)"
+    },
+    {
+      "no": 337,
+      "kanji": "交換",
+      "kana": "こうかん",
+      "en": "exchange; replacement",
+      "kr": "교환",
+      "vi": "sự trao đổi; sự thay thế",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "①「プレゼント／名刺／情報／意見 ・・・」を交換する。", "vi": "①Trao đổi ［quà／danh thiếp／thông tin／ý kiến...］."},
+        {"ja": "②時計の電池が切れたので交換した。", "vi": "②Pin đồng hồ hết nên đã thay."}
+      ],
+      "related": [
+        {"type": "類", "text": "①やり取り（ヲ スル）"},
+        {"type": "類", "text": "②取り換える"}
+      ],
+      "notes": "ヲ＋スル"
+    },
+    {
+      "no": 338,
+      "kanji": "流行",
+      "kana": "りゅうこう",
+      "en": "fashion, fad, spread (of disease)",
+      "kr": "유행",
+      "vi": "mốt, sự thịnh hành; sự bùng phát (dịch bệnh)",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "①新しい流行 ・流行の服 ・若者の間でブログが流行している。", "vi": "①Mốt mới ・quần áo hợp mốt ・blog đang thịnh hành trong giới trẻ."},
+        {"ja": "②インフルエンザが流行する。", "vi": "②Cúm bùng phát lan rộng."}
+      ],
+      "related": [
+        {"type": "連", "text": "①_を取り入れる、_を追う"},
+        {"type": "合", "text": "_語、_遅れ"},
+        {"type": "類", "text": "はやり、ブーム"},
+        {"type": "連", "text": "①②大_スル"},
+        {"type": "関", "text": "①②はやり ※172"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 339,
+      "kanji": "宣伝",
+      "kana": "せんでん",
+      "en": "publicity",
+      "kr": "선전",
+      "vi": "sự quảng bá, tuyên truyền",
+      "senses": [],
+      "examples": [
+        {"ja": "バーゲンセールの宣伝が始まった。", "vi": "Quảng cáo giảm giá sốt đã bắt đầu."},
+        {"ja": "新商品をテレビで宣伝する。", "vi": "Quảng bá sản phẩm mới trên truyền hình."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が流れる・_を流す"},
+        {"type": "関", "text": "広告、コマーシャル／CM、ダイレクトメール／DM"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 340,
+      "kanji": "広告",
+      "kana": "こうこく",
+      "en": "advertisement",
+      "kr": "광고",
+      "vi": "quảng cáo",
+      "senses": [],
+      "examples": [
+        {"ja": "新聞／雑誌｜に新製品の広告がのっていた。", "vi": "Quảng cáo sản phẩm mới được đăng trên báo／tạp chí."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が出る・_を出す、_が載る・_を載せる"},
+        {"type": "関", "text": "宣伝、コマーシャル／CM"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 341,
+      "kanji": "注目",
+      "kana": "ちゅうもく",
+      "en": "attention",
+      "kr": "주목",
+      "vi": "sự chú ý, chú mục",
+      "senses": [],
+      "examples": [
+        {"ja": "有名歌手の結婚が注目を集めている。", "vi": "Đám cưới của ca sĩ nổi tiếng đang thu hút sự chú ý."},
+        {"ja": "新しいファッションに注目する。", "vi": "Chú ý đến thời trang mới."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を集める、_を浴びる"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 342,
+      "kanji": "通訳",
+      "kana": "つうやく",
+      "en": "interpretation, interpreter",
+      "kr": "통역",
+      "vi": "sự phiên dịch; phiên dịch viên",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "①英語を日本語に通訳する。", "vi": "①Phiên dịch tiếng Anh sang tiếng Nhật."},
+        {"ja": "②国際会議の通訳になる。 ・首相の通訳をつとめる。", "vi": "②Trở thành phiên dịch của hội nghị quốc tế ・làm phiên dịch cho thủ tướng."}
+      ],
+      "related": [
+        {"type": "関", "text": "①翻訳（ラ スル）、訳す ※467"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 343,
+      "kanji": "翻訳",
+      "kana": "ほんやく",
+      "en": "translation",
+      "kr": "번역",
+      "vi": "sự dịch (văn bản)",
+      "senses": [],
+      "examples": [
+        {"ja": "日本語の小説を英語に翻訳する。", "vi": "Dịch tiểu thuyết tiếng Nhật sang tiếng Anh."},
+        {"ja": "○翻訳者／○翻訳家／×翻訳｜になる。", "vi": "trở thành ○người phiên dịch／○dịch giả／×sự dịch."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_家"},
+        {"type": "関", "text": "通訳（ラ スル）、訳す ※467"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 344,
+      "kanji": "伝言",
+      "kana": "でんごん",
+      "en": "message",
+      "kr": "전언",
+      "vi": "lời nhắn",
+      "senses": [],
+      "examples": [
+        {"ja": "留守番電話に伝言を残す。 ・欠席した人に伝言する。", "vi": "Để lại lời nhắn trên điện thoại trả lời tự động ・nhắn tin cho người vắng mặt."},
+        {"ja": "かぜで欠席した、先生から伝言があった。", "vi": "Nghỉ vì cảm, có lời nhắn của giáo viên."}
+      ],
+      "related": [
+        {"type": "連", "text": "カラ★ニ_がある、_を残す"},
+        {"type": "合", "text": "_板"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 345,
+      "kanji": "報告",
+      "kana": "ほうこく",
+      "en": "report",
+      "kr": "보고",
+      "vi": "sự báo cáo",
+      "senses": [],
+      "examples": [
+        {"ja": "出張の報告 ・報告をまとめる。 ・学校に試合の結果を報告する。", "vi": "Báo cáo công tác ・tổng hợp báo cáo ・báo cáo kết quả trận đấu cho nhà trường."}
+      ],
+      "related": [
+        {"type": "合", "text": "_書"}
+      ],
+      "notes": "ニ＋ヲ(ラ)スル"
+    },
+    {
+      "no": 346,
+      "kanji": "録画",
+      "kana": "ろくが",
+      "en": "recording (a video)",
+      "kr": "녹화",
+      "vi": "sự ghi hình, quay video",
+      "senses": [],
+      "examples": [
+        {"ja": "テレビ番組をビデオに録画する。", "vi": "Ghi hình chương trình truyền hình vào băng video."}
+      ],
+      "related": [
+        {"type": "合", "text": "_放映"},
+        {"type": "関", "text": "録音（ラ スル）、ビデオ（デッキ）、DVD"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 347,
+      "kanji": "混雑",
+      "kana": "こんざつ",
+      "en": "crowd",
+      "kr": "혼잡",
+      "vi": "sự đông đúc, chen chúc",
+      "senses": [],
+      "examples": [
+        {"ja": "デパートは、人込みで混雑している。", "vi": "Cửa hàng bách hóa đông đúc chen chúc người."}
+      ],
+      "related": [
+        {"type": "関", "text": "込む↔すく ※177、満員スル"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 348,
+      "kanji": "渋滞",
+      "kana": "じゅうたい",
+      "en": "congestion",
+      "kr": "정체",
+      "vi": "sự kẹt xe, tắc nghẽn",
+      "senses": [],
+      "examples": [
+        {"ja": "道路が渋滞していて、会議に遅刻した。", "vi": "Đường kẹt xe nên đã đi họp muộn."}
+      ],
+      "related": [
+        {"type": "合", "text": "交通_"},
+        {"type": "関", "text": "込む↔すく ※177、混雑スル"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 349,
+      "kanji": "衝突",
+      "kana": "しょうとつ",
+      "en": "collision, conflict",
+      "kr": "충돌",
+      "vi": "sự va chạm, xung đột",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "①電車の衝突の場面を見た。 ・バスがトラックと衝突した。 ・車が電柱に衝突した。", "vi": "①Đã xem cảnh tàu va chạm ・xe buýt va vào xe tải ・xe hơi va vào cột điện."},
+        {"ja": "②クラスで意見の衝突がある。 ・部長と課長が衝突して、周囲が困っている。", "vi": "②Trong lớp có sự va đập ý kiến ・trưởng phòng và trưởng ban va chạm nhau khiến những người xung quanh khó xử."}
+      ],
+      "related": [
+        {"type": "関", "text": "①②ぶつかる ※185"}
+      ],
+      "notes": "(ラ)スル"
+    },
+    {
+      "no": 350,
+      "kanji": "被害",
+      "kana": "ひがい",
+      "en": "damage",
+      "kr": "피해",
+      "vi": "thiệt hại, hậu quả (thiên tai)",
+      "senses": [],
+      "examples": [
+        {"ja": "台風の被害 ・地震で大きな被害が出る。", "vi": "Thiệt hại do bão ・thiên tai gây thiệt hại lớn."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が大きい↔小さい、_を受ける↔与える、_にあう、_が出る"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 351,
+      "kanji": "事故",
+      "kana": "じこ",
+      "en": "accident",
+      "kr": "사고",
+      "vi": "tai nạn",
+      "senses": [],
+      "examples": [
+        {"ja": "事故の原因を調べる。", "vi": "Điều tra nguyên nhân tai nạn."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が起きる・_を起こす、_にあう、_が発生する"},
+        {"type": "合", "text": "交通_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 352,
+      "kanji": "事件",
+      "kana": "じけん",
+      "en": "incident, event",
+      "kr": "사건",
+      "vi": "sự kiện, vụ án",
+      "senses": [],
+      "examples": [
+        {"ja": "近所で子どもが次々といなくなるという事件があった。", "vi": "Ở khu dân cư đã xảy ra vụ án mà trẻ em lần lượt biến mất."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が起きる・_を起こす、_が発生する、_を解決する"},
+        {"type": "合", "text": "［名詞］＋事件（例、殺人事件、盗難事件）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 353,
+      "kanji": "故障",
+      "kana": "こしょう",
+      "en": "malfunction, breakdown",
+      "kr": "고장",
+      "vi": "sự hỏng hóc, trục trặc",
+      "senses": [],
+      "examples": [
+        {"ja": "洗たく機が故障したので、コインランドリーへ行った。", "vi": "Máy giặt hỏng nên đã đến tiệm giặt ủi tự động."}
+      ],
+      "related": [
+        {"type": "関", "text": "修理（ラ スル）、直す ※161"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 354,
+      "kanji": "修理",
+      "kana": "しゅうり",
+      "en": "repair",
+      "kr": "수리",
+      "vi": "sự sửa chữa",
+      "senses": [],
+      "examples": [
+        {"ja": "パソコンがこわれたので、修理に出した。", "vi": "Máy tính bị hỏng nên đã mang đi sửa."},
+        {"ja": "父にエアコンを修理してもらった。", "vi": "Đã nhờ cha sửa điều hòa."}
+      ],
+      "related": [
+        {"type": "連", "text": "_に出す"},
+        {"type": "関", "text": "直す ※161、故障スル"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 355,
+      "kanji": "停電",
+      "kana": "ていでん",
+      "en": "blackout",
+      "kr": "정전",
+      "vi": "sự cúp điện",
+      "senses": [],
+      "examples": [
+        {"ja": "雷が落ちて停電した。", "vi": "Sét đánh làm mất điện."}
+      ],
+      "related": [],
+      "notes": "スル"
+    },
+    {
+      "no": 356,
+      "kanji": "調子",
+      "kana": "ちょうし",
+      "en": "condition; tone",
+      "kr": "상태, 어조",
+      "vi": "tình trạng, trạng thái; giọng điệu",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "①［体／機械 ・・・］の調子がいい。 ・あの選手は最近調子がいい。", "vi": "①［Cơ thể／máy móc...］ hoạt động tốt ・vận động viên đó dạo này thi đấu phong độ."},
+        {"ja": "②仕事に慣れて調子が上がってきた。", "vi": "② quen việc rồi nên phong độ đang tăng lên."},
+        {"ja": "③強い調子で話す。", "vi": "③Nói với giọng điệu mạnh mẽ."}
+      ],
+      "related": [
+        {"type": "連", "text": "①_がいい↔悪い、_がくずれる・_をくずす、_を上げる↔下げる、_が上がる↔下がる"},
+        {"type": "関", "text": "好調（ナ）↔不調（ナ）、体調"},
+        {"type": "連", "text": "②_が上がる↔下がる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 357,
+      "kanji": "緊張",
+      "kana": "きんちょう",
+      "en": "tension",
+      "kr": "긴장",
+      "vi": "sự căng thẳng",
+      "senses": [],
+      "examples": [
+        {"ja": "面接では緊張して、うまく答えられなかった。", "vi": "Phỏng vấn thì căng thẳng, không trả lời được khéo léo."},
+        {"ja": "試合の前なので、みんな「○緊張している／×緊張だ」。", "vi": "Vì trước trận đấu, ai cũng ○đang căng thẳng／×căng thẳng đấy."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がとける、_が高まる、_がゆるむ"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 358,
+      "kanji": "自信",
+      "kana": "じしん",
+      "en": "confidence",
+      "kr": "자신",
+      "vi": "sự tự tin",
+      "senses": [],
+      "examples": [
+        {"ja": "体力に自信がある。", "vi": "Tự tin vào thể lực của mình."},
+        {"ja": "「この成績ならだいじょうぶです。もっと自信を持ってください」", "vi": "“Với thành tích này thì được đấy. Hãy tự tin hơn nữa nhé”."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある↔ない、_を持つ、_がなくなる・_をなくす、_がつく・_をつける"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 359,
+      "kanji": "自慢",
+      "kana": "じまん",
+      "en": "pride, boast",
+      "kr": "자랑",
+      "vi": "sự tự hào, khoe khoang",
+      "senses": [],
+      "examples": [
+        {"ja": "自慢の料理を作る。", "vi": "Nấu món ăn mà mình tự hào."},
+        {"ja": "母親は皆に有名大学に入った息子を自慢している。", "vi": "Người mẹ khoe với mọi người về cậu con trai đỗ đại học danh tiếng."},
+        {"ja": "私は体がじょうぶなのが自慢だ。", "vi": "Tôi tự hào vì cơ thể khỏe mạnh."}
+      ],
+      "related": [
+        {"type": "合", "text": "_話"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 360,
+      "kanji": "感心",
+      "kana": "かんしん",
+      "en": "admiration; praiseworthy",
+      "kr": "감탄; 칭찬할 만함",
+      "vi": "sự khâm phục; đáng khâm phục",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "①チンさんの進歩の速さに感心した。", "vi": "①Khâm phục trước sự tiến bộ nhanh của anh Trần."},
+        {"ja": "②［（ナ形）感心な］太郎君はよく親の手伝いをする、感心な子どもだ。", "vi": "②［（Na-tính từ）đáng khen］Cậu bé Taro hay giúp đỡ cha mẹ, là đứa trẻ đáng khâm phục."}
+      ],
+      "related": [],
+      "notes": "スル／ナ"
+    },
+    {
+      "no": 361,
+      "kanji": "感動",
+      "kana": "かんどう",
+      "en": "feeling moved, being touched",
+      "kr": "감동",
+      "vi": "cảm động",
+      "senses": [],
+      "examples": [
+        {"ja": "パラリンピックを見て、とても感動した／感動させられた！", "vi": "Xem Thế vận hội người khuyết tật, tôi rất cảm động／bị cuốn vào cảm xúc!"},
+        {"ja": "私はピカソの絵に感動し、自分も画家になりたいと思った。", "vi": "Tôi cảm động trước tranh của Picasso và muốn trở thành họa sĩ."}
+      ],
+      "related": [
+        {"type": "連", "text": "ニ／カラ_を受ける↔与える、ニ_を与える、深く_する"},
+        {"type": "合", "text": "_的な"}
+      ],
+      "notes": "スル"
+    },
+    {
+      "no": 362,
+      "kanji": "興奮",
+      "kana": "こうふん",
+      "en": "excitement",
+      "kr": "흥분",
+      "vi": "sự hưng phấn, kích động",
+      "senses": [],
+      "examples": [
+        {"ja": "試合を見ていた観客たちは、興奮して大声を出した。", "vi": "Các khán giả xem trận đấu hưng phấn hét lớn."}
+      ],
+      "related": [],
+      "notes": "スル"
+    },
+    {
+      "no": 363,
+      "kanji": "感想",
+      "kana": "かんそう",
+      "en": "impression, feeling",
+      "kr": "감상",
+      "vi": "cảm tưởng, ấn tượng",
+      "senses": [],
+      "examples": [
+        {"ja": "「ご感想はいかがですか」「すばらしかったです」", "vi": "“Cảm tưởng của anh thế nào?” “Rất tuyệt vời”."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を述べる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 364,
+      "kanji": "予想",
+      "kana": "よそう",
+      "en": "forecast",
+      "kr": "예상",
+      "vi": "sự dự đoán, dự liệu",
+      "senses": [],
+      "examples": [
+        {"ja": "選挙の結果を予想する。", "vi": "Dự đoán kết quả bầu cử."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が当たる↔外れる、_を立てる、_を打ち消す"},
+        {"type": "合", "text": "_どおり、_外"},
+        {"type": "類", "text": "予測（ラ スル）"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 365,
+      "kanji": "専門",
+      "kana": "せんもん",
+      "en": "specialty",
+      "kr": "전공",
+      "vi": "chuyên môn",
+      "senses": [],
+      "examples": [
+        {"ja": "専門は言語学です。", "vi": "Chuyên môn của tôi là ngôn ngữ học."}
+      ],
+      "related": [
+        {"type": "合", "text": "_家、_知識、_分野、_的"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 366,
+      "kanji": "研究",
+      "kana": "けんきゅう",
+      "en": "research, study",
+      "kr": "연구",
+      "vi": "sự nghiên cứu",
+      "senses": [],
+      "examples": [
+        {"ja": "私は大学で日本の政治を研究している。", "vi": "Tôi đang nghiên cứu về chính trị Nhật Bản ở trường đại học."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_所、_会"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 367,
+      "kanji": "調査",
+      "kana": "ちょうさ",
+      "en": "investigation, survey",
+      "kr": "조사",
+      "vi": "sự điều tra, khảo sát",
+      "senses": [],
+      "examples": [
+        {"ja": "調査を行う。 ・学生の希望を調査する。", "vi": "Tiến hành khảo sát ・khảo sát nguyện vọng của sinh viên."}
+      ],
+      "related": [
+        {"type": "合", "text": "［名詞］＋調査（例、アンケート調査）"}
+      ],
+      "notes": "ヲ＋(ラ)スル"
+    },
+    {
+      "no": 368,
+      "kanji": "原因",
+      "kana": "げんいん",
+      "en": "cause",
+      "kr": "원인",
+      "vi": "nguyên nhân",
+      "senses": [],
+      "examples": [
+        {"ja": "今、警察が事故の原因を調べている。", "vi": "Bây giờ cảnh sát đang điều tra nguyên nhân tai nạn."}
+      ],
+      "related": [
+        {"type": "合", "text": "_不明"},
+        {"type": "対", "text": "結果"},
+        {"type": "関", "text": "理由"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 369,
+      "kanji": "結果",
+      "kana": "けっか",
+      "en": "result",
+      "kr": "결과",
+      "vi": "kết quả",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "①「１位になりたかったが、結果は３位だった。」", "vi": "①“Đã muốn đứng nhất nhưng kết quả lại là hạng 3.”"},
+        {"ja": "②経済の悪化が原因で、多くの会社が倒産する結果になった。", "vi": "②Do nguyên nhân kinh tế xấu đi, nhiều công ty rơi vào kết cục phá sản."},
+        {"ja": "③「努力した結果、初めはできなかったことが、できるようになった。」", "vi": "③“Nhờ nỗ lực, những việc ban đầu không làm được nay đã làm được.”"}
+      ],
+      "related": [
+        {"type": "対", "text": "②原因"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 370,
+      "kanji": "解決",
+      "kana": "かいけつ",
+      "en": "solution",
+      "kr": "해결",
+      "vi": "sự giải quyết",
+      "senses": [],
+      "examples": [
+        {"ja": "大きな問題が解決した。〈自〉", "vi": "Vấn đề lớn đã được giải quyết."},
+        {"ja": "トラブルを解決する。〈他〉", "vi": "Giải quyết rắc rối."}
+      ],
+      "related": [],
+      "notes": "スル"
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム 9 教科・科目",
+      "book_page": 69,
+      "items": [
+        ["しゃかい（社会）", "しゃかい", "social studies／社会", "môn xã hội"],
+        ["ちり（地理）", "ちり", "geography／地理", "môn địa lý"],
+        ["れきし（歴史）", "れきし", "history／历史", "môn lịch sử"],
+        ["こうみん（公民）", "こうみん", "civics／公民", "môn công dân"],
+        ["りか（理科）", "りか", "science／理科", "môn khoa học tự nhiên"],
+        ["せいぶつ（生物）", "せいぶつ", "biology／生物", "môn sinh học"],
+        ["ぶつり（物理）", "ぶつり", "physics／物理", "môn vật lý"],
+        ["かがく（化学）", "かがく", "chemistry／化学", "môn hóa học"],
+        ["こくご（国語）", "こくご", "national language, Japanese language／国语", "môn quốc ngữ (tiếng Nhật)"],
+        ["さんすう（算数）", "さんすう", "arithmetic／算术", "môn toán (tiểu học)"],
+        ["すうがく（数学）", "すうがく", "mathematics／数学", "môn toán"],
+        ["おんがく（音楽）", "おんがく", "music／音乐", "môn âm nhạc"],
+        ["びじゅつ（美術）", "びじゅつ", "art／美术", "môn mỹ thuật"],
+        ["ほけんたいいく（保健体育）", "ほけんたいいく", "health and physical education／保健体育", "môn thể dục - sức khỏe"],
+        ["かていか（家庭科）", "かていか", "home economics, domestic science／家政课", "môn gia chánh"]
+      ]
+    }
+  ],
+  "exercises": [],
+  "unit_pages": [
+    {
+      "pdf_page": 71,
+      "book_page": 70,
+      "unit_title": "Unit 04 名詞B 311〜410（Step 2）"
+    }
+  ]
+}

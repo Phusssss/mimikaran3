@@ -1,0 +1,843 @@
+{
+  "pdf_pages": "49-58",
+  "words": [
+    {
+      "no": 211,
+      "kanji": "冷める",
+      "kana": "さめる",
+      "en": "get cold; lose passion",
+      "kr": "식다",
+      "vi": "nguội đi, nguội lạnh; nhiệt tình nguội dần",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "この料理は冷めるとおいしくない。", "vi": "Món ăn này nguội đi sẽ không còn ngon nữa."},
+        {"ja": "彼は熱しやすく冷めやすい性格だ。", "vi": "Anh ấy là kiểu người dễ nóng bỏng nhưng cũng dễ nguội."},
+        {"ja": "若いころの熱い気持ちが冷めてしまった。", "vi": "Cảm xúc nóng bỏng thời trẻ đã nguội mất rồi."}
+      ],
+      "related": [],
+      "notes": "（自）自動詞"
+    },
+    {
+      "no": 212,
+      "kanji": "冷ます",
+      "kana": "さます",
+      "en": "allow (something) to cool",
+      "kr": "식히다",
+      "vi": "làm nguội, làm nguội đi",
+      "senses": [],
+      "examples": [
+        {"ja": "お風呂のお湯が熱くなりすぎた。少し冷ましてから入ろう。", "vi": "Nước bồn tắm nóng quá. Để nguội bớt rồi hãy vào."}
+      ],
+      "related": [],
+      "notes": "（他）他動詞"
+    },
+    {
+      "no": 213,
+      "kanji": "燃える",
+      "kana": "もえる",
+      "en": "burn; be passionate",
+      "kr": "타다, 불타다",
+      "vi": "cháy; bốc cháy (với nhiệt huyết)",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "火・紙 …が燃える。", "vi": "Lửa, giấy... bốc cháy."},
+        {"ja": "燃えるような太陽が沈んでいく。", "vi": "Mặt trời cháy rực như bốc lửa đang lặn dần."},
+        {"ja": "希望に燃えて大学に入った。", "vi": "Bốc cháy hy vọng, tôi đã vào đại học."}
+      ],
+      "related": [],
+      "notes": "（自）自動詞"
+    },
+    {
+      "no": 214,
+      "kanji": "燃やす",
+      "kana": "もやす",
+      "en": "burn (something); burn with (passion, etc.)",
+      "kr": "태우다, 불태우다",
+      "vi": "đốt; đốt cháy, thắp lửa (nhiệt huyết)",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "火・紙 …を燃やす。", "vi": "Đốt lửa, đốt giấy..."},
+        {"ja": "メンバー全員が試合にファイトを燃やしている。", "vi": "Cả các thành viên đều bốc cháy tinh thần chiến đấu cho trận đấu."}
+      ],
+      "related": [],
+      "notes": "（他）他動詞"
+    },
+    {
+      "no": 215,
+      "kanji": "沸く",
+      "kana": "わく",
+      "en": "boil; (bath) is ready; become excited",
+      "kr": "끓다, 열광하다",
+      "vi": "sôi; (nước tắm) đã nóng; náo nhiệt hẳn lên",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "湯・風呂がわく。", "vi": "Nước nóng, bồn tắm sôi (được đun nóng)."},
+        {"ja": "歌手が登場して会場がわいた。", "vi": "Ca sĩ xuất hiện, khán phòng náo nhiệt hẳn lên."}
+      ],
+      "related": [],
+      "notes": "（自）自動詞"
+    },
+    {
+      "no": 216,
+      "kanji": "沸かす",
+      "kana": "わかす",
+      "en": "boil; prepare (a bath); excite",
+      "kr": "끓이다, 열광시키다",
+      "vi": "đun sôi; đun nước tắm; làm sôi nổi, làm phấn khởi",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "湯・風呂をわかす。", "vi": "Đun sôi nước, đun nóng bồn tắm."},
+        {"ja": "おもしろいことを言って会場をわかした。", "vi": "Nói chuyện vui khiến khán phòng phấn khởi hẳn lên."}
+      ],
+      "related": [],
+      "notes": "（他）他動詞"
+    },
+    {
+      "no": 217,
+      "kanji": "鳴る",
+      "kana": "なる",
+      "en": "rumble; ring",
+      "kr": "울리다",
+      "vi": "kêu, vang, reo",
+      "senses": [],
+      "examples": [
+        {"ja": "雷が鳴っている。", "vi": "Sấm đang nổ."},
+        {"ja": "授業中に携帯電話が鳴って先生に怒られた。", "vi": "Trong giờ học điện thoại reo nên bị thầy giáo mắng."}
+      ],
+      "related": [],
+      "notes": "（自）自動詞"
+    },
+    {
+      "no": 218,
+      "kanji": "鳴らす",
+      "kana": "ならす",
+      "en": "sound (a buzzer)",
+      "kr": "울리다",
+      "vi": "làm kêu, làm reo, bấm (chuông)",
+      "senses": [],
+      "examples": [
+        {"ja": "ブザーを鳴らす。", "vi": "Bấm chuông (làm chuông reo)."}
+      ],
+      "related": [],
+      "notes": "（他）他動詞"
+    },
+    {
+      "no": 219,
+      "kanji": "役立つ／役に立つ",
+      "kana": "やくだつ／やくにたつ",
+      "en": "be helpful, be of use",
+      "kr": "유용하다, 도움이 되다",
+      "vi": "hữu ích, có ích",
+      "senses": [],
+      "examples": [
+        {"ja": "インターネットの情報は、勉強や仕事に役立つ／の役に立つ。", "vi": "Thông tin trên Internet có ích cho việc học và công việc."},
+        {"ja": "今度の新入社員はあまり役に立たない。", "vi": "Nhân viên mới lần này chẳng mấy có ích."}
+      ],
+      "related": [],
+      "notes": "（自）自動詞"
+    },
+    {
+      "no": 220,
+      "kanji": "役立てる／役に立てる",
+      "kana": "やくだてる／やくにたてる",
+      "en": "put to use",
+      "kr": "유용하게 쓰다, 활용하다",
+      "vi": "tận dụng, đem ra sử dụng cho việc có ích",
+      "senses": [],
+      "examples": [
+        {"ja": "インターネットの情報を、勉強や仕事に役立てる／の役に立てる。", "vi": "Tận dụng thông tin trên Internet cho việc học và công việc."}
+      ],
+      "related": [],
+      "notes": "（他）他動詞"
+    },
+    {
+      "no": 221,
+      "kanji": "飾り",
+      "kana": "かざり",
+      "en": "decoration",
+      "kr": "장식",
+      "vi": "đồ trang trí, sự trang trí",
+      "senses": [],
+      "examples": [
+        {"ja": "クリスマスの飾りを買った。", "vi": "Tôi đã mua đồ trang trí Giáng sinh."}
+      ],
+      "related": [],
+      "notes": "（動）飾る"
+    },
+    {
+      "no": 222,
+      "kanji": "遊び",
+      "kana": "あそび",
+      "en": "game, play",
+      "kr": "놀이",
+      "vi": "trò chơi, sự chơi đùa",
+      "senses": [],
+      "examples": [
+        {"ja": "かくれんぼは子どもの遊びだ。", "vi": "Trốn tìm là trò chơi của trẻ con."}
+      ],
+      "related": [
+        {"type": "合", "text": "〔名詞〕＋遊び（例: 砂遊び、水遊び、人形遊び）"}
+      ],
+      "notes": "（動）遊ぶ"
+    },
+    {
+      "no": 223,
+      "kanji": "集まり",
+      "kana": "あつまり",
+      "en": "gathering",
+      "kr": "모임",
+      "vi": "buổi họp, sự tập hợp",
+      "senses": [],
+      "examples": [
+        {"ja": "あした、マンションの住人の集まりがある。", "vi": "Mai có buổi họp của cư dân chung cư."}
+      ],
+      "related": [],
+      "notes": "（動）集まる"
+    },
+    {
+      "no": 224,
+      "kanji": "教え",
+      "kana": "おしえ",
+      "en": "teachings",
+      "kr": "가르침",
+      "vi": "lời dạy",
+      "senses": [],
+      "examples": [
+        {"ja": "母の教えを今でも思い出す。", "vi": "Dù bây giờ tôi vẫn nhớ lại lời mẹ dạy."}
+      ],
+      "related": [],
+      "notes": "（動）教える"
+    },
+    {
+      "no": 225,
+      "kanji": "踊り",
+      "kana": "おどり",
+      "en": "dance",
+      "kr": "춤",
+      "vi": "điệu múa, sự nhảy múa",
+      "senses": [],
+      "examples": [
+        {"ja": "留学生が各国の踊りを踊った。", "vi": "Du học sinh đã múa các điệu múa của các nước."}
+      ],
+      "related": [
+        {"type": "類", "text": "ダンス"}
+      ],
+      "notes": "（動）踊る"
+    },
+    {
+      "no": 226,
+      "kanji": "思い",
+      "kana": "おもい",
+      "en": "thoughts, feelings",
+      "kr": "마음, 기분",
+      "vi": "tâm tưởng, tình cảm, nỗi lòng",
+      "senses": [],
+      "examples": [
+        {"ja": "あの人に私の思いが届いた。", "vi": "Tình cảm của tôi đã đến được với người đó."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が届く、いろな／楽しい … _をする"}
+      ],
+      "notes": "（動）思う"
+    },
+    {
+      "no": 227,
+      "kanji": "考え",
+      "kana": "かんがえ",
+      "en": "thought, idea",
+      "kr": "생각",
+      "vi": "suy nghĩ, ý kiến",
+      "senses": [],
+      "examples": [
+        {"ja": "私にいい考えがある。", "vi": "Tôi có một ý kiến hay."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある、_が浮かぶ"}
+      ],
+      "notes": "（動）考える"
+    },
+    {
+      "no": 228,
+      "kanji": "片づけ",
+      "kana": "かたづけ",
+      "en": "tidying, disposal",
+      "kr": "정리, 정돈",
+      "vi": "việc dọn dẹp, sắp xếp",
+      "senses": [],
+      "examples": [
+        {"ja": "私は片づけが苦手だ。", "vi": "Tôi không giỏi dọn dẹp."}
+      ],
+      "related": [
+        {"type": "合", "text": "後_"},
+        {"type": "関", "text": "かたづける (→191)"}
+      ],
+      "notes": "（動）片づける"
+    },
+    {
+      "no": 229,
+      "kanji": "手伝い",
+      "kana": "てつだい",
+      "en": "help",
+      "kr": "도와줌",
+      "vi": "sự giúp đỡ, giúp việc",
+      "senses": [],
+      "examples": [
+        {"ja": "引っ越しの手伝いをする。", "vi": "Tôi giúp việc chuyển nhà."}
+      ],
+      "related": [],
+      "notes": "（動）手伝う"
+    },
+    {
+      "no": 230,
+      "kanji": "働き",
+      "kana": "はたらき",
+      "en": "function; action",
+      "kr": "기능, 공헌",
+      "vi": "chức năng; hoạt động, công lao",
+      "senses": [],
+      "examples": [
+        {"ja": "血液の働きの一つは、体に栄養を運ぶことだ。", "vi": "Một chức năng của máu là vận chuyển dinh dưỡng cho cơ thể."},
+        {"ja": "彼の働きで計画が成功した。", "vi": "Nhờ sự nỗ lực của anh ấy mà kế hoạch đã thành công."}
+      ],
+      "related": [],
+      "notes": "（動）働く"
+    },
+    {
+      "no": 231,
+      "kanji": "決まり",
+      "kana": "きまり",
+      "en": "rule",
+      "kr": "규칙",
+      "vi": "quy định, luật lệ",
+      "senses": [],
+      "examples": [
+        {"ja": "学校で新しい決まりが作られた。", "vi": "Ở trường đã được lập ra quy định mới."}
+      ],
+      "related": [],
+      "notes": "（動）決まる"
+    },
+    {
+      "no": 232,
+      "kanji": "騒ぎ",
+      "kana": "さわぎ",
+      "en": "commotion, trouble",
+      "kr": "소동",
+      "vi": "sự náo loạn, rối loạn",
+      "senses": [],
+      "examples": [
+        {"ja": "きのう、駅前で騒ぎがあった。", "vi": "Hôm qua trước nhà ga đã có chuyện náo loạn."}
+      ],
+      "related": [],
+      "notes": "（動）騒ぐ"
+    },
+    {
+      "no": 233,
+      "kanji": "知らせ",
+      "kana": "しらせ",
+      "en": "notification, news",
+      "kr": "알림, 통지",
+      "vi": "tin tức, thông báo",
+      "senses": [],
+      "examples": [
+        {"ja": "父が入院したという知らせがあった。", "vi": "Đã có tin rằng bố nhập viện."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある、_が届く"}
+      ],
+      "notes": "（動）知らせる"
+    },
+    {
+      "no": 234,
+      "kanji": "頼み",
+      "kana": "たのみ",
+      "en": "request",
+      "kr": "부탁",
+      "vi": "lời nhờ, lời cầu xin",
+      "senses": [],
+      "examples": [
+        {"ja": "「あなたに頼みがあるんです」", "vi": "\"Tôi có một lời nhờ với anh.\""}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある、_を聞く"},
+        {"type": "類", "text": "お願い"}
+      ],
+      "notes": "（動）頼む"
+    },
+    {
+      "no": 235,
+      "kanji": "疲れ",
+      "kana": "つかれ",
+      "en": "fatigue",
+      "kr": "피로",
+      "vi": "sự mệt mỏi, sự mệt nhọc",
+      "senses": [],
+      "examples": [
+        {"ja": "仕事で疲れがたまっている。", "vi": "Vì công việc mà sự mệt mỏi đang tích tụ."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がたまる、_がとれる"}
+      ],
+      "notes": "（動）疲れる"
+    },
+    {
+      "no": 236,
+      "kanji": "違い",
+      "kana": "ちがい",
+      "en": "difference",
+      "kr": "차이",
+      "vi": "sự khác nhau",
+      "senses": [],
+      "examples": [
+        {"ja": "この二つの違いがわからない。", "vi": "Tôi không hiểu sự khác nhau giữa hai cái này."}
+      ],
+      "related": [],
+      "notes": "（動）違う"
+    },
+    {
+      "no": 237,
+      "kanji": "始め",
+      "kana": "はじめ",
+      "en": "beginning",
+      "kr": "시작",
+      "vi": "sự bắt đầu, phần đầu",
+      "senses": [],
+      "examples": [
+        {"ja": "本を始めから終わりまで全部読んだ。", "vi": "Tôi đã đọc hết cuốn sách từ đầu đến cuối."}
+      ],
+      "related": [
+        {"type": "対", "text": "終わり"}
+      ],
+      "notes": "（動）始める"
+    },
+    {
+      "no": 238,
+      "kanji": "続き",
+      "kana": "つづき",
+      "en": "continuation, remainder",
+      "kr": "계속",
+      "vi": "phần tiếp theo, phần còn lại",
+      "senses": [],
+      "examples": [
+        {"ja": "早く本の続きが読みたい。", "vi": "Tôi muốn sớm được đọc phần tiếp theo của cuốn sách."}
+      ],
+      "related": [],
+      "notes": "（動）続く"
+    },
+    {
+      "no": 239,
+      "kanji": "暮れ",
+      "kana": "くれ",
+      "en": "end (of the year)",
+      "kr": "연말",
+      "vi": "cuối năm, cuối ngày",
+      "senses": [],
+      "examples": [
+        {"ja": "年の暮れは忙しい。", "vi": "Cuối năm bận rộn."}
+      ],
+      "related": [],
+      "notes": "（動）暮れる"
+    },
+    {
+      "no": 240,
+      "kanji": "行き",
+      "kana": "いき",
+      "en": "going",
+      "kr": "가다, 행",
+      "vi": "sự đi, đường đi, hướng đi",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "（動）行く"
+    },
+    {
+      "no": 241,
+      "kanji": "帰り",
+      "kana": "かえり",
+      "en": "returning",
+      "kr": "돌아오는 길",
+      "vi": "sự về, đường về",
+      "senses": [],
+      "examples": [
+        {"ja": "旅行は、行きは新幹線、帰りは飛行機だった。", "vi": "Chuyến du lịch: đi bằng tàu shinkansen, về bằng máy bay."},
+        {"ja": "会社の行き帰りにコンビニに寄る。", "vi": "Trên đường đi làm và về nhà ghé cửa hàng tiện lợi."}
+      ],
+      "related": [
+        {"type": "合", "text": "〔地名〕＋行き（例: 横浜行きの電車）"}
+      ],
+      "notes": "（動）帰る"
+    },
+    {
+      "no": 242,
+      "kanji": "急ぎ",
+      "kana": "いそぎ",
+      "en": "urgency",
+      "kr": "급함",
+      "vi": "sự gấp, việc gấp",
+      "senses": [],
+      "examples": [
+        {"ja": "急ぎの仕事が入った。", "vi": "Có việc gấp đến."}
+      ],
+      "related": [],
+      "notes": "（動）急ぐ"
+    },
+    {
+      "no": 243,
+      "kanji": "遅れ",
+      "kana": "おくれ",
+      "en": "delay",
+      "kr": "늦음, 지연",
+      "vi": "sự chậm trễ, sự trễ",
+      "senses": [],
+      "examples": [
+        {"ja": "電車に３分の遅れが出た。", "vi": "Tàu bị chậm trễ 3 phút."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が出る"},
+        {"type": "合", "text": "時代_、流行_、〔時間〕＋遅れ（例: 10分遅れ）"}
+      ],
+      "notes": "（動）遅れる"
+    },
+    {
+      "no": 244,
+      "kanji": "貸し",
+      "kana": "かし",
+      "en": "loan, lending",
+      "kr": "빌려 줌, 대출",
+      "vi": "sự cho vay, ơn cho vay",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "（動）貸す"
+    },
+    {
+      "no": 245,
+      "kanji": "借り",
+      "kana": "かり",
+      "en": "debt, borrowing",
+      "kr": "빌림, 빚",
+      "vi": "sự vay, món nợ",
+      "senses": [],
+      "examples": [
+        {"ja": "あの人には10万円の貸しがある。", "vi": "Tôi có cho người đó vay 10 vạn yên (một ơn cho vay)."},
+        {"ja": "借りは返さなければならない。", "vi": "Đã vay thì phải trả lại."},
+        {"ja": "試験中は、筆記用具の貸し借りは禁止されている。", "vi": "Trong lúc thi, việc mượn – cho mượn dụng cụ viết bị cấm."}
+      ],
+      "related": [],
+      "notes": "（動）借りる"
+    },
+    {
+      "no": 246,
+      "kanji": "勝ち",
+      "kana": "かち",
+      "en": "victory",
+      "kr": "승리",
+      "vi": "sự thắng, chiến thắng",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "（動）勝つ"
+    },
+    {
+      "no": 247,
+      "kanji": "負け",
+      "kana": "まけ",
+      "en": "defeat",
+      "kr": "패배",
+      "vi": "sự thua, thất bại",
+      "senses": [],
+      "examples": [
+        {"ja": "きょうの試合はＡチームの勝ちだった。", "vi": "Trận đấu hôm nay đội A thắng."},
+        {"ja": "負けが続いて、いやになった。", "vi": "Thua liên tục nên đã chán."},
+        {"ja": "勝ち負けを気にせず、力いっぱい戦おう。", "vi": "Đừng để ý thắng thua, hãy chiến đấu hết mình."}
+      ],
+      "related": [],
+      "notes": "（動）負ける"
+    },
+    {
+      "no": 248,
+      "kanji": "迎え",
+      "kana": "むかえ",
+      "en": "picking up",
+      "kr": "마중",
+      "vi": "sự đón",
+      "senses": [],
+      "examples": [
+        {"ja": "迎えの車がなかなか来ない。", "vi": "Xe đến đón mãi không chịu đến."}
+      ],
+      "related": [
+        {"type": "合", "text": "出_、送り_"}
+      ],
+      "notes": "（動）迎える"
+    },
+    {
+      "no": 249,
+      "kanji": "始まり",
+      "kana": "はじまり",
+      "en": "beginning",
+      "kr": "시작",
+      "vi": "sự bắt đầu",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "（動）始まる"
+    },
+    {
+      "no": 250,
+      "kanji": "終わり",
+      "kana": "おわり",
+      "en": "end",
+      "kr": "끝",
+      "vi": "sự kết thúc, phần cuối",
+      "senses": [],
+      "examples": [
+        {"ja": "映画の始まりに間に合わなかった。", "vi": "Không kịp lúc phim bắt đầu."},
+        {"ja": "夏休みはもうすぐ終わりだ。", "vi": "Kỳ nghỉ hè sắp kết thúc rồi."}
+      ],
+      "related": [],
+      "notes": "（動）終わる"
+    },
+    {
+      "no": 251,
+      "kanji": "戻り",
+      "kana": "もどり",
+      "en": "return",
+      "kr": "돌아옴, 귀가",
+      "vi": "sự trở về, đường về",
+      "senses": [],
+      "examples": [
+        {"ja": "「きょうの戻りは3時ごろになります」", "vi": "\"Hôm nay về dự kiến khoảng 3 giờ.\""}
+      ],
+      "related": [],
+      "notes": "（動）戻る"
+    },
+    {
+      "no": 252,
+      "kanji": "別れ",
+      "kana": "わかれ",
+      "en": "parting",
+      "kr": "이별",
+      "vi": "sự chia tay, sự chia ly",
+      "senses": [],
+      "examples": [
+        {"ja": "日本では3月は別れの季節だ。", "vi": "Ở Nhật Bản, tháng 3 là mùa chia ly."}
+      ],
+      "related": [],
+      "notes": "（動）別れる"
+    },
+    {
+      "no": 253,
+      "kanji": "喜び",
+      "kana": "よろこび",
+      "en": "joy",
+      "kr": "기쁨",
+      "vi": "niềm vui, niềm vui mừng",
+      "senses": [],
+      "examples": [
+        {"ja": "優勝できて、喜びでいっぱいだ。", "vi": "Được vô địch nên lòng đầy niềm vui."}
+      ],
+      "related": [
+        {"type": "合", "text": "大_スル"}
+      ],
+      "notes": "（動）喜ぶ"
+    },
+    {
+      "no": 254,
+      "kanji": "楽しみ",
+      "kana": "たのしみ",
+      "en": "fun",
+      "kr": "즐거움",
+      "vi": "niềm vui thích, sự mong chờ",
+      "senses": [],
+      "examples": [
+        {"ja": "来週のパーティーが楽しみだ／を楽しみにしている。", "vi": "Tôi rất mong bữa tiệc tuần sau."}
+      ],
+      "related": [
+        {"type": "連", "text": "楽_にする"}
+      ],
+      "notes": "（動）楽しむ"
+    },
+    {
+      "no": 255,
+      "kanji": "笑い",
+      "kana": "わらい",
+      "en": "laughter",
+      "kr": "웃음",
+      "vi": "tiếng cười, sự cười",
+      "senses": [],
+      "examples": [
+        {"ja": "歌手の冗談で会場に笑いが起きた。", "vi": "Câu đùa của ca sĩ khiến khán phòng cười rộ lên."}
+      ],
+      "related": [
+        {"type": "合", "text": "大_（ラ）スル"}
+      ],
+      "notes": "（動）笑う"
+    },
+    {
+      "no": 256,
+      "kanji": "驚き",
+      "kana": "おどろき",
+      "en": "surprise",
+      "kr": "놀람, 경탄",
+      "vi": "sự kinh ngạc, sự ngạc nhiên",
+      "senses": [],
+      "examples": [
+        {"ja": "この大きな家がたったの100万円とは驚きだ。", "vi": "Căn nhà to như vậy mà chỉ 1 triệu yên, thật kinh ngạc."}
+      ],
+      "related": [],
+      "notes": "（動）驚く"
+    },
+    {
+      "no": 257,
+      "kanji": "怒り",
+      "kana": "いかり",
+      "en": "anger",
+      "kr": "분노",
+      "vi": "cơn giận, sự phẫn nộ",
+      "senses": [],
+      "examples": [
+        {"ja": "殺人のニュースに怒りを感じた。", "vi": "Tôi cảm thấy phẫn nộ trước tin tức án mạng."}
+      ],
+      "related": [],
+      "notes": "（動）怒る"
+    },
+    {
+      "no": 258,
+      "kanji": "悲しみ",
+      "kana": "かなしみ",
+      "en": "sadness",
+      "kr": "슬픔",
+      "vi": "nỗi buồn, nỗi đau buồn",
+      "senses": [],
+      "examples": [
+        {"ja": "愛犬を亡くした悲しみが消えない。", "vi": "Nỗi buồn mất chú chó cưng không thể nguôi."}
+      ],
+      "related": [],
+      "notes": "（動）悲しむ"
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム 7 体の部分の言葉 (Terms for Body Parts)",
+      "book_page": 49,
+      "items": [
+        ["まゆげ", "まゆげ", "", "lông mày"],
+        ["まぶた", "まぶた", "", "mí mắt"],
+        ["まつげ", "まつげ", "", "lông mi"],
+        ["くちびる", "くちびる", "", "môi"],
+        ["舌", "した", "", "lưỡi"],
+        ["ひたい（おでこ）", "ひたい（おでこ）", "", "trán"],
+        ["鼻", "はな", "", "mũi"],
+        ["耳", "みみ", "", "tai"],
+        ["ほお", "ほお", "", "má"],
+        ["あご", "あご", "", "cằm"],
+        ["つめ", "つめ", "", "móng (tay, chân)"],
+        ["手のひら", "てのひら", "", "lòng bàn tay"],
+        ["手の甲", "てのこう", "", "mu bàn tay"],
+        ["親指", "おやゆび", "", "ngón cái"],
+        ["人差し指", "ひとさしゆび", "", "ngón trỏ"],
+        ["中指", "なかゆび", "", "ngón giữa"],
+        ["薬指", "くすりゆび", "", "ngón áp út"],
+        ["小指", "こゆび", "", "ngón út"],
+        ["手首", "てくび", "", "cổ tay"],
+        ["首", "くび", "", "cổ"],
+        ["肩", "かた", "", "vai"],
+        ["胸", "むね", "", "ngực"],
+        ["ひじ", "ひじ", "", "khuỷu tay"],
+        ["腹（おなか）", "はら（おなか）", "", "bụng"],
+        ["へそ", "へそ", "", "rốn"],
+        ["背中", "せなか", "", "lưng"],
+        ["腰", "こし", "", "hông, eo lưng"],
+        ["（お）しり", "（お）しり", "", "mông"],
+        ["ひざ", "ひざ", "", "gối"],
+        ["もも", "もも", "", "đùi"],
+        ["足首", "あしくび", "", "cổ chân"],
+        ["かかと", "かかと", "", "gót chân"],
+        ["つま先", "つまさき", "", "mũi chân"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "練習問題I",
+      "range": "171~220",
+      "book_page": 50,
+      "questions": [
+        {"no": "I-1", "text": "（　）に助詞を書きなさい。1. この薬は腹痛（　）よく効く。", "options": [], "answer": null},
+        {"no": "I-2", "text": "走れば8時の電車（　）間に合うだろう。", "options": [], "answer": null},
+        {"no": "I-3", "text": "この駅で、上り列車（　）下り列車がすれ違う。", "options": [], "answer": null},
+        {"no": "I-4", "text": "「つくえ、（　）つくえ（　）も少し離して並べましょう」", "options": [], "answer": null},
+        {"no": "I-5", "text": "姉は今、家族（　）離れて暮らしている。", "options": [], "answer": null},
+        {"no": "I-6", "text": "私は毎週英会話のレッスン（　）通っている。", "options": [], "answer": null},
+        {"no": "I-7", "text": "「私は目が悪いので、よく物（　）ぶつかるんです」", "options": [], "answer": null},
+        {"no": "I-8", "text": "ふうとう（　）切手（　）貼らずに出してしまった。", "options": [], "answer": null},
+        {"no": "I-9", "text": "手（　）すべって、コップを落としてしまった。", "options": [], "answer": null},
+        {"no": "I-10", "text": "時間（　）たりなくて、作文を最後まで書けなかった。", "options": [], "answer": null},
+        {"no": "I-11", "text": "「この道具は、何（　）役（　）立つのですか」", "options": [], "answer": null},
+        {"no": "II", "text": "下の表を完成させなさい。（自動詞／他動詞のペア）1. うごく｜（　）　2. （　）｜かける　3. ふつかる｜（　）　4. こぼれる｜（　）　5. （　）｜むく　6. （　）｜あける　7. ひえる｜（　）　8. さめる｜（　）　9. （　）｜もやす　10. 鳴る｜（　）", "options": [], "answer": null},
+        {"no": "III", "text": "「ます形」が名詞になることばに○をつけなさい。例: 空く→ 空き／片づける、の残る、こむ、はやる、足りる、働く、すれちがう、さめる、冷える、わく、鳴る、包む", "options": [], "answer": null},
+        {"no": "IV-1", "text": "正しいことばを（　）の中から一つえらびなさい。お湯を（　　）。", "options": ["もやす", "あげる", "わかす"], "answer": null},
+        {"no": "IV-2", "text": "ブザーが（　　）。", "options": ["うたう", "鳴る", "鳴く"], "answer": null},
+        {"no": "IV-3", "text": "一歩後ろに（　　）。", "options": ["さがる", "おりる", "あける"], "answer": null},
+        {"no": "IV-4", "text": "上からしょうゆを（　　）。", "options": ["かける", "つける", "つむ"], "answer": null},
+        {"no": "IV-5", "text": "友だちと意見が（　　）。", "options": ["まちがう", "はなれる", "ぶつかる"], "answer": null},
+        {"no": "V", "text": "いっしょに使うことばを下から選びなさい。1.（　）がかかる。2.（　）がはやる。3.（　）があく。4.（　）がさめる。5.（　）がもえる。6.（　）をひらく。7.（　）をはなす。8.（　）をふく。9.（　）をむく。／下から: コーヒー、あせ、あな、かぜ、皮（かわ）、包み（つつみ）、手、火、費用", "options": [], "answer": null},
+        {"no": "VI-1", "text": "いっしょに使うことばをえらびなさい。（　）の数字はえらぶ数です。〔時間、めいわく、テレビ、ストップ、CD〕をかける。（3）", "options": ["時間", "めいわく", "テレビ", "ストーブ", "CD"], "answer": null},
+        {"no": "VI-2", "text": "〔パスポート、犬、食欲、記憶〕が無くなる。（3）", "options": ["パスポート", "犬", "食欲", "記憶"], "answer": null},
+        {"no": "VI-3", "text": "〔時間、注意、記憶、数、経験〕が足りない。（4）", "options": ["時間", "注意", "記憶", "数", "経験"], "answer": null},
+        {"no": "VI-4", "text": "〔荷物、子ども、雪、練習、経験〕を積む。（3）", "options": ["荷物", "子ども", "雪", "練習", "経験"], "answer": null},
+        {"no": "VI-5", "text": "〔大きさ、温度、成績、人格、値段、階段〕が下がる。（3）", "options": ["大きさ", "温度", "成績", "人格", "値段", "階段"], "answer": null},
+        {"no": "VI-6", "text": "〔レジ、家、道、バス〕がこむ。（3）", "options": ["レジ", "家", "道", "バス"], "answer": null},
+        {"no": "VII-1", "text": "（　）に入ることばを下からえらんで、適当な形にして書きなさい。メールを出してもう3日も（　　）のに、まだ返事が来ない。", "options": [], "answer": null},
+        {"no": "VII-2", "text": "車はブレーキを（　　）も、急には止まれない。", "options": [], "answer": null},
+        {"no": "VII-3", "text": "兄と私は年が4歳（　　）いる。", "options": [], "answer": null},
+        {"no": "VII-4", "text": "書類の上にジュースを（　　）よこしてしまった。", "options": [], "answer": null},
+        {"no": "VII-5", "text": "ガソリンスタンドでは、車のガラスを（　　）くれる。", "options": [], "answer": null},
+        {"no": "VII-6", "text": "「やっと仕事が（　　）。さあ、帰ろう」", "options": [], "answer": null},
+        {"no": "VII-7", "text": "3試合続けて負けてしまい、すっかり自信を（　　）。", "options": [], "answer": null},
+        {"no": "VII-8", "text": "この肉はへんにおいがする。（　　）いるようだ。", "options": [], "answer": null},
+        {"no": "VII-9", "text": "雪の日の道で（　　）ころび、けがをした。", "options": [], "answer": null},
+        {"no": "VII-10", "text": "子どもがかべに頭を（　　）泣いている。", "options": [], "answer": null},
+        {"no": "VII-11", "text": "「お会いしてお願いしたいことがあるのですが」「今度の土曜なら（　　　）いますよ」／下から: あく、かける、かたづく、くさる、こぼす、すべる、たつ、なくす、はなれる、ふく、ふっける", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題II",
+      "range": "121~220",
+      "book_page": 52,
+      "questions": [
+        {"no": "I-1", "text": "（　）に入れるのに最もよいものを、a・b・c・dから一つえらびなさい。このアパートでは、犬やねこを（　）ことはできない。", "options": ["a くらう", "b 飼う", "c 入る", "d うまる"], "answer": null},
+        {"no": "I-2", "text": "きのう書いた書類が（　）。どこに行ったのだろう。", "options": ["a 見当たらない", "b なおらない", "c つかまらない", "d 見つからない"], "answer": null},
+        {"no": "I-3", "text": "やけどをしたときは、すぐに水で（　）ましょう。", "options": ["a ひやし", "b さまし", "c あたため", "d さげ"], "answer": null},
+        {"no": "I-4", "text": "外でかみなりが（　）いる。雨が降りそうだ。", "options": ["a ないて", "b なって", "c して", "d たたいて"], "answer": null},
+        {"no": "I-5", "text": "学生のころ、よく学校で問題を（　）、先生に怒られたものだ。", "options": ["a 生んで", "b といて", "c 起こして", "d なくって"], "answer": null},
+        {"no": "I-6", "text": "荷物が多いので、タクシーを（　）。", "options": ["a かけて", "b 乗せた", "c 呼んだ", "d 誘った"], "answer": null},
+        {"no": "I-7", "text": "さっき駅前で（　）人、どこかで会ったことがあるような気がする。", "options": ["a すれ違った", "b 待ち合った", "c 通った", "d 見つけた"], "answer": null},
+        {"no": "I-8", "text": "出張の日のいとこの結婚式と（　）困っている。", "options": ["a 近づいて", "b 出会って", "c 似立って", "d ぶつかって"], "answer": null},
+        {"no": "I-9", "text": "もう少しこの店で経験を（　）、独立して自分の店を持ちたい。", "options": ["a 乗せたら", "b 積んだら", "c 上げたら", "d 広げたら"], "answer": null},
+        {"no": "I-10", "text": "私は希望に（　）大学に入学した。", "options": ["a おいて", "b わかして", "c もやして", "d もえて"], "answer": null},
+        {"no": "II-1", "text": "＿＿＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。「小林先生に教わったことがありますか」（教わった）", "options": ["a 勉強した", "b たずねた", "c 聞いた", "d 習った"], "answer": null},
+        {"no": "II-2", "text": "早くこの仕事をかたづけて、ゆっくりしたい。（かたづけて）", "options": ["a 終わらせて", "b 始めて", "c なくして", "d 残さないで"], "answer": null},
+        {"no": "II-3", "text": "1対0で、イギリスチームがアメリカチームをたおした。（たおした）", "options": ["a に勝った", "b に負けた", "c にやぶれた", "d に起こされた"], "answer": null},
+        {"no": "II-4", "text": "毎年正月には、親戚の家をたずねることにしている。（たずねる）", "options": ["a 質問する", "b 訪問する", "c 交際する", "d 流行する"], "answer": null},
+        {"no": "II-5", "text": "陸上の100メートル走で、世界新記録が生まれた。（生まれた）", "options": ["a 成長した", "b 成功した", "c 誕生した", "d 出産した"], "answer": null},
+        {"no": "III-1", "text": "つぎのことばの言い方として最もよいものを、一つえらびなさい。〔はやる〕", "options": ["a 友だちの結婚がはやっているので、私も早くしたい。", "b 最近かぜをひく人が多く、病院はどこもはやっています。", "c あの店はとてもはやっていて、いつ行ってもお客さんでいっぱいだ。", "d 大都市では、ラッシュアワーの電車はとてもはやっている。"], "answer": null},
+        {"no": "III-2", "text": "〔はる〕", "options": ["a ベッドに青いベッドカバーがはってある。", "b 「プレゼントなので、きれいな紙ではってください」", "c 教室の壁に、大きな時計がはってある。", "d 「申し込み用紙には、必ず3月以内にとった写真をはってください」"], "answer": null},
+        {"no": "III-3", "text": "〔こぼれる〕", "options": ["a 食事をしているときに飛行機がゆれて、スープがこぼれてしまった。", "b 部屋の中から、娘のひくピアノの音がこぼれている。", "c お湯を止めるのを忘れたので、おふろのお湯がこぼれてしまった。", "d 地震でガス管がこわれ、ガスがこぼれているようだ。"], "answer": null},
+        {"no": "III-4", "text": "〔あく〕", "options": ["a 平日の昼間の電車はとてもあいている。", "b あと５分あいているから、9時の電車に間に合うだろう。", "c 冷蔵庫の中があいている。あしたスーパーへ買い物に行こう。", "d かさを落としてしまった。ポケットに穴があいていたのだ。"], "answer": null},
+        {"no": "III-5", "text": "〔決まる〕", "options": ["a みんなで決まったことはかならず守ってください。", "b この試合に勝てば、優勝が決まる。", "c 結婚の約束が決まったので、お知らせします。", "d うちの朝食はご飯にみそ汁と決まっている。"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 49, "book_page": 48, "unit_title": "Unit 02 動詞A 211〜220（自他動詞のペア、Unit 02 の最終語彙ページ）"},
+    {"pdf_page": 50, "book_page": 49, "unit_title": "コラム 7 体の部分の言葉 Terms for Body Parts（図解ページ、語彙項目なし）"},
+    {"pdf_page": 51, "book_page": 50, "unit_title": "Unit 02 動詞A 練習問題I Step 1 171〜220"},
+    {"pdf_page": 52, "book_page": 51, "unit_title": "Unit 02 動詞A 練習問題I Step 1（続き）"},
+    {"pdf_page": 53, "book_page": 52, "unit_title": "Unit 02 動詞A 練習問題II Step 1 121〜220"},
+    {"pdf_page": 54, "book_page": 53, "unit_title": "Unit 02 動詞A 練習問題II Step 1（続き）"},
+    {"pdf_page": 55, "book_page": 54, "unit_title": "まとめ 連用名詞 221〜258（ページには語彙221-229もあり）"},
+    {"pdf_page": 56, "book_page": 55, "unit_title": "まとめ 連用名詞（続き、語彙230〜239）"},
+    {"pdf_page": 57, "book_page": 56, "unit_title": "まとめ 連用名詞 III 動詞本来の意味が保たれているもの 240〜250"},
+    {"pdf_page": 58, "book_page": 57, "unit_title": "まとめ 連用名詞 III（続き）・IV 感情を表すもの 251〜258"}
+  ]
+}

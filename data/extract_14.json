@@ -1,0 +1,1052 @@
+{
+  "pdf_pages": "139-148",
+  "words": [
+    {
+      "no": 627,
+      "kanji": "もしかすると／もしかしたら／もしかして",
+      "kana": "もしかすると／もしかしたら／もしかして",
+      "en": "maybe",
+      "kr": "어쩌면, 혹시",
+      "vi": "có lẽ, biết đâu",
+      "senses": [],
+      "examples": [
+        {"ja": "体調が悪いので、もしかすると、あした休むかもしれない。", "vi": "Vì tình trạng sức khỏe không tốt, biết đâu ngày mai tôi có thể nghỉ."},
+        {"ja": "このごろ成績が上がってきたから、もしかしたらT大学に合格できるかもしれない。", "vi": "Gần đây điểm số đã tiến lên nên biết đâu có thể đỗ đại học T."},
+        {"ja": "「北村さん、もしかして河内さんのことが好きなんじゃない？」", "vi": "\"Kitamura, chẳng nhẽ bạn thích Kawachi đấy thôi?\""}
+      ],
+      "related": [],
+      "notes": "※「もしかすると＞もしかしたら＞もしかして」の順に会話的になる。「ひょっとすると＞ひょっとしたら＞ひょっとして」は、より会話的になる。"
+    },
+    {
+      "no": 628,
+      "kanji": "まさか",
+      "kana": "まさか",
+      "en": "no way, never (dreamed of)",
+      "kr": "설마",
+      "vi": "không thể nào, đâu ngờ",
+      "senses": [],
+      "examples": [
+        {"ja": "「あの二人、離婚するそうだよ」「まさか！ あんなに仲がよかったのに」", "vi": "\"Nghe nói hai người đó sắp ly hôn.\" \"Không thể nào! Hai người thương nhau dữ lắm cơ mà.\""},
+        {"ja": "あの成績のいい小林さんが、まさかT大学に落ちるとは思わなかった。", "vi": "Không ngờ Kobayashi điểm số tốt như vậy lại trượt đại học T."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 629,
+      "kanji": "うっかり",
+      "kana": "うっかり",
+      "en": "absentmindedly",
+      "kr": "방심",
+      "vi": "vô tình, bất cẩn",
+      "senses": [],
+      "examples": [
+        {"ja": "うっかりして、きょうは店を間違えて入ってしまった。", "vi": "Bất cẩn nên hôm nay đã đi nhầm vào cửa hàng khác."},
+        {"ja": "買い物に行くのに、うっかりさいふを忘れて出かけてしまった。", "vi": "Đi mua sắm mà vô tình quên ví và đã ra khỏi nhà."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 630,
+      "kanji": "つい",
+      "kana": "つい",
+      "en": "in spite of oneself, involuntarily",
+      "kr": "자기도 모르게, 그만",
+      "vi": "vô thức, chẳng hay lại",
+      "senses": [],
+      "examples": [
+        {"ja": "禁煙しようと思うのだが、食事の後などについ吸ってしまう。", "vi": "Định bỏ thuốc lá nhưng sau bữa ăn chẳng hay lại hút mất."},
+        {"ja": "疲れていたので、会議中につい居眠りしてしまった。", "vi": "Vì mệt nên trong cuộc họp chẳng hay lại ngủ gật mất."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 631,
+      "kanji": "おもわず 思わず",
+      "kana": "おもわず",
+      "en": "instinctively, unconsciously",
+      "kr": "저절로",
+      "vi": "vô tình, không kịp suy nghĩ",
+      "senses": [],
+      "examples": [
+        {"ja": "夜道で急に肩をたたかれ、思わず「ワッ」と叫んでしまった。", "vi": "Đang đi đường tối bị vỗ vai bất ngờ, vô thức hét lên \"Ạ\"."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 632,
+      "kanji": "ほっと",
+      "kana": "ほっと",
+      "en": "relieved, to my relief",
+      "kr": "안도",
+      "vi": "nhờ nhẽ, yên lòng, thở phào",
+      "senses": [],
+      "examples": [
+        {"ja": "試験が終わって… ほっとした。", "vi": "Kỳ thi kết thúc… tôi mới thở phào."}
+      ],
+      "related": [],
+      "notes": "Phần giữa câu ví dụ in mờ khó đọc, chỉ đọc rõ 「試験が終わって…ほっとした」."
+    },
+    {
+      "no": 633,
+      "kanji": "いらいら",
+      "kana": "いらいら",
+      "en": "irritated",
+      "kr": "성질부럽",
+      "vi": "bứt rứt, khó chịu, cáu gắt",
+      "senses": [],
+      "examples": [
+        {"ja": "急いでいるのにバスがなかなか来なくていらいらした。", "vi": "Đang vội mà xe buýt mãi không đến khiến tôi bứt rứt."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 634,
+      "kanji": "のんびり",
+      "kana": "のんびり",
+      "en": "leisurely, laidback, dawdlingly",
+      "kr": "느긋이, 여유",
+      "vi": "thong thả, nhàn nhã",
+      "senses": [],
+      "examples": [
+        {"ja": "半年ほどとても忙しかった。温泉へでも行ってのんびりしたい。", "vi": "Khoảng nửa năm nay bận rộn lắm. Muốn đi onsen đâu đó để thư giãn."},
+        {"ja": "定年退職後はふるさとへ帰ってのんびり（と）暮らしたい。", "vi": "Sau khi nghỉ hưu, muốn về quê sống thong thả."},
+        {"ja": "「準備できた？」「まだ」「のんびりしてると間に合わないよ」", "vi": "\"Chuẩn bị xong chưa?\" \"Chưa.\" \"Mà cứ thong thả thế này thì không kịp đâu.\""}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 635,
+      "kanji": "じつは 実は",
+      "kana": "じつは",
+      "en": "to tell the truth, actually",
+      "kr": "사실, 실은",
+      "vi": "thực ra, sự thật là",
+      "senses": [],
+      "examples": [
+        {"ja": "「きのう言ったことは、実はうそなんです」", "vi": "\"Điều tôi nói hôm qua thực ra là nói dối.\""},
+        {"ja": "「あら、鈴木さん。何かご用ですか」「ええ、実は、お願いがあって……」", "vi": "\"Ôi, chị Suzuki. Có việc gì không?\" \"Vâng, thực ra là có chuyện muốn nhờ…\""}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 636,
+      "kanji": "どくしょ 読書(ラ)スル",
+      "kana": "どくしょ",
+      "en": "reading",
+      "kr": "독서",
+      "vi": "việc đọc sách",
+      "senses": [],
+      "examples": [
+        {"ja": "趣味は読書だ。", "vi": "Sở thích của tôi là đọc sách."},
+        {"ja": "休日に読書をする。", "vi": "Ngày nghỉ tôi đọc sách."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 637,
+      "kanji": "えんそう ラ演奏(ラ)スル",
+      "kana": "えんそう",
+      "en": "playing (an instrument), musical performance",
+      "kr": "연주",
+      "vi": "sự biểu diễn nhạc cụ, tấu nhạc",
+      "senses": [],
+      "examples": [
+        {"ja": "楽器を演奏する。", "vi": "Chơi (tấu) nhạc cụ."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_会"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 638,
+      "kanji": "げいじゅつ 芸術",
+      "kana": "げいじゅつ",
+      "en": "art",
+      "kr": "예술",
+      "vi": "nghệ thuật",
+      "senses": [],
+      "examples": [
+        {"ja": "美術、音楽、文学、演劇などは、みな、芸術の一種であると言える。", "vi": "Có thể nói hội họa, âm nhạc, văn học, kịch nghệ v.v. đều là một loại hình nghệ thuật."}
+      ],
+      "related": [
+        {"type": "合", "text": "_作品、_家、_的"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 639,
+      "kanji": "けんさ ラ検査(ラ)スル",
+      "kana": "けんさ",
+      "en": "inspection, (medical) examination",
+      "kr": "검사",
+      "vi": "sự kiểm tra, khám (bệnh)",
+      "senses": [],
+      "examples": [
+        {"ja": "胃や製品などの検査。空港では、必ず持ち物の検査がある。", "vi": "Khám dạ dày, kiểm tra sản phẩm v.v. Ở sân bay chắc chắn có việc kiểm tra hành lý."},
+        {"ja": "病院での検査を「した／受けた」。", "vi": "Đã kiểm tra (tự làm / đi làm) ở bệnh viện."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を受ける"},
+        {"type": "合", "text": "身体_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 640,
+      "kanji": "けつえき 血液",
+      "kana": "けつえき",
+      "en": "blood",
+      "kr": "혈액",
+      "vi": "máu",
+      "senses": [],
+      "examples": [
+        {"ja": "体の中を血液が流れている。", "vi": "Máu chảy khắp trong cơ thể."}
+      ],
+      "related": [
+        {"type": "合", "text": "_型、_類"},
+        {"type": "類", "text": "血"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 641,
+      "kanji": "ちりょう ラ治療(ラ)スル",
+      "kana": "ちりょう",
+      "en": "treatment",
+      "kr": "치료",
+      "vi": "sự chữa trị, điều trị",
+      "senses": [],
+      "examples": [
+        {"ja": "病気を治療した。", "vi": "Đã chữa bệnh."},
+        {"ja": "虫歯の治療を「した／受けた」。", "vi": "Đã chữa răng sâu (tự chữa / đi chữa)."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を受ける"},
+        {"type": "関", "text": "治す"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 642,
+      "kanji": "しょうじょう 症状",
+      "kana": "しょうじょう",
+      "en": "symptom",
+      "kr": "증상",
+      "vi": "triệu chứng",
+      "senses": [],
+      "examples": [
+        {"ja": "かぜの症状は、熱、せき、鼻水などだ。", "vi": "Triệu chứng cảm cúm là sốt, ho, sổ mũi v.v."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が軽い⇔重い、_が出る"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 643,
+      "kanji": "よぼう ラ予防(ラ)スル",
+      "kana": "よぼう",
+      "en": "prevention",
+      "kr": "예방",
+      "vi": "sự phòng ngừa, phòng chống",
+      "senses": [],
+      "examples": [
+        {"ja": "かぜの予防・災害を予防する。", "vi": "Phòng cảm cúm; phòng ngừa thiên tai."}
+      ],
+      "related": [
+        {"type": "合", "text": "_注射、_接種"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 644,
+      "kanji": "えいよう 栄養",
+      "kana": "えいよう",
+      "en": "nutrition",
+      "kr": "영양",
+      "vi": "dinh dưỡng",
+      "senses": [],
+      "examples": [
+        {"ja": "栄養のある食べ物・健康のために、栄養に気をつけましょう。", "vi": "Thức ăn giàu dinh dưỡng; vì sức khỏe, hãy chú ý đến dinh dưỡng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある/ない、_をとる、_がつく・_をつける"},
+        {"type": "合", "text": "_不足、_状態"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 645,
+      "kanji": "しゅじゅつ ラ手術(ラ)スル",
+      "kana": "しゅじゅつ",
+      "en": "surgery, operation",
+      "kr": "수술",
+      "vi": "phẫu thuật, mổ",
+      "senses": [],
+      "examples": [
+        {"ja": "胃の手術を「した／受けた」。", "vi": "Đã mổ dạ dày (tự mổ / được mổ)."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を受ける"},
+        {"type": "合", "text": "外科_、整形_、移植_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 646,
+      "kanji": "しぼう 死亡スル",
+      "kana": "しぼう",
+      "en": "death",
+      "kr": "사망",
+      "vi": "cái chết, tử vong",
+      "senses": [],
+      "examples": [
+        {"ja": "死亡の原因を調べる。", "vi": "Điều tra nguyên nhân cái chết."},
+        {"ja": "事故で3名死亡した。", "vi": "Ba người đã chết vì tai nạn."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_率"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 647,
+      "kanji": "いのち 命",
+      "kana": "いのち",
+      "en": "life",
+      "kr": "목숨, 생명",
+      "vi": "tính mạng, mạng sống",
+      "senses": [],
+      "examples": [
+        {"ja": "命は大切にしなければならない。", "vi": "Phải quý trọng tính mạng."}
+      ],
+      "related": [
+        {"type": "類", "text": "生命"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 648,
+      "kanji": "いっしょう 一生",
+      "kana": "いっしょう",
+      "en": "(whole) life; forever",
+      "kr": "일생, 평생",
+      "vi": "cả đời, một đời",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① ピカソの一生を調べる。", "vi": "① Tìm hiểu cuộc đời Picasso."},
+        {"ja": "① 幸せな一生を送る。", "vi": "① Sống một đời hạnh phúc."},
+        {"ja": "②〔副〕あなたのことは、一生忘れません。", "vi": "② (Trạng ngữ) Tôi sẽ không bao giờ quên anh."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 649,
+      "kanji": "ごかい ラ誤解スル",
+      "kana": "ごかい",
+      "en": "misunderstanding",
+      "kr": "오해",
+      "vi": "sự hiểu lầm",
+      "senses": [],
+      "examples": [
+        {"ja": "誤解がないようにするには、よく話し合うことが大切だ。", "vi": "Để không bị hiểu lầm, điều quan trọng là phải trao đổi kỹ với nhau."},
+        {"ja": "テストで問題の意味を誤解して答えを間違えた。", "vi": "Trong bài thi, hiểu lầm ý nghĩa câu hỏi nên đã trả lời sai."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 650,
+      "kanji": "こうかい ラ後悔スル",
+      "kana": "こうかい",
+      "en": "regret",
+      "kr": "후회",
+      "vi": "sự hối hận, tiếc nuối",
+      "senses": [],
+      "examples": [
+        {"ja": "私は若いころに勉強しなかったことを、とても後悔している。", "vi": "Tôi rất hối hận vì thời trẻ đã không học hành."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 651,
+      "kanji": "わけ 訳",
+      "kana": "わけ",
+      "en": "reason; meaning",
+      "kr": "이유, 뜻",
+      "vi": "lý do, nguyên nhân; ý nghĩa",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① 遅刻したわけを話す。", "vi": "① Kể lý do đi trễ."},
+        {"ja": "① 二人が別れたわけを知りたい。", "vi": "① Muốn biết lý do hai người chia tay."},
+        {"ja": "② 彼が言っていることは、わけがわからない。", "vi": "② Điều anh ấy nói chẳng hiểu ý gì."}
+      ],
+      "related": [
+        {"type": "連", "text": "深い_"},
+        {"type": "類", "text": "理由、事情"},
+        {"type": "類", "text": "意味、理屈"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 652,
+      "kanji": "たいど 態度",
+      "kana": "たいど",
+      "en": "attitude",
+      "kr": "태도",
+      "vi": "thái độ",
+      "senses": [],
+      "examples": [
+        {"ja": "あの学生は、授業中の態度が悪い。", "vi": "Thái độ trong giờ học của sinh viên đó tệ."},
+        {"ja": "あいまいな態度をとる。", "vi": "Lấy thái độ mập mờ."},
+        {"ja": "好きか嫌いか、態度をはっきりさせる。", "vi": "Thích hay ghét, phải thể hiện thái độ rõ ràng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がいい⇔悪い、あいまいな/ふまじめな/きざな/冷たい…_をとる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 653,
+      "kanji": "くせ 癖",
+      "kana": "くせ",
+      "en": "habit",
+      "kr": "버릇, 습관",
+      "vi": "thói quen, tật",
+      "senses": [],
+      "examples": [
+        {"ja": "私のくせは、困ったとき頭をかくことだ。", "vi": "Thói quen của tôi là gãi đầu khi gặp chuyện rắc rối."},
+        {"ja": "正しい形を見て練習しないと、字に変なくせがつく。", "vi": "Nếu không nhìn mẫu đúng mà luyện tập thì chữ viết sẽ hình thành tật xấu."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある/ない、_がつく、_になる、悪い_"},
+        {"type": "合", "text": "口_（くちくせ）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 654,
+      "kanji": "れいぎ 礼儀",
+      "kana": "れいぎ",
+      "en": "etiquette",
+      "kr": "예의",
+      "vi": "lễ nghĩa, lễ phép",
+      "senses": [],
+      "examples": [
+        {"ja": "目上の人への礼儀・あの人は礼儀を知らない。", "vi": "Lễ phép với người trên; người đó không biết lễ nghĩa."}
+      ],
+      "related": [
+        {"type": "合", "text": "_正しい、_作法、_知らず"},
+        {"type": "類", "text": "エチケット、マナー (参 815)"},
+        {"type": "関", "text": "作法"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 655,
+      "kanji": "もんく 文句",
+      "kana": "もんく",
+      "en": "complaint; words, passage",
+      "kr": "불평, 문구",
+      "vi": "lời phàn nàn, ý kiến; lời văn, câu chữ",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① 給料に文句がある。", "vi": "① Có ý kiến về tiền lương."},
+        {"ja": "① 店に商品について文句を言う。", "vi": "① Than phiền với cửa hàng về hàng hóa."},
+        {"ja": "② 歌の文句・小説の文句を引用する。", "vi": "② Lời bài hát; trích dẫn câu chữ trong tiểu thuyết."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある/ない、_を言う、_をつける"},
+        {"type": "合", "text": "名_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 656,
+      "kanji": "ひょうじょう 表情",
+      "kana": "ひょうじょう",
+      "en": "(facial) expression",
+      "kr": "표정",
+      "vi": "biểu cảm, nét mặt",
+      "senses": [],
+      "examples": [
+        {"ja": "顔の表情・あの人は表情が豊かだ。・表情を変える。", "vi": "Nét mặt; người đó có vẻ mặt phong phú; thay đổi biểu cảm."}
+      ],
+      "related": [
+        {"type": "関", "text": "笑顔、泣き顔"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 657,
+      "kanji": "ひょうめん 表面",
+      "kana": "ひょうめん",
+      "en": "surface",
+      "kr": "표면",
+      "vi": "bề mặt",
+      "senses": [],
+      "examples": [
+        {"ja": "水の表面・あのビルは表面にタイルが張ってある。", "vi": "Mặt nước; tòa nhà đó mặt ngoài được ốp gạch men."},
+        {"ja": "あの人は表面はやさしそうだが、実は性格が悪い。", "vi": "Người đó bề ngoài có vẻ hiền lành nhưng thật ra tính tình xấu."}
+      ],
+      "related": [
+        {"type": "合", "text": "_的な"}
+      ],
+      "notes": "Câu ví dụ thứ hai in mờ; phần 「実は～」 đọc gần như じじょう, tạm đoán là 性格が悪い."
+    },
+    {
+      "no": 658,
+      "kanji": "ぎんえん 禁煙スル",
+      "kana": "きんえん",
+      "en": "no smoking, quitting smoking",
+      "kr": "금연",
+      "vi": "cấm hút thuốc, bỏ thuốc lá",
+      "senses": [],
+      "examples": [
+        {"ja": "「この部屋は禁煙です」「子どもが生まれるので、禁煙することにした。」", "vi": "\"Phòng này cấm hút thuốc.\" \"Vì sắp có em bé nên tôi đã quyết định bỏ thuốc.\""}
+      ],
+      "related": [
+        {"type": "合", "text": "_席、_車"},
+        {"type": "対", "text": "喫煙スル"},
+        {"type": "関", "text": "吸いがら（吸い殻）"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 659,
+      "kanji": "きんし ラ禁止スル",
+      "kana": "きんし",
+      "en": "prohibition",
+      "kr": "금지",
+      "vi": "sự cấm, cấm chỉ",
+      "senses": [],
+      "examples": [
+        {"ja": "美術館の中では、写真をとることは禁止されている。", "vi": "Trong bảo tàng, việc chụp ảnh bị cấm."},
+        {"ja": "「館内への食べ物、飲み物の持ち込みは禁止です」", "vi": "\"Cấm mang thức ăn, đồ uống vào trong nhà.\""}
+      ],
+      "related": [
+        {"type": "合", "text": "駐車_、立入_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 660,
+      "kanji": "かんせい 完成スル",
+      "kana": "かんせい",
+      "en": "completion",
+      "kr": "완성",
+      "vi": "sự hoàn thành, hoàn chỉnh",
+      "senses": [],
+      "examples": [
+        {"ja": "建物、作品などが完成した。", "vi": "Nhà cửa, tác phẩm v.v. đã hoàn thành."},
+        {"ja": "半年かけて論文を完成させた。", "vi": "Mất nửa năm để hoàn thiện luận văn."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 661,
+      "kanji": "かだい 課題",
+      "kana": "かだい",
+      "en": "issue; (school) assignment",
+      "kr": "과제",
+      "vi": "vấn đề đặt ra; bài tập, đề bài",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① 現在の日本には、高齢化、ごみ問題など、多くの課題がある。", "vi": "① Nhật Bản hiện nay có nhiều vấn đề phải giải quyết như già hóa dân số, rác thải v.v."},
+        {"ja": "② 鈴木先生の授業では、毎週課題が出される。", "vi": "② Trong giờ của thầy Suzuki, mỗi tuần đều được giao bài tập."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を出す"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 662,
+      "kanji": "れいがい 例外",
+      "kana": "れいがい",
+      "en": "exception",
+      "kr": "예외",
+      "vi": "ngoại lệ",
+      "senses": [],
+      "examples": [
+        {"ja": "どんな規則にも例外がある。", "vi": "Quy định nào cũng có ngoại lệ."},
+        {"ja": "休むと試験は受けられないが、病気の場合は例外だ。", "vi": "Nghỉ thì không được dự thi, nhưng trường hợp ốm đau là ngoại lệ."}
+      ],
+      "related": [
+        {"type": "連", "text": "ラ_に／とする、_を設ける"},
+        {"type": "合", "text": "_的な、_なく"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 663,
+      "kanji": "きほん 基本",
+      "kana": "きほん",
+      "en": "fundamentals, basis",
+      "kr": "기본",
+      "vi": "cơ bản, nền tảng",
+      "senses": [],
+      "examples": [
+        {"ja": "何の練習でも、基本が大切だ。", "vi": "Luyện tập cái gì thì nền tảng cũng quan trọng."}
+      ],
+      "related": [
+        {"type": "合", "text": "_的 (参 587)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 664,
+      "kanji": "きろく ラ記録(ラ)スル",
+      "kana": "きろく",
+      "en": "record",
+      "kr": "기록",
+      "vi": "ghi chép, hồ sơ; kỷ lục",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① 先週の会議の記録を読んだ。", "vi": "① Đã đọc biên bản cuộc họp tuần trước."},
+        {"ja": "① この事件を記録に残す必要がある。", "vi": "① Cần ghi lại sự việc này thành hồ sơ."},
+        {"ja": "② 北島選手は世界新記録で優勝した。", "vi": "② Vận động viên Kitajima vô địch với kỷ lục thế giới mới."},
+        {"ja": "② きのうの雨量は過去最高を記録したそうだ。", "vi": "② Nghe nói lượng mưa hôm qua đã lập kỷ lục cao nhất từ trước đến nay."}
+      ],
+      "related": [
+        {"type": "連", "text": "_をとる、_に残る・ラに残す"},
+        {"type": "連", "text": "_を破る"},
+        {"type": "合", "text": "新_、世界_、_的な (例: 記録的な大雨)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 665,
+      "kanji": "じょうたい 状態",
+      "kana": "じょうたい",
+      "en": "condition, state",
+      "kr": "상태",
+      "vi": "tình trạng, trạng thái",
+      "senses": [],
+      "examples": [
+        {"ja": "あの会社は、いま経営の状態がよくない。", "vi": "Công ty đó hiện nay tình trạng kinh doanh không tốt."}
+      ],
+      "related": [
+        {"type": "合", "text": "健康_、精神_"},
+        {"type": "類", "text": "状況"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 666,
+      "kanji": "できごと 出来事",
+      "kana": "できごと",
+      "en": "happening",
+      "kr": "사건, 생긴 일",
+      "vi": "sự việc, sự kiện",
+      "senses": [],
+      "examples": [
+        {"ja": "大きなできごと・毎日のできごとをブログに書く。", "vi": "Sự việc lớn; viết những việc diễn ra hằng ngày lên blog."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 667,
+      "kanji": "ばめん 場面",
+      "kana": "ばめん",
+      "en": "situation, sight; scene (of drama)",
+      "kr": "장면",
+      "vi": "cảnh, cảnh tượng; phân cảnh",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① 目の前でトラックとバスが衝突した。その場面が夢に出てきた。", "vi": "① Ngay trước mắt, xe tải và xe buýt va chạm. Cảnh tượng đó hiện lên trong giấc mơ."},
+        {"ja": "② ドラマの場面が変わる。", "vi": "② Phân cảnh của phim truyền hình thay đổi."}
+      ],
+      "related": [
+        {"type": "合", "text": "②名_"},
+        {"type": "類", "text": "①②シーン"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 668,
+      "kanji": "きかい 機会",
+      "kana": "きかい",
+      "en": "opportunity",
+      "kr": "기회",
+      "vi": "cơ hội",
+      "senses": [],
+      "examples": [
+        {"ja": "彼女と二人で話したいのだが、なかなか機会がない。", "vi": "Muốn nói chuyện riêng với cô ấy mà chẳng có cơ hội."},
+        {"ja": "バレンタインデーは愛の告白のいい機会だ。", "vi": "Ngày Valentine là cơ hội tốt để tỏ tình."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある/ない、いい_"},
+        {"type": "類", "text": "チャンス"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 669,
+      "kanji": "きょり 距離",
+      "kana": "きょり",
+      "en": "distance",
+      "kr": "거리",
+      "vi": "khoảng cách",
+      "senses": [],
+      "examples": [
+        {"ja": "駅からの距離を測る。", "vi": "Đo khoảng cách từ nhà ga."},
+        {"ja": "ここから学校までは、かなりの距離がある。", "vi": "Từ đây đến trường có khoảng cách khá xa."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある"},
+        {"type": "合", "text": "遠_⇔近_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 670,
+      "kanji": "ていあん ニ提案(ラ)スル",
+      "kana": "ていあん",
+      "en": "proposal",
+      "kr": "제안",
+      "vi": "sự đề nghị, đề xuất",
+      "senses": [],
+      "examples": [
+        {"ja": "会議で提案をする。", "vi": "Đề xuất trong cuộc họp."},
+        {"ja": "社長に新しい計画を提案する。", "vi": "Trình kế hoạch mới lên giám đốc."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 671,
+      "kanji": "やりとり ラやり取り(ラ)スル",
+      "kana": "やりとり",
+      "en": "exchange",
+      "kr": "주고받음, 교환",
+      "vi": "sự trao đổi, qua lại (thư từ, tin nhắn)",
+      "senses": [],
+      "examples": [
+        {"ja": "友だちとメールをやりとりする。", "vi": "Trao đổi thư điện tử với bạn bè."},
+        {"ja": "情報のやりとり", "vi": "Sự trao đổi thông tin."}
+      ],
+      "related": [
+        {"type": "類", "text": "ラ交換(ラ)スル"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 672,
+      "kanji": "ちしき 知識",
+      "kana": "ちしき",
+      "en": "knowledge",
+      "kr": "지식",
+      "vi": "kiến thức",
+      "senses": [],
+      "examples": [
+        {"ja": "本を読んで知識を身につける。", "vi": "Đọc sách để tích lũy kiến thức."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が豊富だ/乏しい、_が身につく・_を身につける、_を得る"},
+        {"type": "合", "text": "専門_"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 673,
+      "kanji": "じつりょく 実力",
+      "kana": "じつりょく",
+      "en": "ability",
+      "kr": "실력",
+      "vi": "thực lực, năng lực",
+      "senses": [],
+      "examples": [
+        {"ja": "試合で実力を出す。", "vi": "Thể hiện thực lực trong trận đấu."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある/ない、_がつく・_をつける、_を出す、_を発揮する"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 674,
+      "kanji": "しゅだん 手段",
+      "kana": "しゅだん",
+      "en": "means",
+      "kr": "수단",
+      "vi": "phương tiện, biện pháp, thủ đoạn",
+      "senses": [],
+      "examples": [
+        {"ja": "問題を解決するために必要な手段をとる。", "vi": "Áp dụng biện pháp cần thiết để giải quyết vấn đề."},
+        {"ja": "目的のためには手段を選ばない。", "vi": "Để đạt mục đích thì không chọn lọc thủ đoạn."},
+        {"ja": "手術は最後の手段だ。", "vi": "Phẫu thuật là biện pháp cuối cùng."}
+      ],
+      "related": [
+        {"type": "連", "text": "必要な/強引な…_をとる"},
+        {"type": "合", "text": "交通_"},
+        {"type": "類", "text": "方法"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 675,
+      "kanji": "だいひょう ラ代表スル",
+      "kana": "だいひょう",
+      "en": "representative, representation",
+      "kr": "대표",
+      "vi": "đại biểu, đại diện; tiêu biểu",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "① クラスの代表として会議に参加する。", "vi": "① Tham dự cuộc họp với tư cách đại diện lớp."},
+        {"ja": "① 結婚式で友人を代表してスピーチする。", "vi": "① Phát biểu thay mặt bạn bè trong đám cưới."},
+        {"ja": "① 優勝して、日本の代表になった。", "vi": "① Vô địch và trở thành đại diện của Nhật Bản."},
+        {"ja": "② 富士山は日本を代表する山だ。", "vi": "② Núi Phú Sĩ là ngọn núi tiêu biểu của Nhật Bản."},
+        {"ja": "② この映画はA監督の代表的な作品だ。", "vi": "② Bộ phim này là tác phẩm tiêu biểu của đạo diễn A."}
+      ],
+      "related": [
+        {"type": "合", "text": "〔日本／学校…〕＋代表"},
+        {"type": "合", "text": "_的な、_作"}
+      ],
+      "notes": ""
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム 17 ジャンル",
+      "book_page": 147,
+      "items": [
+        ["文学", "ぶんがく", "literature／文学／문학", "văn học"],
+        ["小説", "しょうせつ", "novel／小说／소설", "tiểu thuyết"],
+        ["詩", "し", "poem, poetry／诗／시", "thơ"],
+        ["エッセー（随筆）", "エッセー（ずいひつ）", "essay／小品文，随笔／에세이(수필)", "tiểu luận (tùy bút)"],
+        ["伝記", "でんき", "biography／传记／전기", "tiểu sử"],
+        ["評論", "ひょうろん", "review, critique／评论／평론", "phê bình, bình luận"],
+        ["音楽", "おんがく", "music／音乐／음악", "âm nhạc"],
+        ["クラシック", "クラシック", "classical music／古典音乐／클래식", "nhạc cổ điển"],
+        ["ジャズ", "ジャズ", "jazz／爵士乐／재즈", "nhạc Jazz"],
+        ["ポップス", "ポップス", "pop music／流行歌曲／팝", "nhạc Pop"],
+        ["ロック", "ロック", "rock／摇滚乐／락, 로큰롤", "nhạc Rock"],
+        ["演歌", "えんか", "enka (Japanese ballad)／演歌／엔카", "Enka (dân ca kiểu Nhật)"],
+        ["映画", "えいが", "movie／电影／영화", "điện ảnh"],
+        ["アクション", "アクション", "action／动作片／액션", "phim hành động"],
+        ["SF", "SF", "science fiction／SF（科幻）片／SF", "phim khoa học viễn tưởng"],
+        ["ホラー", "ホラー", "horror／恐怖片／공포", "phim kinh dị"],
+        ["コメディ", "コメディ", "comedy／喜剧片／코미디", "phim hài"],
+        ["恋愛", "れんあい", "romance／爱情片／연애", "phim tình cảm"],
+        ["アニメ", "アニメ", "animation／动画片／アニメーション, 만화 영화", "phim hoạt hình"],
+        ["テレビ番組", "テレビばんぐみ", "TV program／电视节目／텔레비전 프로그램", "chương trình truyền hình"],
+        ["ニュース", "ニュース", "news／新闻报道／뉴스", "tin tức"],
+        ["ドラマ", "ドラマ", "drama／电视剧／드라마", "phim truyền hình"],
+        ["ドキュメンタリー", "ドキュメンタリー", "documentary／纪录／다큐멘터리", "phim tài liệu"],
+        ["クイズ", "クイズ", "quiz show／竞猜，问答／퀴즈", "trò chơi đố (quiz)"],
+        ["バラエティ", "バラエティ", "variety show／综艺节目／버라이어티", "chương trình giải trí tổng hợp"],
+        ["スポーツ中継", "スポーツちゅうけい", "sports telecast／体育转播／스포츠 중계", "phát trực tiếp thể thao"],
+        ["天気予報", "てんきよほう", "weather forecast／天气预报／일기 예보", "dự báo thời tiết"],
+        ["舞台", "ぶたい", "stage／舞台／무대", "sân khấu"],
+        ["演劇", "えんげき", "play, drama／戏剧／연극", "kịch nghệ"],
+        ["ミュージカル", "ミュージカル", "musical／音乐剧／뮤지컬", "nhạc kịch"],
+        ["歌劇／オペラ", "かげき", "opera／歌剧／가극, 오페라", "ca kịch (opera)"],
+        ["バレエ", "バレエ", "ballet／芭蕾／발레", "ballet"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "コラム16",
+      "range": "時の表現 (Time／时间／시간)",
+      "book_page": 139,
+      "questions": [
+        {
+          "no": "I",
+          "text": "空欄に適当な言葉をひらがなで入れなさい。（ふつうの表現⇔改まった表現：一昨日・昨日・本日・明日・明後日／一昨年・昨年・本年・(明年)・(明後年)）",
+          "options": [],
+          "answer": "①おととい ②きのう ③きょう ④あした ⑤あさって ⑥おととし ⑦きょねん ⑧ことし"
+        },
+        {
+          "no": "II",
+          "text": "漢字の読み方をひらがなで書きなさい。①早朝・正午・深夜・真夜中 ②平日・休日 ③年末・月末・週末 ④上旬・中旬・下旬",
+          "options": [],
+          "answer": "①そうちょう・しょうご・しんや・まよなか ②へいじつ・きゅうじつ ③ねんまつ・げつまつ・しゅうまつ ④じょうじゅん・ちゅうじゅん・げじゅん"
+        },
+        {
+          "no": "III",
+          "text": "普通の表現を書きなさい。①先日 ②最近 ③今後",
+          "options": [],
+          "answer": "①このあいだ ②このごろ ③こんご"
+        },
+        {
+          "no": "IV",
+          "text": "反対の意味の言葉を書きなさい。①以前 ②直前 ③事前 ④生前 ⑤食前 ⑥年末 ⑧前日",
+          "options": [],
+          "answer": "①以後 ②直後 ③事後 ④死後 ⑤食後 ⑥年初 ⑦翌日"
+        }
+      ]
+    },
+    {
+      "type": "I",
+      "range": "591~635",
+      "book_page": 140,
+      "questions": [
+        {
+          "no": "I",
+          "text": "右の□の中から同じ意味のことばをえらび、例にならって（　）に書きなさい。例（いっぱい）ー（多く）。空欄は4組。",
+          "options": ["およそ", "大体", "ついに", "とても", "非常", "やっと", "多分"],
+          "answer": ""
+        },
+        {
+          "no": "II-1",
+          "text": "「わかりましたか」「はい、（　）わかりました」「いいえ、（　）わかりませんでした」",
+          "options": ["だいたい", "ほとんど", "非常に"],
+          "answer": ""
+        },
+        {
+          "no": "II-2",
+          "text": "「かぜのぐあいはどうですか」「ありがとう。（　）よくなりました」",
+          "options": ["かなり", "すっかり", "だいぶ"],
+          "answer": ""
+        },
+        {
+          "no": "II-3",
+          "text": "台風で（　）の被害が出た",
+          "options": ["かなり", "ずいぶん", "たいへん"],
+          "answer": ""
+        },
+        {
+          "no": "II-4",
+          "text": "きょうの試験は（　）できたと思う。",
+          "options": ["だいたい", "けっこう", "たいして"],
+          "answer": ""
+        },
+        {
+          "no": "II-5",
+          "text": "あの喫茶店に行けば、（　）北原さんに会える。",
+          "options": ["たいてい", "だいたい"],
+          "answer": ""
+        },
+        {
+          "no": "II-6",
+          "text": "AチームとBチームを比べると、Aチームのほうが（　）強い。",
+          "options": ["ずっと", "もっと"],
+          "answer": ""
+        },
+        {
+          "no": "II-7",
+          "text": "夜になると、雨は（　）強くなった。",
+          "options": ["次々に", "とうとう", "ますます"],
+          "answer": ""
+        },
+        {
+          "no": "II-8",
+          "text": "長い間はいていたのに、（　）穴があいてしまった。",
+          "options": ["とうとう", "やっと"],
+          "answer": ""
+        },
+        {
+          "no": "II-9",
+          "text": "このマンションは小さいから、3人座るのが（　）だ。",
+          "options": ["ついに", "とうとう", "やっと"],
+          "answer": ""
+        },
+        {
+          "no": "II-10",
+          "text": "何度もオリンピックに出場したが、（　）メダルを取ることはできなかった。",
+          "options": ["ついに", "とうとう", "やっと"],
+          "answer": ""
+        },
+        {
+          "no": "II-11",
+          "text": "祖父が入院すると、親戚が（　）見舞いに来た。",
+          "options": ["次々と", "だんだん"],
+          "answer": ""
+        },
+        {
+          "no": "II-12",
+          "text": "久しぶりに温泉ででも行って（　）したい。",
+          "options": ["いらいら", "のんびり"],
+          "answer": ""
+        },
+        {
+          "no": "II-13",
+          "text": "駅で、となりに立っていた人が（　）倒れたので、驚いた。",
+          "options": ["あっという間に", "とつぜん"],
+          "answer": ""
+        },
+        {
+          "no": "II-14",
+          "text": "いつも遅刻する中村さんは、きょうも（　）遅れて来た。",
+          "options": ["きっと", "やはり"],
+          "answer": ""
+        },
+        {
+          "no": "II-15",
+          "text": "「今度のパーティーには、（　）参加したいと思っております」",
+          "options": ["きっと", "ぜひ"],
+          "answer": ""
+        },
+        {
+          "no": "II-16",
+          "text": "「あしたは（　）早く来てください」",
+          "options": ["案外", "なるべく"],
+          "answer": ""
+        },
+        {
+          "no": "II-17",
+          "text": "電車の中できのう見たテレビ番組を思い出し、（　）笑ってしまった。",
+          "options": ["うっかり", "つい"],
+          "answer": ""
+        },
+        {
+          "no": "II-18",
+          "text": "約束の時間（　）に着いた。",
+          "options": ["びったり", "いっぱい", "ぎりぎり"],
+          "answer": ""
+        },
+        {
+          "no": "II-19",
+          "text": "「急いでいるので、（　）持って来てください」",
+          "options": ["すぐに", "もうすぐ"],
+          "answer": ""
+        },
+        {
+          "no": "II-20",
+          "text": "西田さんが不合格になったのは（　）だった。",
+          "options": ["案外", "意外"],
+          "answer": ""
+        },
+        {
+          "no": "III-A",
+          "text": "つぎの表現やことばと、よくいっしょに使うことばはどれですか。下からえらんで記号を書きなさい。1.（　）〜てください 2.（　）〜かもしれない 3.（　）〜してしまった 4.（　）〜とおもっていた 5.（　）〜なんて！ 6.（　）〜しておく",
+          "options": ["a.うっかり", "b.ぜひ", "c.まえもって", "d.まさか", "e.もしかすると", "f.やっぱり"],
+          "answer": ""
+        },
+        {
+          "no": "III-B",
+          "text": "1.ぎりぎり（　） 2.びったり（　）（　） 3.すぐ（　） 4.ずっと（　） 5.（　）いっぱい",
+          "options": ["a.合う", "b.くっつく", "c.そば", "d.から", "e.もしか", "f.聞き合う"],
+          "answer": ""
+        },
+        {
+          "no": "IV",
+          "text": "（　）に入ることばを下からえらんで書きなさい。1.最初はぜんぜん日本語ができなかったが、（　）すると話せるようになった。2.心配していたことが（　）うまくいき、（　）した。3.ゲームに夢中になっていたら、（　）夕方になっていた。4.1番線と2番線に（　）列車が入ってきた。5.「ぐあいはどうですか」「（　）です。なかなか熱が下がらなくて」6.「入場ご希望の方は、（　）整理券をお取りください」7.「北村さん、どうしたんですか。顔色が悪いですよ」「（　）、きのう、寝ていないんです」8.私は幼いころから絵が大好きで、「パリへ行きたい」と（　）思っていた。9.「この仕事、やってもらえる？」「（　）です。ぜひやらせてください」10.あしたはもう卒業式だ。（　）の3年間だった。11.暗いところで急に声をかけられ、（　）大声を出してしまった。",
+          "options": ["あいかわらず", "あっというま", "いつのまにか", "おもわず", "けっこう", "ぜひとも", "しばらく", "ずっと", "どうぞに", "ほっと", "まえもって", "もちろん"],
+          "answer": ""
+        }
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 140, "book_page": 139, "unit_title": "コラム 16 時の表現 (Time／时间／시간) — 練習問題 I〜IV と解答"},
+    {"pdf_page": 141, "book_page": 140, "unit_title": "Unit 08 副詞A 591〜635 練習問題I Step2（問題 I・II 1〜18）"},
+    {"pdf_page": 142, "book_page": 141, "unit_title": "Unit 08 練習問題I つづき（II 19〜20、III、IV）"},
+    {"pdf_page": 143, "book_page": 142, "unit_title": "Unit 09 名詞C 636〜715（Step 3）"}
+  ]
+}

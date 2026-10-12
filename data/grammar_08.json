@@ -1,0 +1,175 @@
+{
+  "pdf_pages": "78-87",
+  "points": [
+    {
+      "no": 80,
+      "pattern": "〜はずだ",
+      "stars": null,
+      "senses": ["Có lý do nên tin/tượng như vậy là đương nhiên (=わけだ)", "Kết quả khác với phán đoán, dự đoán", "Trong ký ức là ~ nhưng thực tế không phải vậy"],
+      "connection": "[Danh từ・động từ・tính từ い・tính từ な] ở dạng sửa danh từ (の名詞修飾形) + はずだ. Riêng nghĩa ③ dùng dạng quá khứ (động từ thể た) + はずだ",
+      "vi": "đương nhiên là ~, lẽ ra là ~, đã từng nghĩ là ~",
+      "explanation": "Nghĩa ①: từ lý do đã biết, đi đến kết luận đương nhiên, thể hiện sự đồng tình/người nói tự lý giải (=わけだ). Nghĩa ②: kết quả thực tế khác với phán đoán, dự đoán ban đầu. Nghĩa ③: đi với động từ thể quá khứ, diễn tả chuyện trong ký ức là ~ nhưng thực tế hiện tại lại không phải vậy. Ô 复習 đầu trang 78 ôn lại はず với các trường hợp: \"当然、予定、予測\", はずがない (=わけがない) là phủ định mạnh, おそらく〜だろう.",
+      "examples": [
+        {"ja": "ドアが開かないはずだ。かぎが違っていた。", "vi": "Cửa mở ra là phải rồi. Nhầm chìa khóa mà."},
+        {"ja": "体がだるいはずだ。熱が38度もある。", "vi": "Người mệt lả là đương nhiên. Sốt tới 38 độ mà."},
+        {"ja": "汽車は3時に発車するはずだったが、急病人が出たために10分ほど遅れた。", "vi": "Tàu lửa lẽ ra xuất phát lúc 3 giờ, nhưng vì có người bệnh cấp tính nên trễ chừng 10 phút."},
+        {"ja": "「変だなあ。このボタンを押せば動くはずなのに……」", "vi": "\"Lạ nhỉ. Nếu bấm nút này thì lẽ ra nó phải chạy mới đúng...\""},
+        {"ja": "日本へ来れば日本語なんかすぐに話せるようになると思っていた。こんなはずではなかった。", "vi": "Tôi đã nghĩ sang Nhật là sẽ nói được tiếng Nhật ngay. Không phải thế này đâu."},
+        {"ja": "はさみが見あたらない。さっき見たときは、机の上にあったはずなのに。", "vi": "Không thấy kéo đâu. Vừa nãy nhìn thì nó chắc chắn ở trên bàn cơ mà."},
+        {"ja": "バッグに入れたはずのケータイがない。どこかで落としたのだろうか。", "vi": "Chiếc điện thoại tưởng là đã bỏ vào túi xách lại không có. Chẳng lẽ rơi ở đâu rồi."},
+        {"ja": "何度も確かめたはずだったのに、メールアドレスを書き間違えていた。", "vi": "Tưởng là đã kiểm tra bao nhiêu lần rồi, vậy mà vẫn ghi nhầm địa chỉ mail."},
+        {"ja": "自転車をとられた。かぎはかけておいたはずなのだが。", "vi": "Xe đạp bị lấy mất. Dù rằng tôi đã khóa xe rồi chứ."}
+      ]
+    },
+    {
+      "no": 81,
+      "pattern": "〜わけだ",
+      "stars": null,
+      "senses": ["Từ nhiều lý do mà đi đến kết luận đương nhiên là ~", "Hiểu được lý do nên tán thành (=はずだ)", "Giải thích lý do → kết quả"],
+      "connection": "[Động từ・tính từ い・tính từ な] ở dạng sửa danh từ (の名詞修飾形) + わけだ",
+      "vi": "thế mới ra, nghĩa là, đúng là ~ thế, chẳng trách mà",
+      "explanation": "Nghĩa ①: từ các lý do, tình huống nêu trước đó, rút ra kết luận đương nhiên. Nghĩa ②: khi biết được lý do của một việc khó hiểu thì cảm thấy tán thành, thông cảm, gần tương đương はずだ; thường đi với どうりで (thế mà ra). Nghĩa ③: dùng để tóm tắt lý - kết, giải thích quá trình đi tới kết quả hiện tại. Ô 复習 đầu trang 79 phân biệt わけ: ①理由、事情 (lý do, hoàn cảnh), ②意味 (ý nghĩa: わけがわからない), ③<わけはない> = 大変ではない、簡単 (không phải chuyện lớn, dễ dàng).",
+      "examples": [
+        {"ja": "消費税は5%だから、1,050円払ったら、50円は税金というわけだ。", "vi": "Thuế tiêu dùng là 5%, nên trả 1.050 yên thì 50 yên là tiền thuế, thế mới ra."},
+        {"ja": "私は毎日8時寝ている。つまり、人生の3分の1をベッドで過ごすわけだ。", "vi": "Tôi mỗi ngày ngủ 8 tiếng. Tức là một phần ba cuộc đời nằm trên giường rồi."},
+        {"ja": "(テレビが)つかないわけだ。コンセントが抜けている。", "vi": "(Tivi) không lên là phải rồi. Ổ cắm bị rút ra mà."},
+        {"ja": "足が速いわけだ。彼は元陸上選手だったのだそうだ。", "vi": "Chạy nhanh là phải. Nghe nói anh ấy nguyên là vận động viên điền kinh."},
+        {"ja": "「リアノさんのお母さんは日本人なんだって」「どうりでマリアさんは日本語の発音がきれいなわけだね」", "vi": "\"Nghe nói mẹ của Riano là người Nhật\" \"Thế mà ra giọng tiếng Nhật của Maria nghe hay là vì thế\""},
+        {"ja": "医学が発達し、乳児死亡率も下がった。それで平均寿命も伸びたわけだ。", "vi": "Y học phát triển, tỷ lệ tử vong của trẻ sơ sinh cũng giảm xuống. Vì thế tuổi thọ trung bình cũng kéo dài, thế mới ra."},
+        {"ja": "都会では一人暮らしの人が増えた。生活時間も不規則になった。それでコンビニが増えたわけだ。", "vi": "Ở thành thị số người sống một mình tăng lên. Giờ giấc sinh hoạt cũng trở nên thất thường. Vì thế cửa hàng tiện lợi mới tăng, thế mới ra."},
+        {"ja": "「大学卒業後は帰国するつもりでしたが、先生にいい就職先を紹介され、そこで今の妻と出会い、日本に住み着くことになったわけです」", "vi": "\"Sau khi tốt nghiệp đại học tôi định về nước, nhưng được thầy giới thiệu chỗ làm tốt, ở đó gặp vợ bây giờ, nên thế là định cư ở Nhật, vậy đó\""}
+      ]
+    },
+    {
+      "no": 82,
+      "pattern": "〜わけがない",
+      "stars": null,
+      "senses": ["Chuẩn phải là ~ không (phủ định mạnh)"],
+      "connection": "[Danh từ・động từ・tính từ い・tính từ な] ở dạng sửa danh từ (の名詞修飾形) + わけがない (= はずがない)",
+      "vi": "không thể nào ~, chớ có chuyện mà ~",
+      "explanation": "Phủ định mạnh: dựa trên lý do đương nhiên mà khẳng định tuyệt đối không thể có chuyện đó (=はずがない). Trong hội thoại thường nói rút gọn わけない / わけないでしょ / わけないじゃない.",
+      "examples": [
+        {"ja": "この問題はまだ習っていないのだから、できるわけない。", "vi": "Bài này còn chưa học tới, làm ra là làm sao được."},
+        {"ja": "あんなにきれいで優しいA子さんに恋人がいないわけはなかっただろう。", "vi": "Cô A-chan đẹp đẽ dịu dàng thế kia mà không có người yêu mới lạ đấy."},
+        {"ja": "「映画見に行かない?」「そんなに暇なわけないでしょ。試験が近いんだから」", "vi": "\"Đi xem phim không?\" \"Làm gì có rỗi rãi thế mà đi. Sắp thi rồi còn đâu\""},
+        {"ja": "「そのバック、いくら? 1万円ぐらい?」「そんなに安いわけないじゃない。ブランド物だよ」", "vi": "\"Cái túi đó bao nhiêu? Khoảng 1 vạn yên à?\" \"Làm gì có rẻ thế. Hàng brand mà\""},
+        {"ja": "彼はそのとき私といっしょにいました。だから彼が犯人の(／犯人である)わけがありません。", "vi": "Lúc đó anh ấy đang ở cùng tôi. Cho nên không thể nào anh ấy là kẻ phạm tội được."}
+      ]
+    },
+    {
+      "no": 83,
+      "pattern": "〜わけではない",
+      "stars": null,
+      "senses": ["Không hẳn là ~, không hẳn vì ~, tuy ít nhiều ~ nhưng..."],
+      "connection": "[Động từ・tính từ い・tính từ な] ở dạng sửa danh từ (の名詞修飾形) + わけではない",
+      "vi": "không hẳn là ~, không phải là ~",
+      "explanation": "Phủ định một cách gián tiếp, nhẹ nhàng: không hoàn toàn như vậy, không đặc biệt như vậy, tuy có phần ~ nhưng... Dùng để thu hẹp hoặc làm dịu khẳng định trước đó. Dạng 〜わけでもありません cũng thường dùng trong hội thoại lịch sự.",
+      "examples": [
+        {"ja": "日本人が皆、日本文化に詳しいわけではない。", "vi": "Không hẳn người Nhật nào cũng rành văn hóa Nhật."},
+        {"ja": "お金がたくさんあれば幸せというわけではなかろう。", "vi": "Có nhiều tiền thì hẳn là không chắc hạnh phúc đâu."},
+        {"ja": "日本料理が嫌いというわけではない。作り方を知らないので作らないだけだ。", "vi": "Không hẳn là ghét món Nhật. Chỉ là không biết cách nấu nên không nấu thôi."},
+        {"ja": "それはとりたいわけではないが、それでも毎日1〜2時間は楽しんでいる。", "vi": "Không hẳn là muốn lấy nó, nhưng dù vậy mỗi ngày vẫn vui 1-2 tiếng."},
+        {"ja": "「あなたの気持ちがわからないわけでもありませんが、ご両親の気持ちも考えたほうがいいですよ」", "vi": "\"Không phải là tôi không hiểu tâm trạng của bạn, nhưng tốt hơn là bạn cũng nên nghĩ tới tâm trạng của bố mẹ nhé\""}
+      ]
+    },
+    {
+      "no": 84,
+      "pattern": "〜わけにはいかない",
+      "stars": null,
+      "senses": ["Vì lý do xã hội, tâm lý mà không thể ~"],
+      "connection": "Động từ thể thường (thể từ điển) + わけにはいかない",
+      "vi": "không thể ~ (vì đạo lý, hoàn cảnh)",
+      "explanation": "Diễn tả dù muốn hay không, do ràng buộc về đạo đức, nghĩa vụ, hoàn cảnh xã hội hoặc tâm lý mà không thể làm việc đó. Khác với năng lực, đây là sự gánh vác trách nhiệm. Dạng quá khứ わけにはいかなかった cũng phổ biến.",
+      "examples": [
+        {"ja": "あしたは大事な試験があるから休むわけにはいかない。", "vi": "Mai có bài thi quan trọng nên không thể nghỉ được."},
+        {"ja": "「きょうは車で来たのでお酒を飲むわけにはいかないんです」", "vi": "\"Hôm nay đi xe ô tô nên không thể uống rượu được\""},
+        {"ja": "ひどい不正を見て、黙っているわけにはいかなかった。", "vi": "Trước hành vi gian lận đáng xấu hổ, không thể làm ngơ được."},
+        {"ja": "「いやなら断ったら」「そういうわけにはいかないよ。先輩の頼みなんだから」", "vi": "\"Nếu không thích thì từ chối đi\" \"Làm sao từ chối như thế được. Tiền bối nhờ mà\""}
+      ]
+    },
+    {
+      "no": 85,
+      "pattern": "〜ないわけにはいかない",
+      "stars": null,
+      "senses": ["Có lý do nên không thể không ~ (thực ra chẳng muốn làm cho lắm)"],
+      "connection": "Động từ thể ない (bỏ ない → わけにはいかない): động từ thể ない + わけにはいかない",
+      "vi": "không thể không ~, chẳng còn cách nào khác phải ~",
+      "explanation": "Phủ định kép mang nghĩa nghĩa vụ: do có lý do, hoàn cảnh buộc phải làm điều đó, dù bản thân thực ra không hề muốn. Thường gặp ở dạng ないわけにはいかなかった (quá khứ).",
+      "examples": [
+        {"ja": "行くと約束したからには、行かないわけにはいかないだろう。", "vi": "Đã hứa là đi rồi, thì chẳng lẽ lại không đi được."},
+        {"ja": "外国語は必修だから、取らないわけにはいかない。", "vi": "Ngoại ngữ là môn bắt buộc nên không thể không đăng ký."},
+        {"ja": "彼女が初めて作ってくれた料理だったので、おなかはいっぱいだったが、食べないわけにはいかなかった。", "vi": "Đó là món cô ấy lần đầu tự nấu cho tôi, nên dù bụng đã no căng vẫn không thể không ăn."}
+      ]
+    },
+    {
+      "no": 86,
+      "pattern": "〜かわりに",
+      "stars": 3,
+      "senses": ["Thay cho ~, thay mặt ~ (đại lý / thế chân)", "Đổi lấy ~, như điều kiện bù lại cho việc ~", "Ngược lại với ~, trong khi ~ thì ~"],
+      "connection": "Danh từ + の / động từ thể thường + かわりに. Nghĩa ②: động từ thể thường + かわりに. Nghĩa ③: [động từ・tính từ い・tính từ な] dạng sửa danh từ + かわりに",
+      "vi": "thay cho, đổi lấy, trong khi ~ thì ngược lại ~",
+      "explanation": "Nghĩa ①: một người/vật khác thực hiện hoặc dùng thay cho người/vật thông thường. Nghĩa ②: làm việc này với điều kiện nhận lại việc khác, quan hệ trao đổi - bù đắp. Nghĩa ③: nối hai tính chất trái ngược của cùng một đối tượng (điểm tốt ~ nhưng điểm xấu ~).",
+      "examples": [
+        {"ja": "お金がないので、新車を買うかわりに中古車を買った。", "vi": "Vì không có tiền nên thay vì mua xe mới, tôi mua xe cũ."},
+        {"ja": "バターのかわりにマーガリンを使ってクーキを焼いた。", "vi": "Dùng margarine thay cho bơ để nướng bánh cookies."},
+        {"ja": "父が急病のため、代わりに私が祖父の結婚式に出席した。", "vi": "Vì bố bị bệnh cấp tính nên tôi thay mặt dự lễ cưới của ông."},
+        {"ja": "オウさんに中国語を教えてもらうかわりに、日本料理を教えてあげることになった。", "vi": "Thay đổi theo kiểu: được Ô dạy tiếng Trung, đổi lại tôi dạy nấu món Nhật."},
+        {"ja": "「現金で払うかわり、もう少し値引きしてください」", "vi": "\"Đổi lại tôi trả bằng tiền mặt, hãy giảm thêm một chút giá đi\""},
+        {"ja": "「買い物と料理は私がする。そのかわり、洗濯と掃除はお願いね」", "vi": "\"Đi chợ và nấu ăn để tôi làm. Đổi lại giặt giũ và dọn dẹp nhờ cậu nhé\""},
+        {"ja": "あの店は味も雰囲気もいいかわりに、値段も安くはない。", "vi": "Cửa hàng đó vị cũng ngon không khí cũng tốt, nhưng đổi lại giá cũng không rẻ."},
+        {"ja": "彼女は忘れることもないかわり、必死でやることもない。いつもマイペースだ。", "vi": "Cô ấy không bao giờ quên, nhưng đổi lại cũng chẳng bao giờ làm hết sức. Lúc nào cũng theo nhịp riêng của mình."}
+      ]
+    },
+    {
+      "no": 87,
+      "pattern": "〜にかわって / かわり",
+      "stars": 3,
+      "senses": ["Thay mặt ~, đại diện cho ~", "Thay thế ~, khác với ~"],
+      "connection": "Danh từ + にかわって / かわり",
+      "vi": "thay cho, thay mặt, đổi thay cho",
+      "explanation": "Diễn tả một người/vật đứng ra thực hiện thay cho người/vật khác, hoặc một sự vật thay thế sự vật trước đó. Cấu trúc văn phong trang trọng hơn かわりに khi mang nghĩa đại diện.",
+      "examples": [
+        {"ja": "「社長にかわり、ご挨拶させていただきます」", "vi": "\"Xin thay mặt giám đốc gửi lời chào tới quý vị\""},
+        {"ja": "入院中の母にかわって、姉が家事をしている。", "vi": "Thay cho mẹ đang nằm viện, chị tôi lo việc nhà."},
+        {"ja": "田中選手がけがで出場できなくなった。しかし、彼にかわる選手がいるだろうか。", "vi": "Vận động viên Tanaka bị chấn thương không thể ra sân. Nhưng liệu có tay thay thế được anh ta hay không?"},
+        {"ja": "今までの方法で効果がないなら、それにかわるやり方を考えねばならない。", "vi": "Nếu cách làm mãi tới nay không hiệu quả, thì phải nghĩ ra cách khác thay cho nó thôi."}
+      ]
+    },
+    {
+      "no": 88,
+      "pattern": "〜こそ",
+      "stars": 3,
+      "senses": ["Nhấn mạnh từ ngữ đứng trước"],
+      "connection": "Danh từ / động từ thể て / から、に... + こそ",
+      "vi": "chính là ~, mới là ~",
+      "explanation": "Phân từ nhấn mạnh đứng sau từ ngữ, tách nó ra để khẳng định \"chính cái đó mới là...\". Đi với động từ thể て (てこそ), からこそ, のでこそ... để nhấn mạnh điều kiện hoặc lý do.",
+      "examples": [
+        {"ja": "「どうぞよろしく」「こちらこそ」", "vi": "\"Rất mong được giúp đỡ\" \"Mới là tôi mới phải mong anh vậy\""},
+        {"ja": "今年こそ合格したい。", "vi": "Năm nay nhất định muốn đỗ."},
+        {"ja": "困ったときこそ助け合おう。", "vi": "Đúng lúc khó khăn mới phải giúp đỡ lẫn nhau chứ."},
+        {"ja": "言葉は実際に使ってみてこそ身につくのだ。", "vi": "Ngôn ngữ chính là phải dùng thử thực tế mới thấm vào người."},
+        {"ja": "材料や調味料にもこだわってこそ、プロの料理人と言えるのではないか。", "vi": "Phải kỹ càng cả về nguyên liệu, gia vị nữa, thì mới xứng đáng gọi là đầu bếp chuyên nghiệp chứ."},
+        {"ja": "親は子どものことを心配しているからこそ叱るのだ。", "vi": "Bố mẹ chính là vì lo lắng cho con nên mới mắng."},
+        {"ja": "若者にこそ、古い伝統文化に触れてもらいたい。", "vi": "Chính giới trẻ mới là đối tượng mong muốn được tiếp xúc với văn hóa truyền thống xưa."}
+      ]
+    },
+    {
+      "no": 89,
+      "pattern": "〜さえ",
+      "stars": 3,
+      "senses": ["~ cũng (huống chi ~ nữa, đằng này còn ~ nữa)"],
+      "connection": "Danh từ / động từ thể て・ます / từ nghi vấn + か + さえ",
+      "vi": "cả ~ cũng, đến mức ~ còn ~ nữa",
+      "explanation": "Nhấn mạnh một ví dụ điển hình nhất: thường là trường hợp khó tin nhất trong khẳng định hoặc phủ định (cái dễ nhất mà còn không thì...). Cấu trúc 〜さえ〜ない = 没有连~都 (ngay cả ~ cũng không). 〜でさえ là dạng nhấn mạnh hơn của さえ. さえ〜ば là cấu trúc điều kiện \"chỉ cần ~ là đủ\".",
+      "examples": [
+        {"ja": "この子はもう6歳だが、まだ自分の名前さえ読めない。", "vi": "Đứa này đã 6 tuổi rồi mà đến tên của mình còn chưa đọc được."},
+        {"ja": "娘は親にさえ相談せずに留学を決めてしまった。", "vi": "Con gái quyết định du học mà đến bố mẹ còn không bàn bạc."},
+        {"ja": "この問題は成績優秀な優者さえできなかった。", "vi": "Bài này đến người ưu tú có thành tích xuất sắc còn không làm được."},
+        {"ja": "「運動の苦手な私でさえ、1週間で泳げるようになったのだから、あなたなら3日でだいじょうぶよ」", "vi": "\"Đến tôi bị yếu vận động mà còn bơi được sau 1 tuần, thì cậu thì 3 ngày là xong thôi\""},
+        {"ja": "妻は夫の給料がいくらかさえ知らなかった。", "vi": "Người vợ đến lương chồng là bao nhiêu cũng không biết."},
+        {"ja": "どんなに頼んでも、野口さんは会ってさえくれなかった。", "vi": "Dù cầu xin thế nào, Noguchi cũng không thèm gặp mặt."},
+        {"ja": "彼は友人からの手紙を読みさえせずに、ごみ箱に放り投げた。", "vi": "Anh ta không thèm đọc thư bạn gửi, vứt luôn vào sọt rác."}
+      ]
+    }
+  ]
+}

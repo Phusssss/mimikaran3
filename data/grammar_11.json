@@ -1,0 +1,27 @@
+{
+  "pdf_pages": "108-112",
+  "points": [
+    {
+      "no": null,
+      "pattern": "敬語（尊敬語・謙譲語）",
+      "stars": 3,
+      "senses": [
+        "Kính thể (尊敬語): tôn trọng người thực hiện hành động, nâng hành động của người khác lên",
+        "Khiêm nhường (謙譲語): hạ hành động của bản thân hoặc người cùng phe mình xuống để tôn trọng người nghe"
+      ],
+      "connection": "尊敬語: お／ご + Vます + になる；V (いらっしゃる／なさる／召し上がる／ご覧になる)；お + Vます + ください. 謙譲語: お／ご + Vます + する（いたす）；V (申し上げる／拝見する／伺う／いただく／いたします)",
+      "vi": "kính ngữ (tiếng Nhật tôn kính)",
+      "explanation": "Kính ngữ gồm hai hệ chính: kính thể dùng để nâng người làm hành động lên (お帰りになる, いらっしゃる, ご覧になる, 召し上がる, おっしゃる, お好きでいらっしゃる), và khiêm nhường dùng để hạ bản thân xuống (いたします, しております, 拝見しました, 伺います, お届けいたします, させていただく). Lưu ý: không dùng kính thể cho hành động của bản thân, và khi nói về người cùng gia đình mình với người ngoài (vd: mẹ, bố của mình) phải dùng khiêm nhường/thường chứ không dùng kính thể.",
+      "examples": [
+        {"ja": "足元が暗いですから、気をつけてお帰りになってください。", "vi": "Vì chân tối nên hãy cẩn thận khi trở về ạ. (お～になる: kính thể của 帰る)"},
+        {"ja": "ドアのそばに立っていらっしゃるのが母でございます。", "vi": "Người đang đứng ở cạnh cửa là mẹ tôi. (いらっしゃる: kính thể của いる；でございます: của です)"},
+        {"ja": "お近くにお越しの際には、ぜひ我が家へもお立ち寄りくださいませ。", "vi": "Khi ngài ghé qua khu gần đây, rất mong hãy ghé thăm nhà chúng tôi. (お越しの際: kính thể)"},
+        {"ja": "お手紙、拝見しました。お返事が遅くなって、申し訳ありません。", "vi": "Tôi đã xem thư của quý vị. Xin lỗi vì đã trả lời muộn. (拝見する: khiêm nhường của 見る)"},
+        {"ja": "「お仕事は？」「はい、看護師をいたしております。」", "vi": "“Quý vị làm nghề gì?” “Vâng, tôi đang làm điều dưỡng.” (いたす: khiêm nhường của する)"},
+        {"ja": "「配達してください」「はい、すぐにとどけいたします。」", "vi": "“Làm ơn giao giúp.” “Vâng, tôi giao ngay lập tức.” (お～いたす: khiêm nhường)"},
+        {"ja": "山田さんのお父様はお酒がお好きでいらっしゃるそうですね。", "vi": "Nghe nói bố của anh Yamada thích uống rượu nhỉ. (お好きでいらっしゃる: kính thể)"},
+        {"ja": "お待たせいたしました。", "vi": "Xin lỗi đã để quý vị chờ. (お待たせいたす: khiêm nhường, dùng cho khách/bên trên)"}
+      ]
+    }
+  ]
+}

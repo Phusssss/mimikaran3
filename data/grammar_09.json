@@ -1,0 +1,203 @@
+{
+  "pdf_pages": "88-97",
+  "points": [
+    {
+      "no": 90,
+      "pattern": "〜として",
+      "stars": 1,
+      "senses": ["với tư cách là..., với cương vị/danh nghĩa..."],
+      "connection": "Danh từ + として (khi thêm lần lượt dùng としても)",
+      "vi": "với tư cách..., với danh nghĩa...",
+      "explanation": "Nêu tư cách, vai trò, danh nghĩa hoặc mặt/phương diện của một sự vật. Muốn nói thêm nhiều ví dụ cùng loại thì dùng 「〜としても」. Lưu ý các cách dùng thành ngữ như 「例として」「原因として」.",
+      "examples": [
+        {"ja": "今は留学生だが、以前に一度観光客として来日したことがある。", "vi": "Bây giờ là du học sinh, nhưng trước đây từng một lần đến Nhật với tư cách khách du lịch."},
+        {"ja": "Aさんは最近歌手としてより俳優として活躍している。", "vi": "Gần đây anh A nổi bật với tư cách diễn viên hơn là với tư cách ca sĩ."},
+        {"ja": "私個人としては賛成だが、皆と相談してからでないと結論は出せない。", "vi": "Về cá nhân tôi là tán thành, nhưng không thể đưa ra kết luận nếu chưa bàn bạc với mọi người."},
+        {"ja": "「我が社いったいとしては、今月中に契約をまとめたいと思っております」", "vi": "\"Về phần công ty chúng tôi, chúng tôi muốn chốt hợp đồng trong tháng này.\""},
+        {"ja": "赤やピンク色としては好きだが、私には似合いそうもない。", "vi": "Xét về màu đỏ hay hồng thì tôi thích, nhưng chắc không hợp với tôi."},
+        {"ja": "彼はバレーボールの選手としては小柄だ。", "vi": "Với tư cách vận động viên bóng chuyền, anh ấy thấp bé."},
+        {"ja": "直接に行ったら、交通費として1,000円くれた。", "vi": "Vì đã đi trực tiếp nên họ cho tôi 1.000 yên tiền xe."},
+        {"ja": "異文化交流においては、違いは違いとして認めることが大切だ。（慣用的）", "vi": "Trong giao lưu văn hóa, điều quan trọng là công nhận sự khác biệt chính là khác biệt (cách dùng thành ngữ)."},
+        {"ja": "例として〜が挙げられる／原因として〜が考えられる（慣用的）", "vi": "Có thể nêu ra như một ví dụ / có thể coi là nguyên nhân (cách dùng thành ngữ)."}
+      ]
+    },
+    {
+      "no": 91,
+      "pattern": "〜からといって",
+      "stars": 1,
+      "senses": ["chỉ vì... mà chưa chắc...; không thể vì lý do... mà..."],
+      "connection": "【Danh từ・Động từ・Tính từ い・Tính từ な】thể thường + からといって",
+      "vi": "chỉ vì... mà chưa chắc / không thể lấy lý do... mà...",
+      "explanation": "Ý 1: chỉ vì lý do A nên không nhất thiết dẫn tới kết quả B (vẫn có ngoại lệ). Ý 2: vế sau là biểu hiện phủ định, tức là không thể chấp nhận việc chỉ dựa vào lý do đó mà làm gì đó.",
+      "examples": [
+        {"ja": "やせているからといって、体が弱いとは限らない。", "vi": "Chỉ vì gầy mà chưa chắc là yếu đuối."},
+        {"ja": "日本人だからといって、だれもが日本語を教えられるわけではない。", "vi": "Không phải vì là người Nhật nên ai cũng có thể dạy được tiếng Nhật."},
+        {"ja": "人よりたくさん勉強したからといって、勝てるとは限らない。", "vi": "Chỉ vì học nhiều hơn người khác nên chưa chắc là thắng được."},
+        {"ja": "寒いからといって、家にばかりいるのはよくない。", "vi": "Không thể vì trời lạnh nên cứ ở mãi trong nhà, như thế không tốt."},
+        {"ja": "嫌だからといって勉強しないでいると、困るのは自分だ。", "vi": "Nếu không học chỉ vì không thích thì người gặp khó khăn chính là mình."}
+      ]
+    },
+    {
+      "no": 92,
+      "pattern": "〜に反して（て）",
+      "stars": 1,
+      "senses": ["trái với...; ngược lại với...; vi phạm..."],
+      "connection": "Danh từ + に反して",
+      "vi": "trái với..., vi phạm...",
+      "explanation": "Diễn tả kết quả đi ngược lại điều đã nghĩ, mong muốn trước đó, hoặc hành động vi phạm quy tắc. Thường đi với các danh từ như 予測・予報・教え・法・意思・期待・希望・願い.",
+      "examples": [
+        {"ja": "Aチームが勝つだろうという予想に反してBチームが勝った。", "vi": "Trái với dự đoán là đội A sẽ thắng, đội B đã thắng."},
+        {"ja": "応募者数は当初の見込みに反し、非常に多かった。", "vi": "Trái với dự tính ban đầu, số người ứng tuyển lại vô cùng đông."},
+        {"ja": "無断外出は禁の規則に反する。", "vi": "Ra ngoài không xin phép là trái với nội quy cấm."},
+        {"ja": "自由な言論を許さないのは憲法の精神に反する。", "vi": "Không cho phép tự do ngôn luận là trái với tinh thần hiến pháp."},
+        {"ja": "たとえ親の命令でも、自分の意思に反することはしたくない。", "vi": "Dù là mệnh lệnh của cha mẹ cũng vậy, tôi không muốn làm việc trái với ý chí của mình."},
+        {"ja": "予測／予報／教え／法律／意／期待／希望／願い + に反して", "vi": "Các danh từ thường dùng: dự đoán / dự báo / lời dạy / pháp luật / ý / sự kỳ vọng / hy vọng / mong ước + に反して."}
+      ]
+    },
+    {
+      "no": 93,
+      "pattern": "〜にもとづいて／もとづき",
+      "stars": 1,
+      "senses": ["dựa trên..., dựa theo..., trên cơ sở..."],
+      "connection": "Danh từ + にもとづいて",
+      "vi": "dựa trên..., dựa theo...",
+      "explanation": "Diễn tả việc làm hoặc suy nghĩ có căn cứ, cơ sở là sự việc hay thông tin nào đó. Cách nói ngắn gọn 「もとづき」 thường dùng trong văn viết.",
+      "examples": [
+        {"ja": "この映画は実際にあった事件に基づいて作られた。", "vi": "Bộ phim này được làm dựa trên một sự kiện có thật."},
+        {"ja": "データに基づいて仮説を立てる。", "vi": "Đặt ra giả thuyết dựa trên dữ liệu."},
+        {"ja": "法律に基づき、当店では20歳未満の方には酒の販売をいたしません。", "vi": "Dựa trên pháp luật, cửa hàng này không bán rượu cho người dưới 20 tuổi."},
+        {"ja": "今回の知事の発言は、正しい知識に基づいたものではない。", "vi": "Lời phát biểu của viên thống đốc lần này không dựa trên kiến thức đúng đắn."},
+        {"ja": "今後とも、お客様のご意見に基づいた商品を開発していくつもりです。", "vi": "Từ nay về sau chúng tôi định phát triển các sản phẩm dựa trên ý kiến của khách hàng."}
+      ]
+    },
+    {
+      "no": 94,
+      "pattern": "〜をもとに（して）",
+      "stars": 1,
+      "senses": ["lấy... làm nguyên liệu/nền tảng để..."],
+      "connection": "Danh từ + をもとに（して）",
+      "vi": "lấy... làm cơ sở/nguyên liệu",
+      "explanation": "Lấy sự việc cụ thể làm nguyên liệu hoặc nền tảng để tạo ra, viết ra, hay phán đoán điều gì đó. Chú ý: câu ví dụ 5 không thể thay bằng 「にもとづいて」.",
+      "examples": [
+        {"ja": "この映画は実際にあった事件をもとに作られた。", "vi": "Bộ phim này được làm dựa trên một sự kiện có thật."},
+        {"ja": "試験の結果をもとに合否を決める。", "vi": "Quyết định đậu hay rớt dựa trên kết quả thi."},
+        {"ja": "これは10年前のデータをもとにしたグラフなので、現状とは違っている。", "vi": "Đây là biểu đồ dựa trên dữ liệu của 10 năm trước nên khác với tình hình hiện nay."},
+        {"ja": "考古学者は一つの土器の破片をもとにして、古代人の生活を推理する。", "vi": "Nhà khảo cổ học suy luận cuộc sống của người xưa dựa trên một mảnh đồ gốm."},
+        {"ja": "父の遺産をもとにして商売を始めた。", "vi": "Đã bắt đầu làm ăn với vốn là tài sản cha để lại.（注：câu này không dùng được「にもとづいて」）"}
+      ],
+      "note": "（注）5では「にもとづいて」は使えない。: câu ví dụ 5 không thể dùng「にもとづいて」."
+    },
+    {
+      "no": 95,
+      "pattern": "〜反面／半面",
+      "stars": 1,
+      "senses": ["ngược lại, mặt khác... (hai mặt trái ngược của cùng một sự vật)"],
+      "connection": "Danh từ + である ／ dạng bổ nghĩa danh từ của【Động từ・Tính từ い・Tính từ な】+ 反面／半面",
+      "vi": "ngược lại..., mặt khác...",
+      "explanation": "Diễn tả hai mặt trái ngược của cùng một sự vật, một người: mặt này thì vậy nhưng mặt khác lại thế này. 「半面」 còn được dùng theo nghĩa đen như nửa gương mặt, mặt khuất của con người.",
+      "examples": [
+        {"ja": "この新しい薬はよく効く反面、副作用も強い。", "vi": "Loại thuốc mới này hiệu quả tốt nhưng ngược lại tác dụng phụ cũng mạnh."},
+        {"ja": "東京のデパートは値段が高い反面、商品の種類は豊富にある。", "vi": "Các cửa hàng bách hóa ở Tokyo giá đắt, nhưng ngược lại hàng hóa thì đa dạng phong phú."},
+        {"ja": "日本のサッカーチームは守備が強固な反面、得点力が弱い。", "vi": "Đội bóng đá Nhật phòng ngự vững nhưng ngược lại khả năng ghi bàn yếu."},
+        {"ja": "一人暮らしは自由な半面、寂しくも感じる。", "vi": "Sống một mình thì tự do nhưng mặt khác cũng cảm thấy cô đơn."},
+        {"ja": "Eメールは便利な半面、人との接し方を忘れさせてしまう面もあるのではないか。", "vi": "Email thì tiện lợi, nhưng có phải mặt khác nó cũng khiến ta quên cách tiếp xúc với người khác chăng?"},
+        {"ja": "顔の右半面をやけどした。", "vi": "Đã bị bỏng nửa bên phải gương mặt (nghĩa đen)."},
+        {"ja": "あの人の隠れた半面を知った。", "vi": "Đã biết đến mặt khuất của người đó (nghĩa đen)."}
+      ]
+    },
+    {
+      "no": 96,
+      "pattern": "〜れる／られる",
+      "stars": 1,
+      "senses": ["tự phát: tự nhiên dâng lên cảm xúc, ý nghĩ..."],
+      "connection": "Động từ ở thể tự phát (nhóm I: ~ない→~れる; nhóm II: ~ない→~られる; bất quy tắc: くる→こられる, する→される)",
+      "vi": "tự nhiên nghĩ đến / nhớ đến / cảm nhận đến... (tự phát)",
+      "explanation": "Diễn tả việc cảm xúc hay ý nghĩ tự nhiên dâng lên trong lòng một cách không thể khống chế, như nhớ đến, lo lắng, cảm động. Cách dùng này khác với bị động và khả năng.",
+      "examples": [
+        {"ja": "この歌を聞くと、子どものころのことが思い出される。", "vi": "Mỗi lần nghe bài hát này là lại nhớ về thời thơ ấu."},
+        {"ja": "国から送られてきた荷物を見ると、母のことが思われる。", "vi": "Nhìn thấy bưu kiện gửi từ quê nhà là lại nghĩ đến mẹ."},
+        {"ja": "田舎で一人暮らしをしている祖母のことが案じられる。", "vi": "Lại lo lắng cho bà đang sống một mình ở quê."},
+        {"ja": "妹の病気は現代医学では治すことが難しいそうだ。新薬の完成が待たれる。", "vi": "Nghe nói bệnh của em gái khó chữa trong y học hiện đại. Ai cũng mong chờ sự ra đời của thuốc mới."}
+      ]
+    },
+    {
+      "no": 97,
+      "pattern": "〜てたまらない",
+      "stars": 1,
+      "senses": ["... đến mức chịu không nổi, ... không chịu được (cảm xúc/cảm giác/khát vọng mạnh)"],
+      "connection": "Dạng テ của tính từ biểu thị cảm xúc, cảm giác + たまらない",
+      "vi": "... đến phát điên lên được, ... chịu không nổi",
+      "explanation": "Diễn tả mức độ cảm xúc, cảm giác, ham muốn mãnh liệt đến mức không thể chịu đựng nổi. Chủ ngữ về cơ bản là ngôi thứ nhất.",
+      "examples": [
+        {"ja": "クーラーが壊れてしまい、暑くてたまらない。", "vi": "Máy lạnh bị hỏng, nóng đến phát điên lên được."},
+        {"ja": "会いたくてたまらないのに会えないのはつらい。", "vi": "Mong muốn gặp đến mức không chịu nổi mà lại không gặp được, thật đau đớn."},
+        {"ja": "学生時代、私は運動が苦手で、特に長距離走は嫌でたまらなかった。", "vi": "Thời sinh viên tôi dốt môn thể thao, đặc biệt là ghét cay ghét đắng môn chạy đường dài."},
+        {"ja": "息子はライバルに負けたのが悔しくてたまらないようだ。", "vi": "Hình như thằng con thua đối thủ nên tiếc nuối vô cùng."}
+      ]
+    },
+    {
+      "no": 98,
+      "pattern": "〜てならない",
+      "stars": 1,
+      "senses": ["... vô cùng, ... không sao nổi nổi được (biểu hiện trang trọng hơn 「〜てたまらない」)"],
+      "connection": "Dạng テ của【tính từ・động từ biểu thị cảm xúc, cảm giác】+ ならない (động từ phần lớn là động từ tự phát)",
+      "vi": "... vô cùng, ... không thể đỡ được",
+      "explanation": "Cũng như 「〜てたまらない」, diễn tả cảm xúc, cảm giác, khát vọng mạnh đến mức không kiềm chế được, nhưng là cách nói lịch sự, trang trọng hơn. Chủ ngữ về cơ bản là ngôi thứ nhất.",
+      "examples": [
+        {"ja": "希望どおりの会社に就職できて、うれしくてならない。", "vi": "Được vào làm ở công ty đúng như mong muốn, vui vô cùng."},
+        {"ja": "田舎に住んでいる一人暮らしの母のことが心配でならない。", "vi": "Không sao ngừng lo lắng được cho mẹ đang sống một mình ở quê."},
+        {"ja": "祖父は孫の誕生がうれしくてならないようだ。", "vi": "Hình như ông nội sung sướng vô cùng vì cháu ra đời."},
+        {"ja": "彼とは以前どこかであったことがあるように思えて（思われて）ならない。", "vi": "Làm sao không khỏi nghĩ rằng mình đã từng gặp anh ấy ở đâu đó trước đây."},
+        {"ja": "最近なぜか、昔のことが思い出されてならない。", "vi": "Gần đây không hiểu sao cứ nhớ mãi không quên chuyện cũ."}
+      ]
+    },
+    {
+      "no": 99,
+      "pattern": "〜とか",
+      "stars": 1,
+      "senses": ["nghe nói là..., hình như... (truyền đạt thông tin không chắc chắn); ... gì đó (nói đại)"],
+      "connection": "【Danh từ・Động từ・Tính từ い・Tính từ な】thể thường + とか",
+      "vi": "nghe nói... (không chắc chắn) / ... gì đó",
+      "explanation": "Truyền đạt lại tin nghe được một cách không chắc chắn, kê lại kiểu 「〜とか言っている」. Khi muốn kê thêm nhiều thứ tương tự thì lập lại 「とか」 vài lần.",
+      "examples": [
+        {"ja": "「あしたの英語の授業は休みだとか聞いたけど、本当？」", "vi": "\"Nghe nói tiết tiếng Anh ngày mai được nghỉ, có thật không?\""},
+        {"ja": "お母さんが入院なしたとか。具合はいかがですか。（手紙）", "vi": "Nghe nói mẹ anh đang nằm viện. Dạo này sức khỏe thế nào? (trong thư)"},
+        {"ja": "駐車人身事故があったとかで電車が止まり、遅刻してしまった。", "vi": "Vì nghe nói có tai nạn liên quan gì đó nên tàu dừng, đã bị trễ giờ."},
+        {"ja": "九州地方は今年は雨が少ないとか。水不足が心配だ。", "vi": "Nghe nói vùng Kyushu năm nay mưa ít. Lo thiếu nước quá."},
+        {"ja": "「さっき、原田さんとかいう方からお電話がありました」", "vi": "\"Vừa nãy có một cuộc gọi của một người nào đó tên Harada.\""}
+      ]
+    },
+    {
+      "no": 100,
+      "pattern": "〜だけ",
+      "stars": 1,
+      "senses": ["chừng đó, đến mức đó (biểu thị mức độ, giới hạn)"],
+      "connection": "Dạng bổ nghĩa danh từ của【Động từ・Tính từ い・Tính từ な】+ だけ",
+      "vi": "chừng đó..., đến mức đó...",
+      "explanation": "Biểu thị mức độ hay giới hạn tương ứng. Dạng 「それだけ〜」 mang nghĩa tỉ lệ thuận: mức độ này tăng thì mức độ kia cũng tăng theo (=〜に応じて).",
+      "examples": [
+        {"ja": "試験が終わったら、好きなだけ遊びたい。", "vi": "Nếu xong kỳ thi thì muốn chơi thoải mái chừng nào cũng được."},
+        {"ja": "「食べたいだけ食べていいですよ」", "vi": "\"Ăn thoải mái, chừng nào no thì thôi.\""},
+        {"ja": "「あしたはできるだけ早く来ます」", "vi": "\"Mai tôi sẽ đến sớm chừng nào càng tốt.\""},
+        {"ja": "できるだけのことはやったつもりだ。", "vi": "Tôi tự nghĩ là đã làm hết sức mình."},
+        {"ja": "地位が上がれば、それだけ責任も重くなる。（＝程度に応じて）", "vi": "Nếu địa vị lên cao thì trách nhiệm cũng nặng nề theo chừng đó."}
+      ]
+    },
+    {
+      "no": 101,
+      "pattern": "〜ばかりでなく",
+      "stars": 1,
+      "senses": ["không chỉ..., mà còn cả..."],
+      "connection": "Danh từ ／ dạng bổ nghĩa danh từ của【Động từ・Tính từ い・Tính từ な】+ ばかりでなく",
+      "vi": "không chỉ... mà còn...",
+      "explanation": "Diễn tả việc không dừng lại ở điều đó mà điều trên còn đúng cho cả phạm vi rộng hơn. Thường đi kèm 「も」「まで」 ở vế sau.",
+      "examples": [
+        {"ja": "彼女は英語ばかりでなく、フランス語やドイツ語も話せる。", "vi": "Cô ấy không chỉ biết tiếng Anh mà còn nói được cả tiếng Pháp, tiếng Đức."},
+        {"ja": "この本はただ面白いばかりでなく、仕事にも役立つ。", "vi": "Cuốn sách này không chỉ hay mà còn có ích cho công việc."},
+        {"ja": "「自分のことばかりでなく、人の気持ちも考えなさい」", "vi": "\"Đừng chỉ nghĩ đến bản thân mình, hãy nghĩ cả đến tâm trạng của người khác.\""},
+        {"ja": "あのスーパーは商品が豊富なばかりでなく、値段も安い。", "vi": "Siêu thị đó không chỉ hàng hóa phong phú mà giá cả cũng rẻ."},
+        {"ja": "彼は頭の回転が速い。そればかりでなく、発想もユニークだ。", "vi": "Anh ấy tư duy nhanh nhạy. Không những thế, cách nghĩ còn độc đáo."}
+      ]
+    }
+  ]
+}

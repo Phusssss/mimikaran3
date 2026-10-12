@@ -1,0 +1,198 @@
+{
+  "pdf_pages": "8-17",
+  "points": [
+    {
+      "no": 1,
+      "pattern": "〜ことにしている",
+      "stars": 1,
+      "senses": ["Thói quen/tục ngữ do bản thân tự quyết định (自分で決めた習慣)"],
+      "connection": "Động từ thể từ điển (辞書形) hoặc thể phủ định (ナイ形) + ことにしている",
+      "vi": "đang tự quy định/tự quyết định làm (không làm) việc gì; là thói quen bản thân tự đặt ra",
+      "explanation": "Dùng để nói về một thói quen hoặc quyết định do chính người nói tự đưa ra và đang duy trì. Khác với 〜ことになっている (quy định từ bên ngoài, không phụ thuộc ý muốn của người nói). Dạng quá khứ ことにしていた là thói quen đã từng duy trì trong quá khứ.",
+      "examples": [
+        {"ja": "健康のため、毎朝牛乳を飲むことにしている。", "vi": "Vì sức khỏe, tôi tự quy định uống sữa mỗi sáng."},
+        {"ja": "田中さんは、帰りが遅くなるときは、必ずメールすることにしているそうだ。", "vi": "Nghe nói anh Tanaka tự quy định là nhất định sẽ gửi mail nếu giờ về muộn."},
+        {"ja": "若い頃はオリンピックに出るのが夢で、毎日8時間練習することにしていた。", "vi": "Hồi trẻ ước mơ dự Olympic nên tôi tự đặt mục tiêu luyện tập 8 tiếng mỗi ngày."},
+        {"ja": "休日は家で仕事をしないことにしているのに、今週はどうしても金曜日に終わらせることができず、持って帰ってきた。", "vi": "Dù đã tự quy định ngày nghỉ không làm việc ở nhà, tuần này không thể nào xong việc trước thứ Sáu nên tôi phải mang về."}
+      ]
+    },
+    {
+      "no": 2,
+      "pattern": "〜ことになっている",
+      "stars": 1,
+      "senses": ["Thói quen, quy tắc, lịch định sẵn được quyết định bất chấp ý muốn của người nói（話し手の意思に関係なく決まる）習慣、規則、予定"],
+      "connection": "Động từ thể từ điển (辞書形) hoặc thể phủ định (ナイ形) + ことになっている",
+      "vi": "quy định là, theo luật/quy tắc thì..., đã định là... (không phụ thuộc ý muốn chủ quan)",
+      "explanation": "Diễn tả quy định, luật lệ, thoả thuận hoặc kế hoạch đã được quyết định từ bên ngoài (trường học, pháp luật, gia đình...), không phải quyết định cá nhân. Cũng dùng để nhắc lại lịch hẹn/ kế hoạch đã định (dạng ことになっていた).",
+      "examples": [
+        {"ja": "本校では、教室では日本語しか話せないことになっている。", "vi": "Ở trường này, quy định là trong lớp chỉ được nói tiếng Nhật."},
+        {"ja": "法律では、20歳未満はお酒を飲んではいけないことになっている。", "vi": "Theo pháp luật, quy định là người dưới 20 tuổi không được uống rượu."},
+        {"ja": "私のうちでは、1月2日に親せきが皆、集まることになっている。", "vi": "Ở nhà tôi, đã định là ngày 2/1 họ hàng sẽ tụ tập đầy đủ."},
+        {"ja": "あしたはアルバイトの面接に行くことになっている。", "vi": "Ngày mai tôi đã định là sẽ đi phỏng vấn làm thêm."},
+        {"ja": "「中村さんとここで10時に会うことになっていたんですが……」", "vi": "\"Đã định là 10 giờ tôi gặp anh Nakamura ở đây nhưng mà...\""}
+      ]
+    },
+    {
+      "no": 3,
+      "pattern": "〜ようになっている",
+      "stars": 1,
+      "senses": ["Cấu tạo (của máy móc v.v.) được thiết kế để hoạt động như vậy (機械などがそのようにできている)"],
+      "connection": "Động từ thể từ điển (辞書形) hoặc thể phủ định (ナイ形) + ようになっている",
+      "vi": "được cấu tạo/thiết kế để (tự động) làm được việc gì; nếu... thì sẽ...",
+      "explanation": "Mô tả cơ chế, cấu tạo sẵn có của máy móc, thiết bị, hệ thống: khi xảy ra điều kiện nào đó thì kết quả tương ứng sẽ tự động xảy ra. Khác 〜ことにしている (ý chí con người) ở chỗ đây là đặc tính sẵn của vật.",
+      "examples": [
+        {"ja": "このストーブは大きく傾くと、自動的に火が消えるようになっている。", "vi": "Chiếc lò sưởi này được thiết kế để lửa tự động tắt khi bị nghiêng nhiều."},
+        {"ja": "このドアは閉めると、カギがかかるようになっている。", "vi": "Cánh cửa này được làm sao để đóng lại là khóa tự động ăn."},
+        {"ja": "この自動販売機はレバーを押さないと、おつりが出ないようになっている。", "vi": "Máy bán hàng tự động này được cấu tạo là nếu không bấm cần thì tiền thừa sẽ không trả ra."},
+        {"ja": "この画面はパスワードを入力しないと、開くことができないようになっている。", "vi": "Màn hình này được thiết kế là không nhập mật khẩu thì không thể mở."}
+      ]
+    },
+    {
+      "no": 4,
+      "pattern": "〜ような／ように",
+      "stars": 1,
+      "senses": ["Đưa ra ví dụ minh hoạ (例を示す)"],
+      "connection": "Dạng bổ nghĩa danh từ (名詞修飾形) của [danh từ・động từ] + ような／ように",
+      "vi": "như, kiểu như, ví dụ như",
+      "explanation": "Đặt trước danh từ (ような) hoặc động từ (ように) để nêu một ví dụ tiêu biểu mà không nói chắc chắn. 〜のような + danh từ; 〜のように bổ nghĩa cho động từ/tính từ. Thường dùng khi nói suông về một ví dụ gần đúng.",
+      "examples": [
+        {"ja": "私は赤やピンクのような、明るい色が好きだ。", "vi": "Tôi thích những màu sáng như đỏ hay hồng."},
+        {"ja": "私も早くリンさんのように、上手に日本語が話せるようになりたい。", "vi": "Tôi cũng muốn sớm nói tiếng Nhật giỏi như chị Linh."},
+        {"ja": "「私もあなたが着ているようなセーターがほしい」", "vi": "\"Tôi cũng muốn một chiếc áo len kiểu như áo bạn đang mặc\""},
+        {"ja": "アメリカのような大きな国では、国内にも時差があって当然だ。", "vi": "Ở một nước lớn như Mỹ thì có múi giờ trong nước cũng là đương nhiên."}
+      ]
+    },
+    {
+      "no": 5,
+      "pattern": "〜みたいだ",
+      "stars": 3,
+      "senses": [
+        "① Suy đoán（はっきりしないが）〜と思われる ＝ようだ → N4: trông có vẻ như, chắc là... (không chắc chắn)",
+        "② So sánh/ẩn dụ（本当はそうではないが、そう見える／思われる）＝ようだ → N4: như thể là... (thực ra không phải nhưng trông/nghĩ vậy)",
+        "③ Ví dụ（例を示す）＝よう → điểm 4: kiểu như, ví dụ như"
+      ],
+      "connection": "①② Danh từ / thể thường (普通体) của [động từ・tính từ-i・tính từ-na]; tuy nhiên tính từ-na ở hiện tại không thêm 「だ」. ③ Chỉ nối với danh từ",
+      "vi": "trông như là, có vẻ như; giống như, kiểu như (cách nói suồng sã của ようだ)",
+      "explanation": "みたいだ có 3 cách dùng: suy đoán dựa trên bằng chứng quan sát được (①), so sánh khiến sự việc trông giống như một thứ khác (②), và nêu ví dụ tiêu biểu (③). Theo chú thích (注) của sách: giống ようだ nhưng みたい thường dùng trong hội thoại suồng sã (くだけた会話), và hoạt biến hóa giống tính từ-na (みたいじゃない、みたいだった...).",
+      "examples": [
+        {"ja": "「星がたくさん出ている。あしたも晴れみたい」", "vi": "\"Nhiều sao đang mọc lên. Mai chắc cũng nắng\""},
+        {"ja": "「あの店、人気がないみたいだね。いつ行ってもすいている」", "vi": "\"Quán đó có vẻ là không đông khách nhỉ. Đi lúc nào cũng vắng\""},
+        {"ja": "「お父さん、すごく怒っているみたいだから、近づかないほうがいいよ」", "vi": "\"Bố có vẻ đang rất tức giận nên con tốt hơn là đừng lại gần\""},
+        {"ja": "「風邪をひいたみたいなんです。きのうから、のどが痛くて」", "vi": "\"Hình như tôi bị cảm. Từ hôm qua cổ họng đã đau\""},
+        {"ja": "「オウさん、このごろやせたみたい。どうかしたの」「ううん、何でもない」", "vi": "\"Anh Ou dạo này trông có vẻ gầy đi. Có chuyện gì sao?\" \"Không, có gì đâu\""},
+        {"ja": "宝くじで1,000万円当たった。夢（を見ている）みたいだ。", "vi": "Trúng số 10 triệu yên. Cảm giác như (đang nằm) mơ vậy."},
+        {"ja": "「あの雲、見て。ゾウみたいな形だよ」「ほんとだ」", "vi": "\"Nhìn đám mây kia kìa. Hình con voi đấy\" \"Thế thật\""},
+        {"ja": "兄はすぐに泣いたり怒ったり笑ったりする。まったく、子どもみたいだ。", "vi": "Anh tôi vừa khóc vừa giận vừa cười ngay lập tức. Đúng là như trẻ con."}
+      ]
+    },
+    {
+      "no": 6,
+      "pattern": "〜らしい",
+      "stars": 1,
+      "senses": ["Cho cảm giác mạnh về đặc tính 〜, đúng chất/xứng đáng với 〜（〜という感じを強く与える、〜にふさわしい）"],
+      "connection": "Danh từ + らしい",
+      "vi": "đúng là, đúng chất, đậm chất, xứng đáng với vai trò là...",
+      "explanation": "Gắn vào danh từ để nói rằng đặc tính tiêu biểu của sự vật/vai trò đó thể hiện rõ ràng. Ví dụ 春らしい = đậm chất mùa xuân; 社会人らしく = đúng phong cách người đi làm. Lưu ý khác らしい nghĩa \"nghe đồn\" (suy đoán theo tin tức) — ở đây là nghĩa chất lượng tiêu biểu.",
+      "examples": [
+        {"ja": "大山さんは拾ってきたネコを育てているそうだ。いかにも動物好きな彼らしい。", "vi": "Nghe nói anh Oyama đang nuôi con mèo nhặt về. Đúng là chất anh ta - người mê động vật."},
+        {"ja": "「そのセーターの色、春らしくてすてきね」", "vi": "\"Màu áo len đó đậm chất mùa xuân, dễ thương ghê\""},
+        {"ja": "「就職したのだから、もっと社会人らしくしなさい」", "vi": "\"Đã đi làm rồi thì phải hành xử đúng chất người đi làm hơn nữa\""},
+        {"ja": "彼女は体がじょうぶで、病気らしい病気をしたことがない。", "vi": "Cô ấy cơ thể khỏe mạnh, chưa từng ốm nặng thật sự bao giờ."}
+      ]
+    },
+    {
+      "no": 7,
+      "pattern": "〜つもり",
+      "stars": 1,
+      "senses": ["Tưởng là 〜 nhưng thực tế không làm / không phải vậy（〜だと思っていたが、実際は〜していなかった／そうではなかった）"],
+      "connection": "Danh từ＋の / động từ dạng 【タ形・ている】 / dạng bổ nghĩa danh từ của【tính từ-i・tính từ-na】＋つもり",
+      "vi": "tưởng là... (thực ra không), có ý định/l sûr rằng mình đã... nhưng thực tế không phải",
+      "explanation": "つもり (thường ở quá khứ つもりだった hoặc kèm のに) diễn tả sự tin/nhận định của chủ thể mà thực tế lại khác đi. Thể hiện sự lầm tưởng hoặc chủ quan không đúng thực tế.",
+      "examples": [
+        {"ja": "メールを送ったつもりだったが、届いていなかった。", "vi": "Tưởng là tôi đã gửi mail rồi, nhưng hóa ra nó chưa đến nơi."},
+        {"ja": "バッグにさいふを入れたつもりだったが、買い物をしようとしたら、なかった。", "vi": "Tưởng đã bỏ ví vào túi xách, nhưng đến lúc định mua hàng thì không thấy nữa."},
+        {"ja": "この問題はわかっているつもりだったが、テストでは間違えてしまった。", "vi": "Tưởng là mình hiểu bài này rồi, nhưng đến lúc kiểm tra lại làm sai."},
+        {"ja": "まだ若いつもりだったのに、電車の中で席を譲られてショックだった。", "vi": "Vẫn còn tưởng mình trẻ, thế mà bị nhường ghế trên tàu điện, sốc thật."},
+        {"ja": "私は人より絵が上手なつもりだったが、美術大学に進学したら、もっとすごい人がおおぜいいた。", "vi": "Tưởng mình vẽ giỏi hơn người, nhưng học lên đại học mỹ thuật mới thấy toàn người giỏi hơn nhiều."},
+        {"ja": "ぼくは彼女とは友だちのつもりなのに、彼女はぼくと結婚したいらしい。困ったなあ。", "vi": "Mình chỉ coi cô ấy là bạn thôi, mà nghe nói cô ấy muốn cưới mình. Rắc rối thật."}
+      ]
+    },
+    {
+      "no": 8,
+      "pattern": "〜てくる",
+      "stars": 1,
+      "senses": ["Cảm xúc, trạng thái trào ra từ trong cơ thể, trong lòng tim（体、心の中から出る）"],
+      "connection": "Động từ thể テ形 (thể nối) + くる",
+      "vi": "trào ra, dâng lên (nước mắt, mồ hôi, cảm xúc... từ bên trong cơ thể/lòng người)",
+      "explanation": "Diễn tả nước mắt, mồ hôi hay những cảm xúc như giận dữ, niềm vui... từ bên trong cơ thể hoặc lòng tim tự nhiên dần dần trào ra/dâng lên.",
+      "examples": [
+        {"ja": "悲しくて、涙が出てきた。", "vi": "Vì buồn nên nước mắt đã trào ra."},
+        {"ja": "こう暑いと、じっとしていても汗が出てくる。", "vi": "Trời nóng thế này thì cứ ngồi yên mồ hôi cũng toát ra."},
+        {"ja": "そのときはあまり感じなかったが、あとになって怒りがわいてきた。", "vi": "Lúc đó không cảm thấy gì nhiều, nhưng về sau cơn giận dữ dâng lên."},
+        {"ja": "しばらくしてから、優勝の喜びがこみあげてきた。", "vi": "Một lúc sau, niềm vui vô địch mới dâng trào lên."}
+      ]
+    },
+    {
+      "no": 9,
+      "pattern": "〜てほしい／もらいたい",
+      "stars": 1,
+      "senses": ["Hy vọng, yêu cầu hướng đến người khác（ほかの人に対する希望、要求）"],
+      "connection": "Động từ dạng【テ形・ないで】+ ほしい／もらいたい",
+      "vi": "mong người khác làm giúp/nhờ người khác làm; mong ai đó (không) làm gì",
+      "explanation": "Diễn tả nguyện vọng hoặc yêu cầu của người nói đối với người khác. 〜てほしい: mong người ấy làm; 〜てもらいたい: nhờ người ấy làm (lịch sự hơn một chút). Dạng phủ định 〜ないでほしい: mong người ấy đừng làm.",
+      "examples": [
+        {"ja": "親には長生きしてもらいたい。", "vi": "Với cha mẹ, tôi mong các cụ sống lâu."},
+        {"ja": "子どもには、皆に愛される人間になってほしいと思う。", "vi": "Với các con, tôi mong chúng trở thành người được mọi người yêu mến."},
+        {"ja": "「みんなに食べてもらいたいと思って、きょうはケーキを焼いて来ました」", "vi": "\"Nghĩ là muốn mọi người cùng ăn nên hôm nay tôi đã nướng bánh mang đến\""},
+        {"ja": "「これはここだけの秘密だから、だれにも言わないでほしい」", "vi": "\"Đây là bí mật chỉ giữa chúng ta thôi nên mong bạn đừng nói với ai\""},
+        {"ja": "「すみません、ちょっと見てもらいたいものがあるんですけど」", "vi": "\"Xin lỗi, tôi có chút chuyện muốn nhờ anh xem giúp\""}
+      ]
+    },
+    {
+      "no": 10,
+      "pattern": "〜ば／たら／と…たい／のに／よかった　など",
+      "stars": 1,
+      "senses": [
+        "① Hy vọng điều không có trong thực tế／tiếc nuối（現実ではないことを希望する／残念がる）",
+        "② Tiếc nuối điều đã không thực hiện được（実現しなかったことを残念がる）"
+      ],
+      "connection": "Mệnh đề điều kiện ば／たら／(の)なら／と + たい／のだが／のに／よかった",
+      "vi": "giá như..., nếu... thì tốt (biết mấy); tiếc là đã không...; phải chi đã...",
+      "explanation": "Kết hợp mệnh đề điều kiện (ば/たら/のなら/と) với たい, のだが, のに, よかった để bày tỏ nguyện vọng trái với thực tế (①) hoặc sự hối tiếc về việc đã không thực hiện được trong quá khứ (②). よかった luôn dùng với thể phủ định hay khẳng định tùy nghĩa: 言わなければよかった = giá mà đã không nói.",
+      "examples": [
+        {"ja": "もし私が医者だったら、病気で苦しむ人たちを助けてあげられるのに。", "vi": "Giá như tôi là bác sĩ thì đã có thể giúp đỡ những người khổ vì bệnh tật (tiếc thay không phải)."},
+        {"ja": "「買わないんですか」「ええ、もう少し安ければ買うんですけど」", "vi": "\"Anh không mua à?\" \"Ừ, nếu rẻ hơn chút nữa thì tôi mua đấy, nhưng mà...\""},
+        {"ja": "もし生まれ変わることができるのなら、次は男（／女）に生まれたい。", "vi": "Giả như được đầu thai lại, kiếp sau tôi muốn sinh làm con trai (/con gái)."},
+        {"ja": "子どもがいなければ、もっと働けるのだが。", "vi": "Nếu không có con thì tôi có thể làm việc nhiều hơn, nhưng mà."},
+        {"ja": "もう少し時間があれば、全部できたのに。", "vi": "Giá mà có thêm chút thời gian nữa thì đã làm được hết, tiếc thật."},
+        {"ja": "「きのうの交流会、楽しかったよ。鈴木さんも行ければよかったのに」", "vi": "\"Buổi giao lưu hôm qua vui lắm đấy. Giá mà anh Suzuki cũng đi thì tốt biết mấy\""},
+        {"ja": "あと少しで合格できたのに。もうちょっとがんばればよかった。", "vi": "Chỉ thiếu chút nữa thôi là đỗ rồi. Giá mà đã cố gắng thêm chút nữa."},
+        {"ja": "友だちを怒らせてしまった。あんなこと、言わなければよかった。", "vi": "Đã khiến bạn giận mất rồi. Giá mà đã không nói những điều đó."}
+      ]
+    },
+    {
+      "no": 11,
+      "pattern": "使役形を使った表現／使役形＋てもらう　など",
+      "stars": 1,
+      "senses": [
+        "① Cho phép, dung túng（許可、許容）",
+        "② Không chủ ý nhưng gây ra kết quả xấu（そのつもりはなかったが、悪い結果にしてしまう）",
+        "③ Nhận được sự cho phép（許可をもらう：使役形＋てもらう）",
+        "④ Bày tỏ lòng biết ơn vì được người khác làm cho mình（〜してもらって、感謝している）"
+      ],
+      "connection": "Động từ thể sai khiến (使役形) (+して) くれる／もらう／いただく／ください",
+      "vi": "cho/không cho ai làm gì; để cho... gây ra (kết quả xấu); xin phép được làm; được ai cho phép/làm giúp (biết ơn)",
+      "explanation": "Thể sai khiến (〜させる) kết hợp với くれる/もらう/いただく tạo thành các cách nói lịch sự: xin phép được làm (休ませてもらった), nhờ cho phép (待たせてもらえますか), bày tỏ cảm ơn vì được nhận sự tốt đẹp (行かせてくれた). Dạng 使役 + てしまう diễn tả vô tình khiến kết quả xấu xảy ra (腐らせてしまった).",
+      "examples": [
+        {"ja": "子どもが習いたいというので、ピアノを習わせることにした。", "vi": "Vì con nói muốn học nên tôi đã quyết định cho cháu học piano."},
+        {"ja": "アルバイトをしたいのだが、親が高校生の間はだめだと言って、させてくれない。", "vi": "Tôi muốn đi làm thêm, nhưng bố mẹ nói còn học cấp ba thì chưa được và không cho tôi làm."},
+        {"ja": "冷蔵庫に肉があるのを忘れていて、腐らせてしまった。", "vi": "Quên mất là có thịt trong tủ lạnh, nên đã để thịt hỏng mất."},
+        {"ja": "子どもを病気で死なせてしまった。", "vi": "Đã để con mất vì bệnh (vô ý để xảy ra điều đáng tiếc)."},
+        {"ja": "母が入院したので、きょうは仕事を休ませてもらった。", "vi": "Vì mẹ nhập viện nên hôm nay tôi đã xin phép nghỉ làm."},
+        {"ja": "「すみません、ここに荷物を置かせてもらえませんか」", "vi": "\"Xin lỗi, cho phép tôi để hành lý ở đây được không?\""},
+        {"ja": "私の家は貧しかったが、親は私を大学まで行かせてくれた。", "vi": "Nhà tôi nghèo, nhưng cha mẹ đã cho tôi học lên đến đại học."},
+        {"ja": "「きょうはすばらしいお話を聞かせていただき、本当にありがとうございます」", "vi": "\"Hôm nay được nghe câu chuyện tuyệt vời, tôi xin chân thành cảm ơn\""}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "pdf_pages": "79-88",
+  "words": [
+    {
+      "no": 371,
+      "kanji": "確認する",
+      "kana": "かくにん",
+      "en": "confirmation",
+      "kr": "확인",
+      "vi": "sự xác nhận",
+      "senses": [],
+      "examples": [
+        {"ja": "まちがいがないかどうか（を）確認する。", "vi": "Xác nhận xem có sai sót hay không."}
+      ],
+      "related": [
+        {"type": "関", "text": "確かめる (→464)"}
+      ],
+      "notes": "zh: 确认；原表記: 確認(ラ)スル"
+    },
+    {
+      "no": 372,
+      "kanji": "利用する",
+      "kana": "りよう",
+      "en": "use, exploitation",
+      "kr": "이용",
+      "vi": "việc sử dụng, tận dụng",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "水不足なので、水道の利用を減らした。", "vi": "Vì thiếu nước nên đã giảm việc sử dụng nước máy."},
+        {"ja": "通学に電車を利用する。", "vi": "Sử dụng tàu điện để đi học."},
+        {"ja": "トウモロコシは燃料にも利用される。", "vi": "Ngô còn được sử dụng làm nhiên liệu."},
+        {"ja": "人をだまして利用する。", "vi": "Lợi dụng người khác bằng cách lừa dối."},
+        {"ja": "地位を利用して金もうけをする。", "vi": "Lợi dụng địa vị để kiếm tiền."}
+      ],
+      "related": [
+        {"type": "合", "text": "_者、_料（金）、_量、_法"},
+        {"type": "類", "text": "使用する"},
+        {"type": "合", "text": "再_"},
+        {"type": "類", "text": "有効活用する"}
+      ],
+      "notes": "zh: 使用；利用；滥用；原表記: 利用(ラ)スル。②の類語ボックスは印字が不鮮明（有効活用する？）"
+    },
+    {
+      "no": 373,
+      "kanji": "理解する",
+      "kana": "りかい",
+      "en": "understanding",
+      "kr": "이해",
+      "vi": "sự hiểu, sự thông cảm hiểu",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "意味の理解。", "vi": "Sự hiểu về ý nghĩa."},
+        {"ja": "内容を深く理解する。", "vi": "Hiểu sâu nội dung."},
+        {"ja": "私の上司は、部下に理解があるので働きやすい。", "vi": "Ông chủ của tôi thông cảm cho cấp dưới nên làm việc dễ chịu."},
+        {"ja": "小さい子どもがいる女性が働くには周囲の理解が必要だ。", "vi": "Để phụ nữ có con nhỏ đi làm cần có sự thông cảm của những người xung quanh."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が速い（⇔遅い）、_が深い"},
+        {"type": "合", "text": "_力、_不足"},
+        {"type": "連", "text": "_がある、_が深い、_を求める"},
+        {"type": "合", "text": "_者、_不足"}
+      ],
+      "notes": "zh: 理解；体谅，谅解；原表記: 理解(ラ)スル"
+    },
+    {
+      "no": 374,
+      "kanji": "発見する",
+      "kana": "はっけん",
+      "en": "discovery",
+      "kr": "발견",
+      "vi": "sự phát hiện",
+      "senses": [],
+      "examples": [
+        {"ja": "大きな発見。", "vi": "Một phát hiện lớn."},
+        {"ja": "新しい種類の動物を発見した。", "vi": "Đã phát hiện ra một loài động vật mới."}
+      ],
+      "related": [
+        {"type": "合", "text": "新_、大_"}
+      ],
+      "notes": "zh: 发现；原表記: 発見(ラ)スル"
+    },
+    {
+      "no": 375,
+      "kanji": "発明する",
+      "kana": "はつめい",
+      "en": "invention",
+      "kr": "발명",
+      "vi": "sự phát minh",
+      "senses": [],
+      "examples": [
+        {"ja": "ベルは電話を発明した。", "vi": "Bell đã phát minh ra điện thoại."}
+      ],
+      "related": [
+        {"type": "合", "text": "新_、大_、_家"}
+      ],
+      "notes": "zh: 发明；原表記: 発明(ラ)スル"
+    },
+    {
+      "no": 376,
+      "kanji": "関係する",
+      "kana": "かんけい",
+      "en": "relationship",
+      "kr": "관계, 연관",
+      "vi": "quan hệ, liên quan",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "「お二人の関係は」「親子、兄弟 …」です。", "vi": "「Quan hệ của hai người là gì?」「Là cha con, anh em…」"},
+        {"ja": "あの二人は先輩・後輩の関係だ。", "vi": "Hai người đó có quan hệ tiền bối – hậu bối."},
+        {"ja": "あの人がどうなっても、私〔ニ／ト〕は関係（が）ない。", "vi": "Dù người đó ra sao thì cũng chẳng liên quan gì đến tôi."},
+        {"ja": "部長は不正事件に関係して、会社を辞めさせられた。", "vi": "Trưởng phòng dính vào vụ việc bất chính nên bị buộc thôi việc."},
+        {"ja": "「ご職業は」「建設関係の仕事をしています」", "vi": "「Nghề nghiệp của anh/chị là gì?」「Tôi làm công việc ngành xây dựng」"}
+      ],
+      "related": [
+        {"type": "連", "text": "＝_があるならない"},
+        {"type": "合", "text": "_者"},
+        {"type": "合", "text": "［名詞］＋関係"}
+      ],
+      "notes": "zh: 关系；关联，联系；相关的；原表記: 関係スル。②の連ボックス（＝_があるならない）は印字が不鮮明"
+    },
+    {
+      "no": 377,
+      "kanji": "団体",
+      "kana": "だんたい",
+      "en": "group",
+      "kr": "단체",
+      "vi": "đoàn thể, tổ chức",
+      "senses": [],
+      "examples": [
+        {"ja": "博物館で団体のチケットを買う。", "vi": "Mua vé đoàn thể ở bảo tàng."}
+      ],
+      "related": [
+        {"type": "合", "text": "_旅行、_割引、_行動、政治_、宗教_"},
+        {"type": "対", "text": "個人"}
+      ],
+      "notes": "zh: 团体"
+    },
+    {
+      "no": 378,
+      "kanji": "選挙",
+      "kana": "せんきょ",
+      "en": "election",
+      "kr": "선거",
+      "vi": "sự bầu cử",
+      "senses": [],
+      "examples": [
+        {"ja": "1月に選挙が行われる。", "vi": "Tháng 1 diễn ra bầu cử."},
+        {"ja": "選挙で市長を選ぶ。", "vi": "Bầu thị trưởng qua bầu cử."},
+        {"ja": "「あした、役員の選挙をします」", "vi": "「Mai sẽ tiến hành bầu cán bộ」"}
+      ],
+      "related": [
+        {"type": "連", "text": "_をする"},
+        {"type": "合", "text": "_運動、_権、直接_⇔間接_"}
+      ],
+      "notes": "zh: 选举"
+    },
+    {
+      "no": 379,
+      "kanji": "税金",
+      "kana": "ぜいきん",
+      "en": "tax",
+      "kr": "세금",
+      "vi": "thuế",
+      "senses": [],
+      "examples": [
+        {"ja": "年度末に税金を払う。", "vi": "Cuối năm tài chính nộp thuế."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を納める、_がかかる・_をかける"},
+        {"type": "関", "text": "消費税、所得税、関税、増税する⇔減税する、脱税する"}
+      ],
+      "notes": "zh: 税，税款"
+    },
+    {
+      "no": 380,
+      "kanji": "責任",
+      "kana": "せきにん",
+      "en": "responsibility",
+      "kr": "책임",
+      "vi": "trách nhiệm",
+      "senses": [],
+      "examples": [
+        {"ja": "「この失敗はあなたの責任ではない」", "vi": "「Sai lầm này không phải là trách nhiệm của bạn」"},
+        {"ja": "社長は倒産の責任をとって辞めた。", "vi": "Giám đốc nhận trách nhiệm về việc phá sản rồi từ chức."},
+        {"ja": "事故の責任を追及する。", "vi": "Truy cứu trách nhiệm về tai nạn."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がかる（⇔ない）、_をとる、_を持つ、_を果たす、_が重い（⇔軽い）、_を感じる"},
+        {"type": "合", "text": "_者、無_な、_感→責任感がある（⇔ない）、責任感が強い（⇔弱い）"}
+      ],
+      "notes": "zh: 责任"
+    },
+    {
+      "no": 381,
+      "kanji": "書類",
+      "kana": "しょるい",
+      "en": "form, document",
+      "kr": "서류",
+      "vi": "giấy tờ, tài liệu",
+      "senses": [],
+      "examples": [
+        {"ja": "留学の手続きに必要な書類を準備する。", "vi": "Chuẩn bị những giấy tờ cần thiết cho thủ tục du học."},
+        {"ja": "会議の書類を作る。", "vi": "Lập tài liệu cho cuộc họp."}
+      ],
+      "related": [
+        {"type": "合", "text": "重要_、_審査"}
+      ],
+      "notes": "zh: 文件，资料"
+    },
+    {
+      "no": 382,
+      "kanji": "題名",
+      "kana": "だいめい",
+      "en": "title",
+      "kr": "제목, 타이틀",
+      "vi": "tựa đề, tên đề tài",
+      "senses": [],
+      "examples": [
+        {"ja": "コンクールに出す作品に題名をつける。", "vi": "Đặt tên cho tác phẩm dự thi."}
+      ],
+      "related": [
+        {"type": "連", "text": "_をつける"},
+        {"type": "類", "text": "タイトル (→818)"}
+      ],
+      "notes": "zh: 题目，标题"
+    },
+    {
+      "no": 383,
+      "kanji": "条件",
+      "kana": "じょうけん",
+      "en": "condition",
+      "kr": "조건",
+      "vi": "điều kiện",
+      "senses": [],
+      "examples": [
+        {"ja": "運転免許を持っていることが採用の条件だ。", "vi": "Có bằng lái xe là điều kiện để được tuyển dụng."},
+        {"ja": "このアルバイトは条件がいい。", "vi": "Công việc bán thời gian này có điều kiện tốt."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある（⇔ない）、_が合う、_がいい⇔悪い"},
+        {"type": "合", "text": "必要_"}
+      ],
+      "notes": "zh: 前提，条件"
+    },
+    {
+      "no": 384,
+      "kanji": "締め切り",
+      "kana": "しめきり",
+      "en": "deadline",
+      "kr": "마감",
+      "vi": "hạn chót, hạn cuối",
+      "senses": [],
+      "examples": [
+        {"ja": "レポートの締め切りは30日です。", "vi": "Hạn nộp báo cáo là ngày 30."},
+        {"ja": "申し込みはあしたが締め切りだ。", "vi": "Đăng ký thì hạn chót là ngày mai."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が延びる、_を延ばす"}
+      ],
+      "notes": "zh: 期限，截止时间；(動) 締め切る（例:「この講座の申し込みは、30人で締め切ります」）"
+    },
+    {
+      "no": 385,
+      "kanji": "期間",
+      "kana": "きかん",
+      "en": "period",
+      "kr": "기간",
+      "vi": "thời gian, thời kỳ",
+      "senses": [],
+      "examples": [
+        {"ja": "申し込み／休業／工事 …｜期間は12月1日から3日までです。", "vi": "Đăng ký／nghỉ kinh doanh／công trình…｜ Thời gian là từ ngày 1 đến ngày 3 tháng 12."}
+      ],
+      "related": [
+        {"type": "合", "text": "［名詞］＋期間"}
+      ],
+      "notes": "zh: 期间"
+    },
+    {
+      "no": 386,
+      "kanji": "倍",
+      "kana": "ばい",
+      "en": "double, ~times",
+      "kr": "배",
+      "vi": "gấp đôi, lần (gấp)",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "値段が倍になる。", "vi": "Giá cả tăng gấp đôi."},
+        {"ja": "薬の量を倍にする。", "vi": "Tăng gấp đôi lượng thuốc."},
+        {"ja": "太陽の大きさは地球の約100倍だ。", "vi": "Kích thước mặt trời gấp khoảng 100 lần trái đất."}
+      ],
+      "related": [
+        {"type": "合", "text": "［数字］＋倍"}
+      ],
+      "notes": "zh: 倍"
+    },
+    {
+      "no": 387,
+      "kanji": "くじ",
+      "kana": "くじ",
+      "en": "(drawing a) lot",
+      "kr": "제비, 추첨",
+      "vi": "thẻ trúng thưởng, bốc thăm",
+      "senses": [],
+      "examples": [
+        {"ja": "スーパーで買い物をしてくじをひいたら、テレビが当たった。", "vi": "Mua sắm ở siêu thị và bốc thăm thì trúng ti vi."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が当たる（⇔はずれる）、_をひく"},
+        {"type": "関", "text": "宝くじ、福引き"}
+      ],
+      "notes": "zh: 签，抽签"
+    },
+    {
+      "no": 388,
+      "kanji": "近道する",
+      "kana": "ちかみち",
+      "en": "shortcut",
+      "kr": "지름길, 빠른 길",
+      "vi": "đường tắt, đi tắt",
+      "senses": [],
+      "examples": [
+        {"ja": "駅への近道を通る。", "vi": "Đi qua đường tắt ra nhà ga."},
+        {"ja": "遠回りしそうなので、近道する。", "vi": "Có vẻ phải đi vòng nên tôi đi tắt."}
+      ],
+      "related": [
+        {"type": "対", "text": "遠回りする"},
+        {"type": "関", "text": "回り道する"}
+      ],
+      "notes": "zh: 近路，近道；原表記: 近道(ヲ)スル"
+    },
+    {
+      "no": 389,
+      "kanji": "中心",
+      "kana": "ちゅうしん",
+      "en": "center",
+      "kr": "중심",
+      "vi": "trung tâm",
+      "senses": [],
+      "examples": [
+        {"ja": "街の中心。", "vi": "Trung tâm thành phố."},
+        {"ja": "仕事中心の生活。", "vi": "Cuộc sống lấy công việc làm trung tâm."},
+        {"ja": "月は地球を中心に回っている。", "vi": "Mặt trăng quay lấy trái đất làm trung tâm."}
+      ],
+      "related": [
+        {"type": "合", "text": "_的、_人物"}
+      ],
+      "notes": "zh: 中心"
+    },
+    {
+      "no": 390,
+      "kanji": "辺り",
+      "kana": "あたり",
+      "en": "surroundings, around",
+      "kr": "근처, 주변",
+      "vi": "vùng quanh đây, khoảng quanh",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "あたりを見回す。", "vi": "Nhìn quanh bốn phía."},
+        {"ja": "このあたり（＝このへん）は、10年前までは林だった。", "vi": "Vùng quanh đây cách đây 10 năm là rừng."},
+        {"ja": "なんだか心臓のあたりが痛い。", "vi": "Không hiểu sao vùng quanh tim lại đau."},
+        {"ja": "7月の終わりあたりに旅行したい。", "vi": "Muốn đi du lịch vào khoảng cuối tháng 7."},
+        {"ja": "「きょうはこのあたり（＝このへん）で終わりにしましょう」", "vi": "「Hôm nay dừng lại ở đây nhé」"}
+      ],
+      "related": [],
+      "notes": "zh: 周围，左右，大约"
+    },
+    {
+      "no": 391,
+      "kanji": "周り／回り",
+      "kana": "まわり",
+      "en": "circumference, (things/people) around someone/something",
+      "kr": "주변, 주위",
+      "vi": "vòng quanh, xung quanh",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "池の周りを歩く。", "vi": "Đi bộ quanh hồ."},
+        {"ja": "腰（の）回りを測る。", "vi": "Đo vòng eo."},
+        {"ja": "駅の周りにはビルが多い。", "vi": "Quanh nhà ga có nhiều toà nhà."},
+        {"ja": "周りの人と仲良くする。", "vi": "Hòa đồng với những người xung quanh."},
+        {"ja": "周りをよく見る。", "vi": "Nhìn kỹ xung quanh."}
+      ],
+      "related": [
+        {"type": "類", "text": "周囲"},
+        {"type": "連", "text": "身の_"},
+        {"type": "類", "text": "周囲、周辺"}
+      ],
+      "notes": "zh: 附近；周围，身边"
+    },
+    {
+      "no": 392,
+      "kanji": "穴",
+      "kana": "あな",
+      "en": "hole",
+      "kr": "구멍",
+      "vi": "cái lỗ",
+      "senses": [],
+      "examples": [
+        {"ja": "地面にあなを掘る。", "vi": "Đào một cái lỗ trên mặt đất."},
+        {"ja": "かべにあなをあける。", "vi": "Khoét một lỗ trên tường."},
+        {"ja": "あなのあいたくつしたを捨てる。", "vi": "Vứt đôi tất bị thủng lỗ."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を掘る、_が空く、_を空ける"}
+      ],
+      "notes": "zh: 洞"
+    },
+    {
+      "no": 393,
+      "kanji": "列",
+      "kana": "れつ",
+      "en": "line, row",
+      "kr": "줄, 열",
+      "vi": "hàng, đội",
+      "senses": [],
+      "examples": [
+        {"ja": "入り口の前には長い列ができていた。", "vi": "Trước lối vào đã hình thành một hàng dài."},
+        {"ja": "タクシーの列。", "vi": "Hàng xe taxi."},
+        {"ja": "1列（に並ぶ）。", "vi": "Xếp thành một hàng ngang."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を作る"},
+        {"type": "合", "text": "［数字］＋列"},
+        {"type": "類", "text": "行列スル"}
+      ],
+      "notes": "zh: 队，行列"
+    },
+    {
+      "no": 394,
+      "kanji": "幅",
+      "kana": "はば",
+      "en": "width, range",
+      "kr": "너비, 폭",
+      "vi": "chiều rộng; phạm vi, mức độ",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "道の幅が広い。", "vi": "Đường có chiều rộng lớn."},
+        {"ja": "幅を広げる。", "vi": "Mở rộng chiều rộng."},
+        {"ja": "値上がりの幅が大きい。", "vi": "Mức độ tăng giá lớn."},
+        {"ja": "交際の幅が広い。", "vi": "Vòng giao tiếp rộng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_が広い⇔狭い"},
+        {"type": "合", "text": "横_、肩_、_道_"},
+        {"type": "連", "text": "_が大きい⇔小さい"},
+        {"type": "連", "text": "_が広い⇔狭い"},
+        {"type": "合", "text": "_広い"},
+        {"type": "類", "text": "範囲"}
+      ],
+      "notes": "zh: 宽度；幅度；收缩性，灵活性"
+    },
+    {
+      "no": 395,
+      "kanji": "範囲",
+      "kana": "はんい",
+      "en": "scope, extent",
+      "kr": "범위",
+      "vi": "phạm vi",
+      "senses": [],
+      "examples": [
+        {"ja": "試験の範囲。", "vi": "Phạm vi ôn thi."},
+        {"ja": "Ａ社の携帯電話は、電波の届く範囲が広い。", "vi": "Điện thoại di động của công ty A có vùng phủ sóng rộng."},
+        {"ja": "彼女は趣味の範囲が広い。", "vi": "Cô ấy có phạm vi sở thích rộng."},
+        {"ja": "「わかる範囲で答えてください」", "vi": "「Hãy trả lời trong phạm vi mình hiểu biết」"}
+      ],
+      "related": [
+        {"type": "連", "text": "_が広い⇔狭い、_に入る⇔入らない、_を超える"},
+        {"type": "合", "text": "広_、_内⇔外、交際_、活動_、行動_"}
+      ],
+      "notes": "zh: 范围"
+    },
+    {
+      "no": 396,
+      "kanji": "内容",
+      "kana": "ないよう",
+      "en": "content",
+      "kr": "내용",
+      "vi": "nội dung",
+      "senses": [],
+      "examples": [
+        {"ja": "［話／授業／本／ニュース …］の内容", "vi": "Nội dung của [câu chuyện／bài học／sách／tin tức…]"},
+        {"ja": "このレポートは内容はいいが、形式は少し直したほうがいい。", "vi": "Báo cáo này nội dung thì tốt nhưng hình thức nên sửa lại một chút."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_が濃い"},
+        {"type": "対", "text": "形式"},
+        {"type": "類", "text": "中身 (→397)"}
+      ],
+      "notes": "zh: 内容"
+    },
+    {
+      "no": 397,
+      "kanji": "中身",
+      "kana": "なかみ",
+      "en": "contents; gist",
+      "kr": "내용물, 내용",
+      "vi": "cái bên trong; nội dung",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "箱を開けて中身を見る。", "vi": "Mở hộp ra xem bên trong có gì."},
+        {"ja": "話の中身が理解できない。", "vi": "Không thể hiểu được nội dung câu chuyện."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない、_が濃い⇔薄い"},
+        {"type": "類", "text": "内容 (→396)"}
+      ],
+      "notes": "zh: 里面的东西；内容"
+    },
+    {
+      "no": 398,
+      "kanji": "特徴",
+      "kana": "とくちょう",
+      "en": "feature, distinctiveness",
+      "kr": "특징",
+      "vi": "đặc trưng, đặc điểm",
+      "senses": [],
+      "examples": [
+        {"ja": "商品の特徴を確かめる。", "vi": "Kiểm tra đặc trưng của sản phẩm."},
+        {"ja": "彼女は特徴のある顔をしている。", "vi": "Cô ấy có gương mặt mang nét đặc trưng."}
+      ],
+      "related": [
+        {"type": "連", "text": "_がある⇔ない"},
+        {"type": "合", "text": "_的な"},
+        {"type": "類", "text": "特色"}
+      ],
+      "notes": "zh: 特征"
+    },
+    {
+      "no": 399,
+      "kanji": "普通",
+      "kana": "ふつう",
+      "en": "ordinary, normal",
+      "kr": "보통, 일반",
+      "vi": "bình thường, thông thường",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "パスポートの申請には1週間ぐらいかかるのがふつうだ。", "vi": "Bình thường việc xin hộ chiếu mất khoảng 1 tuần."},
+        {"ja": "私はふつう、朝食にはパンを食べる。", "vi": "Thường thì bữa sáng tôi ăn bánh mì."},
+        {"ja": "ふつう（は）、会社員は昼間に働く。", "vi": "Bình thường thì nhân viên công ty làm việc ban ngày."},
+        {"ja": "「田中さんって、ちょっと変じゃない？」「そう？　ふつうの人だと思うけど」", "vi": "「Tanaka hơi lạ nhỉ?」「Vậy à? Tôi nghĩ là người bình thường mà」"}
+      ],
+      "related": [],
+      "notes": "zh: 一般；普通；①中に〔(副)〕の表記あり"
+    },
+    {
+      "no": 400,
+      "kanji": "当たり前",
+      "kana": "あたりまえ",
+      "en": "natural",
+      "kr": "당연함",
+      "vi": "đương nhiên, hiển nhiên",
+      "senses": [],
+      "examples": [
+        {"ja": "そんなバカげたことをされたら、怒るのが当たり前だ。", "vi": "Bị làm chuyện ngớ ngẩn thế thì giận đấy là đương nhiên."}
+      ],
+      "related": [
+        {"type": "類", "text": "当然 (→287)"}
+      ],
+      "notes": "zh: 当然，应该，理应；最初の例文の第1語は印字が不鮮明（バカげた？）"
+    },
+    {
+      "no": 401,
+      "kanji": "偽",
+      "kana": "にせ",
+      "en": "fake",
+      "kr": "가짜, 모조",
+      "vi": "giả, hàng giả",
+      "senses": [],
+      "examples": [
+        {"ja": "にせ（の）銀行員にだまされてお金を取られた。", "vi": "Bị nhân viên ngân hàng giả lừa lấy mất tiền."}
+      ],
+      "related": [
+        {"type": "合", "text": "_物、_者、_札"},
+        {"type": "関", "text": "本物"}
+      ],
+      "notes": "zh: 假，假冒"
+    },
+    {
+      "no": 402,
+      "kanji": "別",
+      "kana": "べつ",
+      "en": "difference, distinction",
+      "kr": "다르고, 별",
+      "vi": "khác, riêng biệt",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "「米」は「ごはん」とは別（の）ものだ。", "vi": "「米」 là thứ khác với 「ごはん」."},
+        {"ja": "恋愛と結婚は別だ。", "vi": "Yêu đương và kết hôn là hai chuyện riêng."},
+        {"ja": "別の意見を選べる。", "vi": "Có thể chọn ý kiến khác."},
+        {"ja": "欠席者には別に連絡する。", "vi": "Liên hệ riêng cho người vắng mặt."},
+        {"ja": "男性と女性を別に調査する。", "vi": "Khảo sát nam và nữ riêng biệt."}
+      ],
+      "related": [
+        {"type": "合", "text": "_人、_物"},
+        {"type": "連", "text": "ラ_にする"},
+        {"type": "合", "text": "性_、年齢_、国_"},
+        {"type": "類", "text": "別々"}
+      ],
+      "notes": "zh: 不同，有区别，分开，分别"
+    },
+    {
+      "no": 403,
+      "kanji": "国籍",
+      "kana": "こくせき",
+      "en": "nationality",
+      "kr": "국적",
+      "vi": "quốc tịch",
+      "senses": [],
+      "examples": [
+        {"ja": "私はずっとアメリカで暮らしているが、国籍は日本だ。", "vi": "Tôi sống ở Mỹ bấy lâu nay nhưng quốc tịch là Nhật."}
+      ],
+      "related": [
+        {"type": "連", "text": "_を取る"}
+      ],
+      "notes": "zh: 国籍"
+    },
+    {
+      "no": 404,
+      "kanji": "東洋",
+      "kana": "とうよう",
+      "en": "the East, the Orient",
+      "kr": "동양",
+      "vi": "phương Đông",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "notes": "zh: 亚洲，东方；例文は405と共通"
+    },
+    {
+      "no": 405,
+      "kanji": "西洋",
+      "kana": "せいよう",
+      "en": "the West, the Occident",
+      "kr": "서양",
+      "vi": "phương Tây",
+      "senses": [],
+      "examples": [
+        {"ja": "東洋の文化と西洋の文化を比べる。", "vi": "So sánh văn hóa phương Đông và văn hóa phương Tây."}
+      ],
+      "related": [
+        {"type": "合", "text": "_人、_風、_文化、_料理"},
+        {"type": "関", "text": "アジア、欧米"}
+      ],
+      "notes": "zh: 欧美，西方"
+    },
+    {
+      "no": 406,
+      "kanji": "国際",
+      "kana": "こくさい",
+      "en": "international",
+      "kr": "국제",
+      "vi": "quốc tế",
+      "senses": [],
+      "examples": [
+        {"ja": "日本企業の海外支店でのトラブルが国際問題に発展した。", "vi": "Rắc rối ở chi nhánh nước ngoài của doanh nghiệp Nhật đã phát triển thành vấn đề quốc tế."}
+      ],
+      "related": [
+        {"type": "合", "text": "_連合＞国連、_結婚、_交流、_問題、_的な (→588)、_化スル、_性（例．国際性豊かな学校）"}
+      ],
+      "notes": "zh: 国际"
+    },
+    {
+      "no": 407,
+      "kanji": "自然",
+      "kana": "しぜん",
+      "en": "nature",
+      "kr": "자연, 자연스러움",
+      "vi": "tự nhiên",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "山や海へ行って、自然の中で過ごす。", "vi": "Đi núi đi biển, sống giữa thiên nhiên."},
+        {"ja": "好きな人といっしょにいたいと思うのは、自然なことだ。", "vi": "Muốn ở bên người mình yêu là điều tự nhiên."},
+        {"ja": "意地が悪い人は、自然に／と、友だちが少なくなる。", "vi": "Người xấu tính thì tự nhiên có ít bạn."}
+      ],
+      "related": [
+        {"type": "合", "text": "_環境、_保護"},
+        {"type": "対", "text": "人工"},
+        {"type": "対", "text": "不自然な"}
+      ],
+      "notes": "zh: 大自然；自然；当然；②は〔(ナ形) 自然な〕、③は〔自然に／と〕の用法"
+    },
+    {
+      "no": 408,
+      "kanji": "景色",
+      "kana": "けしき",
+      "en": "scenery",
+      "kr": "경치",
+      "vi": "cảnh vật, phong cảnh",
+      "senses": [],
+      "examples": [
+        {"ja": "初めて日本の山に行った。すばらしい景色だった。", "vi": "Lần đầu tiên đi núi ở Nhật. Thật là một cảnh đẹp."}
+      ],
+      "related": [
+        {"type": "類", "text": "風景"},
+        {"type": "関", "text": "光景"}
+      ],
+      "notes": "zh: 景色"
+    },
+    {
+      "no": 409,
+      "kanji": "宗教",
+      "kana": "しゅうきょう",
+      "en": "religion",
+      "kr": "종교",
+      "vi": "tôn giáo",
+      "senses": [],
+      "examples": [
+        {"ja": "世界にはいろいろな宗教がある。", "vi": "Thế giới có đủ kiểu tôn giáo."}
+      ],
+      "related": [
+        {"type": "関", "text": "イスラム教、キリスト教、仏教、ユダヤ教、信じる (→740)"}
+      ],
+      "notes": "zh: 宗教"
+    },
+    {
+      "no": 410,
+      "kanji": "愛する",
+      "kana": "あい",
+      "en": "love",
+      "kr": "사랑하다",
+      "vi": "yêu, tình yêu",
+      "senses": [],
+      "examples": [
+        {"ja": "私は〔家族／自然／国 …〕を愛している。", "vi": "Tôi yêu [gia đình／thiên nhiên／đất nước…]"},
+        {"ja": "神への愛", "vi": "Tình yêu dành cho chúa."}
+      ],
+      "related": [
+        {"type": "合", "text": "_情、_読書、_国心"},
+        {"type": "対", "text": "憎しみ"},
+        {"type": "関", "text": "憎む"}
+      ],
+      "notes": "zh: 爱；原表記: ラ愛スル"
+    }
+  ],
+  "columns": [],
+  "exercises": [
+    {
+      "type": "I",
+      "range": "311~370",
+      "book_page": 78,
+      "questions": [
+        {"no": 1, "text": "大学では高木先生（　）大変お世話（　）なった。", "options": [], "answer": null},
+        {"no": 2, "text": "優勝したチーム（　）相手（　）送った。", "options": [], "answer": null},
+        {"no": 3, "text": "壊れた自転車を修理（　）出す。", "options": [], "answer": null},
+        {"no": 4, "text": "お見舞いのお礼（　）手紙を書いた。", "options": [], "answer": null},
+        {"no": 5, "text": "スポーツ大会（　）活躍する。", "options": [], "answer": null},
+        {"no": 6, "text": "スピーチ大会（　）出場する。", "options": [], "answer": null},
+        {"no": 7, "text": "中国語を日本語（　）通訳する。", "options": [], "answer": null},
+        {"no": 8, "text": "アンケート調査（　）行う。", "options": [], "answer": null},
+        {"no": 9, "text": "新入社員が上司（　）出張（　）報告をした。", "options": [], "answer": null},
+        {"no": 10, "text": "パーティーで知り合った人（　）名刺（　）交換した。", "options": [], "answer": null},
+        {"no": 11, "text": "バイクがへい（　）衝突した。", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "311~370",
+      "book_page": 78,
+      "questions": [
+        {"no": 1, "text": "「する」がつくことばに○をつけなさい。", "options": ["おじぎ", "いじわる", "いたずら", "浅瀬", "解決", "感謝", "感心", "原因", "興奮", "混雑", "専門", "応援", "人気", "録画", "自信", "実行", "経営", "研究"], "answer": null}
+      ]
+    },
+    {
+      "type": "III",
+      "range": "311~370",
+      "book_page": 78,
+      "questions": [
+        {"no": 1, "text": "体力を〔　〕。", "options": ["あがる", "つける", "のぼる"], "answer": null},
+        {"no": 2, "text": "予想を〔　〕。", "options": ["起こす", "立てる", "作る"], "answer": null},
+        {"no": 3, "text": "伝言を〔　〕。", "options": ["出す", "つける", "流れる"], "answer": null},
+        {"no": 4, "text": "事故が〔　〕。", "options": ["あう", "起きる", "出す"], "answer": null},
+        {"no": 5, "text": "情報が〔　〕。", "options": ["える", "入る", "もらう"], "answer": null},
+        {"no": 6, "text": "うわさを〔　〕。", "options": ["ある", "立つ", "流す"], "answer": null},
+        {"no": 7, "text": "注目を〔　〕。", "options": ["集める", "浴びる", "もらう"], "answer": null},
+        {"no": 8, "text": "競争が〔　〕。", "options": ["きびしい", "大きい", "強い"], "answer": null},
+        {"no": 9, "text": "被害が〔　〕。", "options": ["大きい", "高い", "広い"], "answer": null},
+        {"no": 10, "text": "進歩が〔　〕。", "options": ["いい", "高い", "速い"], "answer": null},
+        {"no": 11, "text": "人気が〔　〕。", "options": ["大きい", "高い", "深い"], "answer": null},
+        {"no": 12, "text": "調子が〔　〕。", "options": ["いい", "大きい", "高い"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV",
+      "range": "311~370",
+      "book_page": 79,
+      "questions": [
+        {"no": 1, "text": "戦争（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 2, "text": "自慢（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 3, "text": "流行（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 4, "text": "予想（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 5, "text": "翻訳（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 6, "text": "情報（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null},
+        {"no": 7, "text": "伝言（　）", "options": ["家", "外", "源", "語", "話", "板", "率"], "answer": null}
+      ]
+    },
+    {
+      "type": "V",
+      "range": "311~370",
+      "book_page": 79,
+      "questions": [
+        {"no": 1, "text": "節約する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null},
+        {"no": 2, "text": "発達する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null},
+        {"no": 3, "text": "交換する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null},
+        {"no": 4, "text": "変化する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null},
+        {"no": 5, "text": "修理する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null},
+        {"no": 6, "text": "予想する（　）", "options": ["かわる", "けんやくする", "なおす", "はってんする", "やりとりする", "よそくする"], "answer": null}
+      ]
+    },
+    {
+      "type": "VI",
+      "range": "311~370",
+      "book_page": 79,
+      "questions": [
+        {"no": 1, "text": "迷惑をかけた相手に（　　）の品を送った。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 2, "text": "新しい商品をテレビで（　　）する。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 3, "text": "久しぶりに会った友だちと両手で（　　）をした。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 4, "text": "週末に見た映画の（　　）を述べた。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 5, "text": "「アンケートにご（　　）をお願いします」", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 6, "text": "大事な試合の前なので（　　）している。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 7, "text": "選挙の（　　）が発表された。〇〇党の勝利だった。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 8, "text": "雷が落ちて（　　）したので、真っ暗になった。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 9, "text": "結婚してあたたかい（　　）をつくりたい。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 10, "text": "家の近所で殺人（　　）があった。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 11, "text": "パソコンが（　　）して使えなくなった。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null},
+        {"no": 12, "text": "悪いことをしてしまい、心から（　　）している。", "options": ["あくしゅ", "おわび", "かてい", "かんそう", "きょうりょく", "きんちょう", "こしょう", "けっか", "じけん", "せんでん", "ていでん", "はんせい"], "answer": null}
+      ]
+    },
+    {
+      "type": "I",
+      "range": "371~410",
+      "book_page": 86,
+      "questions": [
+        {"no": 1, "text": "試験の手続き（　）必要な書類（　）準備する。", "options": [], "answer": null},
+        {"no": 2, "text": "地球は太陽（　）中心（　）まわっている。", "options": [], "answer": null},
+        {"no": 3, "text": "植物を燃料（　）利用する。", "options": [], "answer": null},
+        {"no": 4, "text": "駅（　）の近道（　）通る。", "options": [], "answer": null},
+        {"no": 5, "text": "レポートの締め切り（　）延びてしまった。", "options": [], "answer": null},
+        {"no": 6, "text": "私はあの事件（　）（　）は関係ない。", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "II",
+      "range": "371~410",
+      "book_page": 86,
+      "questions": [
+        {"no": 1, "text": "「する」がつくことばに○をつけなさい。", "options": ["愛", "中心", "確認", "国際", "国籍", "発見", "景色", "特徴", "普通"], "answer": null}
+      ]
+    },
+    {
+      "type": "III",
+      "range": "371~410",
+      "book_page": 86,
+      "questions": [
+        {"no": 1, "text": "理解が〔　〕", "options": ["長い", "広い", "深い"], "answer": null},
+        {"no": 2, "text": "幅が〔　〕", "options": ["長い", "広い", "深い"], "answer": null},
+        {"no": 3, "text": "中身が〔　〕", "options": ["こい", "長い", "深い"], "answer": null},
+        {"no": 4, "text": "税金が〔　〕", "options": ["かかる", "かける", "おさめる"], "answer": null},
+        {"no": 5, "text": "責任を〔　〕", "options": ["入れる", "する", "とる"], "answer": null},
+        {"no": 6, "text": "くじを〔　〕", "options": ["足す", "とる", "ひく"], "answer": null},
+        {"no": 7, "text": "あなを〔　〕", "options": ["あく", "作る", "ほる"], "answer": null},
+        {"no": 8, "text": "列を〔　〕", "options": ["する", "作る", "並べる"], "answer": null},
+        {"no": 9, "text": "題名を〔　〕", "options": ["おく", "つける", "はる"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV",
+      "range": "371~410",
+      "book_page": 86,
+      "questions": [
+        {"no": 1, "text": "発明（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null},
+        {"no": 2, "text": "にせ（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null},
+        {"no": 3, "text": "責任（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null},
+        {"no": 4, "text": "選挙（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null},
+        {"no": 5, "text": "国際（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null},
+        {"no": 6, "text": "別（　）", "options": ["人", "家", "権", "感", "化", "札"], "answer": null}
+      ]
+    },
+    {
+      "type": "V",
+      "range": "371~410",
+      "book_page": 86,
+      "questions": [
+        {"no": 1, "text": "「～がある／ない」といっしょに使えることばに○をつけなさい。", "options": ["関係", "まわり", "国際", "責任", "条件", "確認", "中身", "特徴"], "answer": null}
+      ]
+    },
+    {
+      "type": "VI",
+      "range": "371~410",
+      "book_page": 87,
+      "questions": [
+        {"no": 1, "text": "愛する ⇔（　　）", "options": [], "answer": null},
+        {"no": 2, "text": "西洋 ⇔（　　）", "options": [], "answer": null},
+        {"no": 3, "text": "団体 ⇔（　　）", "options": [], "answer": null},
+        {"no": 4, "text": "自然 ⇔（　　）", "options": [], "answer": null},
+        {"no": 5, "text": "内容 ⇔（　　）", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "VII",
+      "range": "371~410",
+      "book_page": 87,
+      "questions": [
+        {"no": 1, "text": "景色（　）", "options": ["しょう", "とうぜん", "とくしょく", "ふうけい", "しゅうい"], "answer": null},
+        {"no": 2, "text": "特徴（　）", "options": ["しょう", "とうぜん", "とくしょく", "ふうけい", "しゅうい"], "answer": null},
+        {"no": 3, "text": "利用（　）", "options": ["しょう", "とうぜん", "とくしょく", "ふうけい", "しゅうい"], "answer": null},
+        {"no": 4, "text": "まわり（　）", "options": ["しょう", "とうぜん", "とくしょく", "ふうけい", "しゅうい"], "answer": null},
+        {"no": 5, "text": "あたりまえ（　）", "options": ["しょう", "とうぜん", "とくしょく", "ふうけい", "しゅうい"], "answer": null}
+      ]
+    },
+    {
+      "type": "VIII",
+      "range": "371~410",
+      "book_page": 87,
+      "questions": [
+        {"no": 1, "text": "バーゲンの（　　）は8月10日から15日までです。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 2, "text": "この（　　）は、以前は森だった。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 3, "text": "こまっている人を助けるのは、（　　）のことだ。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 4, "text": "チケットを（　　）で買うと、安くなる。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 5, "text": "どんな（　　）を信じるかは個人の自由だ。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 6, "text": "試験の（　　）は35ページから60ページまでです。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 7, "text": "子どものころ、（　　）の国にあこがれていた。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null},
+        {"no": 8, "text": "クリスマスの夜は、レストランの料金が（　　）になります。", "options": ["あたり", "あたりまえ", "きかん", "しゅうきょう", "せいよう", "だんたい", "ばい", "はんい"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 79, "book_page": 78, "unit_title": "Unit 04 名詞B 311〜370 練習問題 I Step 2"},
+    {"pdf_page": 87, "book_page": 86, "unit_title": "Unit 04 名詞B 371〜410 練習問題 I Step 2"}
+  ]
+}

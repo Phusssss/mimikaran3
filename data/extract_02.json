@@ -1,0 +1,1783 @@
+{
+  "pdf_pages": "19-28",
+  "source": "「耳から覚える語彙N3」Unit 01 名詞A (words 72-120), 練習問題 I, コラム 3",
+  "words": [
+    {
+      "no": 72,
+      "kana": "たいよう",
+      "kanji": "太陽",
+      "en": "sun",
+      "cn": "太阳",
+      "kr": "태양",
+      "vi": "mặt trời",
+      "examples": [
+        {
+          "jp": "太陽が出て、暖かくなった。",
+          "vi": "Mặt trời lên nên trời trở nên ấm áp."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_が昇る（のぼる）⇔沈む（しずむ）、_が出る",
+          "vi": "_ mọc ⇔ lặn, _ hiện ra"
+        },
+        {
+          "symbol": "類",
+          "word": "日（ひ）",
+          "vi": "mặt trời / ngày"
+        },
+        {
+          "symbol": "関",
+          "word": "地球、月、星",
+          "vi": "Trái Đất, mặt trăng, ngôi sao"
+        }
+      ]
+    },
+    {
+      "no": 73,
+      "kana": "ちきゅう",
+      "kanji": "地球",
+      "en": "earth",
+      "cn": "地球",
+      "kr": "지구",
+      "vi": "Trái Đất",
+      "examples": [
+        {
+          "jp": "地球の環境が悪化している。",
+          "vi": "Môi trường của Trái Đất đang xấu đi."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_温暖化",
+          "vi": "nóng lên toàn cầu (_温暖化 = sự ấm lên)"
+        },
+        {
+          "symbol": "関",
+          "word": "太陽、月、星",
+          "vi": "mặt trời, mặt trăng, ngôi sao"
+        }
+      ]
+    },
+    {
+      "no": 74,
+      "kana": "おんど",
+      "kanji": "温度",
+      "en": "temperature",
+      "cn": "温度",
+      "kr": "온도",
+      "vi": "nhiệt độ",
+      "examples": [
+        {
+          "jp": "温度を測る。",
+          "vi": "Đo nhiệt độ."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_が高い⇔低い、_が上がる⇔下がる・_を上げる⇔下げる",
+          "vi": "nhiệt độ cao⇔thấp, nhiệt độ tăng⇔giảm / nâng⇔hạ nhiệt độ"
+        },
+        {
+          "symbol": "関",
+          "word": "気温、体温、湿度",
+          "vi": "nhiệt độ không khí, nhiệt độ cơ thể, độ ẩm"
+        }
+      ]
+    },
+    {
+      "no": 75,
+      "kana": "しつど",
+      "kanji": "湿度",
+      "en": "humidity",
+      "cn": "湿度",
+      "kr": "습도",
+      "vi": "độ ẩm",
+      "examples": [
+        {
+          "jp": "今年の夏は特に湿度が高い。",
+          "vi": "Mùa hè năm nay độ ẩm đặc biệt cao."
+        },
+        {
+          "jp": "きょうは湿度が60％で蒸し暑い。",
+          "vi": "Hôm nay độ ẩm 60% nên oi ẩm khó chịu."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_が高い⇔低い",
+          "vi": "độ ẩm cao⇔thấp"
+        },
+        {
+          "symbol": "関",
+          "word": "湿気、蒸し暑い",
+          "vi": "độ ẩm/khí ẩm, oi bức"
+        },
+        {
+          "symbol": "参",
+          "word": "565"
+        }
+      ]
+    },
+    {
+      "no": 76,
+      "kana": "しっけ",
+      "kanji": "湿気",
+      "en": "being humid, moisture",
+      "cn": "湿气",
+      "kr": "습기",
+      "vi": "khí ẩm, độ ẩm",
+      "examples": [
+        {
+          "jp": "日本の夏は湿気が多い。",
+          "vi": "Mùa hè ở Nhật có nhiều khí ẩm."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_が多い⇔少ない",
+          "vi": "khí ẩm nhiều⇔ít"
+        },
+        {
+          "symbol": "関",
+          "word": "湿度、除湿（ジョシツ）する、蒸し暑い",
+          "vi": "độ ẩm, khử ẩm, oi ẩm"
+        },
+        {
+          "symbol": "参",
+          "word": "565"
+        }
+      ]
+    },
+    {
+      "no": 77,
+      "kana": "つゆ",
+      "kanji": "梅雨",
+      "en": "rainy season",
+      "cn": "梅雨",
+      "kr": "장마",
+      "vi": "mùa mưa (mùa mưa ở Nhật, khoảng tháng 6–7)",
+      "examples": [
+        {
+          "jp": "6月から7月は梅雨の時期だ。",
+          "vi": "Từ tháng 6 đến tháng 7 là mùa mưa."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_に入る、_が明ける",
+          "vi": "vào mùa mưa, kết thúc mùa mưa"
+        },
+        {
+          "symbol": "合",
+          "pattern": "_入り⇔_明け",
+          "vi": "bắt đầu mùa mưa ⇔ hết mùa mưa"
+        },
+        {
+          "symbol": "関",
+          "word": "梅雨前線",
+          "vi": "front thời tiết mùa mưa (bom lụt mùa mưa)"
+        }
+      ]
+    },
+    {
+      "no": 78,
+      "kana": "かび",
+      "kanji": "かび",
+      "en": "mold",
+      "cn": "霉",
+      "kr": "곰팡이",
+      "vi": "nấm mốc",
+      "examples": [
+        {
+          "jp": "梅雨の時期はかびがはえやすい。",
+          "vi": "Vào mùa mưa nấm mốc dễ mọc."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_がはえる",
+          "vi": "nấm mốc mọc/lan"
+        },
+        {
+          "symbol": "参",
+          "word": "480"
+        }
+      ]
+    },
+    {
+      "no": 79,
+      "kana": "だんぼう",
+      "kanji": "暖房",
+      "en": "heater",
+      "cn": "暖气设备，供暖",
+      "kr": "난방",
+      "vi": "sưởi ấm, máy sưởi",
+      "examples": [
+        {
+          "jp": "寒いので暖房をつける。",
+          "vi": "Trời lạnh nên bật máy sưởi."
+        },
+        {
+          "jp": "この部屋は暖房がきいていて暖かい。",
+          "vi": "Căn phòng này sưởi ấm hiệu quả nên ấm áp."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_をつける⇔消す、_を入れる、_を止める、_がきく",
+          "vi": "bật⇔tắt sưởi, mở sưởi, ngừng sưởi, sưởi hiệu quả"
+        },
+        {
+          "symbol": "対",
+          "word": "冷房、クーラー",
+          "vi": "máy lạnh, điều hòa (làm mát)"
+        },
+        {
+          "symbol": "関",
+          "word": "エアコン、ヒーター、ストーブ",
+          "vi": "điều hòa, lò sưởi (heater), bếp lò (stove)"
+        }
+      ]
+    },
+    {
+      "no": 80,
+      "kana": "かわ",
+      "kanji": "皮",
+      "en": "skin, hide",
+      "cn": "皮",
+      "kr": "껍질, 가죽",
+      "vi": "vỏ, da (da thuộc)",
+      "examples": [
+        {
+          "jp": "くだもの／やさい／動物　…｜の皮",
+          "vi": "vỏ trái cây / vỏ rau / da thú"
+        },
+        {
+          "jp": "りんごの皮をむいて食べる。",
+          "vi": "Bóc vỏ táo để ăn."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_をむく",
+          "vi": "bóc/gọt vỏ"
+        },
+        {
+          "symbol": "合",
+          "word": "毛_（けがわ）",
+          "vi": "lông thú (da có lông)"
+        }
+      ]
+    },
+    {
+      "no": 81,
+      "kana": "かん",
+      "kanji": "缶",
+      "en": "can",
+      "cn": "罐子，罐头",
+      "kr": "캔, 깡통",
+      "vi": "lon (hộp thiếc)",
+      "examples": [
+        {
+          "jp": "おかしを缶に入れて保存する。",
+          "vi": "Để bánh vào lon để bảo quản."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_つめ、_ビール、ドラム_",
+          "vi": "lon đựng đầy (đóng lon), bia lon, thùng phuy (drum缶)"
+        },
+        {
+          "symbol": "関",
+          "word": "びん、びんつめ、ペットボトル",
+          "vi": "chai thuỷ tinh, chai đựng (đóng chai), chai nhựa PET"
+        }
+      ]
+    },
+    {
+      "no": 82,
+      "kana": "がめん",
+      "kanji": "画面",
+      "en": "screen",
+      "cn": "画面，屏幕",
+      "kr": "화면",
+      "vi": "màn hình, hình ảnh (trên màn hình)",
+      "examples": [
+        {
+          "jp": "パソコンの画面をずっと見ていると、目が疲れる。",
+          "vi": "Nhìn màn hình máy tính mãi thì mắt mỏi."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 83,
+      "kana": "ばんぐみ",
+      "kanji": "番組",
+      "en": "(radio/TV) program",
+      "cn": "（广播、电视等）节目",
+      "kr": "프로그램",
+      "vi": "chương trình (truyền hình / phát thanh)",
+      "examples": [
+        {
+          "jp": "テレビの番組を見る。",
+          "vi": "Xem chương trình truyền hình."
+        },
+        {
+          "jp": "新聞の番組欄",
+          "vi": "cột lịch phát sóng (chương trình) trên báo"
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "テレビ_、ニュース_、歌_、バラエティ_",
+          "vi": "chương trình truyền hình, chương trình thời sự, chương trình nhạc, chương trình giải trí đa dạng"
+        }
+      ]
+    },
+    {
+      "no": 84,
+      "kana": "きじ",
+      "kanji": "記事",
+      "en": "article (newspaper/magazine)",
+      "cn": "报道",
+      "kr": "기사",
+      "vi": "bài báo, tin bài (báo chí)",
+      "examples": [
+        {
+          "jp": "この記事によると、日本に住む外国人が増えているそうだ。",
+          "vi": "Theo bài báo này thì người nước ngoài sống ở Nhật đang tăng."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "新聞_、雑誌_",
+          "vi": "bài báo, bài trên tạp chí"
+        }
+      ]
+    },
+    {
+      "no": 85,
+      "kana": "きんじょ",
+      "kanji": "近所",
+      "en": "neighborhood",
+      "cn": "附近，邻居",
+      "kr": "이웃, 근처",
+      "vi": "hàng xóm, vùng lân cận",
+      "examples": [
+        {
+          "jp": "近所の人とは仲良くしたいろけがいい。",
+          "vi": "Muốn hoà thuận với người hàng xóm."
+        },
+        {
+          "jp": "私はよく近所の公園を散歩する。",
+          "vi": "Tôi thường đi dạo công viên gần nhà."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "類",
+          "word": "付近、近く",
+          "vi": "khu vực lân cận, gần"
+        }
+      ]
+    },
+    {
+      "no": 86,
+      "kana": "けいさつ",
+      "kanji": "警察",
+      "en": "police",
+      "cn": "警察",
+      "kr": "경찰",
+      "vi": "cảnh sát",
+      "examples": [
+        {
+          "jp": "自転車を盗まれたので、警察に届けた。",
+          "vi": "Xe đạp bị đánh cắp nên tôi đã báo cảnh sát."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_署、_官",
+          "vi": "đồn cảnh sát (_署), cảnh sát viên (_官)"
+        },
+        {
+          "symbol": "関",
+          "word": "警官、おまわりさん、交番",
+          "vi": "cảnh sát, chú công an, trạm cảnh sát khu phố"
+        }
+      ]
+    },
+    {
+      "no": 87,
+      "kana": "はんにん",
+      "kanji": "犯人",
+      "en": "criminal",
+      "cn": "犯人",
+      "kr": "범인",
+      "vi": "thủ phạm, tội phạm",
+      "examples": [
+        {
+          "jp": "事件の犯人",
+          "vi": "thủ phạm của vụ án"
+        },
+        {
+          "jp": "犯人をつかまえる。",
+          "vi": "Bắt giữ thủ phạm."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 88,
+      "kana": "こぜに",
+      "kanji": "小銭",
+      "en": "small change",
+      "cn": "零钱",
+      "kr": "잔돈",
+      "vi": "tiền lẻ",
+      "examples": [
+        {
+          "jp": "バスに乗ってから小銭がないことに気がつき、とても困った。",
+          "vi": "Sau khi lên xe buýt mới nhận ra không có tiền lẻ, rất lúng túng."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "関",
+          "pattern": "｜100／10　…｜円玉、硬貨、（お）札",
+          "vi": "đồng 100 yên / 10 yên …, đồng xu, tiền giấy"
+        },
+        {
+          "symbol": "類",
+          "word": "細かいお金",
+          "vi": "tiền lẻ (cách nói khác)"
+        },
+        {
+          "symbol": "参",
+          "word": "560"
+        }
+      ]
+    },
+    {
+      "no": 89,
+      "kana": "ごちそう",
+      "kanji": "ごちそう／ご馳走",
+      "en": "feast; treating (to a meal)",
+      "cn": "饭菜；请客",
+      "kr": "음식, 잔치 대접",
+      "vi": "món ăn thịnh soạn; đãi (cơm, tiệc)",
+      "senses": [
+        "①",
+        "②"
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "jp": "家族みんなでごちそうを食べて、祖父の誕生日を祝った。",
+          "vi": "Cả gia đình cùng ăn món thịnh soạn để chúc mừng sinh nhật ông."
+        },
+        {
+          "sense": "②",
+          "jp": "チンさんが私たちに手作りのギョーザをごちそうしてくれた。",
+          "vi": "Anh Trịnh đã đãi chúng tôi bánh xếp tự làm."
+        },
+        {
+          "sense": "②",
+          "jp": "きのうは先輩にごちそうになった。",
+          "vi": "Hôm qua tôi được tiền bối đãi."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_になる",
+          "vi": "được đãi (ごちそうになる)"
+        },
+        {
+          "symbol": "関",
+          "pattern": "（あいさつ）「ごちそうさま」",
+          "vi": "(lời chào) 「ごちそうさま」 = Cảm ơn đã hasubi/cảm ơn bữa ăn"
+        }
+      ]
+    },
+    {
+      "no": 90,
+      "kana": "さくしゃ",
+      "kanji": "作者",
+      "en": "writer, artist",
+      "cn": "作者",
+      "kr": "작자",
+      "vi": "tác giả (của tác phẩm nghệ thuật/văn học)",
+      "examples": [
+        {
+          "jp": "小説／詩／絵／彫刻　…｜の作者",
+          "vi": "tác giả của tiểu thuyết / thơ / tranh / điêu khắc"
+        },
+        {
+          "jp": "「ハムレット」の作者はシェイクスピアです。",
+          "vi": "Tác giả của «Hamlet» là Shakespeare."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "関",
+          "word": "筆者、著者",
+          "vi": "người viết (bài), tác giả (sách)"
+        }
+      ]
+    },
+    {
+      "no": 91,
+      "kana": "さくひん",
+      "kanji": "作品",
+      "en": "work (of art/literature)",
+      "cn": "作品",
+      "kr": "작품",
+      "vi": "tác phẩm",
+      "examples": [
+        {
+          "jp": "学生の作品をロビーに展示する。",
+          "vi": "Trưng bày tác phẩm của sinh viên ở sảnh."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "文学_、芸術_",
+          "vi": "tác phẩm văn học, tác phẩm nghệ thuật"
+        }
+      ]
+    },
+    {
+      "no": 92,
+      "kana": "せいふく",
+      "kanji": "制服",
+      "en": "uniform",
+      "cn": "制服",
+      "kr": "제복, 교복",
+      "vi": "đồng phục",
+      "examples": [
+        {
+          "jp": "日本の中学校には制服のある学校が多い。",
+          "vi": "Ở Nhật, nhiều trường trung học cơ sở có đồng phục."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "対",
+          "word": "私服",
+          "vi": "thường phục (quần áo thường)"
+        },
+        {
+          "symbol": "関",
+          "word": "ユニフォーム",
+          "vi": "đồng phục (từ mượn, dùng cho thể thao...)"
+        }
+      ]
+    },
+    {
+      "no": 93,
+      "kana": "せんざい",
+      "kanji": "洗剤",
+      "en": "detergent",
+      "cn": "洗涤剂",
+      "kr": "세제",
+      "vi": "bột giặt, nước rửa (chất tẩy rửa)",
+      "examples": [
+        {
+          "jp": "洗剤で食器を洗う。",
+          "vi": "Rửa bát đĩa bằng chất tẩy rửa."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "word": "合成洗剤",
+          "vi": "bột giặt tổng hợp"
+        },
+        {
+          "symbol": "関",
+          "word": "せっけん",
+          "vi": "xà phòng"
+        }
+      ]
+    },
+    {
+      "no": 94,
+      "kana": "そこ",
+      "kanji": "底",
+      "en": "bottom",
+      "cn": "底，底部，深处",
+      "kr": "바다",
+      "vi": "đáy",
+      "examples": [
+        {
+          "jp": "くつの底に穴があく。",
+          "vi": "Đế giày bị thủng lỗ."
+        },
+        {
+          "jp": "箱の底が抜ける。",
+          "vi": "Đáy hộp bị tuột/rụng."
+        },
+        {
+          "jp": "コップの底／海の底にもぐる。",
+          "vi": "đáy cốc / lặn xuống đáy biển"
+        },
+        {
+          "jp": "あの人は心の底では何を考えているかわからない。",
+          "vi": "Không biết người đó thực chất (tận đáy lòng) đang nghĩ gì."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 95,
+      "kana": "ちか",
+      "kanji": "地下",
+      "en": "underground, basement",
+      "cn": "地下",
+      "kr": "지하",
+      "vi": "ngầm, tầng hầm (dưới lòng đất)",
+      "examples": [
+        {
+          "jp": "大都市は地下の開発が進んでいる。",
+          "vi": "Ở các đô thị lớn việc phát triển không gian ngầm đang tiến triển."
+        },
+        {
+          "jp": "地下2階、地上8階のビル",
+          "vi": "tòa nhà có 2 tầng hầm và 8 tầng trên mặt đất"
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_鉄、_道、_街",
+          "vi": "tàu điện ngầm (_鉄), đường ngầm (_道), phố ngầm (_街)"
+        },
+        {
+          "symbol": "対",
+          "word": "地上",
+          "vi": "trên mặt đất"
+        }
+      ]
+    },
+    {
+      "no": 96,
+      "kana": "てら",
+      "kanji": "寺",
+      "en": "temple",
+      "cn": "庙，寺院",
+      "kr": "절",
+      "vi": "chùa (đền Phật giáo)",
+      "examples": [
+        {
+          "jp": "寺に〔まいる／おまいりする〕。",
+          "vi": "Đến chùa lễ (bái)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "関",
+          "word": "神社、墓",
+          "vi": "đền thần (thần đạo), mộ"
+        }
+      ]
+    },
+    {
+      "no": 97,
+      "kana": "どうろ",
+      "kanji": "道路",
+      "en": "road",
+      "cn": "路，马路，公路",
+      "kr": "도로",
+      "vi": "đường, đường sá",
+      "examples": [
+        {
+          "jp": "道路が込む。",
+          "vi": "Đường đông."
+        },
+        {
+          "jp": "日本では、車は道路の左側を走る。",
+          "vi": "Ở Nhật, xe chạy bên trái đường."
+        },
+        {
+          "jp": "うちの前に高速道路が走っている。",
+          "vi": "Trước nhà tôi có đường cao tốc chạy qua."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "word": "高速_",
+          "vi": "đường cao tốc (高速道路)"
+        },
+        {
+          "symbol": "類",
+          "word": "道",
+          "vi": "con đường, lối"
+        }
+      ]
+    },
+    {
+      "no": 98,
+      "kana": "さか",
+      "kanji": "坂",
+      "en": "hill, slope",
+      "cn": "坡，斜坡",
+      "kr": "고개, 비탈, 언덕",
+      "vi": "dốc, con dốc",
+      "examples": [
+        {
+          "jp": "坂を上る。",
+          "vi": "Leo dốc."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "急な_⇔ゆるやかな_、_を上る⇔下る",
+          "vi": "dốc đứng⇔dốc thoải, leo dốc⇔xuống dốc"
+        },
+        {
+          "symbol": "合",
+          "pattern": "_道、上り_⇔下り_",
+          "vi": "đoạn dốc (_道), dốc lên⇔dốc xuống",
+          "note": "◯◯ざか như họ tên nơi chốn"
+        },
+        {
+          "symbol": "参",
+          "word": "（姓に用いる）〜坂, ví dụ 〇〇坂"
+        }
+      ]
+    },
+    {
+      "no": 99,
+      "kana": "けむり",
+      "kanji": "煙",
+      "en": "smoke",
+      "cn": "烟",
+      "kr": "연기",
+      "vi": "khói, khói (thuốc lá)",
+      "examples": [
+        {
+          "jp": "「火事のときは、煙に注意して逃げてください」",
+          "vi": "«Khi có cháy, hãy chú ý khói và thoát thân.»"
+        },
+        {
+          "jp": "たばこの煙は体に悪い。",
+          "vi": "Khói thuốc lá có hại cho sức khỏe."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "関",
+          "word": "湯気",
+          "vi": "hơi nước (bốc lên)"
+        }
+      ]
+    },
+    {
+      "no": 100,
+      "kana": "はい",
+      "kanji": "灰",
+      "en": "ash",
+      "cn": "灰",
+      "kr": "재",
+      "vi": "tro, tro tàn",
+      "examples": [
+        {
+          "jp": "たばこの灰",
+          "vi": "tro thuốc lá"
+        },
+        {
+          "jp": "紙が燃えて灰になる。",
+          "vi": "Giấy cháy thành tro."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_皿、_色",
+          "vi": "gạt tàn thuốc (_皿), màu xám (_色)"
+        }
+      ]
+    },
+    {
+      "no": 101,
+      "kana": "はん",
+      "kanji": "判",
+      "en": "seal",
+      "cn": "图章，印章",
+      "kr": "도장",
+      "vi": "con dấu (dấu cá nhân/công ty)",
+      "examples": [
+        {
+          "jp": "書類に判を押す。",
+          "vi": "Đóng dấu vào giấy tờ."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_を押す、_をつくる",
+          "vi": "đóng dấu, khắc/thambém dấu"
+        },
+        {
+          "symbol": "類",
+          "word": "はんこ、印、印鑑",
+          "vi": "con dấu (はんこ), dấu (印), ấn giám (印鑑 - dấu đăng ký)"
+        }
+      ]
+    },
+    {
+      "no": 102,
+      "kana": "めいし",
+      "kanji": "名刺",
+      "en": "calling card, visiting card",
+      "cn": "名片",
+      "kr": "명함",
+      "vi": "danh thiếp (card visit)",
+      "examples": [
+        {
+          "jp": "名刺を交換する。",
+          "vi": "Trao đổi danh thiếp."
+        },
+        {
+          "jp": "パーティーで会った人に名刺を配った。",
+          "vi": "Phát danh thiếp cho người gặp ở bữa tiệc."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_交換",
+          "vi": "trao đổi danh thiếp"
+        }
+      ]
+    },
+    {
+      "no": 103,
+      "kana": "めんきょ",
+      "kanji": "免許",
+      "en": "license",
+      "cn": "执照",
+      "kr": "면허",
+      "vi": "giấy phép, bằng (lái xe, nghề nghiệp)",
+      "examples": [
+        {
+          "jp": "レストランを開くには、調理師の免許が必要だ。",
+          "vi": "Để mở nhà hàng thì cần bằng chuyên nghiệp nấu ăn (調理師)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_をとる、_を与える",
+          "vi": "lấy/nhận bằng, cấp giấy phép"
+        },
+        {
+          "symbol": "合",
+          "pattern": "運転_、教員_、医師_、_証",
+          "vi": "bằng lái xe, bằng giáo viên, bằng bác sĩ, giấy phép/chứng chỉ (_証)"
+        }
+      ]
+    },
+    {
+      "no": 104,
+      "kana": "おおく",
+      "kanji": "多く",
+      "en": "many",
+      "cn": "多",
+      "kr": "많음, 다수",
+      "vi": "nhiều, đa số (danh từ/trạng từ: 多くの, 多くは)",
+      "examples": [
+        {
+          "jp": "オリンピックには〔〇多くの／×多いの／×多い〕国が参加した。",
+          "vi": "Nhiều nước đã tham gia Thế vận hội (dùng 多くの, không dùng 多いの/多い)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "関",
+          "word": "近く、遠く",
+          "vi": "gần, xa (dạng danh từ hoá tương tự)"
+        }
+      ]
+    },
+    {
+      "no": 105,
+      "kana": "ぜんはん",
+      "kanji": "前半",
+      "en": "first half",
+      "cn": "前半部分，上半场",
+      "kr": "전반",
+      "vi": "phần đầu, hiệp một",
+      "examples": [
+        {
+          "jp": "映画の前半はたいくつだったが、後半はおもしろかった。",
+          "vi": "Nửa đầu phim hơi chán nhưng nửa sau lại hay."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 106,
+      "kana": "こうはん",
+      "kanji": "後半",
+      "en": "second half",
+      "cn": "后半部分，下半场",
+      "kr": "후반",
+      "vi": "phần sau, hiệp hai",
+      "examples": [
+        {
+          "jp": "映画の前半はたいくつだったが、後半はおもしろかった。",
+          "vi": "Nửa đầu phim hơi chán nhưng nửa sau lại hay."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 107,
+      "kana": "さいこう",
+      "kanji": "最高",
+      "en": "highest; best; really",
+      "cn": "最高；最高潮，顶点",
+      "kr": "최고",
+      "vi": "cao nhất; tuyệt nhất, đỉnh nhất; hết sức (最高に)",
+      "senses": [
+        "①",
+        "②",
+        "③"
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "jp": "最高気温",
+          "vi": "nhiệt độ cao nhất"
+        },
+        {
+          "sense": "①",
+          "jp": "この店はきのう、開店以来最高の売り上げを記録した。",
+          "vi": "Hôm qua, cửa hàng này đã lập kỷ lục doanh số cao nhất kể từ khi mở."
+        },
+        {
+          "sense": "②",
+          "jp": "宝くじが当たって、最高の気分だ。",
+          "vi": "Trúng số nên tâm trạng tuyệt vời."
+        },
+        {
+          "sense": "②",
+          "jp": "きょうの試合は最高だった。",
+          "vi": "Trận đấu hôm nay thì tuyệt đỉnh."
+        },
+        {
+          "sense": "③",
+          "jp": "この映画は最高におもしろい。",
+          "vi": "Bộ phim này hay hết sức."
+        },
+        {
+          "sense": "③",
+          "jp": "今月は最高に忙しかった。",
+          "vi": "Tháng này bận rộn nhất từ trước tới nay."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "最高＋〔名詞〕、〔名詞〕＋最高",
+          "vi": "cao nhất + danh từ (最高気温), danh từ + tối thượng/tuyệt nhất (最高の売り上げ)"
+        },
+        {
+          "symbol": "対",
+          "pattern": "①②最低",
+          "vi": "①② đối nghĩa: thấp nhất, tệ nhất (最低)"
+        }
+      ]
+    },
+    {
+      "no": 108,
+      "kana": "さいてい",
+      "kanji": "最低",
+      "en": "lowest; worst; disgusting",
+      "cn": "最低；最低潮，最差",
+      "kr": "최악",
+      "vi": "thấp nhất; tệ nhất, tồi tệ nhất",
+      "senses": [
+        "①",
+        "②",
+        "③"
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "jp": "最低気温",
+          "vi": "nhiệt độ thấp nhất"
+        },
+        {
+          "sense": "①",
+          "jp": "クラスで最低の点をとってしまった。",
+          "vi": "Đã bị lấy số điểm thấp nhất trong lớp."
+        },
+        {
+          "sense": "②",
+          "jp": "きょうの試合は最低だった。",
+          "vi": "Trận đấu hôm nay thì tệ nhất."
+        },
+        {
+          "sense": "③",
+          "jp": "弱いものいじめをするなんて、最低だ／最低の人だ。",
+          "vi": "Bắt nạt kẻ yếu thì đúng là tệ nhất / là người tệ nhất."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "最低＋〔名詞〕、〔名詞〕＋最低",
+          "vi": "thấp nhất + danh từ (最低気温), danh từ + tệ nhất (最低の点)"
+        },
+        {
+          "symbol": "対",
+          "pattern": "①②最高",
+          "vi": "①② đối nghĩa: cao nhất, tuyệt nhất (最高)"
+        }
+      ]
+    },
+    {
+      "no": 109,
+      "kana": "さいしょ",
+      "kanji": "最初",
+      "en": "first",
+      "cn": "最初，开始，第一个",
+      "kr": "최초",
+      "vi": "đầu tiên, lúc đầu, đầu tiên nhất",
+      "examples": [
+        {
+          "jp": "最初にひらがなを、次にカタカナを勉強した。",
+          "vi": "Đầu tiên học hiragana, sau đó học katakana."
+        },
+        {
+          "jp": "日本に来たばかりのころ、最初は何もわからなかった。",
+          "vi": "Hồi vừa đến Nhật, lúc đầu chẳng hiểu gì cả."
+        },
+        {
+          "jp": "「あとから来た人を前列の最後に並べてください」",
+          "vi": "«Người đến sau hãy xếp vào cuối hàng trước.»"
+        },
+        {
+          "jp": "最後の出勤日に花束をもらった。",
+          "vi": "Vào ngày đi làm cuối cùng đã nhận được bó hoa."
+        }
+      ],
+      "related": []
+    },
+    {
+      "no": 110,
+      "kana": "さいご",
+      "kanji": "最後",
+      "en": "last, end (of the line)",
+      "cn": "最后，结束，最后一个",
+      "kr": "최후",
+      "vi": "cuối cùng, sau cùng, cuối (hàng)",
+      "senses": [],
+      "examples": [],
+      "related": [],
+      "note": "Ví dụ dùng chung với mục 109 (最初／最後 xuất hiện cùng nhau trong các câu ở mục 109)."
+    },
+    {
+      "no": 111,
+      "kana": "じどう",
+      "kanji": "自動",
+      "en": "automation, automatic",
+      "cn": "自动",
+      "kr": "자동",
+      "vi": "tự động",
+      "examples": [
+        {
+          "jp": "このドアは自動だから、手で開けなくてもいい。",
+          "vi": "Cửa này là cửa tự động nên không cần dùng tay mở."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_ドア、_販売機、全_（例．全自動洗たく機）、_的な",
+          "vi": "cửa tự động (_ドア), máy bán hàng tự động (_販売機), hoàn toàn tự động (全自動), mang tính tự động (_的な)"
+        },
+        {
+          "symbol": "対",
+          "word": "手動",
+          "vi": "thủ công, điều khiển bằng tay"
+        }
+      ]
+    },
+    {
+      "no": 112,
+      "kana": "しゅるい",
+      "kanji": "種類",
+      "en": "type, kind",
+      "cn": "种，种类",
+      "kr": "종류",
+      "vi": "loại, chủng loại",
+      "examples": [
+        {
+          "jp": "公園にはいろいろな種類の花がある。",
+          "vi": "Trong công viên có đủ loại hoa."
+        },
+        {
+          "jp": "形容詞には２種類ある。",
+          "vi": "Tính từ có 2 loại (i-adj và na-adj)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_が多い／少ない、_が豊富だ",
+          "vi": "loại nhiều / ít, chủng loại phong phú"
+        },
+        {
+          "symbol": "合",
+          "pattern": "〔数字〕＋種類",
+          "vi": "số từ + loại (２種類 = 2 loại)"
+        },
+        {
+          "symbol": "関",
+          "word": "種",
+          "vi": "giống, loại (cách nói ngắn)"
+        }
+      ]
+    },
+    {
+      "no": 113,
+      "kana": "せいかく",
+      "kanji": "性格",
+      "en": "personality, character",
+      "cn": "性格，脾气",
+      "kr": "성격",
+      "vi": "tính cách, tính tình",
+      "examples": [
+        {
+          "jp": "あの人は性格がいいので、みんなに好かれている。",
+          "vi": "Người đó có tính cách tốt nên được mọi người yêu thích."
+        },
+        {
+          "jp": "明るい／まじめな／おとなしい／積極的な　・・・　性格",
+          "vi": "tính cách hơi hướng vui vẻ / nghiêm túc / hiền lành / tích cực"
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_がいい／悪い",
+          "vi": "tính cách tốt / xấu"
+        },
+        {
+          "symbol": "類",
+          "word": "性質",
+          "vi": "tính chất, bản chất (mục 114)"
+        }
+      ]
+    },
+    {
+      "no": 114,
+      "kana": "せいしつ",
+      "kanji": "性質",
+      "en": "property; disposition",
+      "cn": "性质，特点；性格",
+      "kr": "성질",
+      "vi": "tính chất (của vật); bản chất, tính nết (của người)",
+      "senses": [
+        "①",
+        "②"
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "jp": "この布は燃えにくい性質を持っている。",
+          "vi": "Loại vải này có tính chất khó cháy."
+        },
+        {
+          "sense": "①",
+          "jp": "羊はおとなしい性質の動物だ。",
+          "vi": "Con cừu là loài vật có bản chất hiền lành."
+        },
+        {
+          "sense": "②",
+          "jp": "人は持って生まれた性質をなかなか変えられない。",
+          "vi": "Con người rất khó thay đổi bản chất mình sinh ra đã mang."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "類",
+          "word": "性格",
+          "vi": "tính cách (mục 113)"
+        }
+      ]
+    },
+    {
+      "no": 115,
+      "kana": "じゅんばん",
+      "kanji": "順番",
+      "en": "order, sequence",
+      "cn": "顺序，次序",
+      "kr": "순서",
+      "vi": "trình tự, lượt, thứ tự",
+      "examples": [
+        {
+          "jp": "発表の順番を決める。",
+          "vi": "Quyết định thứ tự thuyết trình."
+        },
+        {
+          "jp": "大きい商品から順番に並べる。",
+          "vi": "Sắp xếp theo thứ tự, bắt đầu từ hàng hoá to."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_がくる、_を待つ",
+          "vi": "đến lượt (_がくる), chờ đến lượt (_を待つ)"
+        },
+        {
+          "symbol": "類",
+          "pattern": "順、順序",
+          "vi": "thứ tự (順), trật tự (順序)"
+        },
+        {
+          "symbol": "関",
+          "word": "番",
+          "vi": "lượt, phiên (mục 116)"
+        }
+      ]
+    },
+    {
+      "no": 116,
+      "kana": "ばん",
+      "kanji": "番",
+      "en": "(one's) turn; watching over",
+      "cn": "轮班，次序；看守",
+      "kr": "순번, 번; 맡음",
+      "vi": "lượt, phiên; việc trực/gác",
+      "senses": [
+        "①",
+        "②"
+      ],
+      "examples": [
+        {
+          "sense": "①",
+          "jp": "次は私の番だ。",
+          "vi": "Đến lượt tôi rồi."
+        },
+        {
+          "sense": "②",
+          "jp": "席を離れた人の荷物の番をする。",
+          "vi": "Trông giữ hành lý cho người rời chỗ."
+        },
+        {
+          "sense": "②",
+          "jp": "隣の人に留守番を頼む。",
+          "vi": "Nhờ người ngồi cạnh trực nhà (trông nhà)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_がくる、_を待つ",
+          "vi": "đến lượt (_がくる), chờ lượt (_を待つ)"
+        },
+        {
+          "symbol": "関",
+          "word": "順番",
+          "vi": "trình tự, thứ tự (mục 115)"
+        },
+        {
+          "symbol": "連",
+          "pattern": "_をする",
+          "vi": "làm việc trực/gác (番をする)"
+        },
+        {
+          "symbol": "合",
+          "pattern": "留守_",
+          "vi": "trực nhà (留守番)"
+        }
+      ]
+    },
+    {
+      "no": 117,
+      "kana": "ほうほう",
+      "kanji": "方法",
+      "en": "method, way",
+      "cn": "方法",
+      "kr": "방법",
+      "vi": "phương pháp, cách (làm)",
+      "examples": [
+        {
+          "jp": "いい方法を探す。",
+          "vi": "Tìm cách tốt."
+        },
+        {
+          "jp": "いろいろな方法を試す。",
+          "vi": "Thử nhiều phương pháp khác nhau."
+        },
+        {
+          "jp": "新しい方法でやってみる。",
+          "vi": "Thử làm bằng phương pháp mới."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "連",
+          "pattern": "_がある⇔ない",
+          "vi": "có cách ⇔ không có cách"
+        },
+        {
+          "symbol": "類",
+          "word": "手段",
+          "vi": "thủ đoạn, biện pháp, phương tiện"
+        }
+      ]
+    },
+    {
+      "no": 118,
+      "kana": "せいひん",
+      "kanji": "製品",
+      "en": "product",
+      "cn": "产品",
+      "kr": "제품",
+      "vi": "sản phẩm",
+      "examples": [
+        {
+          "jp": "完成した製品を検査する。",
+          "vi": "Kiểm tra sản phẩm đã hoàn thành."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "電気_、家電_、プラスチック_",
+          "vi": "sản phẩm điện (電気製品), sản phẩm điện gia dụng (家電製品), sản phẩm nhựa (プラスチック製品)"
+        },
+        {
+          "symbol": "関",
+          "pattern": "〔名詞〕＋製（例．日本製、プラスチック製）",
+          "vi": "danh từ + sản xuất tại/hàng (hàng Nhật, hàng nhựa)"
+        }
+      ]
+    },
+    {
+      "no": 119,
+      "kana": "ねあがり",
+      "kanji": "値上がりスル",
+      "en": "price rise",
+      "cn": "价格上涨，涨价",
+      "kr": "값이 오름, 인상됨",
+      "vi": "tăng giá (giá lên)",
+      "examples": [
+        {
+          "jp": "食品の値上がり",
+          "vi": "việc tăng giá thực phẩm"
+        },
+        {
+          "jp": "石油が値上がりする。",
+          "vi": "Dầu mỏ tăng giá."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "対",
+          "word": "値下がりスル",
+          "vi": "giảm giá (giá xuống)"
+        },
+        {
+          "symbol": "関",
+          "pattern": "ラ値上げ(スル)⇔値下げ(スル)",
+          "vi": "việc nâng giá ⇔ việc hạ giá (cách nói về hành động chủ động)"
+        }
+      ]
+    },
+    {
+      "no": 120,
+      "kana": "なま",
+      "kanji": "生",
+      "en": "raw, draft (beer)",
+      "cn": "生",
+      "kr": "날, 생",
+      "vi": "sống, tươi (thịt, cá); bia hơi/chai thường (生ビール); chưa qua chế biến",
+      "examples": [
+        {
+          "jp": "生の魚",
+          "vi": "cá sống (cá tươi)"
+        },
+        {
+          "jp": "肉を生（のまま）で食べる。",
+          "vi": "Ăn thịt còn sống (nguyên trạng)."
+        }
+      ],
+      "related": [
+        {
+          "symbol": "合",
+          "pattern": "_野菜、_魚、_肉、_物、_ビール、_ごみ",
+          "vi": "rau sống (_野菜), cá sống (_魚), thịt sống (_肉), đồ sống/_物 (sự vật nguyên sinh), bia thường (_ビール), rác hữu cơ (_ごみ)"
+        }
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "number": 3,
+      "title": "人を表す言葉（年齢別）",
+      "translation": "People (by age group) / 人（不同年龄）/ 사람 (연령별)",
+      "structure": "かたい表現 (biểu hiện cứng/trang trọng) ←老人...→ やわらかい表現 (biểu hiện mềm)",
+      "rows": [
+        {
+          "hard": [
+            {
+              "word": "高齢者",
+              "kana": "こうれいしゃ",
+              "en": "elderly person",
+              "cn": "老年人",
+              "kr": "노년층",
+              "vi": "người cao tuổi"
+            }
+          ],
+          "soft": [
+            {
+              "word": "(お)年寄り",
+              "kana": "（お）としより",
+              "vi": "người già (cách nói nhẹ nhàng)"
+            }
+          ]
+        },
+        {
+          "hard": [
+            {
+              "word": "中高年",
+              "kana": "ちゅうこうねん",
+              "en": "middle-aged and older",
+              "cn": "中老年",
+              "kr": "중장년층 노년층",
+              "vi": "trung niên và cao tuổi"
+            }
+          ],
+          "soft": []
+        },
+        {
+          "hard": [
+            {
+              "word": "中年",
+              "kana": "ちゅうねん",
+              "en": "middle age",
+              "cn": "中年",
+              "kr": "중년",
+              "vi": "trung niên"
+            }
+          ],
+          "soft": []
+        },
+        {
+          "hard": [
+            {
+              "word": "青年",
+              "kana": "せいねん",
+              "en": "youth",
+              "cn": "青年",
+              "kr": "청년",
+              "vi": "thanh niên"
+            }
+          ],
+          "soft": [
+            {
+              "word": "若者",
+              "kana": "わかもの",
+              "vi": "người trẻ"
+            }
+          ]
+        },
+        {
+          "hard": [
+            {
+              "word": "少年／少女",
+              "kana": "しょうねん／しょうじょ",
+              "en": "child/boy/girl",
+              "cn": "孩子／少年／少女",
+              "kr": "아이／소년／소녀",
+              "vi": "thiếu niên / thiếu nữ"
+            }
+          ],
+          "soft": [
+            {
+              "word": "子ども／男の子／女の子",
+              "kana": "こども／おとこのこ／おんなのこ",
+              "vi": "trẻ con / bé trai / bé gái"
+            }
+          ]
+        },
+        {
+          "hard": [
+            {
+              "word": "幼児",
+              "kana": "ようじ",
+              "vi": "trẻ nhỏ / nhi đồng"
+            }
+          ],
+          "soft": []
+        }
+      ],
+      "note": "※少年は男子だけを指す場合と男女両方を指す場合がある。 (Chú ý: 「少年」 có khi chỉ chỉ nam giới, có khi chỉ cả nam lẫn nữ.)"
+    }
+  ],
+  "exercises": [
+    {
+      "unit": "Unit 01 名詞A (1〜71)",
+      "exercise_title": "練習問題 I",
+      "step": 1,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に助詞を書きなさい。 (Điền trợ từ vào chỗ trống.)",
+          "type": "fill_particle",
+          "items": [
+            "部下が上司（　）えらいする。→ えらい... (chép lại theo sách: 部下が上司（　）えらすぎる) [nguyên văn: 部下が上司（　）えらすぎる/より上一冊目の文は 部下が上司（　）えらすぎる]",
+            "試験（　）合格する。",
+            "授業（　）出席する。／ 授業（　）欠席する。",
+            "大学院（　）進学する。／ 高校（　）退学する。",
+            "友だち（　）おしゃべりして楽しかった。",
+            "てつや（　）勉強する。",
+            "スポーツ大会（　）参加する。",
+            "彼ははその実験（　）成功した。",
+            "あの学生は進学（　）希望している。",
+            "私は田中さんの意見（　）賛成です。",
+            "約束の時間（　）遅刻してしまった。",
+            "ふねかの捕み（　）がまんして走った。 [nguyên văn: 夢かの描き（　）がまんして走った → 「夢（　）がまんして走った」の形式]",
+            "上田さんは山本さん（　）仲（　）いい。",
+            "私は歴史（　）興味（　）ある。"
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "「する」がつくことばに○をつけなさい。 (Khoanh tròn những từ có thể đi với 「する」.)",
+          "type": "circle_する",
+          "word_bank": [
+            "おしゃべり",
+            "思い出",
+            "きょうみ",
+            "けいさん",
+            "しゅっしん",
+            "しゅみ",
+            "じょうだん",
+            "生活",
+            "せいり",
+            "たんじょう",
+            "つうきん",
+            "どりょく",
+            "ひっこし",
+            "不合格"
+          ]
+        },
+        {
+          "label": "III-A",
+          "instruction": "正しいことばを〔　〕の中から一えらびなさい。 (Chọn từ đúng trong ngoặc.)",
+          "type": "choose_correct",
+          "items": [
+            "学歴が〔大きい／高い／強い〕",
+            "計画を〔立てる／作る／みつける〕",
+            "年を〔すきる／とる／ふえる〕",
+            "をゆうすきを〔作る　とる　休む〕→ 原文: をゆうすき(=ゆうすき/暇)を〔作る／とる／休む〕",
+            "楽しい生活を〔いきると　おくる〕→ 原文: 楽しい生活を〔いきる／おくる〕",
+            "めいわくを〔やる　させる　かける〕",
+            "貯金を〔あげる　おろす　つむ〕",
+            "体重が〔のびる　ふえる　ふとる〕",
+            "身長が〔のびる　ふえる　やせる〕"
+          ]
+        },
+        {
+          "label": "III-A (続き, sách trang sau)",
+          "items": [
+            "新年会を〔あく　あける　ひらく〕",
+            "やくそくを〔言う　こわす　やぶる〕",
+            "年が〔あける　はじまる　ひらく〕と2011年だ。"
+          ]
+        },
+        {
+          "label": "III-B",
+          "instruction": "正しいことばを〔　〕から選びなさい (tục phần B).",
+          "type": "choose_correct",
+          "items": [
+            "小林さんは私より〔年上　目上　上司〕です。",
+            "「ご〔たんじょうび　じゅうしょく　じゅっしん〕はどちらですか」→ 原文: ご〔たんじょうび　しゅっしん　じゅうしょく〕…「ごしゅっしんはどちらですか」",
+            "あの人はとても〔おしゃべり　おはなし　じょうだん〕だから、だいじなことは話したくありません。",
+            "階段から落ちて〔びょうき　きず　けが　やけど〕をしてしまいました。",
+            "ふるさとに〔きこく　きせい　きたく〕する。"
+          ]
+        },
+        {
+          "label": "IV",
+          "instruction": "（　）に下からえらんだ語を書いて、一つのことばにしなさい。 (Điền chữ cái dưới vào để tạo thành một từ.)",
+          "type": "combine_kanji",
+          "items": [
+            "想像（　）",
+            "努力（　）",
+            "総科（　）→ 原文: 総科(ざい)... 実際: 「総科」ではなく「〜ざい」",
+            "観光（　）",
+            "化粧（　）",
+            "退職（　）",
+            "進学（　）",
+            "婦宅（　）→ 原文: 夫婦(ふうふ)...実際は「婦宅→〜宅」",
+            "生活（　）"
+          ],
+          "bottom_parts": [
+            "家",
+            "金",
+            "時間",
+            "地",
+            "日",
+            "費",
+            "品",
+            "率",
+            "力"
+          ]
+        },
+        {
+          "label": "V",
+          "instruction": "反対の意味のことばを書きなさい。 (Viết từ có nghĩa đối lập.)",
+          "type": "antonym",
+          "items": [
+            "成功 ⇔（　）",
+            "欠席 ⇔（　）",
+            "体重が減る ⇔（　）",
+            "成人 ⇔（　）",
+            "退職 ⇔（　）",
+            "反対する ⇔（　）する",
+            "部下 ⇔（　）",
+            "先輩 ⇔（　）",
+            "約束を破る ⇔ 約束を（　）"
+          ]
+        },
+        {
+          "label": "VI",
+          "instruction": "意味が近いことばを下からえらんで書きなさい。 (Chọn từ nghĩa gần đồng nghĩa từ bảng dưới.)",
+          "type": "synonym_match",
+          "items": [
+            "生年月日（　）",
+            "きょうみ（　）",
+            "じゅんび（　）",
+            "しあい（　）",
+            "こきょう（　）",
+            "とし（　）"
+          ],
+          "word_bank": [
+            "かんしん",
+            "ちじん",
+            "たんじょうび",
+            "ねんれい",
+            "ふるさと",
+            "ようい"
+          ]
+        },
+        {
+          "label": "VII",
+          "instruction": "（　）に入ることばを下からえらんで書きなさい。 (Chọn từ phù hợp từ bảng dưới điền vào chỗ trống.)",
+          "type": "fill_from_bank",
+          "items": [
+            "「日本へ来た（　）は何ですか」",
+            "「引っ越しの（　）はもう終わりましたか」「まだです。今、荷物を（　）しているところです」",
+            "私の（　）は読書です。",
+            "「中村さんの結婚（　）がどんな人か、知っていますか」",
+            "焼き肉定食を（　）したのに、焼き魚定食が出てきた。",
+            "最近は中学生でも（　）する女子が増えている。",
+            "ダイエットしたいのだが、甘いものを（　）するのはつらい。",
+            "（　）がみのって、国立大学に合格することができた。",
+            "10年後に私がどうなっているか、ぜんぜん（　）がつかない。",
+            "弟は子どものころの（　）がかなって、サッカー選手になった。",
+            "この国の経済は10年で大きく（　）した。",
+            "筆記試験はだいじょうぶだと思うが、（　）が心配だ。"
+          ],
+          "word_bank": [
+            "あいて",
+            "がまん",
+            "きょうみ",
+            "けしょう",
+            "しゅみ",
+            "じゅんび",
+            "せいちょう",
+            "せいり",
+            "そうそう",
+            "ちゅうもん",
+            "どりょく",
+            "めんせつ",
+            "もくてき",
+            "ゆめ"
+          ]
+        }
+      ]
+    }
+  ],
+  "unit_pages": [
+    {
+      "pdf_page": 19,
+      "book_page": 18,
+      "content": "練習問題 I (sections I-VI)"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 19,
+      "content": "練習問題 I (sections I-VI, tiếp)"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 20,
+      "content": "練習問題 I section VII (fill_from_bank)"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 21,
+      "content": "コラム 3「人を表す言葉（年齢別）」"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 22,
+      "content": "vocab words 72-88"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 23,
+      "content": "vocab words 72-88 (tiếp)"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 24,
+      "content": "vocab words 89-106"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 25,
+      "content": "vocab words 89-106 (tiếp)"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 26,
+      "content": "vocab words 107-120"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 27,
+      "content": "vocab words 114-120 (cuối Unit 01)"
+    }
+  ]
+}

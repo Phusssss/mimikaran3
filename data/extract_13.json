@@ -1,0 +1,733 @@
+{
+  "pdf_pages": "129-138",
+  "words": [
+    {
+      "no": 591,
+      "kanji": "非常に",
+      "kana": "ひじょうに",
+      "en": "very; urgently",
+      "kr": "매우, 긴급",
+      "vi": "rất, vô cùng; khẩn cấp",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "これは非常に高価なものですので、気をつけて運んでください。", "vi": "Đây là đồ rất đắt tiền nên hãy cẩn thận khi vận chuyển."},
+        {"ja": "直接渡されるのは非常に危険です。", "vi": "Việc được trao tận tay là rất nguy hiểm."},
+        {"ja": "「非常の際は、この下のレバーを引いてください」", "vi": "Khi có sự cố khẩn cấp, hãy kéo cần gạt phía dưới này."}
+      ],
+      "related": [
+        {"type": "類", "text": "とても、大変(に)"},
+        {"type": "合", "text": "非常口、非常階段、非常ベル"}
+      ],
+      "notes": "※改まった表現。②は(名)非常。"
+    },
+    {
+      "no": 592,
+      "kanji": "大変(に)",
+      "kana": "たいへん(に)",
+      "en": "terribly; greatly",
+      "kr": "매우 크게",
+      "vi": "rất, cực kỳ",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "朝から電車が大変込んでいた。", "vi": "Từ sáng tàu điện đã rất đông."},
+        {"ja": "計画が中止になったのは大変残念だ。", "vi": "Kế hoạch bị hủy thật đáng tiếc."},
+        {"ja": "「これまで大変お世話になりました」", "vi": "Bấy lâu nay đã nhận nhiều sự giúp đỡ của ông/bà."}
+      ],
+      "related": [
+        {"type": "類", "text": "とても、非常に"},
+        {"type": "関", "text": "②(ナ形)大変な → 281"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 593,
+      "kanji": "ほとんど",
+      "kana": "ほとんど",
+      "en": "nearly; hardly",
+      "kr": "거의 /예, 대부분",
+      "vi": "phần lớn, gần như; hầu như không",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "準備はほとんどできた。", "vi": "Chuẩn bị đã gần như xong."},
+        {"ja": "村上春樹の小説はほとんど読んだ。", "vi": "Tiểu thuyết của Murakami Haruki thì gần như đọc hết rồi."},
+        {"ja": "来日したとき、日本語はほとんどわからなかった。", "vi": "Khi sang Nhật, tôi gần như không hiểu tiếng Nhật."},
+        {"ja": "あの人とはほとんど話したことがありません。", "vi": "Tôi hầu như chưa từng nói chuyện với người đó."}
+      ],
+      "related": [],
+      "notes": "(名)ほとんど 例:この学校では、ほとんどの子どもたちが/子どもたちのほとんどが携帯電話を持っているようだ。※否定的な表現といっしょに使う。"
+    },
+    {
+      "no": 594,
+      "kanji": "大体",
+      "kana": "だいたい",
+      "en": "most; about",
+      "kr": "대강/대개",
+      "vi": "đại khái, phần lớn; khoảng",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "きょうの試験はだいたいできた。", "vi": "Bài thi hôm nay làm được đại khái."},
+        {"ja": "だいたいの人がこのニュースを知っていた。", "vi": "Phần lớn mọi người đều biết tin này."},
+        {"ja": "1カ月の収入はだいたい15万円ぐらいです。", "vi": "Thu nhập một tháng khoảng chừng 15 vạn yen."}
+      ],
+      "related": [{"type": "類", "text": "およそ"}],
+      "notes": ""
+    },
+    {
+      "no": 595,
+      "kanji": "かなり",
+      "kana": "かなり",
+      "en": "fairly; quite",
+      "kr": "상당히",
+      "vi": "khá, đáng kể",
+      "senses": [],
+      "examples": [
+        {"ja": "頭痛の薬を飲んだら、30分ぐらいでかなりよくなった。", "vi": "Uống thuốc đau đầu thì khoảng 30 phút sau khá hơn nhiều."},
+        {"ja": "きのうの台風で、九州ではかなりの被害が出たそうだ。", "vi": "Nghe nói do bão hôm qua, Kyushu bị thiệt hại khá nặng."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 596,
+      "kanji": "ずいぶん",
+      "kana": "ずいぶん",
+      "en": "considerably",
+      "kr": "몹시, 대단",
+      "vi": "khá nhiều, đáng kể",
+      "senses": [],
+      "examples": [
+        {"ja": "しばらく会わない間に、チンさんはずいぶん日本語が上手になっていた。", "vi": "Trong thời gian không gặp, tiếng Nhật của bạn Chin tiến bộ khá nhiều."},
+        {"ja": "「足の具合はどうですか」「ずいぶんよくなりましたが、まだ運転はできません」", "vi": "\"Chân thế nào rồi?\" \"Khá hơn nhiều rồi nhưng vẫn chưa lái xe được.\""}
+      ],
+      "related": [],
+      "notes": "※「思った以上に」という気持ちが入る。"
+    },
+    {
+      "no": 597,
+      "kanji": "けっこう",
+      "kana": "けっこう",
+      "en": "pretty; very",
+      "kr": "제법",
+      "vi": "khá, tạm được",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "日曜日なので込んでいるかと思ったら、けっこうすいていた。", "vi": "Tưởng chủ nhật sẽ đông nhưng thực ra khá vắng."},
+        {"ja": "初めて作った料理だが、けっこうおいしくできた。", "vi": "Là món lần đầu làm nhưng khá ngon."}
+      ],
+      "related": [{"type": "関", "text": "②(ナ形)結構な → 289"}],
+      "notes": "※予想と比べてどうだったかというときに使う。"
+    },
+    {
+      "no": 598,
+      "kanji": "大分",
+      "kana": "だいぶ/だいぶん",
+      "en": "mostly; fairly",
+      "kr": "상당히, 몹시",
+      "vi": "khá, nhiều",
+      "senses": [],
+      "examples": [
+        {"ja": "病気はだいぶよくなった。", "vi": "Bệnh đã khá hơn nhiều."},
+        {"ja": "仕事がまだだいぶん残っている。", "vi": "Việc còn lại khá nhiều."}
+      ],
+      "related": [{"type": "類", "text": "かなり"}],
+      "notes": ""
+    },
+    {
+      "no": 599,
+      "kanji": "もっと",
+      "kana": "もっと",
+      "en": "more",
+      "kr": "더, 더욱",
+      "vi": "hơn nữa, nhiều hơn",
+      "senses": [],
+      "examples": [
+        {"ja": "リンゴよりイチゴのほうが好きだ。でも、メロンはもっと好きだ。", "vi": "Thích dâu tây hơn táo. Nhưng dưa lưới thì thích còn hơn nữa."},
+        {"ja": "「もっと大きな声で話してください」", "vi": "Hãy nói to hơn một chút."},
+        {"ja": "これだけでは足りない。もっとほしい。", "vi": "Chỉ thế này là chưa đủ. Muốn nhiều hơn."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 600,
+      "kanji": "すっかり",
+      "kana": "すっかり",
+      "en": "completely; quite",
+      "kr": "완전, 전부",
+      "vi": "hoàn toàn, hẳn hoi",
+      "senses": [],
+      "examples": [
+        {"ja": "きくらの花はすっかり散ってしまった。", "vi": "Hoa đã tàn sạch rồi."},
+        {"ja": "友人との約束をすっかり忘れていた。", "vi": "Quên sạch hẹn với bạn."},
+        {"ja": "「病気の具合はどうですか」「おかげさまで、すっかりよくなりました」", "vi": "\"Bệnh thế nào rồi?\" \"Nhờ anh/chị, đã khỏe hẳn.\""}
+      ],
+      "related": [{"type": "類", "text": "完全に"}],
+      "notes": ""
+    },
+    {
+      "no": 601,
+      "kanji": "一杯",
+      "kana": "いっぱい",
+      "en": "full",
+      "kr": "가득, 전부",
+      "vi": "đầy, nhiều; hết cỡ",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "会場には子どもたちがいっぱいいて、とてもにぎやかだった。", "vi": "Hội trường đầy trẻ em, rất náo nhiệt."},
+        {"ja": "もう、おなかがいっぱいだ。", "vi": "Bụng no căng rồi."},
+        {"ja": "姉の部屋は本でいっぱいだ。", "vi": "Phòng của chị đầy sách."},
+        {"ja": "窓をいっぱいに開く。", "vi": "Mở cửa sổ rộng hết cỡ."}
+      ],
+      "related": [
+        {"type": "類", "text": "たくさん"},
+        {"type": "合", "text": "_いっぱい(部屋いっぱいに日が差している/力いっぱい・精いっぱいがんばる/時間いっぱいかかった/おなかいっぱいだ)"}
+      ],
+      "notes": "※会話的な言葉。"
+    },
+    {
+      "no": 602,
+      "kanji": "ぎりぎり",
+      "kana": "ぎりぎり",
+      "en": "barely; the last minute",
+      "kr": "간신히/겨우",
+      "vi": "sát nút, suýt soát",
+      "senses": [],
+      "examples": [
+        {"ja": "走れば、9時の電車にぎりぎり間に合うだろう。", "vi": "Nếu chạy thì có lẽ kịp sát nút chuyến 9 giờ."},
+        {"ja": "ぎりぎりまで待ったが、田中君は来なかった。しかたなく、先に行くことにした。", "vi": "Đợi đến tận cùng nhưng Tanaka vẫn không đến. Không cách nào khác, đành đi trước."},
+        {"ja": "ぎりぎりで1番に合格することができた。", "vi": "Vừa kịp trong gang tấc để đỗ vị trí đầu tiên."}
+      ],
+      "related": [],
+      "notes": "Câu ví dụ thứ ba bản in khó đọc rõ một chữ."
+    },
+    {
+      "no": 603,
+      "kanji": "ぴったり(と)",
+      "kana": "ぴったり(と)",
+      "en": "exactly; closely; perfectly; suddenly",
+      "kr": "정확히, 딱, 꼭",
+      "vi": "đúng, chính xác; khít sát; ngừng đột ngột",
+      "senses": ["①", "②", "③", "④"],
+      "examples": [
+        {"ja": "7時ぴったりにめざまし時計をセットした。", "vi": "Đặt đồng hồ báo thức đúng 7 giờ."},
+        {"ja": "高橋さんはいつも、約束の時間ぴったりにやってくる。", "vi": "Anh Takahashi lúc nào cũng đến đúng giờ hẹn."},
+        {"ja": "二人はぴったりとくっついて、離れようとしなかった。", "vi": "Hai người áp sát vào nhau, không chịu rời ra."},
+        {"ja": "窓をぴったり閉めてください。", "vi": "Hãy đóng khít cửa sổ."},
+        {"ja": "二人の意見はぴったり一致した。", "vi": "Ý kiến của hai người khớp nhau hoàn toàn."},
+        {"ja": "「そのネクタイ、きょうのスーツにぴったりだね」", "vi": "Cà vạt đó rất hợp với vest hôm nay nhỉ."},
+        {"ja": "このバッグは2~3日の旅行にぴったりの大きさだ。", "vi": "Túi này có kích cỡ vừa khít cho chuyến đi 2~3 ngày."},
+        {"ja": "子どもが生まれてから、夫はぴったり/ぴったりとうでをたたんだ。", "vi": "Từ khi có con, chồng tôi đã khoanh tay gác lại hẳn."},
+        {"ja": "薬を飲むとせきがぴったりとやんだ。", "vi": "Uống thuốc vào là cơn ho ngừng hẳn."}
+      ],
+      "related": [],
+      "notes": "※後ろに助詞があるときは「ぴったりと」の形も使える。「ぴったりの」ほうが会話的。Câu ví dụ ④ dòng đầu bản in khó đọc rõ."
+    },
+    {
+      "no": 604,
+      "kanji": "たいてい",
+      "kana": "たいてい",
+      "en": "usually; mostly",
+      "kr": "대개, 대부분",
+      "vi": "thường thường, phần lớn",
+      "senses": [],
+      "examples": [
+        {"ja": "日曜日はたいていうちにいます。", "vi": "Chủ nhật thường ở nhà."},
+        {"ja": "たいていの人が田中さんの意見に賛成した。", "vi": "Phần lớn mọi người đã đồng ý với ý kiến của Tanaka."}
+      ],
+      "related": [{"type": "類", "text": "ほとんど"}],
+      "notes": ""
+    },
+    {
+      "no": 605,
+      "kanji": "同時に",
+      "kana": "どうじに",
+      "en": "simultaneously; on the other hand",
+      "kr": "동시에",
+      "vi": "cùng lúc, đồng thời",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "二人は同時にゴールした。", "vi": "Hai người về đích cùng lúc."},
+        {"ja": "電気が消えた。同時に非常ベルが鳴り始めた。", "vi": "Điện tắt. Đồng thời chuông báo động cũng vang lên."},
+        {"ja": "そのコンサートのチケットは、発売と同時に売り切れた。", "vi": "Vé concert đó bán hết sạch ngay khi mở bán."},
+        {"ja": "駅から近いアパートは便利だが、同時に、家賃も高い。", "vi": "Căn hộ gần ga thì tiện nhưng đồng thời tiền nhà cũng đắt."},
+        {"ja": "彼女は私の妻であると同時に、仕事のパートナーでもある。", "vi": "Cô ấy vừa là vợ tôi, đồng thời cũng là đối tác công việc."}
+      ],
+      "related": [],
+      "notes": "(名)同時 例:二人のゴールは同時だった。"
+    },
+    {
+      "no": 606,
+      "kanji": "前もって",
+      "kana": "まえもって",
+      "en": "in advance",
+      "kr": "미리",
+      "vi": "trước, từ trước",
+      "senses": [],
+      "examples": [
+        {"ja": "「もし欠席する場合は、前もってご連絡します」", "vi": "\"Nếu trường hợp vắng mặt, tôi sẽ liên lạc trước.\""},
+        {"ja": "デートするときは、いいレストランを前もって調べておくようにしている。", "vi": "Khi đi hẹn hò, tôi luôn tìm hiểu trước nhà hàng ngon."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 607,
+      "kanji": "すぐ(に)",
+      "kana": "すぐ(に)",
+      "en": "immediately; right",
+      "kr": "곧장",
+      "vi": "ngay, ngay lập tức",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "チャイムを鳴らすと、すぐにドアが開いた。", "vi": "Vừa bấm chuông thì cửa mở ngay."},
+        {"ja": "「火事です。すぐ来てください」", "vi": "\"Cháy rồi! Hãy đến ngay.\""},
+        {"ja": "うちのすぐ近くで殺人事件があって、とても怖かった。", "vi": "Ngay gần nhà xảy ra vụ án mạng, sợ quá."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 608,
+      "kanji": "もうすぐ",
+      "kana": "もうすぐ",
+      "en": "soon",
+      "kr": "곧, 바로",
+      "vi": "sắp, chẳng bao lâu nữa",
+      "senses": [],
+      "examples": [
+        {"ja": "日本へ来て、もうすぐ3年になる。", "vi": "Đến Nhật đã sắp được 3 năm."},
+        {"ja": "もうすぐ夏休みだ。", "vi": "Sắp đến kỳ nghỉ hè rồi."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 609,
+      "kanji": "突然",
+      "kana": "とつぜん",
+      "en": "suddenly",
+      "kr": "문득",
+      "vi": "đột ngột, bất thình lình",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもが突然飛び出して来たので、急ブレーキをかけた。", "vi": "Trẻ con đột ngột lao ra nên tôi phanh gấp."},
+        {"ja": "友人が亡くなった。突然のことで、まだ信じられない。", "vi": "Bạn tôi qua đời. Bất thình lình quá nên vẫn chưa thể tin được."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 610,
+      "kanji": "あっと言う間(に)",
+      "kana": "あっというま(に)",
+      "en": "in a flash",
+      "kr": "순간(에)",
+      "vi": "chớp mắt, thoáng chốc",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもの成長は早い。あっという間に、もう小学生だ。", "vi": "Trẻ lớn nhanh thật. Thoáng chốc đã là học sinh tiểu học."},
+        {"ja": "駅でかばんをとられてしまった。あっという間のできごとだった。", "vi": "Bị mất cắp cặp ở ga. Chuyện xảy ra trong tích tắc."},
+        {"ja": "楽しい時間が過ぎるのは、あっという間だ。", "vi": "Thời gian vui vẻ trôi qua chỉ trong chớp mắt."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 611,
+      "kanji": "いつの間にか",
+      "kana": "いつのまにか",
+      "en": "before one knows",
+      "kr": "어느새",
+      "vi": "một lúc nào không hay",
+      "senses": [],
+      "examples": [
+        {"ja": "いつの間にか、外は暗くなっていた。", "vi": "Một lúc nào đó, bên ngoài đã tối."},
+        {"ja": "子どもはいつの間にか、私より背が高くなっていた。", "vi": "Đứa trẻ không hay gì đã cao hơn tôi."}
+      ],
+      "related": [],
+      "notes": "※「いつの間に」は疑問文に使う。(例. いつの間にこんなにお金を使ってしまったのだろう。)"
+    },
+    {
+      "no": 612,
+      "kanji": "しばらく",
+      "kana": "しばらく",
+      "en": "for a moment, for a while",
+      "kr": "잠깐, 잠시",
+      "vi": "một lát, một thời gian",
+      "senses": [],
+      "examples": [
+        {"ja": "「ただ今窓口が混んでいますので、もうしばらくお待ちください」", "vi": "\"Hiện quầy đang đông, xin vui lòng chờ thêm một lát.\""},
+        {"ja": "「しばらく会わないうちに大きくなったね」", "vi": "\"Lâu không gặp, cháu lớn rồi nhỉ.\""}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 613,
+      "kanji": "ずっと",
+      "kana": "ずっと",
+      "en": "by far; very; all the time",
+      "kr": "줄곧, 쭉",
+      "vi": "hơn hẳn; suốt, liên tục",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "バスよりも地下鉄で行くほうがずっと速い。", "vi": "Đi tàu điện ngầm nhanh hơn hẳn xe buýt."},
+        {"ja": "太陽は地球よりもずっと大きい。", "vi": "Mặt trời lớn hơn Trái Đất rất nhiều."},
+        {"ja": "あの人とはずっと前に一度会ったことがある。", "vi": "Đã từng gặp người đó một lần rất lâu trước đây."},
+        {"ja": "ずっと遠くに船が小さく見える。", "vi": "Phía xa xa nhìn thấy một con tàu nhỏ."},
+        {"ja": "私は小さいころからずっとピアノを習っている。", "vi": "Tôi học piano từ nhỏ cho đến nay."},
+        {"ja": "きのうは体調が悪かったので、ずっと寝ていた。", "vi": "Hôm qua sức khỏe không tốt nên nằm suốt ngày."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 614,
+      "kanji": "相変わらず",
+      "kana": "あいかわらず",
+      "en": "as usual, unchanged",
+      "kr": "여전히",
+      "vi": "vẫn như cũ, vẫn thế",
+      "senses": [],
+      "examples": [
+        {"ja": "あの女優は、年を取った今でもあいかわらずきれいだ。", "vi": "Nữ diễn viên đó dù đã già đi giờ vẫn đẹp như xưa."},
+        {"ja": "久しぶりに会ったが、彼女の気の強さはあいかわらずだった。", "vi": "Lâu ngày gặp lại nhưng tính cứng đầu của cô ấy vẫn chẳng đổi."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 615,
+      "kanji": "次々に/と",
+      "kana": "つぎつぎに/と",
+      "en": "one after another",
+      "kr": "잇따라, 연이어",
+      "vi": "lần lượt, nối tiếp nhau",
+      "senses": [],
+      "examples": [
+        {"ja": "新しいタイプのインスタント食品が次々に開発されている。", "vi": "Các loại thực phẩm ăn liền kiểu mới lần lượt được phát triển."},
+        {"ja": "あの小説家は次々と新しい作品を発表している。", "vi": "Nhà văn đó liên tiếp cho ra mắt tác phẩm mới."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 616,
+      "kanji": "どんどん",
+      "kana": "どんどん",
+      "en": "steadily; farther and farther; more and more; bang",
+      "kr": "점점, 계속",
+      "vi": "càng ngày càng, hanh thông; tiếng gõ thình thịch",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "きょうは体調もよく、仕事がどんどん進んだ。", "vi": "Hôm nay sức khỏe tốt nên việc tiến triển nhanh gọn."},
+        {"ja": "「待って」と頼んでも、彼はどんどん先に行ってしまった。", "vi": "Dù nài nỉ \"chờ đã\" thì anh ấy vẫn cứ đi thẳng lên trước."},
+        {"ja": "「おなかがすいてるでしょ。どんどん食べて」", "vi": "\"Đói bụng rồi đúng không? Cứ ăn thoải mái đi.\""},
+        {"ja": "ドンドンとドアをノックする大きな音が聞こえた。", "vi": "Nghe thấy tiếng gõ cửa \"thình thịch\" rất lớn."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 617,
+      "kanji": "ますます",
+      "kana": "ますます",
+      "en": "increasingly, more and more",
+      "kr": "갈수록, 점점",
+      "vi": "ngày càng, càng thêm",
+      "senses": [],
+      "examples": [
+        {"ja": "朝から降っていた雨は、午後になるとますます強くなった。", "vi": "Cơn mưa từ sáng, đến buổi chiều càng lúc càng to."},
+        {"ja": "「彼女、子どものころからかわいかったけど、最近ますますきれいになったね」", "vi": "\"Cô ấy từ nhỏ đã dễ thương, dạo này càng ngày càng xinh nhỉ.\""}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 618,
+      "kanji": "やっと",
+      "kana": "やっと",
+      "en": "finally; barely",
+      "kr": "마침내, 겨우",
+      "vi": "cuối cùng, mãi mới; suýt soát",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "30分も待って、やっとバスが来た。", "vi": "Chờ đến 30 phút xe buýt cuối cùng cũng đến."},
+        {"ja": "ずいぶん探して、やっと(のことで)目的地に着くことができた。", "vi": "Tìm mãi mới đến được đích."},
+        {"ja": "安い給料しかもらっていないので、生活が苦しく、食べていくのがやっとだ。", "vi": "Chỉ nhận lương rẻ mạt nên cuộc sống khó khăn, chỉ đủ ăn qua ngày."},
+        {"ja": "うちの子はまだ小さくて、電車のつり革にやっと手が届くぐらいの身長です。", "vi": "Con tôi còn nhỏ, chiều cao chỉ vừa đủ với tới tay nắm trên tàu."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 619,
+      "kanji": "とうとう",
+      "kana": "とうとう",
+      "en": "finally; at long last, after all",
+      "kr": "마침내, 결국",
+      "vi": "cuối cùng, sau tất cả",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "長い間使っていた洗たく機がとうとう壊れてしまった。", "vi": "Máy giặt dùng bấy lâu cuối cùng cũng hỏng."},
+        {"ja": "とうとう人間が月へ行く日がやって来た。", "vi": "Cuối cùng thì ngày con người lên mặt trăng cũng đến."},
+        {"ja": "3時間待ったが、彼はとうとう来なかった。", "vi": "Chờ 3 tiếng nhưng cuối cùng anh ấy vẫn không đến."}
+      ],
+      "related": [],
+      "notes": "※否定的な表現といっしょに使う。"
+    },
+    {
+      "no": 620,
+      "kanji": "ついに",
+      "kana": "ついに",
+      "en": "at long last, in the end",
+      "kr": "마침내",
+      "vi": "cuối cùng, rốt cuộc",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "若いころからの夢をついに実現することができた。", "vi": "Cuối cùng đã thực hiện được ước mơ từ thuở trẻ."},
+        {"ja": "兄は土日も休まず働き続け、ついに過労で倒れてしまった。", "vi": "Anh trai làm việc liên tục cả thứ bảy chủ nhật, cuối cùng vì làm quá sức mà gục ngã."},
+        {"ja": "がんばって練習したが、ついに全国大会に出場することはできなかった。", "vi": "Đã cố gắng tập luyện nhưng rốt cuộc vẫn không thể tham dự giải toàn quốc."}
+      ],
+      "related": [],
+      "notes": "※否定的な表現といっしょに使う。"
+    },
+    {
+      "no": 621,
+      "kanji": "もちろん",
+      "kana": "もちろん",
+      "en": "of course, naturally",
+      "kr": "당연, 물론",
+      "vi": "dĩ nhiên, đương nhiên",
+      "senses": [],
+      "examples": [
+        {"ja": "マンションを買った。もちろん、ローンだ。", "vi": "Đã mua chung cư. Tất nhiên là mua trả góp."},
+        {"ja": "「あしたのパーティーに行く?」「もちろん」", "vi": "\"Mai đi dự tiệc không?\" \"Tất nhiên.\""},
+        {"ja": "彼は中国に10年住んでいたから、もちろん中国語が話せるはずだ。", "vi": "Anh ấy sống ở Trung Quốc 10 năm nên chắc chắn nói được tiếng Trung."}
+      ],
+      "related": [{"type": "類", "text": "当然 → 287"}],
+      "notes": ""
+    },
+    {
+      "no": 622,
+      "kanji": "やはり",
+      "kana": "やはり",
+      "en": "as expected; still; after all",
+      "kr": "역시",
+      "vi": "quả nhiên; vẫn, dù sao",
+      "senses": ["①", "②", "③"],
+      "examples": [
+        {"ja": "やはりAチームが勝った。予想通りだった。", "vi": "Quả nhiên đội A thắng. Đúng như dự đoán."},
+        {"ja": "「Bが犯人だったそうだ」「やっぱりね」", "vi": "\"Nghe nói B là thủ phạm.\" \"Quả nhiên rồi.\""},
+        {"ja": "「私のふるさとでは、今でもやはり旧暦で正月を祝うんです」", "vi": "\"Ở quê tôi, đến giờ vẫn ăn Tết theo âm lịch.\""},
+        {"ja": "「赤いのがいいなあ。あ、黒いのもいいかなあ……やっぱり赤いのにしよう」", "vi": "\"Màu đỏ đẹp nhỉ. À, màu đen cũng được... Thôi thì vẫn chọn màu đỏ vậy.\""}
+      ],
+      "related": [],
+      "notes": "※「やっぱり」は「やはり」の会話的な言葉。"
+    },
+    {
+      "no": 623,
+      "kanji": "きっと",
+      "kana": "きっと",
+      "en": "certainly; without fail",
+      "kr": "틀림없이",
+      "vi": "chắc chắn, nhất định",
+      "senses": ["①", "②"],
+      "examples": [
+        {"ja": "田中さんはいつも遅刻するから、きょうもきっと遅れてくるだろう。", "vi": "Tanaka lúc nào cũng trễ, hôm nay chắc chắn cũng sẽ trễ."},
+        {"ja": "「あなたなら、きっと合格できますよ」", "vi": "\"Nếu là bạn thì chắc chắn đậu.\""},
+        {"ja": "(お金を貸してくれた友人に)「来週にはきっと返すよ」", "vi": "(Với người bạn cho vay) \"Tuần sau nhất định sẽ trả.\""},
+        {"ja": "(帰国する友人に)「今度日本へ来たら、うちに泊まってください。きっとですよ」", "vi": "(Với người bạn về nước) \"Lần nào sang Nhật cứ nghỉ nhà tôi nhé. Nhất định đấy.\""}
+      ],
+      "related": [{"type": "類", "text": "①②必ず"}],
+      "notes": ""
+    },
+    {
+      "no": 624,
+      "kanji": "ぜひ",
+      "kana": "ぜひ",
+      "en": "really (want to do), by all means",
+      "kr": "꼭",
+      "vi": "nhất định, nhất quyết",
+      "senses": [],
+      "examples": [
+        {"ja": "若いときに、ぜひ留学したいと思っている。", "vi": "Tôi nhất định muốn du học khi còn trẻ."},
+        {"ja": "「日本へいらっしゃったら、ぜひ私のうちに泊まってください」", "vi": "\"Khi đến Nhật, nhất định hãy nghỉ nhà tôi.\""}
+      ],
+      "related": [],
+      "notes": "※文中で、「~たい」「~てほしい」「~てください」といっしょに使う。"
+    },
+    {
+      "no": 625,
+      "kanji": "なるべく",
+      "kana": "なるべく",
+      "en": "as much as possible",
+      "kr": "될수 있는 대로",
+      "vi": "hết sức, cố gắng, càng... càng tốt",
+      "senses": [],
+      "examples": [
+        {"ja": "「なるべく辞書を見ないで、この本を読んでみてください」", "vi": "\"Hãy cố gắng đọc quyển sách này mà không tra từ điển.\""},
+        {"ja": "かぜはやっているときは、人の多いところへはなるべく行かないほうがいい。", "vi": "Mùa cúm lan, tốt nhất là hết sức tránh đến chỗ đông người."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 626,
+      "kanji": "案外",
+      "kana": "あんがい",
+      "en": "surprisingly",
+      "kr": "뜻밖에, 의외",
+      "vi": "ngoài dự đoán, bất ngờ",
+      "senses": [],
+      "examples": [
+        {"ja": "きょうは天気がくずんでいるが、案外暖かい。", "vi": "Hôm nay thời tiết đồn thế nhưng ngoài dự đoán lại ấm."},
+        {"ja": "道が込んでいたが、案外早く着いた。", "vi": "Đường đông nhưng lại đến sớm bất ngờ."}
+      ],
+      "related": [{"type": "類", "text": "意外に → 288"}],
+      "notes": "※後ろに動詞が続くことは少ない。×案外合格した、×案外来た。"
+    }
+  ],
+  "columns": [],
+  "exercises": [
+    {
+      "type": "I (助詞を書きなさい)",
+      "range": "551~590",
+      "book_page": 128,
+      "questions": [
+        {"no": 1, "text": "私は田中さん( )親しい。", "options": [], "answer": null},
+        {"no": 2, "text": "彼女はアニメ( )くわしい。", "options": [], "answer": null},
+        {"no": 3, "text": "彼は時間( )正確だ。", "options": [], "answer": null},
+        {"no": 4, "text": "子ども( )必要なのは、温かい愛情だ。", "options": [], "answer": null},
+        {"no": 5, "text": "弟は父( )親がそっくりだ。", "options": [], "answer": null}
+      ]
+    },
+    {
+      "type": "II (正しいことばを[ ]の中から一つえらびなさい)",
+      "range": "551~590",
+      "book_page": 128,
+      "questions": [
+        {"no": 1, "text": "コーヒーが好きだ。", "options": ["こい", "強い", "ゆたか"], "answer": null},
+        {"no": 2, "text": "階段が[ ]のぼりづらい。", "options": ["急", "ひどくて", "はげしくて"], "answer": null},
+        {"no": 3, "text": "いじめは[ ]犯罪だ。", "options": ["ゆたか", "りっぱな", "てきとうな"], "answer": null},
+        {"no": 4, "text": "[ ]お金がなかったので、両替してもらった。", "options": ["少ない", "小さな", "細かい"], "answer": null},
+        {"no": 5, "text": "口が[ ]人には、秘密を話してもいい。", "options": ["かたい", "強い", "動かない"], "answer": null},
+        {"no": 6, "text": "台風は、関東地方に上陸する[ ]性が高い。", "options": ["意外", "可能", "積極"], "answer": null},
+        {"no": 7, "text": "車を買うことになったので、お金を準備する[ ]がある。", "options": ["必要", "重要", "自由"], "answer": null}
+      ]
+    },
+    {
+      "type": "III (( )に入ることばを下からえらんで書きなさい。( )の数字はえらぶ数です。二度使うことばもあります)",
+      "range": "551~590",
+      "book_page": 128,
+      "questions": [
+        {"no": 1, "text": "( )があさい。(4)", "options": ["色", "痛み", "化粧", "海", "考え", "経験", "自然", "眠り", "表情", "文章", "変化"], "answer": null},
+        {"no": 2, "text": "( )がうすい。(2)", "options": ["色", "痛み", "化粧", "海", "考え", "経験", "自然", "眠り", "表情", "文章", "変化"], "answer": null},
+        {"no": 3, "text": "( )がかたい。(2)", "options": ["色", "痛み", "化粧", "海", "考え", "経験", "自然", "眠り", "表情", "文章", "変化"], "answer": null},
+        {"no": 4, "text": "( )がはげしい。(2)", "options": ["色", "痛み", "化粧", "海", "考え", "経験", "自然", "眠り", "表情", "文章", "変化"], "answer": null},
+        {"no": 5, "text": "( )がゆたかだ。(3)", "options": ["色", "痛み", "化粧", "海", "考え", "経験", "自然", "眠り", "表情", "文章", "変化"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV A (( )に入ることばを下からえらんで書きなさい)",
+      "range": "551~590",
+      "book_page": 129,
+      "questions": [
+        {"no": 1, "text": "太陽が( )。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 2, "text": "梅雨の時期は( )。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 3, "text": "姉は、さっきから何か様子が( )。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 4, "text": "あの先輩は( )ので人気がある。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 5, "text": "時間がたってお茶が( )なってしまった。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 6, "text": "このオレンジは( )すぎて食べられない。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 7, "text": "この部屋は長い間使っていないので、かび( )。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 8, "text": "流行遅れでも、まだ着られる服を捨てるのは( )。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null},
+        {"no": 9, "text": "最近、仕事が( )いかなくて悩んでいる。", "options": ["うまい", "おかしい", "かっこいい", "くさい", "すっぱい", "ぬるい", "まぶしい", "むしあつい", "もったいない"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV B (( )に入ることばを下からえらんで書きなさい)",
+      "range": "551~590",
+      "book_page": 129,
+      "questions": [
+        {"no": 1, "text": "( )魚は刺身にできる。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 2, "text": "この地方は農業が( )。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 3, "text": "( )国から留学生がやって来る。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 4, "text": "事情があって家族が( )暮らしている。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 5, "text": "( )トイレは使っていて気持ちがいい。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 6, "text": "長い間使っている座布団が( )くなった。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 7, "text": "「3年の間に大地震が起こりそうです」「それは( )ですね」", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null},
+        {"no": 8, "text": "あの俳優は国内では有名だが、( )は無名だ。", "options": ["こわい", "さかん", "かいがい", "しんせん", "せいけつ", "たしか", "はなればなれ", "ぽろぽろ"], "answer": null}
+      ]
+    },
+    {
+      "type": "IV C (( )に入ることばを下からえらんで書きなさい)",
+      "range": "551~590",
+      "book_page": 129,
+      "questions": [
+        {"no": 1, "text": "彼の話に( )だまされた。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 2, "text": "( )帰国することが決まった。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 3, "text": "仕事の間に( )休憩をとった。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 4, "text": "15歳の子どもが( )大学への入学を許された。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 5, "text": "彼は最後まで( )リーダーの責任をはたした。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 6, "text": "お酒を飲んで運転することは( )禁止されている。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 7, "text": "「映画はどうだった?」「( )おもしろかったよ」", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null},
+        {"no": 8, "text": "うちの会社は、( )9時から6時までが勤務時間だ。", "options": ["かたい", "かんぜん", "きゅうきょ", "きほんてき", "すごい", "てきとう", "とくべつ", "りっぱ"], "answer": null}
+      ]
+    },
+    {
+      "type": "I (( )に入れるのに最もよいものを、a・b・c・dから一つえらびなさい)",
+      "range": "259~298/551~590",
+      "book_page": 130,
+      "questions": [
+        {"no": 1, "text": "姉は( )趣味のダンスをやっている。", "options": ["a 得意に", "b 熱心に", "c 満足に", "d 夢中に"], "answer": null},
+        {"no": 2, "text": "彼は友だちは多いが、恋愛には( )。", "options": ["a おとなしい", "b 地味だ", "c 消極的だ", "d 苦手だ"], "answer": null},
+        {"no": 3, "text": "マッサージをしてもらったら、体が( )。", "options": ["a 元気に", "b やわらかく", "c ぬるく", "d 楽に"], "answer": null},
+        {"no": 4, "text": "「100メートルを9秒8で走るとは、( )記録ですね」", "options": ["a 大きい", "b すごい", "c ひどい", "d 激しい"], "answer": null},
+        {"no": 5, "text": "カラオケの嫌いな彼が、むかし歌手だったとは( )。", "options": ["a 案外だ", "b 不可能だ", "c 意外だ", "d 当然だ"], "answer": null},
+        {"no": 6, "text": "地震で水が止まって、しばらく( )生活をした。", "options": ["a 不自由な", "b 完全な", "c 不必要な", "d 不満な"], "answer": null},
+        {"no": 7, "text": "このカーブは( )ので、スピードを出すと危ない。", "options": ["a かたい", "b ぎこちない", "c 急な", "d 強い"], "answer": null},
+        {"no": 8, "text": "このオフィスで一番パソコンに( )のは、山本さんだ。", "options": ["a くわしい", "b 細かい", "c うまい", "d 得意な"], "answer": null},
+        {"no": 9, "text": "先生は時間に( )、毎朝9時きっかりに教室に入る。", "options": ["a 確実で", "b 正確で", "c 確かで", "d 正しくて"], "answer": null},
+        {"no": 10, "text": "(店で)「一度使用した商品をお返しになることは、( )おことわりします」", "options": ["a かたく", "b きびしく", "c 強く", "d はげしく"], "answer": null}
+      ]
+    },
+    {
+      "type": "II (__に意味が最も近いものを、a・b・c・dから一つえらびなさい)",
+      "range": "259~298/551~590",
+      "book_page": 130,
+      "questions": [
+        {"no": 1, "text": "この子は正直だ。", "options": ["a 頭がいい", "b うそをつかない", "c がまんづよい", "d まじめだ"], "answer": null},
+        {"no": 2, "text": "私の仕事は楽だ。", "options": ["a おもしろい", "b 少ない", "c 簡単だ", "d 楽しい"], "answer": null},
+        {"no": 3, "text": "彼は高橋さんと親しい。", "options": ["a 仲が整う", "b 近所づきあいだ", "c 親せきだ", "d 仲がいい"], "answer": null},
+        {"no": 4, "text": "ジュースがぬるくなった。", "options": ["a 温まった", "b 熱くなった", "c 凍った", "d 冷えた"], "answer": null}
+      ]
+    },
+    {
+      "type": "II (つづき)",
+      "range": "259~298/551~590",
+      "book_page": 131,
+      "questions": [
+        {"no": 5, "text": "こんな課題は学生には無理だ。", "options": ["a いやがる", "b 不可能だ", "c やさしくない", "d 理由がない"], "answer": null}
+      ]
+    },
+    {
+      "type": "III (つぎのことばの言い方として最もよいものを、一つえらびなさい)",
+      "range": "259~298/551~590",
+      "book_page": 131,
+      "questions": [
+        {"no": 1, "text": "清潔な", "options": ["a このタオルはとても清潔だ。", "b 彼は清潔な心を持っている。", "c きょうは、空が清潔に晴れている。", "d この川の水は清潔で、水の底まで見える。"], "answer": null},
+        {"no": 2, "text": "増える", "options": ["a 日本に住む外国人の数は、年々増えるようになっている。", "b 秋は食べものがおいしくて、食事の量が増える。", "c 1杯食べたら、おなかが増えた。", "d 彼女は昔からきれいだったが、最近さらに増えた。"], "answer": null},
+        {"no": 3, "text": "盛んな", "options": ["a 焼き肉の火が弱かったので、もっと盛んにした。", "b 将来のために、お金を盛んに貯金しようと決めた。", "c 二十歳の誕生日に、盛んなパーティーを開いた。", "d 大学で留学生と日本人学生の交流が盛んに行われている。"], "answer": null},
+        {"no": 4, "text": "うらやましい", "options": ["a テストで1回だけできなくて、うらやましい。", "b むかし一緒に遊んだ友だちも、今でもうらやましい。", "c あの人はいつも私のじゃまをするので、うらやましい。", "d 友人の会社は給料がよくて休みも多いそうで、うらやましい。"], "answer": null},
+        {"no": 5, "text": "おとなしい", "options": ["a 彼女は、いつもと違ってきょうはおとなしい服を着ている。", "b この子は、小学生とは思えないおとなしい考え方をする。", "c 友だからけんかをした、いつもおとなしいことを言ってしまった。", "d おいなりうさぎに会うと、すっかりおとなしい年になっていた。"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 129, "book_page": 128, "unit_title": "Unit 07 形容詞B 551~590 練習問題I (Step 2)"},
+    {"pdf_page": 130, "book_page": 129, "unit_title": "Unit 07 形容詞B 練習問題I IV (つづき)"},
+    {"pdf_page": 131, "book_page": 130, "unit_title": "Unit 03/07 形容詞A・B 259~298/551~590 練習問題II (Step 2)"},
+    {"pdf_page": 132, "book_page": 131, "unit_title": "Unit 03/07 練習問題II III (つづき)"},
+    {"pdf_page": 133, "book_page": 132, "unit_title": "Unit 08 副詞A 591~635 (Step 2)"}
+  ]
+}

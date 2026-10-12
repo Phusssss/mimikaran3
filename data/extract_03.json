@@ -1,0 +1,877 @@
+{
+  "pdf_pages": "29-38",
+  "words": [
+    {
+      "no": 121,
+      "kanji": "渇く",
+      "kana": "かわく",
+      "en": "become thirsty/parched",
+      "kr": "마르다",
+      "vi": "khát (nước)",
+      "senses": [],
+      "examples": [
+        {"ja": "のどが渇いた。", "vi": "Tôi khát cổ."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 122,
+      "kanji": "嗅ぐ",
+      "kana": "かぐ",
+      "en": "smell",
+      "kr": "냄새",
+      "vi": "ngửi",
+      "senses": [],
+      "examples": [
+        {"ja": "においをかぐ。", "vi": "Ngửi mùi."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 123,
+      "kanji": "叩く",
+      "kana": "たたく",
+      "en": "spank, tap, knock; clap",
+      "kr": "두드리다, 치다",
+      "vi": "đánh, gõ, vỗ",
+      "senses": ["①（体・物を）叩く", "②（拍手として）手を叩く"],
+      "examples": [
+        {"ja": "子どものおしりをたたく。", "vi": "Đánh vào mông trẻ."},
+        {"ja": "隣の人の肩をたたく。", "vi": "Vỗ vai người ngồi bên cạnh."},
+        {"ja": "ドアをたたく。", "vi": "Gõ cửa."},
+        {"ja": "スピーチが終わったので、手をたたいた。", "vi": "Vì bài phát biểu đã xong nên tôi vỗ tay."}
+      ],
+      "related": [
+        {"type": "関", "text": "（判読不能）"}
+      ],
+      "notes": "Hộp 関 ở mục 123 in chữ rất nhỏ, không đọc rõ được (nhân vật giống 「叩訴る」)."
+    },
+    {
+      "no": 124,
+      "kanji": "殴る",
+      "kana": "なぐる",
+      "en": "punch",
+      "kr": "때리다",
+      "vi": "đấm, đánh",
+      "senses": [],
+      "examples": [
+        {"ja": "教師が生徒をなぐって、問題になっている。", "vi": "Giáo viên đánh học sinh nên đang thành vấn đề."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 125,
+      "kanji": "蹴る",
+      "kana": "ける",
+      "en": "kick",
+      "kr": "차다",
+      "vi": "đá",
+      "senses": [],
+      "examples": [
+        {"ja": "ボールをける。", "vi": "Đá bóng."},
+        {"ja": "彼は怒るとなぐったりけったりする。", "vi": "Anh ấy khi giận thì đấm đá tuốt luốt."}
+      ],
+      "related": [
+        {"type": "関", "text": "（判読不能）"}
+      ],
+      "notes": "Hộp 関 ở mục 125 in chữ nhỏ, không đọc rõ được (nhân vật giống 「仰く」)."
+    },
+    {
+      "no": 126,
+      "kanji": "抱く",
+      "kana": "だく",
+      "en": "hold, hug",
+      "kr": "안다",
+      "vi": "ôm, ôm lấy",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもを両手でしっかりと抱く。", "vi": "Ôm chặt trẻ bằng hai tay."},
+        {"ja": "恋人の肩を抱く。", "vi": "Ôm lấy vai người yêu."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 127,
+      "kanji": "倒れる（自）",
+      "kana": "たおれる",
+      "en": "fall over, collapse",
+      "kr": "쓰러지다",
+      "vi": "đổ, ngã, gục ngã",
+      "senses": ["①（物が）倒れる", "②（人が）倒れる・気を失う"],
+      "examples": [
+        {"ja": "台風で木が倒れた。", "vi": "Vì bão nên cây bị đổ."},
+        {"ja": "道で倒れている人を助けた。", "vi": "Tôi đã cứu người đang ngã trên đường."},
+        {"ja": "父は働きすぎてたおれてしまった。", "vi": "Bố tôi làm việc quá sức nên đã gục ngã."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 128,
+      "kanji": "倒す（他）",
+      "kana": "たおす",
+      "en": "knock over; defeat",
+      "kr": "쓰러뜨리다, 눕히다",
+      "vi": "làm đổ, đánh đổ",
+      "senses": ["①（物を）倒す", "②（人・チームを）負かす"],
+      "examples": [
+        {"ja": "花びんを倒して割ってしまった。", "vi": "Tôi đã làm đổ bình hoa và làm vỡ mất."},
+        {"ja": "ボクシングでチャンピオンをたおした。", "vi": "Đã hạ nhà vô địch trong môn quyền anh."},
+        {"ja": "3対2で日本チームがブラジルチームにたおされた。", "vi": "Đội Nhật đã thua đội Brazil với tỉ số 3-2."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 129,
+      "kanji": "起きる／起こる（自）",
+      "kana": "おきる／おこる",
+      "en": "wake up; stay up; occur, arise",
+      "kr": "일어나다, 발생하다",
+      "vi": "thức dậy; thức đến khuya; xảy ra",
+      "senses": ["①起きる：目が覚める／寝ないでいる", "②（事件などが）起こる／起きる"],
+      "examples": [
+        {"ja": "きょうは8時に起きた。", "vi": "Hôm nay tôi dậy lúc 8 giờ."},
+        {"ja": "父は毎晩遅くまで起きているようだ。", "vi": "Hình như bố tôi đêm nào cũng thức đến khuya."},
+        {"ja": "きのう、教室でちょっとした事件が〔起きた／起こった〕。", "vi": "Hôm qua, một sự việc nhỏ đã xảy ra trong lớp học."},
+        {"ja": "最近おこる悪い気が〔起きやすい／起こりやすい〕。", "vi": "Gần đây, khí xấu dễ trỗi dậy (dễ phát sinh)."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 130,
+      "kanji": "起こす（他）",
+      "kana": "おこす",
+      "en": "wake (someone) up; stand (something) up; cause",
+      "kr": "일으키다, 세우다",
+      "vi": "đánh thức; dựng lên; gây ra",
+      "senses": ["①（寝ている人を）起こす", "②（倒れた物を）起こす", "③（事故・事件などを）起こす"],
+      "examples": [
+        {"ja": "うちの子は朝起こしてもなかなか起きない。", "vi": "Con tôi buổi sáng đánh thức mấy cũng khó dậy."},
+        {"ja": "倒れていた自転車を起こした。", "vi": "Tôi đã dựng chiếc xe đạp bị ngã lên."},
+        {"ja": "事故／事件／問題／裁判 …を起こす。", "vi": "Gây ra tai nạn / vụ án / vấn đề / kiện tụng..."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 131,
+      "kanji": "尋ねる",
+      "kana": "たずねる",
+      "en": "ask",
+      "kr": "묻다",
+      "vi": "hỏi",
+      "senses": [],
+      "examples": [
+        {"ja": "交番で警官に市役所までの道をたずねた。", "vi": "Tôi đã hỏi cảnh sát ở đồn cảnh sát về đường đến toà thị chính."},
+        {"ja": "「ちょっとおたずねしますが……」", "vi": "'Xin phép hỏi một chút...'"}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 132,
+      "kanji": "呼ぶ",
+      "kana": "よぶ",
+      "en": "call; summon; attract",
+      "kr": "부르다, 불러들이다",
+      "vi": "gọi; gọi đến; gọi là; thu hút",
+      "senses": ["①（名前を）呼ぶ", "②（人を）呼んで来る", "③（名前を付けて）～と呼ぶ", "④（人気・話題・議論を）呼ぶ"],
+      "examples": [
+        {"ja": "「名前を呼ばれたら返事をしてください」", "vi": "'Khi được gọi tên thì hãy trả lời.'"},
+        {"ja": "「タクシー／医者」を呼ぶ。", "vi": "Gọi taxi / bác sĩ."},
+        {"ja": "田中さん、ちょっと山本さんを呼んできてください。", "vi": "Tanaka-san, làm ơn gọi Yamamoto-san đến giúp."},
+        {"ja": "私は彼を「カンちゃん」と呼んでいる。", "vi": "Tôi gọi anh ấy là 'Kan-chan'."},
+        {"ja": "東京は昔は江戸と呼ばれていた。", "vi": "Ngày xưa Tokyo được gọi là Edo."},
+        {"ja": "人気／話題／議論を呼ぶ。", "vi": "Gây tiếng vang / trở thành chủ đề / gây tranh luận."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 133,
+      "kanji": "叫ぶ",
+      "kana": "さけぶ",
+      "en": "yell",
+      "kr": "외치다",
+      "vi": "hét, gào lên",
+      "senses": [],
+      "examples": [
+        {"ja": "大声で叫んだが、相手は気づかずに行ってしまった。", "vi": "Tôi đã hét to nhưng người ấy không hay biết và đi mất."},
+        {"ja": "道に迷っていたら、「助けてー」と叫ぶ声が聞こえた。", "vi": "Khi đang lạc đường, tôi nghe thấy tiếng hét 'Cứu với!'"}
+      ],
+      "related": [
+        {"type": "合", "text": "叫び声"}
+      ],
+      "notes": "(名) 叫び"
+    },
+    {
+      "no": 134,
+      "kanji": "黙る",
+      "kana": "だまる",
+      "en": "be silent; do without permission",
+      "kr": "말이 없다, 무단으로 하다",
+      "vi": "im lặng; tự tiện làm mà không xin phép",
+      "senses": ["①黙る・黙って～する", "②黙って～する（無断で）"],
+      "examples": [
+        {"ja": "先生が質問したが、だまって答えないでいる。", "vi": "Thầy đã hỏi nhưng nó im lặng không trả lời."},
+        {"ja": "「うるさい。だまれ」", "vi": "'Phiền quá. Câm miệng.'"},
+        {"ja": "授業中だまって教室を出てはいけない。", "vi": "Không được tự tiện rời khỏi lớp trong giờ học."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 135,
+      "kanji": "飼う",
+      "kana": "かう",
+      "en": "keep (a pet)",
+      "kr": "기르다",
+      "vi": "nuôi (vật nuôi)",
+      "senses": [],
+      "examples": [
+        {"ja": "何かペットを飼いたいと思っている。", "vi": "Tôi đang muốn nuôi một con vật nào đó."}
+      ],
+      "related": [
+        {"type": "合", "text": "飼い主"},
+        {"type": "関", "text": "えさ"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 136,
+      "kanji": "数える",
+      "kana": "かぞえる",
+      "en": "count; number among",
+      "kr": "세다, 손꼽다",
+      "vi": "đếm; được tính là",
+      "senses": ["①数を数える", "②（一つに）数えられる"],
+      "examples": [
+        {"ja": "数を数える。", "vi": "Đếm số."},
+        {"ja": "「いすがいくつあるか、数えてください」", "vi": "'Hãy đếm xem có bao nhiêu cái ghế.'"},
+        {"ja": "この寺は、日本で最も古い寺の一つに数えられている。", "vi": "Chùa này được xem là một trong những ngôi chùa cổ nhất Nhật Bản."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 137,
+      "kanji": "乾く（自）",
+      "kana": "かわく",
+      "en": "dry",
+      "kr": "마르다, 건조되다",
+      "vi": "khô",
+      "senses": [],
+      "examples": [
+        {"ja": "風が強かったので、外に干した洗たく物はすぐに乾いた。", "vi": "Vì gió mạnh nên đồ giặt phơi ngoài trời nhanh khô."},
+        {"ja": "乾いたタオルで体をふいた。", "vi": "Tôi lau người bằng khăn khô."},
+        {"ja": "「空気／インク」が乾く。", "vi": "Không khí / mực khô đi."}
+      ],
+      "related": [],
+      "notes": "(名) 乾き→ _が速い／遅い"
+    },
+    {
+      "no": 138,
+      "kanji": "乾かす（他）",
+      "kana": "かわかす",
+      "en": "dry",
+      "kr": "말리다",
+      "vi": "làm khô",
+      "senses": [],
+      "examples": [
+        {"ja": "ドライヤーでぬれた髪を乾かした。", "vi": "Tôi đã sấy tóc ướt bằng máy sấy."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 139,
+      "kanji": "畳む",
+      "kana": "たたむ",
+      "en": "fold",
+      "kr": "개다, 접다",
+      "vi": "gấp lại",
+      "senses": [],
+      "examples": [
+        {"ja": "洗たく物をたたむ。", "vi": "Gấp đồ giặt."},
+        {"ja": "かさをたたんでバッグに入れる。", "vi": "Gấp ô lại rồi bỏ vào cặp."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 140,
+      "kanji": "誘う",
+      "kana": "さそう",
+      "en": "invite",
+      "kr": "권하다, 초대하다",
+      "vi": "rủ, mời",
+      "senses": [],
+      "examples": [
+        {"ja": "友だちを誘って映画を見に行った。", "vi": "Tôi đã rủ bạn đi xem phim."},
+        {"ja": "今度、彼女を食事に誘おうと思う。", "vi": "Lần này tôi định mời cô ấy đi ăn."}
+      ],
+      "related": [],
+      "notes": "(名) 誘い→ _を受ける／断る"
+    },
+    {
+      "no": 141,
+      "kanji": "おごる（ニ+ラおごる）",
+      "kana": "おごる",
+      "en": "treat to (something)",
+      "kr": "사다, 한턱내다",
+      "vi": "đãi (ăn)",
+      "senses": [],
+      "examples": [
+        {"ja": "きょうは後輩に焼き肉をおごった。", "vi": "Hôm nay tôi đã đãi hậu bối ăn thịt nướng."}
+      ],
+      "related": [],
+      "notes": "ニ+ラ：～に～をおごる。(名) おごり（例: きょうの飲み会は課長のおごりだった。）"
+    },
+    {
+      "no": 142,
+      "kanji": "預かる",
+      "kana": "あずかる",
+      "en": "look after",
+      "kr": "맡다",
+      "vi": "giúp giữ, trông giữ",
+      "senses": [],
+      "examples": [
+        {"ja": "旅行に行く友だちから犬を預かることになった。", "vi": "Tôi nhận trông giúp con chó của người bạn đi du lịch."}
+      ],
+      "related": [
+        {"type": "対", "text": "ニ+ラ預ける"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 143,
+      "kanji": "預ける（ニ+ラ預ける）",
+      "kana": "あずける",
+      "en": "deposit, put in the care of",
+      "kr": "맡기다",
+      "vi": "gửi (tiền, con, đồ)",
+      "senses": [],
+      "examples": [
+        {"ja": "銀行にお金を預けると、利子がつく。", "vi": "Nếu gửi tiền vào ngân hàng thì có lãi."},
+        {"ja": "保育園に子どもを預けて働く。", "vi": "Gửi con ở nhà trẻ rồi đi làm."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ預かる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 144,
+      "kanji": "決まる（自）",
+      "kana": "きまる",
+      "en": "be decided; be set; be done perfectly",
+      "kr": "정해지다, 결정되다",
+      "vi": "được quyết định; vào đẹp (cú sút...)",
+      "senses": ["①（日・行き先などが）決まる", "②決まった～（いつも同じ）", "③（合格・優勝などが）決まる", "④（シュートなどが）決まる"],
+      "examples": [
+        {"ja": "帰国の日が決まった。", "vi": "Ngày về nước đã được quyết định."},
+        {"ja": "みんなで話し合って、旅行の行き先は北海道に決まった。", "vi": "Sau khi cả nhóm bàn bạc, điểm đến của chuyến du lịch được quyết định là Hokkaido."},
+        {"ja": "父は毎朝決まった時間にうちを出て、決まった時間に帰ってくる。", "vi": "Bố tôi mỗi sáng ra khỏi nhà vào giờ nhất định và về nhà vào giờ nhất định."},
+        {"ja": "「合格／優勝／勝敗 …」が決まった。", "vi": "Kết quả đỗ đạt / vô địch / thắng thua... đã được định đoạt."},
+        {"ja": "（スポーツで）「シュート／ゴール／サービス／わざ …」が決まる。", "vi": "(Thể thao) cú sút / bàn thắng / quả giao bóng / đòn thế... vào đẹp."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 145,
+      "kanji": "決める（他）",
+      "kana": "きめる",
+      "en": "decide; always do; do perfectly",
+      "kr": "정하다, 결심하다",
+      "vi": "quyết định; ăn_mặc kiểu nhất định; ghi điểm, vào đẹp",
+      "senses": ["①（自分で）決める", "②～と決めている（いつも）", "③（シュートなどを）決める"],
+      "examples": [
+        {"ja": "「進学か就職か、早く決めたほうがいいですよ」", "vi": "'Học tiếp hay đi làm, tốt nhất là quyết định sớm đi.'"},
+        {"ja": "朝はパンにコーヒーと決めている。", "vi": "Buổi sáng nào tôi cũng ăn bánh mì với cà phê (đã quyết như thế)."},
+        {"ja": "（スポーツで）「シュート／ゴール／サービス／わざ …」を決める。", "vi": "(Thể thao) thực hiện thành công cú sút / bàn thắng / quả giao bóng / đòn thế..."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 146,
+      "kanji": "写る（自）",
+      "kana": "うつる",
+      "en": "(camera) takes (photos); (photo) comes out",
+      "kr": "찍히다",
+      "vi": "được chụp (lên ảnh); lên ảnh đẹp/xấu",
+      "senses": ["①（カメラに）写る", "②（写真がよく）写っている"],
+      "examples": [
+        {"ja": "このカメラは暗いところでもよく写る。", "vi": "Máy ảnh này ở nơi tối vẫn chụp rõ."},
+        {"ja": "「この写真、よく写っているね」", "vi": "'Tấm ảnh này chụp rõ đấy nhỉ.'"}
+      ],
+      "related": [],
+      "notes": "(名) ①②写り→ _がいい／悪い（例: 私は写真写りが悪い。）"
+    },
+    {
+      "no": 147,
+      "kanji": "写す（他）",
+      "kana": "うつす",
+      "en": "take (photos), capture (on film); copy",
+      "kr": "찍다, 옮기다",
+      "vi": "chụp (ảnh); chép lại",
+      "senses": ["①写真を写す", "②（字などを）写す"],
+      "examples": [
+        {"ja": "写真を写す。", "vi": "Chụp ảnh."},
+        {"ja": "すばらしい風景を写真に写した。", "vi": "Tôi đã chụp lại phong cảnh tuyệt đẹp."},
+        {"ja": "黒板の字をノートに写した。", "vi": "Tôi đã chép chữ trên bảng vào vở."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 148,
+      "kanji": "思い出す",
+      "kana": "おもいだす",
+      "en": "remember, recall",
+      "kr": "생각해 내다, 생각나다",
+      "vi": "nhớ ra",
+      "senses": [],
+      "examples": [
+        {"ja": "毎年春になると、高校や大学時代を思い出します。", "vi": "Cứ đến mùa xuân hằng năm tôi lại nhớ về thời cấp ba, thời đại học."},
+        {"ja": "忘れていたことを急に思い出した。", "vi": "Tôi chợt nhớ ra điều đã quên."},
+        {"ja": "最近、人の名前がなかなか思い出せない。", "vi": "Gần đây tôi mãi không nhớ ra tên của người khác."}
+      ],
+      "related": [
+        {"type": "関", "text": "思い出 (→58)"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 149,
+      "kanji": "教わる",
+      "kana": "おそわる",
+      "en": "learn",
+      "kr": "배우다",
+      "vi": "được dạy, học hỏi",
+      "senses": [],
+      "examples": [
+        {"ja": "この料理の作り方は母から／に教わりました。", "vi": "Cách làm món này tôi được mẹ chỉ dạy."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ教える"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 150,
+      "kanji": "申し込む",
+      "kana": "もうしこむ",
+      "en": "apply",
+      "kr": "신청하다",
+      "vi": "đăng ký, ngỏ ý (cầu hôn...)",
+      "senses": [],
+      "examples": [
+        {"ja": "パーティーに参加を申し込む。", "vi": "Đăng ký tham dự buổi tiệc."},
+        {"ja": "恋人に結婚を申し込む。", "vi": "Cầu hôn người yêu."}
+      ],
+      "related": [],
+      "notes": "(名) 申し込み"
+    },
+    {
+      "no": 151,
+      "kanji": "断る",
+      "kana": "ことわる",
+      "en": "decline; seek permission",
+      "kr": "거절하다, 허락을 받다",
+      "vi": "từ chối; xin phép trước",
+      "senses": ["①（頼みなどを）断る", "②断って～する（許可を得る）"],
+      "examples": [
+        {"ja": "頼まれた仕事を断った。", "vi": "Tôi đã từ chối việc được nhờ."},
+        {"ja": "借金を申し込んだが断られた。", "vi": "Tôi xin vay tiền nhưng bị từ chối."},
+        {"ja": "「すみません、この仕事はお断りさせていただきます」", "vi": "'Xin lỗi, công việc này xin được từ chối ạ.'"},
+        {"ja": "急用ができたので、先生に断って早退させてもらった。", "vi": "Vì có việc gấp nên tôi đã xin phép thầy cho về sớm."}
+      ],
+      "related": [],
+      "notes": "(名) ①②断り→ _を言う、何の_もない"
+    },
+    {
+      "no": 152,
+      "kanji": "見つかる（自）",
+      "kana": "みつかる",
+      "en": "be found; be caught (doing something)",
+      "kr": "발견되다, 걸리다",
+      "vi": "được tìm thấy; bị phát hiện",
+      "senses": [],
+      "examples": [
+        {"ja": "なくなったと思っていた指輪が、ソファーの下で／から見つかった。", "vi": "Chiếc nhẫn tưởng đã mất đã được tìm thấy dưới / từ dưới ghế sofa."},
+        {"ja": "高校生のとき、たばこを吸っていたら、先生に見つかっておこられた。", "vi": "Hồi cấp ba, đang hút thuốc thì bị thầy phát hiện và bị mắng."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 153,
+      "kanji": "見つける（他）",
+      "kana": "みつける",
+      "en": "find",
+      "kr": "찾아내다",
+      "vi": "tìm thấy, phát hiện",
+      "senses": [],
+      "examples": [
+        {"ja": "なくなったと思っていた指輪を、ソファーの下で見つけた。", "vi": "Tôi đã tìm thấy chiếc nhẫn tưởng đã mất ở dưới ghế sofa."}
+      ],
+      "related": [
+        {"type": "類", "text": "ラ発見する"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 154,
+      "kanji": "捕まる（自）",
+      "kana": "つかまる",
+      "en": "be arrested, caught; hold on to",
+      "kr": "잡히다, 붙잡다",
+      "vi": "bị bắt; nắm, bám vào",
+      "senses": ["①（犯人が）捕まる", "②（つり革に）つかまる"],
+      "examples": [
+        {"ja": "犯人が警察に捕まった。", "vi": "Tội phạm đã bị cảnh sát bắt."},
+        {"ja": "電車で立っているときはいつもつり革につかまっている。", "vi": "Khi đứng trên tàu, lúc nào tôi cũng nắm vào tay cầm."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 155,
+      "kanji": "捕まえる（他）",
+      "kana": "つかまえる",
+      "en": "arrest, catch",
+      "kr": "잡다",
+      "vi": "bắt, tóm",
+      "senses": [],
+      "examples": [
+        {"ja": "警察が泥棒を捕まえた。", "vi": "Cảnh sát đã tóm tên trộm."},
+        {"ja": "川で魚を捕まえる。", "vi": "Bắt cá ở sông."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 156,
+      "kanji": "乗る（自）",
+      "kana": "のる",
+      "en": "ride",
+      "kr": "타다",
+      "vi": "lên (xe), đi (xe)",
+      "senses": [],
+      "examples": [
+        {"ja": "毎朝、電車に乗って学校に通っている。", "vi": "Mỗi sáng tôi đi tàu đến trường."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ降りる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 157,
+      "kanji": "乗せる（他）",
+      "kana": "のせる",
+      "en": "give a ride, take on",
+      "kr": "태우다",
+      "vi": "cho (ai) lên xe, chở",
+      "senses": [],
+      "examples": [
+        {"ja": "子どもを車に乗せて、学校まで送って行った。", "vi": "Tôi cho trẻ lên xe và đưa đến tận trường."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ降ろす"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 158,
+      "kanji": "降りる／下りる（自）",
+      "kana": "おりる",
+      "en": "get off; go down; be shut; receive (approval, etc.)",
+      "kr": "내리다, 내려오다",
+      "vi": "xuống (xe); đi xuống; (cửa cuốn) hạ xuống; được cấp (phép)",
+      "senses": ["①（電車を）降りる", "②（階段を）下りる", "③（シャッターが）下りる", "④（許可が）下りる"],
+      "examples": [
+        {"ja": "電車を降りる。", "vi": "Xuống tàu."},
+        {"ja": "2階から1階に下りる。", "vi": "Từ tầng 2 xuống tầng 1."},
+        {"ja": "階段を下りる。", "vi": "Đi xuống cầu thang."},
+        {"ja": "景気が悪いらしく、シャッターの下りた店が多い。", "vi": "Hình như kinh tế kém nên nhiều cửa hàng đã hạ cửa cuốn."},
+        {"ja": "何度も頼んで、やっと許可が下りた。", "vi": "Xin đi xin lại nhiều lần, cuối cùng sự cho phép cũng được chấp thuận."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ乗る"},
+        {"type": "対", "text": "上がる、のぼる"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 159,
+      "kanji": "降ろす／下ろす（他）",
+      "kana": "おろす",
+      "en": "drop (someone) off; take down, lower; withdraw",
+      "kr": "내리다, 내려놓다",
+      "vi": "cho xuống (xe); hạ xuống, lấy xuống; rút (tiền)",
+      "senses": ["①（車から）降ろす", "②（荷物・手を）下ろす", "③（お金を）下ろす"],
+      "examples": [
+        {"ja": "（タクシーの客が）「あの銀行の前で降ろしてください」", "vi": "(Khách taxi) 'Làm ơn cho tôi xuống trước ngân hàng kia.'"},
+        {"ja": "たなの上から荷物をおろす。", "vi": "Lấy hành lý từ trên kệ xuống."},
+        {"ja": "「賛成の方は手を挙げてください。はい、おろしてください」", "vi": "'Ai tán thành thì giơ tay lên. Nào, giờ hãy hạ tay xuống.'"},
+        {"ja": "銀行からお金をおろす。", "vi": "Rút tiền từ ngân hàng."}
+      ],
+      "related": [
+        {"type": "対", "text": "ラ乗せる"},
+        {"type": "対", "text": "ラ「上げる／挙げる」、ラ積む (→204)"},
+        {"type": "対", "text": "ラ預ける、ラ入れる"},
+        {"type": "類", "text": "ラ出す、ラ引き出す"}
+      ],
+      "notes": ""
+    },
+    {
+      "no": 160,
+      "kanji": "直る（自）",
+      "kana": "なおる",
+      "en": "be fixed; improve",
+      "kr": "고쳐지다, 수리되다",
+      "vi": "được sửa, được chữa",
+      "senses": ["①（壊れた物が）直る", "②（くせが）直る"],
+      "examples": [
+        {"ja": "こわれたパソコンが直った。", "vi": "Máy tính bị hỏng đã được sửa."},
+        {"ja": "発音のくせがなかなか直らない。", "vi": "Cái thói quen (tật) trong phát âm mãi không bỏ được."}
+      ],
+      "related": [],
+      "notes": ""
+    },
+    {
+      "no": 161,
+      "kanji": "直す（他）",
+      "kana": "なおす",
+      "en": "fix; correct; translate",
+      "kr": "고치다, 정정하다",
+      "vi": "sửa; sửa lại; chuyển đổi",
+      "senses": ["①（壊れた物を）直す", "②（文などを）直す", "③（曲がった物を）直す", "④（～を～に）直す"],
+      "examples": [
+        {"ja": "こわれた時計を直す。", "vi": "Sửa đồng hồ bị hỏng."},
+        {"ja": "くつを直す。", "vi": "Sửa giày."},
+        {"ja": "先生が作文を直してくれた。", "vi": "Thầy đã sửa bài văn giúp tôi."},
+        {"ja": "「ネクタイが曲がっていますよ。直したほうがいいですよ」", "vi": "'Cà vạt bị lệch rồi đấy. Tốt nhất là chỉnh lại đi.'"},
+        {"ja": "日本語を英語に直す。", "vi": "Chuyển tiếng Nhật sang tiếng Anh."}
+      ],
+      "related": [
+        {"type": "関", "text": "ラ修理する (→354)"}
+      ],
+      "notes": "(名) ①②直し→ 手直し"
+    },
+    {
+      "no": 162,
+      "kanji": "治る（自）",
+      "kana": "なおる",
+      "en": "get better",
+      "kr": "낫다, 치유되다",
+      "vi": "khỏi (bệnh)",
+      "senses": [],
+      "examples": [
+        {"ja": "なかなか頭痛が治らない。", "vi": "Cơn đau đầu mãi không khỏi."},
+        {"ja": "「けが／病気 …」が治る。", "vi": "Vết thương / bệnh... khỏi."}
+      ],
+      "related": [],
+      "notes": "(名) 治り→ _が早い／遅い、_が悪い"
+    },
+    {
+      "no": 163,
+      "kanji": "治す（他）",
+      "kana": "なおす",
+      "en": "cure, recover",
+      "kr": "고치다, 치료하다",
+      "vi": "chữa (bệnh)",
+      "senses": [],
+      "examples": [
+        {"ja": "「よく休んで早くかぜを治してください」", "vi": "'Hãy nghỉ ngơi nhiều và sớm chữa cảm lạnh nhé.'"}
+      ],
+      "related": [],
+      "notes": ""
+    }
+  ],
+  "columns": [
+    {
+      "title": "コラム4 学校 (Schools /学校/학교)",
+      "book_page": 37,
+      "note": "Dạng bảng: 例のように（　）に言葉を書きましょう。Cột: [từ vựng, cách đọc, nghĩa en/cn/kr, nghĩa vi, tên gọi học sinh, tuổi nhập học, số năm theo học]. ※学年の言い方: 1年生、2年生…… 解答: ①大学生 ②短大生 ③高校生 ④中学生 ⑤小学生",
+      "items": [
+        ["大学院", "だいがくいん", "graduate school /研究生院 /대학원", "trường cao học", "（大学）院生", "22歳～", "2～5年"],
+        ["大学", "だいがく", "university, college /大学 /대학교", "trường đại học", "①（大学生）", "18歳～", "4年"],
+        ["短期大学＞短大", "たんきだいがく＞たんだい", "junior college /短期大学 /전문대학", "cao đẳng (ngắn hạn)", "②（短大生）", "18歳～", "2年"],
+        ["専門学校", "せんもんがっこう", "vocational school /专科学校 /전문학교", "trường dạy nghề", "専門学校生", "18歳～", "2～4年"],
+        ["高等学校＞高校", "こうとうがっこう＞こうこう", "high school /高中 /고등학교", "trung học phổ thông", "③（高校生）", "15歳～", "3年"],
+        ["中学校＞中学", "ちゅうがっこう＞ちゅうがく", "junior high school /初中 /중학교", "trung học cơ sở", "④（中学生）", "12歳～", "3年"],
+        ["小学校", "しょうがっこう", "elementary school /小学 /초등학교", "tiểu học", "⑤（小学生）", "6歳～", "6年"],
+        ["幼稚園", "ようちえん", "kindergarten, preschool /幼儿园 /유치원", "trường mẫu giáo", "幼稚園児", "3歳～", "1～3年"],
+        ["保育園", "ほいくえん", "nursery school /托儿所 /보육원", "nhà trẻ", "保育園児", "0歳～", "～6年"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "練習問題I-I",
+      "range": "I",
+      "book_page": 28,
+      "instruction": "（　）に助詞を書きなさい。",
+      "questions": [
+        {"no": 1, "text": "オリンピックには多く（　）国（　）参加する。", "options": null, "answer": null},
+        {"no": 2, "text": "この野菜は生（　）食べられる。", "options": null, "answer": null},
+        {"no": 3, "text": "きょうは今までの人生で最高（　）日だ。", "options": null, "answer": null},
+        {"no": 4, "text": "最初（　）このボタンを押してください。", "options": null, "answer": null},
+        {"no": 5, "text": "きのうは先輩（　）ごちそう（　）なった。", "options": null, "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-II",
+      "range": "II",
+      "book_page": 28,
+      "instruction": "「する」がつくことばに○をつけなさい。",
+      "questions": [
+        {"no": 1, "text": "次のことばのうち「する」がつくものに○をつける。", "options": ["かび", "ごちそう", "じゅんび", "ねあがり", "めんきょ"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-III",
+      "range": "III",
+      "book_page": 28,
+      "instruction": "正しいことばを（　）の中から一つえらびなさい。",
+      "questions": [
+        {"no": 1, "text": "温度を（　）。", "options": ["しかる", "はかる", "みがく"], "answer": null},
+        {"no": 2, "text": "かびが（　）。", "options": ["うまれて", "できて", "はえる"], "answer": null},
+        {"no": 3, "text": "くだものの皮を（　）。", "options": ["つむ", "はぐ", "むく"], "answer": null},
+        {"no": 4, "text": "きものを（　）。", "options": ["あらう", "すすぐ", "はたく"], "answer": null},
+        {"no": 5, "text": "だんぼうを（　）。", "options": ["いれる", "おす", "はる"], "answer": null},
+        {"no": 6, "text": "荷物の番を（　）。", "options": ["する", "とる", "見る"], "answer": null},
+        {"no": 7, "text": "犬を（　）。", "options": ["おす", "つける", "ぬる"], "answer": null},
+        {"no": 8, "text": "めんきょを（　）。", "options": ["つかまえる", "つかう", "とる"], "answer": null},
+        {"no": 9, "text": "しつどが（　）。", "options": ["高い", "強い", "深い"], "answer": null},
+        {"no": 10, "text": "しっけが（　）。", "options": ["あさい", "すくない", "よわい"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-IV",
+      "range": "IV",
+      "book_page": 28,
+      "instruction": "（　）に下からえらんだ語を書いて、一つのことばにしなさい。",
+      "questions": [
+        {"no": 1, "text": "新聞（　）", "options": null, "answer": null},
+        {"no": 2, "text": "テレビ（　）", "options": null, "answer": null},
+        {"no": 3, "text": "電気（　）", "options": null, "answer": null},
+        {"no": 4, "text": "（　）つめ", "options": null, "answer": null},
+        {"no": 5, "text": "（　）道路", "options": null, "answer": null},
+        {"no": 6, "text": "（　）販売機", "options": ["かん", "きし", "こうさく", "じどう", "せいひん", "はんぐみ（語群・判読に難あり）"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-V",
+      "range": "V",
+      "book_page": 28,
+      "instruction": "反対の意味のことばを書きなさい。",
+      "questions": [
+        {"no": 1, "text": "前半 ⇔（　）", "options": null, "answer": null},
+        {"no": 2, "text": "最高 ⇔（　）", "options": null, "answer": null},
+        {"no": 3, "text": "値上がり ⇔（　）", "options": null, "answer": null},
+        {"no": 4, "text": "暖房 ⇔（　）", "options": null, "answer": null},
+        {"no": 5, "text": "制服 ⇔（　）", "options": null, "answer": null},
+        {"no": 6, "text": "太陽がのぼる ⇔ 太陽が（　）", "options": null, "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-VI-A",
+      "range": "VI-A",
+      "book_page": 29,
+      "instruction": "（　）に入ることばを下からえらんで書きなさい。（語群の表記は判読に難あり）",
+      "questions": [
+        {"no": 1, "text": "「この絵の（　）を知っていますか」", "options": null, "answer": null},
+        {"no": 2, "text": "「たばこを吸ってもいいですが、（　）を落とさないでください」", "options": null, "answer": null},
+        {"no": 3, "text": "この魚は海の（　）のほうにすんでいる。", "options": null, "answer": null},
+        {"no": 4, "text": "火事のときは（　）に注意しましょう。", "options": null, "answer": null},
+        {"no": 5, "text": "油とれは（　）で洗わないと、なかなか落ちない。", "options": null, "answer": null},
+        {"no": 6, "text": "（自動販売機の前で）「あ、（　）がない。100円貸してくれる?」", "options": null, "answer": null},
+        {"no": 7, "text": "天気予報によると、もうすぐ（　）が晴れるそうだ。", "options": null, "answer": null},
+        {"no": 8, "text": "この建物の（　）は駐車場になっている。", "options": null, "answer": null},
+        {"no": 9, "text": "うちの（　）には有名な（　）がある。", "options": null, "answer": null},
+        {"no": 10, "text": "語群", "options": ["さんじょう", "けむり", "ごぜに", "きくしゃ", "せんげい", "そこ", "ちか", "つゆ", "てら", "はい"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題I-VI-B",
+      "range": "VI-B",
+      "book_page": 29,
+      "instruction": "（　）に入ることばを下からえらんで書きなさい。（語群の表記は判読に難あり）",
+      "questions": [
+        {"no": 1, "text": "目的地へ行く（　）はいろいろある。", "options": null, "answer": null},
+        {"no": 2, "text": "あのスーパーは商品の（　）が多い。", "options": null, "answer": null},
+        {"no": 3, "text": "このアパートは梅雨のとき（　）がひどくて困る。", "options": null, "answer": null},
+        {"no": 4, "text": "どうぼうに入られたので、（　）にことした。", "options": null, "answer": null},
+        {"no": 5, "text": "このストープは地震が起こると（　）的に消えるようになっている。", "options": null, "answer": null},
+        {"no": 6, "text": "誕生日には母がいつも（　）を作ってくれる。", "options": null, "answer": null},
+        {"no": 7, "text": "初めて会った人には（　）を渡してあいさつしましょう。", "options": null, "answer": null},
+        {"no": 8, "text": "じゃんけんでスピーチの（　）を決めた。（　）はチンさんだった。", "options": null, "answer": null},
+        {"no": 9, "text": "（　）の家にどろぼうが入った。（　）はまだつかまっていない。", "options": null, "answer": null},
+        {"no": 10, "text": "（　）は太陽よりは小さいが、（　）よりは大きい。", "options": null, "answer": null},
+        {"no": 11, "text": "語群", "options": ["けいさつ", "ごちそう", "きいしょ", "しつけ", "じどう", "じゅんばん", "しゅるい", "ちきゅう", "つき", "はんにん", "ほうそう", "めいし", "ゆうりょう"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題II-I",
+      "range": "I",
+      "book_page": 30,
+      "instruction": "（　）に入れるのに最もよいものを、a・b・c・dから一つえらびなさい。",
+      "questions": [
+        {"no": 1, "text": "娘が（　）して一人暮らしを始めた。", "options": ["a 年齢", "b 卒業", "c 大人", "d 成人"], "answer": null},
+        {"no": 2, "text": "父は昨年、定年（　）した。", "options": ["a 退職", "b 辞職", "c 失業", "d 残業"], "answer": null},
+        {"no": 3, "text": "高橋君はよく（　）を言って、みんなを笑わせている。", "options": ["a おしゃべり", "b はなし", "c じょうだん", "d うわさ"], "answer": null},
+        {"no": 4, "text": "この運動の（　）は腕の力を強くすることです。", "options": ["a 方法", "b 目的", "c 意味", "d 希望"], "answer": null},
+        {"no": 5, "text": "この絵はピカソの若いころの（　）です。", "options": ["a 作物", "b 製品", "c 商品", "d 作品"], "answer": null},
+        {"no": 6, "text": "この自動販売機では1万円（　）は使えません。", "options": ["a 金", "b 札", "c きょう", "d こうか"], "answer": null},
+        {"no": 7, "text": "毎日急な（　）を上ったり下ったりしているので、足がじょうぶになった。", "options": ["a さか", "b ちか", "c はか", "d ゆか"], "answer": null},
+        {"no": 8, "text": "「このスープ、（　）においしいよ。食べてみて」", "options": ["a 最大", "b 最高", "c いちばん", "d いっぱい"], "answer": null},
+        {"no": 9, "text": "「もっとご飯を多くしてほしい」と、息子は私の作る弁当に（　）をつけた。", "options": ["a 注意", "b 注文", "c 希望", "d ゆめ"], "answer": null},
+        {"no": 10, "text": "大勢でカラオケに行くと、なかなか自分の番が（　）。", "options": ["a できない", "b まわらない", "c 待たない", "d こない"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題II-II",
+      "range": "II",
+      "book_page": 30,
+      "instruction": "＿に意味が最も近いものを、a・b・c・dから一つえらびなさい。（問5は書籍ページ31）",
+      "questions": [
+        {"no": 1, "text": "ひさしぶりに引き出しの中を整理した。", "options": ["a あけた", "b かたづけた", "c ならべた", "d みがいた"], "answer": null},
+        {"no": 2, "text": "この美術館の中ではたばこはごえんりよください。", "options": ["a むかないで", "b 持たないで", "c すわないで", "d しずかにして"], "answer": null},
+        {"no": 3, "text": "どんなに努力しても西村さんには勝てない。", "options": ["a がんばっても", "b つとめても", "c がまんしても", "d きぼうしても"], "answer": null},
+        {"no": 4, "text": "あの人は約束を守らないことが多いので、嫌われている。", "options": ["a 見ない", "b 知らない", "c こわす", "d やぶる"], "answer": null},
+        {"no": 5, "text": "いろいろな方法をためしてみたが、なかなかやせられない。", "options": ["a しゅるい", "b つごう", "c やりかた", "d ぐあい"], "answer": null}
+      ]
+    },
+    {
+      "type": "練習問題II-III",
+      "range": "III",
+      "book_page": 31,
+      "instruction": "つぎのことばの使い方として最もよいものを、一つえらびなさい。",
+      "questions": [
+        {"no": 1, "text": "思い出", "options": ["a みんなと京都へ旅行して、いい思い出をした。", "b スピーチコンテストに出場したことは、いい思い出になった。", "c 結婚の約束をした思い出は、このゆびわだ。", "d そんなことを言った思い出はありません。"], "answer": null},
+        {"no": 2, "text": "面接", "options": ["a この病院の面接時間は午後3時から7時までです。", "b 1年ぐらい前に、有名な歌手に面接したことがある。", "c アメリカの大統領と日本の総理大臣が面接した。", "d 店長はきょうはアルバイト希望者の面接で忙しそうだ。"], "answer": null},
+        {"no": 3, "text": "しゅみ", "options": ["a 祖母はしゅみが多く、スポーツも音楽も大好きだ。", "b 祖父はいくつになっても、新しいものにしゅみがあるようだ。", "c 私たちはもっと、地球温暖化にしゅみを持たなければならないと思う。", "d 今の社会では、パソコンをしゅみしなければ、仕事はできない。"], "answer": null},
+        {"no": 4, "text": "年", "options": ["a 学生が終わったら、新しいアパートに引っ越すつもりだ。", "b 日本へ来て、もう長い年月がすぎてしまった。", "c 祖母は年が高いので、小さい字は見にくいと言っている。", "d 退職した父は、急に年をとったように見える。"], "answer": null},
+        {"no": 5, "text": "めいわく", "options": ["a 私はいつもとなりの家からめいわくをしている。", "b あの人はいつも食事の時間に来て、私をめいわくさせます。", "c あの方のミスのせいで、私たちはみんなめいわくした。", "d 人にめいわくのことをしてはいけません。"], "answer": null}
+      ]
+    }
+  ],
+  "unit_pages": [
+    {"pdf_page": 29, "book_page": 28, "unit_title": "Unit 01 名詞A（72～120）練習問題I Step 1"},
+    {"pdf_page": 30, "book_page": 29, "unit_title": "Unit 01 名詞A 練習問題I（つづき、問VI）"},
+    {"pdf_page": 31, "book_page": 30, "unit_title": "Unit 01 名詞A（1～120）練習問題II Step 1"},
+    {"pdf_page": 32, "book_page": 31, "unit_title": "Unit 01 名詞A 練習問題II（つづき）"},
+    {"pdf_page": 33, "book_page": 32, "unit_title": "Unit 02 動詞A（121～220）Step 1（語彙ページ：単語121～128、Lesson 10）"}
+  ]
+}

@@ -1,0 +1,2401 @@
+{
+  "pdf_pages": "89-98",
+  "words": [
+    {
+      "no": 411,
+      "kanji": "届く",
+      "kana": "どく",
+      "pos": "〈自〉",
+      "en": "be delivered; reach",
+      "kr": "/도착하다, 닿다",
+      "vi": "đến nơi, tới tay (được gửi đến); với tới",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be delivered; reach",
+          "vi": "được gửi đến, với tới"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "父から手紙が届いた。",
+          "vi": "Thư từ bố đã đến nơi."
+        },
+        {
+          "ja": "本棚の上のほうに手が届かない。",
+          "vi": "Tay không với tới được phần trên của kệ sách."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 412,
+      "kanji": "届ける",
+      "kana": "とどける",
+      "pos": "〈他〉",
+      "en": "deliver; notify",
+      "kr": "/보내다, 신고하다",
+      "vi": "gửi đến, giao đến; khai báo, thông báo",
+      "senses": [
+        {
+          "no": 1,
+          "en": "deliver; notify",
+          "vi": "gửi/giao đến; khai báo"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "隣の家に旅行のおみやげを届けた。",
+          "vi": "Đã gửi quà du lịch đến nhà hàng xóm."
+        },
+        {
+          "ja": "「住所が変わった場合は、すぐに学校に届けてください」",
+          "vi": "“Trong trường hợp thay đổi địa chỉ, vui lòng báo ngay cho trường.”"
+        }
+      ],
+      "related": [
+        {
+          "type": "名",
+          "ja": "届け → __を出す",
+          "vi": "đơn khai báo → nộp đơn khai báo"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 413,
+      "kanji": "掻く",
+      "kana": "かく",
+      "pos": "",
+      "en": "scratch; emit (sweat/snores); suffer (humiliation)",
+      "kr": "/긁다; (땀) 내다, 체면을 잃다",
+      "vi": "gãi; đổ (mồ hôi), ngáy; chịu (sự nhục nhã)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "scratch",
+          "vi": "gãi"
+        },
+        {
+          "no": 2,
+          "en": "emit (sweat/snores)",
+          "vi": "đổ (mồ hôi), phát (tiếng ngáy)"
+        },
+        {
+          "no": 3,
+          "en": "suffer (humiliation)",
+          "vi": "chịu (sự nhục)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "頭をかく。",
+          "vi": "Gãi đầu."
+        },
+        {
+          "ja": "かゆいところをかいたら血が出てきた。",
+          "vi": "Gãi chỗ ngứa thì máu chảy ra."
+        },
+        {
+          "ja": "{あせ/いびき …} をかく。",
+          "vi": "Đổ mồ hôi / phát tiếng ngáy…"
+        },
+        {
+          "ja": "はじをかく。",
+          "vi": "Mất mặt, chịu nhục."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 414,
+      "kanji": "掴む",
+      "kana": "つかむ",
+      "pos": "",
+      "en": "grab; grasp (opportunity, meaning, etc.); acquire (riches, etc.)",
+      "kr": "/쥐다; (기회, 의미) 잡다, (재물) 얻다",
+      "vi": "nắm, chộp (cơ hội); nắm bắt (ý nghĩa); kiếm được (tài sản)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "grab",
+          "vi": "nắm, chộp"
+        },
+        {
+          "no": 2,
+          "en": "grasp (opportunity, meaning); acquire (riches)",
+          "vi": "nắm bắt (cơ hội, ý nghĩa); giành được (đại tài)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "電車で突然胸をつかまれてびっくりした。",
+          "vi": "Bị ai đó chộp lấy ngực bất ngờ trên tàu điện nên hết sức hoảng sợ."
+        },
+        {
+          "ja": "コンテストで優勝して、歌手になるチャンスをつかんだ。",
+          "vi": "Đạt giải nhất trong cuộc thi, đã chộp được cơ hội trở thành ca sĩ."
+        },
+        {
+          "ja": "宝くじが当たって、大金をつかんだ。",
+          "vi": "Trúng số nên đã có được số tiền lớn."
+        },
+        {
+          "ja": "この文章は難しくて、意味がつかみにくい。",
+          "vi": "Đoạn văn này khó nên khó nắm bắt được ý nghĩa."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 415,
+      "kanji": "握る",
+      "kana": "にぎる",
+      "pos": "",
+      "en": "grip, squeeze (one's hands)",
+      "kr": "/쥐다; (손을) 꽉 쥐다",
+      "vi": "nắm, siết (tay)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "grip, squeeze (one's hands)",
+          "vi": "nắm chặt, siết (tay)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "子どもはこわがって母親の手を強くにぎった。",
+          "vi": "Đứa trẻ sợ hãi nên nắm chặt lấy tay mẹ."
+        },
+        {
+          "ja": "母はカラオケが大好きで、マイクをにぎると離さない。",
+          "vi": "Mẹ rất thích karaoke, cứ cầm lấy micro là không buông."
+        },
+        {
+          "ja": "赤ちゃんがベッドの上で、手をにぎったり開いたりしている。",
+          "vi": "Em bé trên giường, tay cứ nắm lại rồi mở ra."
+        }
+      ],
+      "related": [
+        {
+          "type": "関",
+          "ja": "にぎり（ずし）、おにぎり",
+          "vi": "sushi nắm, cơm nắm"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 416,
+      "kanji": "押さえる",
+      "kana": "おさえる",
+      "pos": "",
+      "en": "put one's hands on ~; hold open",
+      "kr": "/누르다; (손을) 얹다, 막다",
+      "vi": "đè, giữ, ấn; giữ (cửa) bằng tay",
+      "senses": [
+        {
+          "no": 1,
+          "en": "put one's hands on ~; hold open",
+          "vi": "đặt tay lên, ấn xuống; giữ mở (cửa)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "あの人はおなかを押さえて座っている。腹痛だろうか。",
+          "vi": "Người đó ngồi tay đặt lên bụng. Chắc bị đau bụng chăng."
+        },
+        {
+          "ja": "後ろの人のためにドアを押さえて待った。",
+          "vi": "Đã giữ cửa chờ để dành cho người đứng phía sau."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 417,
+      "kanji": "近づく",
+      "kana": "ちかづく",
+      "pos": "〈自〉",
+      "en": "approach",
+      "kr": "/가까워지다, 다가오다",
+      "vi": "lại gần, tiến lại gần; đến gần (thời điểm)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "approach (a place)",
+          "vi": "lại gần (một địa điểm)"
+        },
+        {
+          "no": 2,
+          "en": "approach (a time)",
+          "vi": "gần đến (một thời điểm)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "目的地{が/に}近づいてきた。",
+          "vi": "Đã đến gần điểm đến."
+        },
+        {
+          "ja": "台風が日本列島に近づく。",
+          "vi": "Bão tiến lại gần quần đảo Nhật Bản."
+        },
+        {
+          "ja": "春休みが近づいてきた。",
+          "vi": "Kỳ nghỉ xuân đã đến gần."
+        },
+        {
+          "ja": "帰国の日が近づき、忙しい。",
+          "vi": "Ngày về nước đến gần nên bận rộn."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 418,
+      "kanji": "近づける",
+      "kana": "ちかづける",
+      "pos": "〈他〉",
+      "en": "move (something) nearer",
+      "kr": "/가까이 하다, 접근시키다",
+      "vi": "đưa lại gần, áp lại gần",
+      "senses": [
+        {
+          "no": 1,
+          "en": "move (something) nearer",
+          "vi": "đưa (cái gì) lại gần"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "車を道のわきに近づける。",
+          "vi": "Đưa xe sát vào lề đường."
+        },
+        {
+          "ja": "絵に顔を近づけてよく見る。",
+          "vi": "Áp sát mặt vào bức tranh để xem kỹ."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 419,
+      "kanji": "合う",
+      "kana": "あう",
+      "pos": "〈自〉",
+      "en": "(eyes) meet; coincide; match; suit; (calculation) is correct",
+      "kr": "/맞다; (눈이) 마주치다, 일치하다, 어울리다",
+      "vi": "hợp, phù hợp; trùng khớp; (mắt) chạm nhau; đúng, khớp (phép tính)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "(eyes) meet",
+          "vi": "(mắt) gặp/chạm nhau"
+        },
+        {
+          "no": 2,
+          "en": "not match (opinions, tastes...)",
+          "vi": "không hợp, không trùng (ý kiến, thị hiếu…)"
+        },
+        {
+          "no": 3,
+          "en": "match; suit",
+          "vi": "hợp với, phù hợp với"
+        },
+        {
+          "no": 4,
+          "en": "(a calculation) is correct",
+          "vi": "(phép tính) khớp, đúng"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ふと顔を上げると、先生と目が合ってしまった。",
+          "vi": "Vừa ngẩng mặt lên thì chạm mắt với thầy."
+        },
+        {
+          "ja": "彼女は{意見/話/趣味/気 …}が合わない。",
+          "vi": "Không hợp {ý kiến / lời nói / thị hiếu / khí…} với cô ấy."
+        },
+        {
+          "ja": "このスーツに合うネクタイがほしい。",
+          "vi": "Muốn có chiếc cà vạt hợp với bộ đồ này."
+        },
+        {
+          "ja": "「お口に合わないかもしれませんが、どうぞめしあがってください」",
+          "vi": "“Có lẽ chưa hợp khẩu vị của bạn, nhưng mời bạn cứ dùng món ăn.”"
+        },
+        {
+          "ja": "何度やり直しても計算が合わない。",
+          "vi": "Làm đi làm lại mấy lần mà phép tính vẫn không khớp."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 420,
+      "kanji": "合わせる",
+      "kana": "あわせる",
+      "pos": "〈他〉",
+      "en": "combine; adapt to; match with; set (a clock)",
+      "kr": "/합치다; (…)과 일치시키다, 맞추다",
+      "vi": "hợp lại, ghép lại; phối hợp; theo hợp với; chỉnh (đồng hồ)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "combine; join (hands)",
+          "vi": "hợp lại, ghép lại; chắp (tay)"
+        },
+        {
+          "no": 2,
+          "en": "adapt to; keep pace with",
+          "vi": "theo hợp, hòa nhập với"
+        },
+        {
+          "no": 3,
+          "en": "match with; coordinate with",
+          "vi": "phối hợp với, mua/hàng hợp với"
+        },
+        {
+          "no": 4,
+          "en": "set (a clock)",
+          "vi": "chỉnh (đồng hồ)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "みんなで力を合わせてがんばりましょう。",
+          "vi": "Cả chúng ta cùng chung sức cố gắng nhé."
+        },
+        {
+          "ja": "手を合わせて祈る。",
+          "vi": "Chắp tay cầu nguyện."
+        },
+        {
+          "ja": "中年の私には、若い学生たちと/に話を合わせるのは難しい。",
+          "vi": "Với tôi ở tuổi trung niên, việc trò chuyện hòa nhập với các bạn sinh viên trẻ là khó."
+        },
+        {
+          "ja": "新しいスーツに合わせてくつとバッグも買った。",
+          "vi": "Đã mua giày và túi xách hợp với bộ đồ mới."
+        },
+        {
+          "ja": "テレビを見て時計の時間を合わせた。",
+          "vi": "Xem ti-vi để chỉnh giờ đồng hồ."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "答え合わせ、組み合わせ",
+          "vi": "đối chiếu đáp án; sự kết hợp"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 421,
+      "kanji": "当たる",
+      "kana": "あたる",
+      "pos": "〈自〉",
+      "en": "be hit; prove true; win (a lottery); (sunlight) falls upon; go up against",
+      "kr": "/맞다; 적중하다; (햇빛이) 쬐다; (상대와) 부딪히다",
+      "vi": "bị trúng, trúng; đoán đúng, ứng nghiệm; (ánh nắng) chiếu vào; chạm trán (đối thủ)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be hit",
+          "vi": "bị trúng, bị đánh trúng"
+        },
+        {
+          "no": 2,
+          "en": "prove true; win (a lottery); be hit (target)",
+          "vi": "ứng nghiệm, trúng (số); trúng đích"
+        },
+        {
+          "no": 3,
+          "en": "(sunlight) falls upon",
+          "vi": "(ánh nắng) chiếu vào"
+        },
+        {
+          "no": 4,
+          "en": "go up against (an opponent)",
+          "vi": "đụng độ, chạm trán (đối thủ)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ボールが当たって窓ガラスが割れた。",
+          "vi": "Bóng trúng vào làm vỡ kính cửa sổ."
+        },
+        {
+          "ja": "{天気予報/かん/宝くじ}が当たる。",
+          "vi": "{Dự báo thời tiết / phép chiêm tinh / vé số} trúng (đúng)."
+        },
+        {
+          "ja": "矢が的に当たる。",
+          "vi": "Mũi tên trúng đích."
+        },
+        {
+          "ja": "うらの南側に大きなビルが建ったので、日が当たらなくなった。",
+          "vi": "Phía sau phía nam xây tòa nhà lớn nên ánh nắng không chiếu vào được nữa."
+        },
+        {
+          "ja": "1回戦で去年の優勝チームと当たることになった。",
+          "vi": "Ở vòng 1 đã phải chạm trán đội vô địch năm ngoái."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "はずれる ※494",
+          "vi": "trật (≠421)"
+        },
+        {
+          "type": "名",
+          "ja": "当たり → 大__",
+          "vi": "trúng số → trúng lớn"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 422,
+      "kanji": "当てる",
+      "kana": "あてる",
+      "pos": "〈他〉",
+      "en": "hit with; get right; expose to; touch",
+      "kr": "/맞히다; 적중시키다; 쬐다; 대다",
+      "vi": "đánh trúng, ném trúng; đoán đúng; phơi/để ra (nắng); áp vào",
+      "senses": [
+        {
+          "no": 1,
+          "en": "hit with (a racket...)",
+          "vi": "đánh/ném trúng (vào vợt…)"
+        },
+        {
+          "no": 2,
+          "en": "get (an answer) right",
+          "vi": "đoán/trả lời đúng"
+        },
+        {
+          "no": 3,
+          "en": "expose to (the sun)",
+          "vi": "phơi ra (nắng)"
+        },
+        {
+          "no": 4,
+          "en": "put (a hand) on ~ to check",
+          "vi": "áp (tay) vào để kiểm tra"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "相手選手のボールが速いので、ラケットに当てるのも大変だ。",
+          "vi": "Bóng của đối thủ nhanh nên việc đánh trúng vào vợt cũng khó."
+        },
+        {
+          "ja": "クイズの答えを当てる。",
+          "vi": "Đoán đúng câu trả lời của trò đố."
+        },
+        {
+          "ja": "洗たく物を日に当てて乾かす。",
+          "vi": "Phơi quần áo ra nắng cho khô."
+        },
+        {
+          "ja": "ひたいに手を当てて、熱がないかどうか確かめる。",
+          "vi": "Áp tay lên trán để xem có bị sốt hay không."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "はずす ※495",
+          "vi": "trật, trượt (≠422)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 423,
+      "kanji": "比べる",
+      "kana": "くらべる",
+      "pos": "",
+      "en": "compare",
+      "kr": "/비교하다",
+      "vi": "so sánh",
+      "senses": [
+        {
+          "no": 1,
+          "en": "compare",
+          "vi": "so sánh"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "東京と大阪の面積を比べる。",
+          "vi": "So sánh diện tích Tokyo và Osaka."
+        },
+        {
+          "ja": "去年{と/に}比べて、10センチも背が伸びた。",
+          "vi": "So với năm ngoái, chiều cao đã tăng hẳn 10 xentimét."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 424,
+      "kanji": "似合う",
+      "kana": "にあう",
+      "pos": "",
+      "en": "look good on, match",
+      "kr": "/어울리다, 잘 어울리다",
+      "vi": "hợp, vừa, làm tôn (ai/cái gì)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "look good on, match",
+          "vi": "hợp với, tôn lên"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼女は着物がよく似合う。",
+          "vi": "Cô ấy mặc kimono rất hợp."
+        },
+        {
+          "ja": "彼に似合いそうなネクタイをさがした。",
+          "vi": "Đã tìm kiếm chiếc cà vạt có vẻ hợp với anh ấy."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 425,
+      "kanji": "似る",
+      "kana": "にる",
+      "pos": "〈自〉",
+      "en": "resemble",
+      "kr": "/닮다, 유사하다",
+      "vi": "giống, giống như",
+      "senses": [
+        {
+          "no": 1,
+          "en": "resemble",
+          "vi": "giống"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼女は母親によく似ている。",
+          "vi": "Cô ấy giống mẹ rất nhiều."
+        },
+        {
+          "ja": "彼女は弟によく似ている。",
+          "vi": "Cô ấy giống em trai rất nhiều."
+        },
+        {
+          "ja": "英語と中国語の文法は少し似ている。",
+          "vi": "Ngữ pháp tiếng Anh và tiếng Trung hơi giống nhau."
+        },
+        {
+          "ja": "親子は声が似ることが多い。",
+          "vi": "Cha con thường hay giống nhau về giọng nói."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 426,
+      "kanji": "似せる",
+      "kana": "にせる",
+      "pos": "〈他〉",
+      "en": "imitate",
+      "kr": "/흉내 내다, 닮게 하다",
+      "vi": "làm cho giống, bắt chước",
+      "senses": [
+        {
+          "no": 1,
+          "en": "imitate, make resemble",
+          "vi": "làm cho giống với"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "アイドルに髪型を似せる。",
+          "vi": "Làm kiểu tóc giống idol."
+        },
+        {
+          "ja": "歌手に声を似せて歌う。",
+          "vi": "Hát bằng giọng bắt chước theo ca sĩ."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 427,
+      "kanji": "分かれる",
+      "kana": "わかれる",
+      "pos": "〈自〉",
+      "en": "be divided",
+      "kr": "/나뉘다, 갈리다",
+      "vi": "bị chia, tách ra, chia đôi/chia tách",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be divided",
+          "vi": "bị chia tách"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "トイレは、男性用と女性用に分かれている。",
+          "vi": "Nhà vệ sinh được chia thành nam và nữ."
+        },
+        {
+          "ja": "クラスで二つのチームに分かれてサッカーをした。",
+          "vi": "Cả lớp chia làm hai đội để chơi bóng đá."
+        },
+        {
+          "ja": "喫煙については、人の意見が分かれている。",
+          "vi": "Về vấn đề hút thuốc, ý kiến của mọi người chia làm hai."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 428,
+      "kanji": "分ける",
+      "kana": "わける",
+      "pos": "〈他〉",
+      "en": "divide; push one's way through",
+      "kr": "/나누다, 쪼개다",
+      "vi": "chia, phân chia; xách (đám đông) mà đi",
+      "senses": [
+        {
+          "no": 1,
+          "en": "divide",
+          "vi": "chia"
+        },
+        {
+          "no": 2,
+          "en": "push one's way through",
+          "vi": "chẻ (đám đông) mà tiến"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "財産を3人の子どもに分ける。",
+          "vi": "Chia tài sản cho ba người con."
+        },
+        {
+          "ja": "クラスでチームを二つに分けてサッカーをした。",
+          "vi": "Cả lớp chia thành hai đội để chơi bóng đá."
+        },
+        {
+          "ja": "人こみを分けて進む。",
+          "vi": "Chẻ đám đông mà tiến lên."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 429,
+      "kanji": "足す",
+      "kana": "たす",
+      "pos": "",
+      "en": "add",
+      "kr": "/더하다, 보태다",
+      "vi": "cộng, thêm vào",
+      "senses": [
+        {
+          "no": 1,
+          "en": "add (more)",
+          "vi": "thêm vào"
+        },
+        {
+          "no": 2,
+          "en": "add (numbers)",
+          "vi": "cộng (số)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "味が薄かったので塩を足した。",
+          "vi": "Vị nhạt nên đã thêm muối vào."
+        },
+        {
+          "ja": "風呂の湯が少なくなったので、足しておいた。",
+          "vi": "Nước tắm giảm bớt nên đã thêm nước vào trước."
+        },
+        {
+          "ja": "4に6をたすと10になる。",
+          "vi": "Lấy 4 cộng 6 thì ra 10."
+        },
+        {
+          "ja": "4たす6は10だ。",
+          "vi": "Bốn cộng sáu là mười."
+        }
+      ],
+      "related": [],
+      "notes": [
+        "→コラム8 「数字・計算」 p.65"
+      ]
+    },
+    {
+      "no": 430,
+      "kanji": "引く",
+      "kana": "ひく",
+      "pos": "",
+      "en": "pull; lead; draw (a line); subtract; arouse (interest, etc.)",
+      "kr": "/당기다; (선을) 긋다; 빼다; (관심을) 끌다",
+      "vi": "kéo; dắt; kẻ (đường); trừ (số); gây/kéo (sự quan tâm)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "pull (a door)",
+          "vi": "kéo (cửa)"
+        },
+        {
+          "no": 2,
+          "en": "pull (a curtain), lead (a child)",
+          "vi": "kéo (rèm), dắt (đứa trẻ)"
+        },
+        {
+          "no": 3,
+          "en": "pull out (a chair)",
+          "vi": "kéo (ghế) ra"
+        },
+        {
+          "no": 4,
+          "en": "draw (a line); coat (a pan) with oil",
+          "vi": "kẻ (đường); quết (dầu) vào chảo"
+        },
+        {
+          "no": 5,
+          "en": "subtract",
+          "vi": "trừ (phép trừ)"
+        },
+        {
+          "no": 6,
+          "en": "catch (a cold); consult (a dictionary); arouse (interest)",
+          "vi": "mắc (cảm); tra (từ điển); gây (chú ý)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "「このドアは押すのではなく、引いて開けるんです」",
+          "vi": "“Cửa này không phải đẩy mà kéo để mở.”"
+        },
+        {
+          "ja": "カーテンを引いて寝る。",
+          "vi": "Kéo rèm lại rồi ngủ."
+        },
+        {
+          "ja": "子どもの手を引いて歩く。",
+          "vi": "Dắt tay đứa trẻ mà đi."
+        },
+        {
+          "ja": "レストランでウェイターがいすを引いてくれた。",
+          "vi": "Ở nhà hàng, nhân viên phục vụ đã kéo ghế ra giúp."
+        },
+        {
+          "ja": "わからない言葉に線を引く。",
+          "vi": "Kẻ gạch dưới những từ chưa hiểu."
+        },
+        {
+          "ja": "フライパンに油を引く。",
+          "vi": "Quết dầu vào chảo."
+        },
+        {
+          "ja": "10から8をひくと2になる。",
+          "vi": "Lấy 10 trừ 8 thì ra 2."
+        },
+        {
+          "ja": "10ひく2は8だ。",
+          "vi": "Mười trừ hai là tám."
+        },
+        {
+          "ja": "{かぜ/辞書/興味 …} をひく。",
+          "vi": "Mắc cảm / tra từ điển / gây sự chú ý…"
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "押す",
+          "vi": "đẩy (≠430)"
+        }
+      ],
+      "notes": [
+        "→コラム8 「数字・計算」 p.65"
+      ]
+    },
+    {
+      "no": 431,
+      "kanji": "増える",
+      "kana": "ふえる",
+      "pos": "〈自〉",
+      "en": "increase",
+      "kr": "/增加 / 늘다, 증가하다",
+      "vi": "tăng, tăng thêm",
+      "senses": [
+        {
+          "no": 1,
+          "en": "increase",
+          "vi": "tăng lên"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{貯金/体重/人口 …} が増える。",
+          "vi": "{Tiền tiết kiệm / cân nặng / dân số…} tăng."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "増加する、増す",
+          "vi": "tăng, tăng thêm"
+        },
+        {
+          "type": "対",
+          "ja": "減る",
+          "vi": "giảm (≠431)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 432,
+      "kanji": "増やす",
+      "kana": "ふやす",
+      "pos": "〈他〉",
+      "en": "increase",
+      "kr": "/使……增加 / 늘리다, 증가시키다",
+      "vi": "làm cho tăng, tăng thêm",
+      "senses": [
+        {
+          "no": 1,
+          "en": "increase (something)",
+          "vi": "làm tăng lên"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{貯金/体重/人口 …} を増やす。",
+          "vi": "Làm tăng {tiền tiết kiệm / cân nặng / dân số…}."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "増す",
+          "vi": "tăng"
+        },
+        {
+          "type": "対",
+          "ja": "減らす",
+          "vi": "giảm bớt (≠432)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 433,
+      "kanji": "減る",
+      "kana": "へる",
+      "pos": "〈自〉",
+      "en": "decrease",
+      "kr": "/减少 / 줄다",
+      "vi": "giảm, giảm bớt",
+      "senses": [
+        {
+          "no": 1,
+          "en": "decrease",
+          "vi": "giảm đi"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{貯金/体重/人口 …} が減る。",
+          "vi": "{Tiền tiết kiệm / cân nặng / dân số…} giảm."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "減少する、減る",
+          "vi": "giảm"
+        },
+        {
+          "type": "対",
+          "ja": "増える",
+          "vi": "tăng (≠433)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 434,
+      "kanji": "減らす",
+      "kana": "へらす",
+      "pos": "〈他〉",
+      "en": "decrease",
+      "kr": "/使……减少 / 줄이다",
+      "vi": "làm cho giảm, giảm bớt",
+      "senses": [
+        {
+          "no": 1,
+          "en": "decrease (something)",
+          "vi": "làm giảm đi"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{貯金/体重/人口 …} を減らす。",
+          "vi": "Làm giảm {tiền tiết kiệm / cân nặng / dân số…}."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "増やす",
+          "vi": "tăng (≠434)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 435,
+      "kanji": "変わる",
+      "kana": "かわる",
+      "pos": "〈自/他〉",
+      "en": "change",
+      "kr": "ガ/ヲ /变化 / 바뀌다, 바꾸다",
+      "vi": "thay đổi, biến đổi",
+      "senses": [
+        {
+          "no": 1,
+          "en": "change (intransitive)",
+          "vi": "thay đổi (tự thay đổi)"
+        },
+        {
+          "no": 2,
+          "en": "change (another's seat/place)",
+          "vi": "nhường chỗ, đổi chỗ (cho người khác)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{季節/時代/場所/法律/世帯/価格 …} が変わる。",
+          "vi": "{Mùa / thời đại / địa điểm / luật pháp / hộ gia đình / giá cả…} thay đổi."
+        },
+        {
+          "ja": "信号が青から赤に変わった。",
+          "vi": "Đèn tín hiệu đã đổi từ xanh sang đỏ."
+        },
+        {
+          "ja": "「すみませんが、席をかわってくださいませんか」",
+          "vi": "“Xin lỗi, bạn có thể đổi chỗ giúp tôi được không?”"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 436,
+      "kanji": "変える",
+      "kana": "かえる",
+      "pos": "〈他〉",
+      "en": "change",
+      "kr": "ヲ /改变, 变更 / 바꾸다",
+      "vi": "làm thay đổi, đổi",
+      "senses": [
+        {
+          "no": 1,
+          "en": "change (something)",
+          "vi": "làm thay đổi (cái gì)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{変型/時間/場所/法律 …} を変える。",
+          "vi": "Thay đổi {kiểu dáng / thời gian / địa điểm / luật pháp…}."
+        },
+        {
+          "ja": "今の人生を変えたい。",
+          "vi": "Muốn thay đổi cuộc sống hiện tại."
+        },
+        {
+          "ja": "彼女は最近髪の色を茶色から金色に変えた。",
+          "vi": "Gần đây cô ấy đã đổi màu tóc từ nâu sang vàng kim loại."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 437,
+      "kanji": "替わる/代わる/換わる",
+      "kana": "かわる",
+      "pos": "〈自/他〉",
+      "en": "change, substitute",
+      "kr": "ガ/ヲ /代替, 更换 / 바뀌다, 대신하다",
+      "vi": "được thay thế, đổi/chuyển (lượt, người, vật)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be replaced; take turns",
+          "vi": "được thay thế; thay nhau"
+        },
+        {
+          "no": 2,
+          "en": "do (someone's job) in their place",
+          "vi": "làm thay (công việc của người khác)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "4月に店長が代わった。",
+          "vi": "Tháng 4 đã thay quản lý cửa hàng."
+        },
+        {
+          "ja": "「ちょっと出かけてくるので、しばらく受付の仕事をかわってください」",
+          "vi": "“Tôi đi ra ngoài một chút, hãy làm thay công việc lễ tân trong lúc đó nhé.”"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 438,
+      "kanji": "替える/代える/換える",
+      "kana": "かえる",
+      "pos": "〈他〉",
+      "en": "change, replace",
+      "kr": "ヲ /改成, 更换成 / 바꾸다",
+      "vi": "đổi, thay, thay thế (tiền, đồ vật, người)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "replace; exchange; substitute",
+          "vi": "đổi, thay thế"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "千円札を百円玉にかえてもらった。",
+          "vi": "Đã nhờ đổi tờ 1.000 yên thành xu 100 yên."
+        },
+        {
+          "ja": "古くなった電球を新しいのとかえた。",
+          "vi": "Đã thay bóng đèn cũ bằng cái mới."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "着_（きがえる）、はき_、取り_、乗り_",
+          "vi": "đồ thay (đồ đổi khi tập); thay (dép); đổi (tiền); đổi (tàu)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 439,
+      "kanji": "返る",
+      "kana": "かえる",
+      "pos": "〈自〉",
+      "en": "return",
+      "kr": "ガ /归还 / 돌아오다",
+      "vi": "được trả lại, quay về, trả về",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be returned; come back",
+          "vi": "được trả lại, quay lại"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "友だちに貸したお金が返ってきた。",
+          "vi": "Tiền đã cho bạn vay được trả lại."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 440,
+      "kanji": "返す",
+      "kana": "かえす",
+      "pos": "〈他〉",
+      "en": "return",
+      "kr": "ヲ /还给, 送还 / 돌려주다, 되돌려주다",
+      "vi": "trả lại, hoàn trả",
+      "senses": [
+        {
+          "no": 1,
+          "en": "return (something)",
+          "vi": "trả lại (cái gì)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "この本は2週間以内に図書館に返さなければならない。",
+          "vi": "Quyển sách này phải trả lại thư viện trong vòng 2 tuần."
+        },
+        {
+          "ja": "使い終わったものはもとの場所に返してください。",
+          "vi": "Vui lòng trả đồ đã dùng xong về vị trí ban đầu."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 441,
+      "kanji": "譲る",
+      "kana": "ゆずる",
+      "pos": "",
+      "en": "give up (one's seat); let have; pass on",
+      "kr": "ニ /让(座); 让给, 转让 / 양보하다, 넘기다, 물려주다",
+      "vi": "nhường (chỗ); nhượng lại, bán lại; cho/truyền lại (tài sản, địa vị)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "give up one's seat",
+          "vi": "nhường chỗ ngồi"
+        },
+        {
+          "no": 2,
+          "en": "let have; sell cheaply to",
+          "vi": "nhượng lại, bán rẻ lại cho"
+        },
+        {
+          "no": 3,
+          "en": "pass on (property, position)",
+          "vi": "chuyển giao, để lại (tài sản, địa vị)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "電車の中で、お年よりに席をゆずった。",
+          "vi": "Trên tàu điện đã nhường chỗ cho người cao tuổi."
+        },
+        {
+          "ja": "帰国するので、家具を友だちに安くゆずった。",
+          "vi": "Vì về nước nên đã bán rẻ lại đồ nội thất cho bạn."
+        },
+        {
+          "ja": "財産を子どもにゆずる。",
+          "vi": "Để lại tài sản cho con."
+        },
+        {
+          "ja": "彼は社長の地位を息子にゆずって、引退した。",
+          "vi": "Anh ấy nhường chức chủ tịch cho con trai rồi nghỉ hưu."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 442,
+      "kanji": "助かる",
+      "kana": "たすかる",
+      "pos": "〈自〉",
+      "en": "survive; be helpful",
+      "kr": "ガ /得救; 有方 / 살아나다, 도움이 되다",
+      "vi": "được cứu; được giúp, rất tiện/helpful (đỡ khối)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be saved; survive",
+          "vi": "được cứu sống, thoát nạn"
+        },
+        {
+          "no": 2,
+          "en": "be helpful; be a great help",
+          "vi": "được giúp đỡ, rất có ích (giúp đỡ cho mình)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "飛行機が落ちたが、3人が助かった。",
+          "vi": "Máy bay rơi nhưng 3 người được cứu sống."
+        },
+        {
+          "ja": "このへんは物価が安くてとても助かる。",
+          "vi": "Khu vực này giá cả rẻ nên rất có lợi (đỡ tốn)."
+        },
+        {
+          "ja": "「その書類、コピーしましょうか」「ありがとう、助かります」",
+          "vi": "“Tôi photo hộ tài liệu đó nhé?” “Cảm ơn, nhờ vậy đỡ được rồi.”"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 443,
+      "kanji": "助ける",
+      "kana": "たすける",
+      "pos": "〈他〉",
+      "en": "save (someone); help",
+      "kr": "ヲ /救助; 帮助 / 돕다, 구하다",
+      "vi": "cứu; giúp đỡ",
+      "senses": [
+        {
+          "no": 1,
+          "en": "save (someone)",
+          "vi": "cứu (ai)"
+        },
+        {
+          "no": 2,
+          "en": "help (someone in trouble)",
+          "vi": "giúp đỡ (người đang gặp khó khăn)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "川に落ちた子どもを助けた。",
+          "vi": "Đã cứu đứa trẻ rơi xuống sông."
+        },
+        {
+          "ja": "「だれか助けて」",
+          "vi": "“Ai cứu tôi với.”"
+        },
+        {
+          "ja": "困っているとき、友だちが助けてくれた。",
+          "vi": "Khi gặp khó khăn, bạn đã giúp đỡ."
+        },
+        {
+          "ja": "お年よりがバスを降りるのを助けてあげた。",
+          "vi": "Đã giúp người già xuống xe buýt."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "ヲ救助する",
+          "vi": "cứu hộ"
+        },
+        {
+          "type": "名",
+          "ja": "①②助け → __を呼ぶ/求める",
+          "vi": "sự cứu giúp → kêu cứu / cầu xin sự giúp đỡ"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 444,
+      "kanji": "いじめる",
+      "kana": "いじめる",
+      "pos": "",
+      "en": "bully",
+      "kr": "ヲ /欺负 / 괴롭히다",
+      "vi": "hành hạ, bắt nạt",
+      "senses": [
+        {
+          "no": 1,
+          "en": "bully",
+          "vi": "bắt nạt, hành hạ"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "{弟/ネコ …} をいじめる。",
+          "vi": "Bắt nạt {em trai / con mèo…}."
+        }
+      ],
+      "related": [
+        {
+          "type": "名",
+          "ja": "いじめ → __がある/ない、弱いもの__",
+          "vi": "bắt nạt → có/không có hiện tượng bắt nạt; kẻ yếu thường bị bắt nạt"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 445,
+      "kanji": "だます",
+      "kana": "だます",
+      "pos": "",
+      "en": "deceive",
+      "kr": "ヲ /欺骗, 哄骗 / 속이다",
+      "vi": "lừa, lừa dối",
+      "senses": [
+        {
+          "no": 1,
+          "en": "deceive",
+          "vi": "lừa dối"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "彼は「独身だ」とだまして、わけのわからん女性とつきあっていた。",
+          "vi": "Anh ta lừa rằng “mình độc thân” rồi hẹn hò với một người phụ nữ bừa bãi."
+        },
+        {
+          "ja": "ブランド品だと思ったらにせものだった。だまされた。",
+          "vi": "Tưởng là hàng hiệu hóa ra là hàng giả. Đã bị lừa."
+        }
+      ],
+      "related": [
+        {
+          "type": "受",
+          "ja": "だまされる",
+          "vi": "bị lừa"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 446,
+      "kanji": "盗む",
+      "kana": "ぬすむ",
+      "pos": "",
+      "en": "steal",
+      "kr": "ヲ /偷, 偷盗 / 훔치다",
+      "vi": "đánh cắp, trộm",
+      "senses": [
+        {
+          "no": 1,
+          "en": "steal",
+          "vi": "đánh cắp, trộm"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "留守中にどろぼうに入られて、お金をぬすまれてしまった。",
+          "vi": "Trong lúc vắng nhà bị trộm vào và tiền bị đánh cắp."
+        }
+      ],
+      "related": [
+        {
+          "type": "名",
+          "ja": "ぬすみ → __をする/はたらく",
+          "vi": "trộm cắp → phạm trộm cắp"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 447,
+      "kanji": "刺さる",
+      "kana": "ささる",
+      "pos": "〈自〉",
+      "en": "be stuck in",
+      "kr": "ガ /扎上, 刺上 / 찔리다, 꽂히다",
+      "vi": "bị đâm vào, bị cắm/gắn vào",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be stuck in",
+          "vi": "bị đâm, cắm vào"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "指にとげが刺さって痛い。",
+          "vi": "Gai đâm vào ngón tay, đau lắm."
+        },
+        {
+          "ja": "死体にナイフが刺さっていた。",
+          "vi": "Con dao cắm vào xác chết."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 448,
+      "kanji": "刺す",
+      "kana": "さす",
+      "pos": "〈他〉",
+      "en": "stick, stab",
+      "kr": "ヲ /扎, 刺, 穿 / 찌르다",
+      "vi": "đâm, chọc, đâm xiết",
+      "senses": [
+        {
+          "no": 1,
+          "en": "stick, stab",
+          "vi": "đâm, chọc vào"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "指にとげを刺してしまった。",
+          "vi": "Vô tình bị gai đâm vào tay (đâm gai vào tay)."
+        },
+        {
+          "ja": "泳いでいたら、いきなり知らない男に刺された。",
+          "vi": "Đang bơi thì đột nhiên bị một người đàn ông lạ đâm."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 449,
+      "kanji": "殺す",
+      "kana": "ころす",
+      "pos": "",
+      "en": "kill",
+      "kr": "ヲ /杀 / 죽이다",
+      "vi": "giết, giết chết",
+      "senses": [
+        {
+          "no": 1,
+          "en": "kill",
+          "vi": "giết"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ゴキブリをスリッパでたたいて殺した。",
+          "vi": "Dùng dép đánh giết con gián."
+        },
+        {
+          "ja": "戦争で、多くの人が殺された。",
+          "vi": "Vì chiến tranh, nhiều người đã bị giết."
+        }
+      ],
+      "related": [
+        {
+          "type": "関",
+          "ja": "殺人、自殺(ウ)スル",
+          "vi": "án giết người, tự sát"
+        },
+        {
+          "type": "名",
+          "ja": "殺し",
+          "vi": "sự giết"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 450,
+      "kanji": "隠れる",
+      "kana": "かくれる",
+      "pos": "〈自〉",
+      "en": "hide",
+      "kr": "ガ /藏, 躲藏 / 숨다",
+      "vi": "nấp, trốn, ẩn (sau/măt cái gì)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "hide (oneself)",
+          "vi": "trốn, nấp mình"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "逃げた犯人は空き家にかくれていた。",
+          "vi": "Tội phạm bỏ trốn đã nấp trong ngôi nhà bỏ hoang."
+        },
+        {
+          "ja": "月が雲にかくれて見えなくなった。",
+          "vi": "Mặt trăng bị mây che khuất nên không nhìn thấy nữa."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 451,
+      "kanji": "隠す",
+      "kana": "かくす",
+      "pos": "",
+      "en": "hide",
+      "kr": "ヲ /藏, 躲藏, 隐藏 / 숨기다, 감추다",
+      "vi": "giấu, che giấu, che",
+      "senses": [
+        {
+          "no": 1,
+          "en": "hide (something/someone)",
+          "vi": "giấu, che giấu"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "お金を引き出しの奥にかくした。",
+          "vi": "Đã giấu tiền ở sâu trong ngăn kéo."
+        },
+        {
+          "ja": "子どもは恥ずかしがって、帽子で顔をかくしてしまった。",
+          "vi": "Đứa trẻ xấu hổ nên lấy mũ che mặt."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 452,
+      "kanji": "埋まる",
+      "kana": "うまる",
+      "pos": "〈自〉",
+      "en": "be buried",
+      "kr": "ガ /(被)埋上 / 묻히다",
+      "vi": "bị vùi lấp, bị chôn vùi",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be buried",
+          "vi": "bị vùi lấp"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "山くずれで家がうまってしまった。",
+          "vi": "Vì sạt lở núi nên nhà đã bị vùi lấp."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 453,
+      "kanji": "埋める",
+      "kana": "うめる",
+      "pos": "〈他〉",
+      "en": "bury; fill (a hole/blank)",
+      "kr": "ヲ /把……埋起来; 把……填上 / 묻다, 메우다",
+      "vi": "vùi, chôn; lấp (hố), điền (vào chỗ trống)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "bury",
+          "vi": "vùi, chôn xuống"
+        },
+        {
+          "no": 2,
+          "en": "fill (a hole/blank)",
+          "vi": "lấp (hố), điền (vào ô trống)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "あなを掘ってうめる。",
+          "vi": "Đào hố rồi lấp lại."
+        },
+        {
+          "ja": "土を入れてあなをうめた。",
+          "vi": "Đổ đất vào lấp hố."
+        },
+        {
+          "ja": "（テストで）解答欄はいちおう全部うめたが、自信がない。",
+          "vi": "(Khi thi) đã điền sơ bộ tất cả các ô đáp án, nhưng không tự tin."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 454,
+      "kanji": "囲む",
+      "kana": "かこむ",
+      "pos": "",
+      "en": "surround, circle",
+      "kr": "ヲ /围, 围绕, 环 / 둘러싸다, 두르다",
+      "vi": "bao quanh, vây quanh; khoanh tròn",
+      "senses": [
+        {
+          "no": 1,
+          "en": "surround, circle",
+          "vi": "bao quanh, vây quanh"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "テープルを囲んで座る。",
+          "vi": "Ngồi quanh bàn."
+        },
+        {
+          "ja": "「正しい答えを○で囲みなさい」",
+          "vi": "“Hãy khoanh tròn ○ vào đáp án đúng.”"
+        },
+        {
+          "ja": "日本は周りを海に囲まれている。",
+          "vi": "Nhật Bản được bao quanh bởi biển."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 455,
+      "kanji": "詰まる",
+      "kana": "つまる",
+      "pos": "〈自〉",
+      "en": "be packed; be clogged; be close together",
+      "kr": "ガ /堵塞, 不通 / 막히다, 가득 차다",
+      "vi": "bị tắc, nghẹt; chật kín, kín đầy; khoảng cách rút ngắn lại",
+      "senses": [
+        {
+          "no": 1,
+          "en": "be packed full (bag, schedule)",
+          "vi": "chật kín (cặp, lịch trình)"
+        },
+        {
+          "no": 2,
+          "en": "be clogged",
+          "vi": "bị tắc, nghẹt (toilet, mũi)"
+        },
+        {
+          "no": 3,
+          "en": "(a gap) narrows",
+          "vi": "(khoảng cách) thu hẹp lại"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "かばんにたくさん荷物がつまっていて重い。",
+          "vi": "Cặp nhồi đầy hàng hóa nên nặng."
+        },
+        {
+          "ja": "来月までの予定がつまっている。",
+          "vi": "Kế hoạch đến hết tháng sau đã kín lịch."
+        },
+        {
+          "ja": "トイレがつまった。",
+          "vi": "Bồn cầu bị tắc."
+        },
+        {
+          "ja": "かぜをひいて鼻がつまっている。",
+          "vi": "Mắc cảm nên mũi bị nghẹt."
+        },
+        {
+          "ja": "前の選手と後ろの選手の差がつまってきた。",
+          "vi": "Khoảng cách giữa tay đua trước và sau đã bị thu hẹp."
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "no": 456,
+      "kanji": "詰める",
+      "kana": "つめる",
+      "pos": "〈他〉",
+      "en": "pack, fill; reduce (distance), shorten",
+      "kr": "ヲ /填, 装入; 缩短, 축소 / 채우다, 꽉이다, 줄이다",
+      "vi": "nhồi, nhét, chất đầy; rút ngắn (khoảng cách), thu hẹp",
+      "senses": [
+        {
+          "no": 1,
+          "en": "pack, fill",
+          "vi": "nhồi nhét, chất đầy"
+        },
+        {
+          "no": 2,
+          "en": "reduce (distance); shorten (waist, length)",
+          "vi": "rút ngắn (khoảng cách); thắt lại (vòng eo), cắt bớt (dài)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "かばんに荷物をつめる。",
+          "vi": "Nhồi hành lý vào cặp."
+        },
+        {
+          "ja": "弁当箱にごはんをつめる。",
+          "vi": "Xếp đầy cơm vào hộp cơm."
+        },
+        {
+          "ja": "前の車との距離をつめる。",
+          "vi": "Rút ngắn khoảng cách với xe phía trước."
+        },
+        {
+          "ja": "ズボンの [ウエスト/丈] をつめる。",
+          "vi": "Thắt lại [vòng eo] / cắt bớt [chiều dài] của quần."
+        }
+      ],
+      "related": [
+        {
+          "type": "合",
+          "ja": "詰め物（つめもの）",
+          "vi": "đồ nhét, vật độn (trám)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 457,
+      "kanji": "開く",
+      "kana": "ひらく",
+      "pos": "〈自/他〉",
+      "en": "open; bloom; (gap) increases; hold (an event)",
+      "kr": "ガ/ヲ /开(门等); 开(花); 开(会) / 열다, 개다, 열리다, 벌어지다",
+      "vi": "mở; nở; (khoảng cách) mở rộng; tổ chức (họp, sự kiện); mở (cửa hàng)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "open (intransitive)",
+          "vi": "mở ra (tự mở)"
+        },
+        {
+          "no": 2,
+          "en": "bloom",
+          "vi": "nở hoa"
+        },
+        {
+          "no": 3,
+          "en": "(a gap) increases",
+          "vi": "(khoảng cách) mở rộng ra"
+        },
+        {
+          "no": 4,
+          "en": "open (transitive)",
+          "vi": "mở (cái gì) ra"
+        },
+        {
+          "no": 5,
+          "en": "hold (a meeting/party)",
+          "vi": "tổ chức (họp/tiệc)"
+        },
+        {
+          "no": 6,
+          "en": "open (a shop)",
+          "vi": "mở (cửa hàng)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "ドアが開く。",
+          "vi": "Cửa mở."
+        },
+        {
+          "ja": "花が開く。",
+          "vi": "Hoa nở."
+        },
+        {
+          "ja": "1位と2位の差がどんどん開いていった。",
+          "vi": "Khoảng cách giữa vị trí 1 và 2 ngày càng mở rộng."
+        },
+        {
+          "ja": "カーテンを開く。",
+          "vi": "Mở rèm."
+        },
+        {
+          "ja": "本を開いて読む。",
+          "vi": "Mở sách ra đọc."
+        },
+        {
+          "ja": "[会/パーティー/会議 …] を開く。",
+          "vi": "Tổ chức [buổi họp / tiệc / hội nghị…]."
+        },
+        {
+          "ja": "父は駅前にクリーニング店を開いた。",
+          "vi": "Bố đã mở một cửa hàng giặt ủi ở trước ga."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "開まる、閉じる / 詰まる→455 / ヲ開ける / ヲ開ける",
+          "vi": "đóng lại / bị chặn (≠455) / mở (bằng kéo)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 458,
+      "kanji": "閉じる",
+      "kana": "とじる",
+      "pos": "〈自/他〉",
+      "en": "close",
+      "kr": "ガ/ヲ /关; 关上 / 닫히다, 닫다, 그만두다",
+      "vi": "đóng, khép lại; đóng cửa (sau đó); nghỉ kinh doanh",
+      "senses": [
+        {
+          "no": 1,
+          "en": "close (intransitive)",
+          "vi": "đóng lại (tự đóng)"
+        },
+        {
+          "no": 2,
+          "en": "close (book, eyes)",
+          "vi": "khép lại (sách, mắt)"
+        },
+        {
+          "no": 3,
+          "en": "close a shop (permanently)",
+          "vi": "đóng cửa hàng (không làm nữa)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "エレベーターのドアが閉じた。",
+          "vi": "Cửa thang máy đã đóng."
+        },
+        {
+          "ja": "寒いのでドアを閉じた。",
+          "vi": "Trời lạnh nên đã đóng cửa."
+        },
+        {
+          "ja": "公園の門は夜になると閉じられる。",
+          "vi": "Cổng công viên đến tối sẽ được đóng lại."
+        },
+        {
+          "ja": "[本/目] を [○閉じる / ×閉める]。",
+          "vi": "[Sách/mắt] thì dùng 「閉じる」 (không dùng 「閉める」)."
+        },
+        {
+          "ja": "売り上げが減ったので、店を閉じることにした。",
+          "vi": "Vì doanh thu giảm nên đã quyết định đóng cửa hàng."
+        }
+      ],
+      "related": [
+        {
+          "type": "対",
+          "ja": "開く、開く / ①ヲ開ける、①②ヲ開く / 類 ①②ヲ閉める",
+          "vi": "mở (≠458)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 459,
+      "kanji": "飛ぶ",
+      "kana": "とぶ",
+      "pos": "〈自〉",
+      "en": "fly, splash, rush; (pages) are missing, disappear",
+      "kr": "ガ /飞, 飞越; 飞溅; 跳过(号码等) / 날다, 날아가다, 튀다, 날리다, 없어지다",
+      "vi": "bay; bắn tung, văng; chạy vội; (số trang) bị nhảy, mất (dữ liệu)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "fly",
+          "vi": "bay"
+        },
+        {
+          "no": 2,
+          "en": "splash; fly (toward)",
+          "vi": "bắn/văng ra; bay tới"
+        },
+        {
+          "no": 3,
+          "en": "rush (to a place)",
+          "vi": "chạy vội đến"
+        },
+        {
+          "no": 4,
+          "en": "fly (to a destination)",
+          "vi": "bay đến (nơi xa)"
+        },
+        {
+          "no": 5,
+          "en": "(pages) are missing",
+          "vi": "(số trang) bị nhảy, thiếu"
+        },
+        {
+          "no": 6,
+          "en": "(data) is lost",
+          "vi": "(dữ liệu) bị mất"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "鳥が空を飛んでいる。",
+          "vi": "Chim bay trên trời."
+        },
+        {
+          "ja": "みんなの計画が飛ぶ。",
+          "vi": "Kế hoạch của mọi người tan biến."
+        },
+        {
+          "ja": "ボールが飛んできて、頭に当たった。",
+          "vi": "Quả bóng bay tới trúng đầu."
+        },
+        {
+          "ja": "子どもが事故にあったと聞いて、病院へ飛んで行った。",
+          "vi": "Nghe tin con gặp tai nạn nên đã chạy vội đến bệnh viện."
+        },
+        {
+          "ja": "彼女は彼を追ってバリへ飛んだ。",
+          "vi": "Cô ấy bay sang Bali để theo đuổi anh ta."
+        },
+        {
+          "ja": "資料のページが飛んでいないかどうか、確認してください。",
+          "vi": "Vui lòng kiểm tra xem tài liệu có bị nhảy trang hay không."
+        },
+        {
+          "ja": "パソコンのデータが飛んでしまった。",
+          "vi": "Dữ liệu máy tính đã bị mất."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "抜ける →786",
+          "vi": "thiếu, rơi ra (→786)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "no": 460,
+      "kanji": "飛ばす",
+      "kana": "とばす",
+      "pos": "〈他〉",
+      "en": "fly; let fly, blow away; skip",
+      "kr": "ヲ /放飞, 飞越, 跳过(号码等) / 날리다, 날리다, 날려버리다",
+      "vi": "thả bay, cho bay; thổi bay; bỏ qua (đọc lướt), bỏ sót (trình tự)",
+      "senses": [
+        {
+          "no": 1,
+          "en": "make fly; let fly",
+          "vi": "thả bay, phóng đi"
+        },
+        {
+          "no": 2,
+          "en": "spray (spit); blow away",
+          "vi": "bắn (túi nước miếng); làm bay đi"
+        },
+        {
+          "no": 3,
+          "en": "skip (a line); skip (one's turn)",
+          "vi": "bỏ qua (một dòng); bị bỏ qua (lượt)"
+        }
+      ],
+      "examples": [
+        {
+          "ja": "紙飛行機を飛ばす。 凧を飛ばす。",
+          "vi": "Thả bay máy bay giấy. Thả diều."
+        },
+        {
+          "ja": "つばを飛ばして話す。",
+          "vi": "Nói chuyện với nước bọt bắn tung tóe."
+        },
+        {
+          "ja": "風で洗たく物が飛ばされてしまった。",
+          "vi": "Vì gió nên quần áo phơi đã bị thổi bay."
+        },
+        {
+          "ja": "文章を1行飛ばして読んでしまった。",
+          "vi": "Đã đọc nhảy mất một dòng trong bài."
+        },
+        {
+          "ja": "並んで待っていたのに、順番を飛ばされた。",
+          "vi": "Đã xếp hàng chờ mà lượt của mình lại bị bỏ qua."
+        }
+      ],
+      "related": [
+        {
+          "type": "類",
+          "ja": "ヲ抜かす",
+          "vi": "vượt qua, bỏ qua"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "columns": [
+    {
+      "no": 10,
+      "title": "単位",
+      "en": "Units",
+      "kr": "/(计算)单位; (种目)学分 / 단위",
+      "pdf_page": 96,
+      "book_page": 95,
+      "instruction": "読み方を書きましょう。",
+      "instruction_vi": "Hãy viết cách đọc.",
+      "items": [
+        {
+          "cat": "長さ",
+          "list": [
+            "① km",
+            "② m",
+            "③ cm",
+            "④ mm"
+          ]
+        },
+        {
+          "cat": "重さ",
+          "list": [
+            "⑤ t",
+            "⑥ kg",
+            "⑦ g"
+          ]
+        },
+        {
+          "cat": "量",
+          "list": [
+            "⑧ l",
+            "⑨ ml"
+          ]
+        },
+        {
+          "cat": "面積",
+          "list": [
+            "⑩ ㎡",
+            "⑪ ㎡"
+          ]
+        }
+      ],
+      "answers": [
+        "①キロ(メートル)",
+        "②メートル",
+        "③センチ(メートル)",
+        "④ミリ(メートル)",
+        "⑤トン",
+        "⑥キロ(グラム)",
+        "⑦グラム",
+        "⑧リットル",
+        "⑨ミリリットル",
+        "⑩平方メートル",
+        "⑪立方メートル"
+      ]
+    },
+    {
+      "no": 11,
+      "title": "〜中「ちゅう」と「じゅう」",
+      "en": "〜chuu vs juu",
+      "kr": "/〜中「추우」와「주우」 / ちゅう와 じゅう의 구별",
+      "pdf_page": 98,
+      "book_page": 97,
+      "items": [
+        {
+          "no": 1,
+          "reading": "じゅう",
+          "meaning": "～の間ずっと / 時を表す言葉に付く",
+          "meaning_vi": "~ suốt (khoảng thời gian) / gắn vào từ chỉ thời gian",
+          "examples": [
+            "1年中",
+            "夏休み中",
+            "1日中",
+            "一晩中",
+            "午後中"
+          ]
+        },
+        {
+          "no": 2,
+          "reading": "ちゅう/じゅう に",
+          "meaning": "～の終わりまでに",
+          "meaning_vi": "trước khi ~ kết thúc / trước hết tháng, hết tuần…",
+          "examples": [
+            "今年中に",
+            "今月中に",
+            "来週中に",
+            "明日中に",
+            "今日中に",
+            "夏休み中に"
+          ]
+        },
+        {
+          "no": 3,
+          "reading": "ちゅう",
+          "meaning": "今、～しているところである",
+          "meaning_vi": "đang làm ~ bây giờ",
+          "examples": [
+            "会議中",
+            "電話中",
+            "使用中",
+            "仕事中",
+            "出張中",
+            "営業中",
+            "準備中",
+            "授業中",
+            "工事中"
+          ]
+        },
+        {
+          "no": 4,
+          "reading": "ちゅう",
+          "meaning": "～全部",
+          "meaning_vi": "cả ~ (toàn bộ phạm vi)",
+          "examples": [
+            "世界中",
+            "国中",
+            "町中",
+            "学校中"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "pdf_page": 89,
+      "book_page": 88,
+      "unit": "Unit 04",
+      "title": "名詞B 練習問題II",
+      "step": 2,
+      "sections": [
+        {
+          "label": "I",
+          "instruction": "（　）に入れるのに最もよいものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn đáp án a・b・c・d thích hợp nhất điền vào ( ).",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "親の手伝いをよくする子どもを見て、（　）した。",
+              "options": [
+                "感想",
+                "予想",
+                "感心",
+                "興奮"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "警察は事故の原因を（　）しているが、まだわからないことが多い。",
+              "options": [
+                "研究",
+                "確認",
+                "理解",
+                "調査"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "スポーツ選手の筋肉は（　）している。",
+              "options": [
+                "発達",
+                "発展",
+                "発生",
+                "発想"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "（　）の日は朝6時に起きている。",
+              "options": [
+                "普通",
+                "当然",
+                "あたりまえ",
+                "もちろん"
+              ]
+            },
+            {
+              "no": 5,
+              "ja": "年末（　）に運搬があるだろう。",
+              "options": [
+                "まわり",
+                "あたり",
+                "へん",
+                "おわり"
+              ]
+            },
+            {
+              "no": 6,
+              "ja": "新聞記者が、他社の記者と事件の（　）を交換している。",
+              "options": [
+                "うわき",
+                "情報",
+                "広告",
+                "宣伝"
+              ]
+            },
+            {
+              "no": 7,
+              "ja": "「期末試験の（　）がどとか、教えてください」",
+              "options": [
+                "内容",
+                "幅",
+                "範囲",
+                "中身"
+              ]
+            },
+            {
+              "no": 8,
+              "ja": "パスポートの写真と本人を比べると、まるで（　）人だ。",
+              "options": [
+                "別",
+                "にせ",
+                "国際",
+                "西洋"
+              ]
+            },
+            {
+              "no": 9,
+              "ja": "この国は（　）が高い。",
+              "options": [
+                "税金",
+                "増税",
+                "減税",
+                "脱税"
+              ]
+            },
+            {
+              "no": 10,
+              "ja": "病院へ行ってから、足の（　）がよくなった。",
+              "options": [
+                "体調",
+                "好調",
+                "不調",
+                "調子"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "II",
+          "instruction": "___に意味が最も近いものを、a・b・c・dから一つえらびなさい。",
+          "instruction_vi": "Chọn từ a・b・c・d có nghĩa gần nhất với phần gạch chân.",
+          "questions": [
+            {
+              "no": 1,
+              "ja": "迷惑をかけた相手におわびをした。",
+              "options": [
+                "おれいをした",
+                "あやまった",
+                "よろこんだ",
+                "おじぎをした"
+              ]
+            },
+            {
+              "no": 2,
+              "ja": "インフルエンザが流行している。",
+              "options": [
+                "行って",
+                "行って",
+                "流れて",
+                "はやって"
+              ]
+            },
+            {
+              "no": 3,
+              "ja": "英語を日本語に通訳する。",
+              "options": [
+                "訳す",
+                "通す",
+                "訳する",
+                "通じる"
+              ]
+            },
+            {
+              "no": 4,
+              "ja": "試の前は、とても緊張した。",
+              "options": [
+                "きびしくなった",
+                "おもくなった",
+                "かたくなった",
+                "つよくなった"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    },
+    {
+      "pdf_page": 90,
+      "book_page": 89,
+      "unit": "Unit 04",
+      "title": "名詞B 練習問題II（つづき）",
+      "step": 2,
+      "sections": [
+        {
+          "label": "II",
+          "instruction": "___に意味が最も近いものを、a・b・c・dから一つえらびなさい。（つづき）",
+          "instruction_vi": "Chọn từ a・b・c・d có nghĩa gần nhất với phần gạch chân. (tiếp)",
+          "questions": [
+            {
+              "no": 5,
+              "ja": "西洋の文化に興味がある。",
+              "options": [
+                "外国",
+                "海外",
+                "国際",
+                "欧米"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "III",
+          "instruction": "つぎのことばの言い方として最もよいものを、一つえらびなさい。",
+          "instruction_vi": "Chọn cách dùng đúng nhất của từ dưới đây.",
+          "questions": [
+            {
+              "no": 1,
+              "word": "発明",
+              "options": [
+                "いなくなった子どもが発明された。",
+                "3,000年前の動物の骨が発明された。",
+                "新しい星が発明された。",
+                "これは20世紀に発明された通信技術だ。"
+              ]
+            },
+            {
+              "no": 2,
+              "word": "渋滞",
+              "options": [
+                "レストランが渋滞しているので、入れそうもない。",
+                "映画館が渋滞するのは、夜の6時からだ。",
+                "高速道路が渋滞しているので、新幹線に乗ったほうがいい。",
+                "電車が渋滞しているときは、バスで行くことにしている。"
+              ]
+            },
+            {
+              "no": 3,
+              "word": "自信",
+              "options": [
+                "私は健康に自信がある。",
+                "この料理は私の自信だ。",
+                "彼は買ったばかりのさいふに自信を持っている。",
+                "彼女はいつも息子のことを自信している。"
+              ]
+            },
+            {
+              "no": 4,
+              "word": "応援",
+              "options": [
+                "きのうはクラスメートの宿題を応援した。",
+                "友人のいるチームを応援したが、負けてしまった。",
+                "同僚の残業を応援した人が、社長にほめられた。",
+                "お年寄りが荷物を持つのを応援した。"
+              ]
+            },
+            {
+              "no": 5,
+              "word": "解決",
+              "options": [
+                "テストの問題はとても難しかったが、解決した。",
+                "アンケートの質問に解決して、プレゼントをもらった。",
+                "電気店へパソコンを持って行って、故障を解決してもらった。",
+                "クラスでずっと話し合っていた問題が解決した。"
+              ]
+            }
+          ]
+        }
+      ],
+      "answers_printed": null
+    }
+  ],
+  "unit_pages": [
+    {
+      "pdf_page": 91,
+      "book_page": 90,
+      "unit": "Unit 05",
+      "title": "動詞B",
+      "word_range": "411〜510",
+      "step": 2,
+      "lessons": [
+        29,
+        30
+      ],
+      "notes": "Trang tiêu đề Unit 05; các bài học 29 (trang sách 90) và 30 (trang sách 92) bắt đầu từ trang này."
+    }
+  ]
+}
