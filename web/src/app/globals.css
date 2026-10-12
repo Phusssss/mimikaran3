@@ -936,6 +936,20 @@ body {
 .qset-item input { accent-color: var(--accent); }
 .qset-item.shuffle { grid-column: 1 / -1; font-weight: 700; color: var(--indigo); border-top: 1px dashed var(--border); padding-top: 8px; }
 
+.exam-parts {
+  display: flex;
+  gap: 8px 18px;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  background: #faf9f6;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 12px;
+}
+.jlpt-prompt { white-space: pre-line; }
+
 /* ---------- responsive ---------- */
 @media (max-width: 860px) {
   .layout { flex-direction: column; }

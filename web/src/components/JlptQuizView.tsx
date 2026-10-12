@@ -3,7 +3,8 @@
 import { useState } from "react";
 import type { Word } from "@/lib/types";
 import { generateJlptQuiz, type JlptQuiz, type JlptVocabQ } from "@/lib/jlptQuiz";
-import { loadQuizSettings, saveQuizSettings, type QuizSettings } from "@/lib/quiz";
+import { loadQuizSettings, type QuizSettings } from "@/lib/quiz";
+import { loadExamParts, saveExamParts, type ExamParts } from "@/lib/jlptQuiz";
 import { speak } from "@/lib/speech";
 import FuriganaText from "./FuriganaText";
 import QuizSettingsPanel from "./QuizSettingsPanel";
@@ -55,8 +56,10 @@ export default function JlptQuizView({
   const [loading, setLoading] = useState(false);
   const [warn, setWarn] = useState<string | null>(null);
   const [qset, setQset] = useState<QuizSettings>(() => loadQuizSettings());
-  const [shuffleOrder, setShuffleOrder] = useState(() => loadQuizSettings().shuffle);
-  const [part, setPart] = useState<"vocab" | "reading">("vocab");
+  const [parts, setParts] = useState<ExamParts>(() => loadExamParts());
+  const [part, setPart] = useState<"vocab" | "reading">(
+    loadExamParts().vocab ? "vocab" : "reading"
+  );
   const [vi, setVi] = useState(0); // vocab index
   const [ri, setRi] = useState(0); // reading index
   const [rq, setRq] = useState(0); // reading question index
@@ -65,17 +68,24 @@ export default function JlptQuizView({
   const [total, setTotal] = useState(0);
   const [done, setDone] = useState(false);
 
+  function updateParts(next: ExamParts) {
+    // không cho tắt hết 3 phần
+    if (!next.vocab && !next.grammar && !next.reading) return;
+    setParts(next);
+    saveExamParts(next);
+  }
+
   async function start() {
     setWarn(null);
     setLoading(true);
-    const result = await generateJlptQuiz(todayWords, prevWords, grammarPoints || [], shuffleOrder, qset.types);
+    const result = await generateJlptQuiz(todayWords, prevWords, grammarPoints || [], qset.shuffle, qset.types, parts);
     setLoading(false);
     if (!result.ok) {
       setWarn(`${result.error} — hãy kiểm tra AI trong tab Bài tập, hoặc làm Bài tập ngày thường.`);
       return;
     }
     setQuiz(result.quiz);
-    setPart("vocab");
+    setPart(parts.vocab ? "vocab" : "reading");
     setVi(0);
     setRi(0);
     setRq(0);
@@ -109,11 +119,27 @@ export default function JlptQuizView({
         <p style={{ color: "var(--muted)", marginBottom: 14 }}>
           Điểm lần gần nhất: {best == null ? "—" : `${best}%`} · cần AI (Groq/Gemini...)
         </p>
+
+        <div className="exam-parts">
+          <b style={{ fontSize: 13.5 }}>Thành phần đề:</b>
+          {([
+            ["vocab", "文字・語彙 (Từ vựng)"],
+            ["grammar", "文法 (Ngữ pháp)"],
+            ["reading", "読解 (Bài đọc)"],
+          ] as [keyof ExamParts, string][]).map(([k, label]) => (
+            <label key={k} className="qset-item">
+              <input
+                type="checkbox"
+                checked={parts[k]}
+                onChange={(e) => updateParts({ ...parts, [k]: e.target.checked })}
+              />
+              {label}
+            </label>
+          ))}
+        </div>
+
         {warn && <div className="callout-warn" style={{ width: "100%" }}>{warn}</div>}
-        <QuizSettingsPanel
-          settings={qset}
-          onChange={(s) => { setQset(s); setShuffleOrder(s.shuffle); }}
-        />
+        <QuizSettingsPanel settings={qset} onChange={setQset} />
         <button className="btn btn-primary" onClick={start} disabled={loading}>
           {loading ? "AI đang so đề (khoảng 20–40 giây)..." : "Làm đề JLPT"}
         </button>
@@ -195,13 +221,23 @@ export default function JlptQuizView({
             onClick={() => {
               setChosen(null);
               if (vi + 1 >= quiz.vocab.length) {
-                setPart("reading");
+                if (parts.reading && quiz.reading.length) {
+                  setPart("reading");
+                } else {
+                  const pct = total ? Math.round((score / total) * 100) : 0;
+                  onFinish?.(pct);
+                  setDone(true);
+                }
               } else {
                 setVi(vi + 1);
               }
             }}
           >
-            {vi + 1 >= quiz.vocab.length ? "Sang phần 読解 ›" : "Câu sau ›"}
+            {vi + 1 >= quiz.vocab.length
+              ? parts.reading && quiz.reading.length
+                ? "Sang phần 読解 ›"
+                : "Xem kết quả"
+              : "Câu sau ›"}
           </button>
         </div>
       </div>

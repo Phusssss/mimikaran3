@@ -40,6 +40,27 @@ export type JlptResult =
   | { ok: true; quiz: JlptQuiz }
   | { ok: false; error: string };
 
+export type ExamParts = { vocab: boolean; grammar: boolean; reading: boolean };
+
+const LS_PARTS = "mimiN3_examparts_v1";
+
+export function loadExamParts(): ExamParts {
+  try {
+    const raw = JSON.parse(localStorage.getItem(LS_PARTS) || "");
+    return {
+      vocab: raw?.vocab !== false,
+      grammar: raw?.grammar !== false,
+      reading: raw?.reading !== false,
+    };
+  } catch {
+    return { vocab: true, grammar: true, reading: true };
+  }
+}
+
+export function saveExamParts(p: ExamParts) {
+  localStorage.setItem(LS_PARTS, JSON.stringify(p));
+}
+
 function isStr(v: unknown): v is string {
   return typeof v === "string" && v.trim().length > 0;
 }
@@ -136,7 +157,8 @@ function buildJlptPrompt(
   today: Word[],
   prev: Word[],
   grammar: { pattern: string; vi?: string; explanation?: string }[] = [],
-  types?: Partial<Record<string, boolean>>
+  types?: Partial<Record<string, boolean>>,
+  parts: ExamParts = { vocab: true, grammar: true, reading: true }
 ): string {
   const todayList = today
     .map(
@@ -154,15 +176,16 @@ function buildJlptPrompt(
   const grammarList = grammar
     .map((g) => `- ${g.pattern} — nghĩa: ${g.vi || ""} — cách dùng: ${g.explanation || ""}`)
     .join("\n");
-  const grammarSection = grammar.length
-    ? `
+  const grammarSection =
+    parts.grammar && grammar.length
+      ? `
 
-PHẦN 文法 (ngữ pháp) — BẮT BUỘC, đặt NGAY SAU các câu từ vựng và TRƯỚC các bài 読解, 2 câu type "grammar":
-- 1 câu: câu tiếng Nhật có （　） trống, chọn mẫu ngữ pháp ĐÚNG phù hợp (4 lựa chọn là các mẫu ngữ pháp, dựa trên danh sách NGỮ PHÁP HÔM NAY bên dưới).
-- 1 câu: câu sắp xếp — câu tiếng Nhật có 4 phần đánh dấu và vị trí ⭐, hỏi phần nào nằm tại ⭐ (dạng 文法問題の並べ替え trong đề thật).
+PHẦN 文法 (ngữ pháp) — BẮT BUỘC nếu có trong yêu cầu, 2 câu type "grammar" đặt trong mảng RIÊNG tên "grammar" (KHÔNG nhét vào mảng vocab):
+- Câu 1: câu tiếng Nhật có （　） trống Ở VỊ TRÍ CẦN DÙNG MẪU NGỮ PHÁP, 4 lựa chọn là 4 MẪU NGỮ PHÁP GẦN GIỐNG NHAU (lấy từ danh sách NGỮ PHÁP HÔM NAY + các mẫu N3 cùng họ, vd: ことにしている / ことになっている / ようになっている). Đáp án = mẫu đúng với ngữ cảnh câu.
+- Câu 2 (dạng sắp xếp 「文を並べ替え」): một câu tiếng Nhật được tách thành 4 phần đánh dấu ①②③④ — LIỆT KÊ 4 PHẦN NÀY THEO THỨ TỰ XÁO TRỘN (KHÔNG được in theo thứ tự đúng vì sẽ lộ đáp án), mỗi phần một dòng "① <nội dung phần>". Các lựa chọn (options) là 4 THỨ TỰ KHÁC NHAU dạng "②④①③" (mỗi lựa chọn là một chuỗi 4 số). answer = thứ tự đúng tạo thành câu đúng ngữ pháp.
 Danh sách NGỮ PHÁP HÔM NAY (bắt buộc dùng):
 ${grammarList}`
-    : "";
+      : "";
 
   // Phần 文字・語彙 dựng động theo cài đặt dạng câu người dùng chọn
   const t = types || {};
@@ -172,15 +195,34 @@ ${grammarList}`
   const wantContext = on("meaning");
   const wantParaphrase = on("reverse");
   const spec: string[] = [];
-  if (wantReading) spec.push('- câu type "kanji-reading" (問題1): câu tiếng Nhật có từ đang xét viết trong 〔 〕, chọn cách đọc kana đúng. Lựa chọn sai là cách đọc kana hợp lệ của từ khác cùng loại, KHÔNG phải biến thể vô nghĩa.');
-  if (wantWrite) spec.push('- câu type "kanji-write" (問題2): câu tiếng Nhật có từ dạng kana đặt trong 〔 〕, học viên chọn cách VIẾT kanji đúng. prompt = câu có 〔kana〕 (KHÔNG dùng dấu gạch dưới ____ thay thế).');
-  if (wantContext) spec.push('- câu type "context" (問題3): câu có （　） trống, chọn từ (trong trọng tâm hôm nay) hợp ngữ cảnh nhất. note = nghĩa tiếng Việt của đáp án.');
-  if (wantParaphrase) spec.push('- câu type "paraphrase" (問題4): cho câu dùng từ trọng tâm, chọn câu diễn đạt lại GẦN NGHĨA nhất. Các lựa chọn là câu hoàn chỉnh. note = giải thích ngắn.');
+  if (wantReading) spec.push('- 2 câu type "kanji-reading" (問題1): câu tiếng Nhật có từ đang xét viết trong 〔 〕, chọn cách đọc kana đúng. Lựa chọn sai là cách đọc kana hợp lệ của từ khác cùng loại, KHÔNG phải biến thể vô nghĩa.');
+  if (wantWrite) spec.push('- 2 câu type "kanji-write" (問題2): câu tiếng Nhật có từ dạng kana đặt trong 〔 〕, học viên chọn cách VIẾT kanji đúng. prompt = câu có 〔kana〕 (KHÔNG dùng dấu gạch dưới ____ thay thế).');
+  if (wantContext) spec.push('- 1 câu type "context" (問題3): câu có （　） trống, chọn từ (trong trọng tâm hôm nay) hợp ngữ cảnh nhất. note = nghĩa tiếng Việt của đáp án.');
+  if (wantParaphrase) spec.push('- 1 câu type "paraphrase" (問題4): cho câu dùng từ trọng tâm, chọn câu diễn đạt lại GẦN NGHĨA nhất. Các lựa chọn là câu hoàn chỉnh. note = giải thích ngắn.');
   const activeSpec = spec.length
     ? spec
-    : ['- câu type "kanji-reading" (問題1) và "kanji-write" (問題2) như mô tả dưới.'];
-  const nSpec = spec.length;
-  const perType = nSpec === 4 ? "2 câu kanji-reading + 2 câu kanji-write + 1 câu context + 1 câu paraphrase" : `${Math.max(2, Math.min(4, Math.floor(6 / nSpec)))} câu mỗi loại`;
+    : ['- 2 câu type "kanji-reading" (問題1) + 2 câu type "kanji-write" (問題2) như mô tả ở trên.'];
+  const nSpec = spec.length || 2;
+
+  const readingSection = parts.reading
+    ? `
+
+PHẦN 読解 (đọc hiểu), 2 bài:
+- Bài 1 (短文): đoạn văn 100–150 ký tự tiếng Nhật, 1 câu hỏi.
+- Bài 2 (中文): đoạn văn 250–350 ký tự tiếng Nhật, 2 câu hỏi (ví dụ: câu hỏi nội dung và câu hỏi 「この文章の筆者は何と言いたいのか」 kiểu chọn ý chính).
+QUY TẮC BÀI ĐỌC — RẤT QUAN TRỌNG:
+- CHỈ dùng từ vựng thuộc 2 danh sách trên (bài hôm nay ưu tiên dùng nhiều). Ngoại lệ duy nhất: trợ từ, chỉ từ cơ bản (これ・その・あの・この・こんな…), và ngữ pháp N4/N3 (だ・である・のに・ても・ように…).
+- KHÔNG dùng kanji ngoài danh sách. Nếu cần từ chưa học, hãy diễn đạt lại bằng từ trong danh sách.`
+    : "";
+
+  const explainSpec = [
+    parts.vocab && wantReading ? '+ type "kanji-reading": giải thích cách đọc của từ đúng, chỉ rõ từng lựa chọn sai là cách đọc của từ gì.' : "",
+    parts.vocab && wantWrite ? '+ type "kanji-write": giải thích kanji của đáp án, và các lựa chọn sai là kanji của từ gì.' : "",
+    parts.vocab && wantContext ? '+ type "context": giải thích nghĩa của đáp án và vì sao hợp ngữ cảnh; mỗi lựa chọn sai nghĩa là gì.' : "",
+    parts.vocab && wantParaphrase ? '+ type "paraphrase": diễn giải nghĩa câu gốc, cho biết đáp án diễn đạt lại ý nào; các phương án sai sai ở ý gì.' : "",
+    parts.grammar && grammar.length ? '+ type "grammar": giải thích nghĩa/cách dùng của mẫu đúng, vì sao các mẫu khác không hợp với câu này.' : "",
+    parts.reading ? "+ Bài đọc: trích câu liên quan trong đoạn văn làm bằng chứng, giải thích vì sao đáp án đúng; nêu ngắn gọn lý do các phương án khác sai." : "",
+  ].filter(Boolean).join("\n");
 
   return `Bạn là giáo viên tiếng Nhật soạn ĐỀ LUYỆN THI JLPT N3 (chuẩn format đề thi thật của Japan Foundation) cho học viên Việt Nam.
 
@@ -190,35 +232,56 @@ ${todayList}
 === TỪ VỰNG ĐÃ HỌC CÁC NGÀY TRƯỚC (được phép dùng trong bài đọc) ===
 ${prevList}
 
-Soạn đề gồm các PHẦN theo đúng format JLPT N3:
+Hôm nay chỉ soạn CÁC PHẦN SAU (tuyệt đối không soạn phần khác): ${[
+    parts.vocab ? "文字・語彙" : "",
+    parts.grammar && grammar.length ? "文法" : "",
+    parts.reading ? "読解" : "",
+  ].filter(Boolean).join(" + ")}
 
-PHẦN 1 — 文字・語彙 (từ vựng), gồm: ${nSpec === 4 ? perType : perType}:
-${activeSpec.map((s) => s).join("\n")}${grammarSection}
+${parts.vocab ? `PHẦN 文字・語彙 (từ vựng), gồm: ${nSpec === 4 ? "2 câu kanji-reading + 2 câu kanji-write + 1 câu context + 1 câu paraphrase" : Math.max(2, Math.min(4, Math.floor(6 / nSpec))) + " câu mỗi loại"}:
+${activeSpec.join("\n")}` : ""}${grammarSection}${readingSection}
 
-PHẦN 2 — 読解 (đọc hiểu), 2 bài:
-- Bài 1 (短文): đoạn văn 100–150 ký tự tiếng Nhật, 1 câu hỏi.
-- Bài 2 (中文): đoạn văn 250–350 ký tự tiếng Nhật, 2 câu hỏi (ví dụ: câu hỏi nội dung và câu hỏi 「この文章の筆者は何と言いたいのか」 kiểu chọn ý chính).
-QUY TẮC BÀI ĐỌC — RẤT QUAN TRỌNG:
-- CHỈ dùng từ vựng thuộc 2 danh sách trên (bài hôm nay ưu tiên dùng nhiều). Ngoại lệ duy nhất: trợ từ, chỉ từ cơ bản (これ・その・あの・この・こんな…), và ngữ pháp N4/N3 (だ・である・のに・ても・ように…).
-- Độ khó N3 thật: văn phong です/ます hoặc plain form tự nhiên, nội dung đời thường (công việc, cuộc sống, thư yêu cầu, thông báo...).
-- KHÔNG dùng kanji ngoài danh sách. Nếu cần từ chưa học, hãy diễn đạt lại bằng từ trong danh sách.
-- Câu hỏi bài đọc: chọn đáp án 1/2/3/4, các lựa chọn diễn giải khác nhau rõ rệt.
+QUY TẮC CHUNG:
 - CÂU TIẾNG NHẬP PHẢI ĐÚNG NGỮ PHÁP CHUẨN, KHÔNG lỗi chính tả, KHÔNG trùng lặp nghĩa (VD SAI: 「２０歳で〔にじゅうさい〕に成人した」 vì 20 tuổi bị nhắc 2 lần; SAI: 「飲みに行きいきます」 — phải là 「飲みに行きます」).
 - VỊ TRÍ ĐÁP ÁN NGẪU NHIÊN: mỗi câu đặt đáp án đúng ở vị trí khác nhau (1,2,3,4 trộn lẫn), TUYỆT ĐỐI không dồn đáp án về vị trí đầu.
 - MỌI TRƯỜNG EXPLAIN PHẢI VIẾT BẰNG TIẾNG VIỆT HOÀN TOÀN (người học là người Việt).
-- MỖI CÂU HỎI (cả 文字・語彙 lẫn 読解) phải có trường "explain" — GIẢI THÍCH 2–4 câu:
-  + type "kanji-reading": giải thích cách đọc của từ đúng (và cách đọc chữ kanji khác nếu có), chỉ rõ từng lựa chọn sai là cách đọc của từ gì.
-  + type "kanji-write": giải thích kanji của đáp án (ý nghĩa từng phần nếu hay), và các lựa chọn sai là kanji của từ gì.
-  + type "context": giải thích nghĩa của đáp án và vì sao hợp ngữ cảnh; mỗi lựa chọn sai nghĩa là gì, vì sao không hợp.
-  + type "paraphrase": diễn giải nghĩa câu gốc, cho biết đáp án diễn đạt lại ý nào; các phương án sai sai ở ý gì.
-  + Bài đọc: trích câu liên quan trong đoạn văn làm bằng chứng, giải thích vì sao đáp án đúng; nêu ngắn gọn lý do các phương án khác sai (bẫy thường gặp: đổi chủ thể, đảo ý, quá mức hoá).
+- MỖI CÂU HỎI phải có trường "explain" — GIẢI THÍCH 2–4 câu:
+${explainSpec}
 
-Trả về DUY NHẤT một JSON:
+Trả về DUY NHẤT một JSON với ĐÚNG 3 mảng (phần nào không yêu cầu → mảng rỗng []):
 {"vocab":[{"type":"kanji-reading|kanji-write|context|paraphrase","prompt":"...","options":["1","2","3","4"],"answer":"đáp án","note":"nghĩa VN (tuỳ chọn)","explain":"giải thích tiếng Việt"}],
+ "grammar":[{"type":"grammar","prompt":"...","options":["..."],"answer":"...","explain":"..."}],
  "reading":[{"title":"tiêu đề ngắn (tuỳ chọn)","passage":"đoạn văn tiếng Nhật","questions":[{"prompt":"câu hỏi","options":["..."],"answer":"...","explain":"giải thích tiếng Việt, trích dẫn bằng chứng trong bài"}]}]}
 
 NHẮC LẦN CUỐI: toàn bộ giá trị trường "explain" PHẢI là TIẾNG VIỆT thuần (chỉ kanji/kana được xuất hiện khi trích từ trong câu ví dụ). Không viết explain bằng tiếng Nhật.
-MỐI QUAN HỆ BẮT BUỘC VỀ SỐ LƯỢNG: mảng "vocab" chỉ chứa các type đã mô tả ở PHẦN 1${grammar.length ? " và 文法" : ""} với đúng số câu đã ghi — không thêm bớt loại nào. Mảng "reading" phải có đúng 2 bài (1 câu hỏi + 2 câu hỏi).`;
+MỐI QUAN HỆ BẮT BUỘC VỀ SỐ LƯỢNG: kết quả LUÔN gồm đúng 3 mảng "vocab", "grammar", "reading" — phần nào không được yêu cầu thì trả mảng RỖNG []. "grammar" chỉ chứa câu type "grammar". Mảng "reading" có đúng 2 bài khi 読解 được yêu cầu.`;
+}
+
+const MARKERS = ["①", "②", "③", "④"];
+
+/** Câu sắp xếp: nếu AI in các phần đúng thứ tự (answer = ①②③④) thì
+ *  xáo trộn lại thứ tự phần trong đề + ánh xạ lại mọi option/đáp án.
+ *  Marker ①②③④ có thể nằm inline hoặc đầu dòng — remap theo thứ tự xuất hiện. */
+function fixOrderingLeak(q: JlptVocabQ): JlptVocabQ {
+  const isOrdering =
+    /^[①②③④]{4}$/.test(q.answer) &&
+    q.options.every((o) => /^[①②③④]{4}$/.test(o));
+  if (!isOrdering) return q;
+
+  const markerCount = (q.prompt.match(/[①②③④]/g) || []).length;
+  if (markerCount !== 4) return q; // format lạ — giữ nguyên
+
+  let perm = shuffleArr([0, 1, 2, 3]);
+  if (perm.every((v, i) => v === i)) perm = [1, 2, 3, 0]; // tránh hoán vị đồng nhất
+
+  const remap = (s: string) =>
+    s.replace(/[①②③④]/g, (ch) => MARKERS[perm[MARKERS.indexOf(ch)]]);
+
+  const newPrompt = remap(q.prompt);
+  const options = q.options.map(remap);
+  const answer = remap(q.answer);
+  if (answer === "①②③④") return fixOrderingLeak(q); // phủ định chắc chắn không lặp vô hạn (bỏ trường hợp đồng nhất)
+  return { ...q, prompt: newPrompt, options, answer };
 }
 
 export async function generateJlptQuiz(
@@ -226,22 +289,35 @@ export async function generateJlptQuiz(
   prev: Word[],
   grammar: { pattern: string; vi?: string; explanation?: string }[] = [],
   shuffleOrder = false,
-  types?: Partial<Record<string, boolean>>
+  types?: Partial<Record<string, boolean>>,
+  parts: ExamParts = { vocab: true, grammar: true, reading: true }
 ): Promise<JlptResult> {
   const system =
     "Bạn là giáo viên tiếng Nhật NGƯỜI VIỆT, chuyên soạn đề luyện thi JLPT N3 cho học viên người Việt. Mọi lời giải thích (explain) PHẢI viết bằng tiếng Việt thuần. Chỉ trả về một JSON hợp lệ.";
   try {
     const parsed = (await callAiJson(
-      buildJlptPrompt(today, prev, grammar, types),
+      buildJlptPrompt(today, prev, grammar, types, parts),
       system
     )) as {
       vocab?: unknown[];
+      grammar?: unknown[];
       reading?: unknown[];
     };
     let vocab = sanitizeVocab(parsed?.vocab || []);
+    const grammarQs = sanitizeVocab(parsed?.grammar || []);
     let reading = sanitizeReading(parsed?.reading || []);
-    if (vocab.length < 4 || reading.length < 1) {
-      return { ok: false, error: "Đề JLPT sinh ra không đạt chuẩn" };
+    // chỉ giữ phần người dùng chọn
+    if (!parts.vocab) vocab = [];
+    if (parts.grammar && grammar.length)
+      vocab = [...vocab, ...grammarQs.map(fixOrderingLeak)];
+    if (!parts.reading) reading = [];
+    const minOK =
+      (parts.vocab ? vocab.some((q) => q.type !== "grammar") : true) &&
+      (parts.grammar && grammar.length ? grammarQs.length >= 1 : true) &&
+      (parts.reading ? reading.length >= 1 : true) &&
+      vocab.length + reading.length >= 3;
+    if (!minOK) {
+      return { ok: false, error: "Đề JLPT sinh ra không đủ phần đã chọn — thử lại" };
     }
     if (shuffleOrder) {
       // trộn đều các câu trắc nghiệm (kể cả 文法) và thứ tự câu hỏi trong từng bài đọc
